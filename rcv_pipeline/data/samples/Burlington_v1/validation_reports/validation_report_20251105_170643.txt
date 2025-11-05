@@ -1,0 +1,45 @@
+RCV Pipeline - Election Data Validation Report
+==================================================
+
+Validation Date: 2025-11-05T17:06:43.737240
+Overall Score: 99.3/100
+
+Data Summary:
+  Total Elections: 2
+  Total Candidate Records: 30
+  Total Round Records: 5
+
+Validation Results:
+--------------------
+
+Data Completeness:
+  Status: ✓ PASSED
+  Score: 100/100
+
+Vote Consistency:
+  Status: ✓ PASSED
+  Score: 100/100
+
+Transfer Balance:
+  Status: ✓ PASSED
+  Score: 95/100
+  Issues:
+    - Large negative transfer sum in VT_2006_G_Burlington_At_Large_mayor round 2: sum = -963 (may include many exhausted ballots/overvotes/undervotes)
+    - Large negative transfer sum in VT_2009_G_Burlington_At_Large_mayoral round 2: sum = -147 (may include many exhausted ballots/overvotes/undervotes)
+    - Large negative transfer sum in VT_2009_G_Burlington_At_Large_mayoral round 3: sum = -455 (may include many exhausted ballots/overvotes/undervotes)
+
+Single Winner:
+  Status: ✓ PASSED
+  Score: 100/100
+
+Vote Monotonicity:
+  Status: ✓ PASSED
+  Score: 100/100
+
+Election ID Consistency:
+  Status: ✓ PASSED
+  Score: 100/100
+
+Round Sequence:
+  Status: ✓ PASSED
+  Score: 100/100

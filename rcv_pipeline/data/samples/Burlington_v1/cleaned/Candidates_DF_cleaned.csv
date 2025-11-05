@@ -1,0 +1,31 @@
+election_id,candidate_id,round,votes,name,percentage,transfer_calc,status
+VT_2006_G_Burlington_At_Large_mayor,Bob_KISS_VT_2006,1,3809,Bob KISS,38.92,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Bob_KISS_VT_2006,2,4761,Bob KISS,48.65,952,Elected
+VT_2006_G_Burlington_At_Large_mayor,Hinda_MILLER_VT_2006,1,3106,Hinda MILLER,31.74,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Hinda_MILLER_VT_2006,2,3986,Hinda MILLER,40.73,880,Eliminated
+VT_2006_G_Burlington_At_Large_mayor,Kevin_J_CURLEY_VT_2006,1,2609,Kevin J. CURLEY,26.64,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Kevin_J_CURLEY_VT_2006,2,0,Kevin J. CURLEY,26.64,-2609,Eliminated
+VT_2006_G_Burlington_At_Large_mayor,Louie_the_Cowman_BEAUDIN_VT_2006,1,119,Louie the Cowman BEAUDIN,1.22,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Louie_the_Cowman_BEAUDIN_VT_2006,2,0,Louie the Cowman BEAUDIN,1.22,-119,Eliminated
+VT_2006_G_Burlington_At_Large_mayor,Loyal_PLOOF_VT_2006,1,57,Loyal PLOOF,0.58,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Loyal_PLOOF_VT_2006,2,0,Loyal PLOOF,0.58,-57,Eliminated
+VT_2006_G_Burlington_At_Large_mayor,Write_Ins_VT_2006,1,10,Write-Ins,0.1,0,Continuing
+VT_2006_G_Burlington_At_Large_mayor,Write_Ins_VT_2006,2,0,Write-Ins,0.1,-10,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Andy_MONTROLL_VT_2009,1,2063,Andy MONTROLL,23.0,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Andy_MONTROLL_VT_2009,2,2554,Andy MONTROLL,23.0,491,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Andy_MONTROLL_VT_2009,3,0,Andy MONTROLL,23.0,-2554,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,1,2585,Bob KISS,29.0,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,2,2981,Bob KISS,29.0,396,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,3,4313,Bob KISS,29.0,1332,Elected
+VT_2009_G_Burlington_At_Large_mayoral,Dan_SMITH_VT_2009,1,1306,Dan SMITH,15.0,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Dan_SMITH_VT_2009,2,0,Dan SMITH,15.0,-1306,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Dan_SMITH_VT_2009,3,0,Dan SMITH,15.0,0,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,James_SIMPSON_VT_2009,1,35,James SIMPSON,0.4,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,James_SIMPSON_VT_2009,2,0,James SIMPSON,0.4,-35,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,James_SIMPSON_VT_2009,3,0,James SIMPSON,0.4,0,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,1,2951,Kurt WRIGHT,33.0,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,2,3294,Kurt WRIGHT,33.0,343,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,3,4061,Kurt WRIGHT,33.0,767,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Write_ins_VT_2009,1,36,Write-ins,0.4,0,Continuing
+VT_2009_G_Burlington_At_Large_mayoral,Write_ins_VT_2009,2,0,Write-ins,0.4,-36,Eliminated
+VT_2009_G_Burlington_At_Large_mayoral,Write_ins_VT_2009,3,0,Write-ins,0.4,0,Eliminated

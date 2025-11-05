@@ -1,0 +1,6 @@
+election_id,round,total_votes,exhausted,overvotes,source_file
+VT_2006_G_Burlington_At_Large_mayor,1,9770,0.0,77.0,VT_2006_Burlington_Mayor.txt
+VT_2006_G_Burlington_At_Large_mayor,2,8747,0.0,0.0,VT_2006_Burlington_Mayor.txt
+VT_2009_G_Burlington_At_Large_mayoral,1,8976,0.0,0.0,VT_2009_Burlington_Mayor.txt
+VT_2009_G_Burlington_At_Large_mayoral,2,8829,0.0,0.0,VT_2009_Burlington_Mayor.txt
+VT_2009_G_Burlington_At_Large_mayoral,3,8374,0.0,0.0,VT_2009_Burlington_Mayor.txt

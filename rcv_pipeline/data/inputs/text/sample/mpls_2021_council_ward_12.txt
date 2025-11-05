@@ -1,0 +1,27 @@
+City of Minneapolis
+
+2021 City Council Ward 12 election results
+Official winner: Andrew Johnson
+November 2, 2021
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. 
+
+Candidate Andrew Johnson received enough first-choice votes to be elected and is the winner.
+
+Council Member Ward 12
+Candidate	First-choice votes
+Andrew Johnson	9,940
+Nancy Ford	4,569
+David Rosenfeld	773
+Write-in	51
+ 
+
+Ballots cast summary
+Total ballots cast	16,083	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	8,042	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.
+

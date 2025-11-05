@@ -1,0 +1,20 @@
+election_id,candidate_id,name,round,votes,percentage,transfer,source_file
+VT_2006_general_Burlington_At_Large_mayor,Bob_KISS_VT_2006,Bob KISS,1,3809,38.92,,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Bob_KISS_VT_2006,Bob KISS,2,4761,48.65,+952,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Hinda_MILLER_VT_2006,Hinda MILLER,1,3106,31.74,,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Hinda_MILLER_VT_2006,Hinda MILLER,2,3986,40.73,+880,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Kevin_J_CURLEY_VT_2006,Kevin J. CURLEY,1,2609,26.64,,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Louie_the_Cowman_BEAUDIN_VT_2006,Louie the Cowman BEAUDIN,1,119,1.22,,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Loyal_PLOOF_VT_2006,Loyal PLOOF,1,57,0.58,,VT_2006_Burlington_Mayor.txt
+VT_2006_general_Burlington_At_Large_mayor,Write_Ins_VT_2006,Write-Ins,1,10,0.1,,VT_2006_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,Bob KISS,1,2585,29.0,+396,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,Bob KISS,2,2981,,+1332,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Bob_KISS_VT_2009,Bob KISS,3,4313,,,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,Kurt WRIGHT,1,2951,33.0,+343,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,Kurt WRIGHT,2,3294,,+767,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Kurt_WRIGHT_VT_2009,Kurt WRIGHT,3,4061,,,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Andy_MONTROLL_VT_2009,Andy MONTROLL,1,2063,23.0,+491,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Andy_MONTROLL_VT_2009,Andy MONTROLL,2,2554,,,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Dan_SMITH_VT_2009,Dan SMITH,1,1306,15.0,,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,James_SIMPSON_VT_2009,James SIMPSON,1,35,0.4,,VT_2009_Burlington_Mayor.txt
+VT_2009_general_Burlington_At_Large_mayoral,Write_ins_VT_2009,Write-ins,1,36,0.4,,VT_2009_Burlington_Mayor.txt

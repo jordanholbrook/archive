@@ -1,0 +1,33 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 18th Council District
+Election Date:	2021/06/22
+Election results
+Amanda Farias won the DEM Council Member 18th Council District Primary with 6,004 of the votes in the final round.
+Amanda Farias defeated William Rivera, who received 5,467 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6
+Eliminated in this round	 	Write-ins	William Russell Moore; Eliu A. Lara**	Mirza M. Rashid	Mohammed Mujumder	Darlene Jackson; Michael Beltzer**
+Elected	 	 	 	 	 	Amanda Farias*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Amanda Farias	3,852	27.5%	13	3,865	27.7%	83	3,948	28.7%	103	4,051	29.9%	489	4,540	35.3%	1464	6,004	52.3%
+William Rivera	3,774	27.0%	6	3,780	27.1%	113	3,893	28.3%	44	3,937	29.1%	336	4,273	33.2%	1194	5,467	47.7%
+Michael Beltzer	1,863	13.3%	4	1,867	13.4%	80	1,947	14.2%	23	1,970	14.6%	109	2,079	16.2%	-XXX	
+Darlene Jackson	1,578	11.3%	3	1,581	11.3%	190	1,771	12.9%	39	1,810	13.4%	154	1,964	15.3%	-XXX	
+Mohammed Mujumder	1,420	10.2%	2	1,422	10.2%	36	1,458	10.6%	310	1,768	13.1%	-XXX		 
+Mirza M. Rashid	719	5.1%		719	5.2%	13	732	5.3%	-XXX		 	 
+William Russell Moore	575	4.1%	2	577	4.1%	-XXX		 	 	 
+Eliu A. Lara	133	1.0%	3	136	1.0%	-XXX		 	 	 
+Write-ins	70	0.5%	-XXX		 	 	 	 
+Inactive ballots		 	37	37	 	198	235	 	213	448	 	680	1,128	 	1385	2,513	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

@@ -1,0 +1,19 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# Text processing
+striprtf>=0.0.26
+
+# API and HTTP
+requests>=2.31.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Progress bars
+tqdm>=4.65.0
