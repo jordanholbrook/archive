@@ -1,0 +1,845 @@
+state,year,type,office,juris,dist,url
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/summary.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/CertificationLetterNov52024.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/sov.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/dsov.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/RCV_Settings_Legend.pdf
+CA,2024,general,Mayor,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/mayor/mayor_short.pdf
+CA,2024,general,Mayor,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/mayor/mayor_detail.pdf
+CA,2024,general,City Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/ca/ca_short.pdf
+CA,2024,general,City Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/ca/ca_detail.pdf
+CA,2024,general,District Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/da/da_short.pdf
+CA,2024,general,District Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20241105/data/20241203/da/da_detail.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/sheriff/sheriff_short.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/sheriff/sheriff_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d1/d1_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d1/d1_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d3/d3_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d3/d3_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d5/d5_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d5/d5_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d7/d7_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d7/d7_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d9/d9_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d9/d9_detail.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d11/d11_short.pdf
+CA,2024,general,Board of Supervisors,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/d11/d11_detail.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/N24_DSuite_CVRExportFormat.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/N24_VBM.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/N24_PV.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/N24_CVR.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/20241203/LogFileDescriptions.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/LogFileDescriptions.pdf
+CA,2024,general,,San Francisco,At_Large,https://www.sfelections.org/results/20241105/data/SHA512_FAQ.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/summary.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/N2022_CertificationLetter.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/sov.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/dsov.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/RCV_Settings_Legend.pdf
+CA,2022,general,Attorney,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/da/da_short.pdf
+CA,2022,general,Attorney,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/da/da_detail.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/defender/defender_short.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/defender/defender_detail.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d4/d4_short.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d4/d4_detail.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d6/d6_short.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d6/d6_detail.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d8/d8_short.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d8/d8_detail.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d10/d10_short.pdf
+CA,2022,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/d10/d10_detail.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/N22_DSuite_CVRExportFormat.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/vbm.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/pv.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/20221201/cvr.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/LogFileDescriptions.pdf
+CA,2022,general,,San Francisco,At_Large,https://www.sfelections.org/results/20221108/data/SHA512_FAQ.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/summary.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/CertificationLetterNov32020.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/20201201_sov.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/20201201_dsov.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/RCV_Settings_Legend.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d1/20201201_d1_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d1/20201201_d1_detail.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d3/20201201_d3_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d3/20201201_d3_detail.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d5/20201201_d5_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d5/20201201_d5_detail.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d7/20201201_d7_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d7/20201201_d7_detail.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d9/20201201_d9_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d9/20201201_d9_detail.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d11/20201201_d11_short.pdf
+CA,2020,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/d11/20201201_d11_detail.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/N20_DSuite_CVRExportFormat.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/20201201_vbm.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/20201201_pv.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/20201201/20201201_cvr.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/LogFileDescriptions.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20201103/data/SHA512_FAQ.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/summary.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/CertificationLetterMar32020.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/20200326_sov.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/20200326_dsov.pdf
+CA,2020,primary,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/DVS_PrimaryTurnout.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/DSuite_CVRExportFormat.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/20200326_vbm.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/20200326_pv.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/20200326/20200326_cvr.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/LogFileDescriptions.pdf
+CA,2020,general,,San Francisco,At_Large,https://www.sfelections.org/results/20200303/data/SHA512_FAQ.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/summary.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/CertificationLetterNov2019.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/20191125_sov.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/20191125_dsov.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/RCV_Settings_Legend.pdf
+CA,2019,general,Mayor,San Francisco,Citywide,https://www.sfelections.org/results/20191105/data/20191125/mayor/20191125_mayor_short.pdf
+CA,2019,general,Mayor,San Francisco,Citywide,https://www.sfelections.org/results/20191105/data/20191125/mayor/20191125_mayor_detail.pdf
+CA,2019,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/d5/20191125_d5_short.pdf
+CA,2019,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/d5/20191125_d5_detail.pdf
+CA,2019,general,District Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20191105/data/20191125/da/20191125_da_short.pdf
+CA,2019,general,District Attorney,San Francisco,Citywide,https://www.sfelections.org/results/20191105/data/20191125/da/20191125_da_detail.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/DSuite_CVRExportFormat.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/20191125_vbm.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/20191125_pv.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/20191125/20191125_cvr.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/LogFileDescriptions.pdf
+CA,2019,general,,San Francisco,At_Large,https://www.sfelections.org/results/20191105/data/SHA512_FAQ.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/summary.pdf
+CA,2018,general,,San Francisco,At_Large,http://www.sfelections.org/results/20181106/data/20181127/CertificationLetterNov2018.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/20181127_sov.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/assessor/20181127_assessor.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/defender/20181127_defender.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/d2/20181127_d2.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/d4/20181127_d4.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/d6/20181127_d6.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/d8/20181127_d8.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/d10/20181127_d10.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/BallotImageRCVhelp.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/20181127/20181127_neigh.pdf
+CA,2018,general,,San Francisco,At_Large,http://www.sfelections.org/results/20181106/data/20181127/20181127_vbm.pdf
+CA,2018,general,,San Francisco,At_Large,http://www.sfelections.org/results/20181106/data/20181127/20181127_pv.pdf
+CA,2018,general,,San Francisco,At_Large,http://www.sfelections.org/results/20181106/data/20181127/20181127_cvr.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20181106/data/SHA512_FAQ.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/summary.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/CertificationLetterJun2018.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/20180627_sov.pdf
+CA,2018,general,Mayor,San Francisco,Citywide,https://www.sfelections.org/results/20180605/data/20180627/mayor/20180627_mayor.pdf
+CA,2018,general,Supervisor,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/d8/20180627_d8.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/BallotImageRCVhelp.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/20180627_neigh.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/20180627_vbm.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/20180627_pv.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/20180627/20180627_cvr.pdf
+CA,2018,general,,San Francisco,At_Large,https://www.sfelections.org/results/20180605/data/SHA512_FAQ.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108w/data/BallotImageRCVhelp.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108w/data/SHA512_FAQ.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/CertificationLetterNov2016.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/20161206_sov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/20161206_vbm.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/20161206_pv.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d1/20161206_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d3/20161206_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d5/20161206_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d7/20161206_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d9/20161206_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/d11/20161206_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161206/20161206_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/20161201_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d1/20161201_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d3/20161201_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d5/20161201_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d7/20161201_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d9/20161201_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/d11/20161201_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161201/20161201_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/20161128_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d1/20161128_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d3/20161128_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d5/20161128_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d7/20161128_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d9/20161128_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/d11/20161128_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161128/20161128_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/20161123_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d1/20161123_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d3/20161123_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d5/20161123_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d7/20161123_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d9/20161123_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/d11/20161123_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161123/20161123_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/20161122_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d1/20161122_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d3/20161122_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d5/20161122_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d7/20161122_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d9/20161122_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/d11/20161122_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161122/20161122_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/20161121_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d1/20161121_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d3/20161121_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d5/20161121_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d7/20161121_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d9/20161121_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/d11/20161121_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161121/20161121_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/20161120_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d1/20161120_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d3/20161120_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d5/20161120_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d7/20161120_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d9/20161120_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/d11/20161120_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161120/20161120_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/20161119_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d1/20161119_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d3/20161119_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d5/20161119_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d7/20161119_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d9/20161119_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/d11/20161119_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161119/20161119_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/20161118_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d1/20161118_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d3/20161118_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d5/20161118_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d7/20161118_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d9/20161118_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/d11/20161118_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161118/20161118_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/20161117_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d1/20161117_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d3/20161117_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d5/20161117_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d7/20161117_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d9/20161117_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/d11/20161117_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161117/20161117_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/20161116_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d1/20161116_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d3/20161116_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d5/20161116_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d7/20161116_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d9/20161116_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/d11/20161116_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161116/20161116_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/20161115_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d1/20161115_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d3/20161115_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d5/20161115_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d7/20161115_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d9/20161115_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/d11/20161115_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161115/20161115_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/20161114_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d1/20161114_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d3/20161114_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d5/20161114_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d7/20161114_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d9/20161114_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/d11/20161114_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161114/20161114_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/20161113_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d1/20161113_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d3/20161113_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d5/20161113_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d7/20161113_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d9/20161113_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/d11/20161113_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161113/20161113_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/20161112_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d1/20161112_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d3/20161112_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d5/20161112_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d7/20161112_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d9/20161112_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/d11/20161112_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161112/20161112_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/20161111_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d1/20161111_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d3/20161111_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d5/20161111_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d7/20161111_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d9/20161111_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/d11/20161111_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161111/20161111_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/20161110_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d1/20161110_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d3/20161110_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d5/20161110_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d7/20161110_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d9/20161110_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/d11/20161110_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161110/20161110_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/20161109_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d1/20161109_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d3/20161109_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d5/20161109_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d7/20161109_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d9/20161109_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/d11/20161109_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161109/20161109_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/20161108_4_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d1/20161108_4_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d3/20161108_4_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d5/20161108_4_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d7/20161108_4_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d9/20161108_4_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/d11/20161108_4_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_4/20161108_4_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_3/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_2/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/20161108_1_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d1/20161108_1_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d3/20161108_1_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d5/20161108_1_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d7/20161108_1_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d9/20161108_1_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/d11/20161108_1_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161108_1/20161108_1_neigh.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/summary.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/20161100_psov.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d1/20161100_d1.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d3/20161100_d3.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d5/20161100_d5.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d7/20161100_d7.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d9/20161100_d9.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/d11/20161100_d11.pdf
+CA,2016,general,,San Francisco,At_Large,https://sfelections.org/results/20161108/data/20161100/20161100_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/BallotImageRCVhelp.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/SHA512_FAQ.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/CertificationLetterNov2015.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151119/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151119/20151119_sov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151119/mayor/20151119_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151119/sheriff/20151119_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151119/d3/20151119_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151119/20151119_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151116/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151116/20151116_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151116/mayor/20151116_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151116/sheriff/20151116_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151116/d3/20151116_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151116/20151116_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151113/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151113/20151113_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151113/mayor/20151113_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151113/sheriff/20151113_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151113/d3/20151113_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151113/20151113_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151112/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151112/20151112_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151112/mayor/20151112_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151112/sheriff/20151112_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151112/d3/20151112_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151112/20151112_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151111/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151111/20151111_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151111/mayor/20151111_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151111/sheriff/20151111_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151111/d3/20151111_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151111/20151111_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151110/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151110/20151110_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151110/mayor/20151110_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151110/sheriff/20151110_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151110/d3/20151110_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151110/20151110_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151109/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151109/20151109_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151109/mayor/20151109_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151109/sheriff/20151109_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151109/d3/20151109_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151109/20151109_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151108/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151108/20151108_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151108/mayor/20151108_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151108/sheriff/20151108_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151108/d3/20151108_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151108/20151108_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151107/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151107/20151107_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151107/mayor/20151107_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151107/sheriff/20151107_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151107/d3/20151107_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151107/20151107_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151106/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151106/20151106_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151106/mayor/20151106_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151106/sheriff/20151106_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151106/d3/20151106_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151106/20151106_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151105/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151105/20151105_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151105/mayor/20151105_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151105/sheriff/20151105_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151105/d3/20151105_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151105/20151105_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151104/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151104/20151104_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151104/mayor/20151104_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151104/sheriff/20151104_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151104/d3/20151104_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151104/20151104_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_3/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_3/20151103_3_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151103_3/mayor/20151103_3_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_3/sheriff/20151103_3_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_3/d3/20151103_3_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_3/20151103_3_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_2/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_1/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_1/20151103_1_psov.pdf
+CA,2015,general,Mayor,San Francisco,Citywide,https://sfelections.org/results/20151103/data/20151103_1/mayor/20151103_1_mayor.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_1/sheriff/20151103_1_sheriff.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_1/d3/20151103_1_d3.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151103_1/20151103_1_neigh.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151005/summary.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151005/20151005_psov.pdf
+CA,2015,general,,San Francisco,At_Large,https://sfelections.org/results/20151103/data/20151005/20151005_neigh.pdf
+MN,,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/
+MN,2023,general,City Council,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-1/
+MN,2023,general,City Council,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-2/
+MN,2023,general,City Council,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-3/
+MN,2023,general,City Council,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-4/
+MN,2023,general,City Council,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-5/
+MN,2023,general,City Council,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-6/
+MN,2023,general,City Council,Minneapolis,7,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-7/
+MN,2023,general,City Council,Minneapolis,8,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-8/
+MN,2023,general,City Council,Minneapolis,9,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-9/
+MN,2023,general,City Council,Minneapolis,10,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-10/
+MN,2023,general,City Council,Minneapolis,11,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-11/
+MN,2023,general,City Council,Minneapolis,12,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-12/
+MN,2023,general,City Council,Minneapolis,13,https://vote.minneapolismn.gov/results-data/election-results/2023/council-ward-13/
+MN,2021,general,Mayor,Minneapolis,Citywide,https://vote.minneapolismn.gov/results-data/election-results/2021/mayor/
+MN,2021,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2021/bet/
+MN,2021,general,Park Board,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-at-large/
+MN,2021,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2021/ballot-questions/
+MN,2021,general,City Council,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-1/
+MN,2021,general,City Council,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-2/
+MN,2021,general,City Council,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-3/
+MN,2021,general,City Council,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-4/
+MN,2021,general,City Council,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-5/
+MN,2021,general,City Council,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-6/
+MN,2021,general,City Council,Minneapolis,7,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-7/
+MN,2021,general,City Council,Minneapolis,8,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-8/
+MN,2021,general,City Council,Minneapolis,9,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-9/
+MN,2021,general,City Council,Minneapolis,10,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-10/
+MN,2021,general,City Council,Minneapolis,11,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-11/
+MN,2021,general,City Council,Minneapolis,12,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-12/
+MN,2021,general,City Council,Minneapolis,13,https://vote.minneapolismn.gov/results-data/election-results/2021/council-ward-13/
+MN,2021,general,Park Board,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-1/
+MN,2021,general,Park Board,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-2/
+MN,2021,general,Park Board,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-3/
+MN,2021,general,Park Board,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-4/
+MN,2021,general,Park Board,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-5/
+MN,2021,general,Park Board,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2021/park-board-6/
+MN,2017,general,Mayor,Minneapolis,Citywide,https://vote.minneapolismn.gov/results-data/election-results/2017/mayor/
+MN,2017,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2017/bet/
+MN,2017,general,Park Board,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-at-large/
+MN,2017,general,City Council,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-1/
+MN,2017,general,City Council,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-2/
+MN,2017,general,City Council,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-3/
+MN,2017,general,City Council,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-4/
+MN,2017,general,City Council,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-5/
+MN,2017,general,City Council,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-6/
+MN,2017,general,City Council,Minneapolis,7,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-7/
+MN,2017,general,City Council,Minneapolis,8,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-8/
+MN,2017,general,City Council,Minneapolis,9,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-9/
+MN,2017,general,City Council,Minneapolis,10,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-10/
+MN,2017,general,City Council,Minneapolis,11,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-11/
+MN,2017,general,City Council,Minneapolis,12,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-12/
+MN,2017,general,City Council,Minneapolis,13,https://vote.minneapolismn.gov/results-data/election-results/2017/council-ward-13/
+MN,2017,general,Park Board,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-1/
+MN,2017,general,Park Board,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-2/
+MN,2017,general,Park Board,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-3/
+MN,2017,general,Park Board,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-4/
+MN,2017,general,Park Board,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-5/
+MN,2017,general,Park Board,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2017/park-board-6/
+MN,2013,general,Mayor,Minneapolis,Citywide,https://vote.minneapolismn.gov/results-data/election-results/2013/mayor/
+MN,2013,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2013/bet/
+MN,2013,general,Park Board,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-at-large/
+MN,2013,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2013/ballot-questions/
+MN,2013,general,City Council,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-1/
+MN,2013,general,City Council,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-2/
+MN,2013,general,City Council,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-3/
+MN,2013,general,City Council,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-4/
+MN,2013,general,City Council,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-5/
+MN,2013,general,City Council,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-6/
+MN,2013,general,City Council,Minneapolis,7,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-7/
+MN,2013,general,City Council,Minneapolis,8,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-8/
+MN,2013,general,City Council,Minneapolis,9,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-9/
+MN,2013,general,City Council,Minneapolis,10,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-10/
+MN,2013,general,City Council,Minneapolis,11,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-11/
+MN,2013,general,City Council,Minneapolis,12,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-12/
+MN,2013,general,City Council,Minneapolis,13,https://vote.minneapolismn.gov/results-data/election-results/2013/council-ward-13/
+MN,2013,general,Park Board,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-1/
+MN,2013,general,Park Board,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-2/
+MN,2013,general,Park Board,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-3/
+MN,2013,general,Park Board,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-4/
+MN,2013,general,Park Board,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-5/
+MN,2013,general,Park Board,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2013/park-board-6/
+MN,2009,general,Mayor,Minneapolis,Citywide,https://vote.minneapolismn.gov/results-data/election-results/2009/mayor/
+MN,2009,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2009/bet/
+MN,2009,general,Park Board,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-at-large/
+MN,2009,general,,Minneapolis,At_Large,https://vote.minneapolismn.gov/results-data/election-results/2009/ballot-question/
+MN,2009,general,City Council,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-1/
+MN,2009,general,City Council,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-2/
+MN,2009,general,City Council,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-3/
+MN,2009,general,City Council,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-4/
+MN,2009,general,City Council,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-5/
+MN,2009,general,City Council,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-6/
+MN,2009,general,City Council,Minneapolis,7,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-7/
+MN,2009,general,City Council,Minneapolis,8,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-8/
+MN,2009,general,City Council,Minneapolis,9,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-9/
+MN,2009,general,City Council,Minneapolis,10,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-10/
+MN,2009,general,City Council,Minneapolis,11,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-11/
+MN,2009,general,City Council,Minneapolis,12,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-12/
+MN,2009,general,City Council,Minneapolis,13,https://vote.minneapolismn.gov/results-data/election-results/2009/council-ward-13/
+MN,2009,general,Park Board,Minneapolis,1,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-1/
+MN,2009,general,Park Board,Minneapolis,2,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-2/
+MN,2009,general,Park Board,Minneapolis,3,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-3/
+MN,2009,general,Park Board,Minneapolis,4,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-4/
+MN,2009,general,Park Board,Minneapolis,5,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-5/
+MN,2009,general,Park Board,Minneapolis,6,https://vote.minneapolismn.gov/results-data/election-results/2009/park-board-6/
+CA,2017,general,,Alameda County,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2017/03072017/results/rcv/march-7-2017-pass-report-results.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_2/nov-8-2016-comprehensive-results-report-councilmember-dist2.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_2/nov-8-2016--pass-report-councilmember-dist2.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_3/nov-8-2016-comprehensive-results-report-councilmember-dist3.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_3/nov-8-2016-pass-report-councilmember-dist3.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_5/nov-8-2016-comprehensive-results-report-councilmember-dist5.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_5/nov-8-2016-pass-report-councilmember-dist5.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_6/nov-8-2016-comprehensive-results-report-councilmember-dist6.pdf
+CA,2016,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/city_councilmember_district_6/nov-8-2016-pass-report-councilmember-dist6.pdf
+CA,2016,general,Mayor,Berkeley,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/mayor/nov-8-2016-comprehensive-results-report-mayor.pdf
+CA,2016,general,Mayor,Berkeley,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/berkeley/mayor/nov-8-2016-pass-results-report-mayor.pdf
+CA,2016,general,City Attorney,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_attorney/nov-8-2016-comprehensive-results-report-city-attorney-oak.pdf
+CA,2016,general,City Attorney,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_attorney/nov-8-2016-pass-report-city-attorney-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_1/nov-8-2016-comprehensive-results-report-city-council-dist1-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_1/nov-8-2016-pass-report-city-council-dist1-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_5/nov-8-2016-comprehensive-results-report-city-council-dist5-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_5/nov-8-2016-pass-report-city-council-dist5-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_7/nov-8-2016-comprehensive-results-report-city-council-dist7-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_7/nov-8-2016-pass-report-city-council-dist7-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_at_large/nov-8-2016-comprehensive-results-report-city-council-at-large-oak.pdf
+CA,2016,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/city_councilmember_district_at_large/nov-8-2016-pass-report-city-council-at-large-oak.pdf
+CA,2016,general,School Director,Oakland,1,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_1/nov-8-2016-comprehensive-results-report-school-director-dist1-oak.pdf
+CA,2016,general,School Director,Oakland,1,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_1/nov-8-2016-pass-report-school-director-dist1-oak.pdf
+CA,2016,general,School Director,Oakland,3,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_3/nov-8-2016-comprehensive-results-report-school-director-dist3-oak.pdf
+CA,2016,general,School Director,Oakland,3,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_3/nov-8-2016-pass-report-school-director-dist3-oak.pdf
+CA,2016,general,School Director,Oakland,5,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_5/nov-8-2016-comprehensive-results-report-school-director-dist5-oak.pdf
+CA,2016,general,School Director,Oakland,5,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_5/nov-8-2016-pass-report-school-director-dist5-oak.pdf
+CA,2016,general,School Director,Oakland,7,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_7/nov-8-2016-comprehensive-results-report-school-director-dist7-oak.pdf
+CA,2016,general,School Director,Oakland,7,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/oakland/school_director_district_7/nov-8-2016-pass-report-school-director-dist7-oak.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_2/nov-8-2016-comprehensive-results-report-city-council-dist2-sl.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_2/nov-8-2016-pass-report-city-council-dist2-sl.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_4/nov-8-2016-comprehensive-results-report-city-council-dist4-sl.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_4/nov-8-2016-pass-report-city-council-dist4-sl.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_6/nov-8-2016-comprehensive-results-report-city-council-dist6-sl.pdf
+CA,2016,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2016/11082016/results/rcv/san_leandro/city_councilmember_district_6/nov-8-2016-pass-report-city-council-dist6-sl.pdf
+CA,2014,general,,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_auditor/nov-4-2014-comprehensive-results-report-auditor-berkeley.pdf
+CA,2014,general,,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_auditor/nov-4-2014-pass-report-city-auditor-berkeley.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_1/nov-4-2014-comprehensive-results-city-council-berk-dist1.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_1/nov-4-2014-pass-report-city-council-berkeley-dist1.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_4/nov-4-2014-comprehensive-results-city-council-berk-dist4.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_4/nov-4-2014-pass-report-city-council-berkeley-dist4.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_7/nov-4-2014-comprehensive-results-city-council-berk-dist7.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_7/nov-4-2014-pass-report-city-council-berkeley-dist7.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_8/nov-4-2014-comprehensive-results-city-council-berk-dist8.pdf
+CA,2014,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/berkeley/city_council_district_8/nov-4-2014-pass-report-city-council-berkeley-dist8.pdf
+CA,2014,general,,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_auditor/nov-4-2014-comprehensive-results-city-auditor-oakland.pdf
+CA,2014,general,,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_auditor/nov-4-2014-pass-report-city-auditor-oakland.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_2/nov-4-2014-comprehensive-results-city-council-oakland-dist2.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_2/nov-4-2014-pass-report-city-council-oakland-dist2.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_4/nov-4-2014-comprehensive-results-city-council-oakland-dist4.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_4/nov-4-2014-pass-report-city-council-oakland-dist4.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_6/nov-4-2014-comprehensive-results-city-council-oakland-dist6.pdf
+CA,2014,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/city_council_district_6/nov-4-2014-pass-report-city-council-oakland-dist6.pdf
+CA,2014,general,Mayor,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/mayor/nov-4-2014-comprehensive-results-mayor-oakland.pdf
+CA,2014,general,Mayor,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/mayor/nov-4-2014-pass-report-mayor-oakland.pdf
+CA,2014,general,School Director,Oakland,2,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_2/nov-4-2014-comprehensive-results-school-director-oakland-dist2.pdf
+CA,2014,general,School Director,Oakland,2,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_2/nov-4-2014-pass-report-school-director-oakland-dist2.pdf
+CA,2014,general,School Director,Oakland,4,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_4/nov-4-2014-comprehensive-results-school-director-oakland-dist4.pdf
+CA,2014,general,School Director,Oakland,4,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_4/nov-4-2014-pass-report-school-director-oakland-dist4.pdf
+CA,2014,general,School Director,Oakland,6,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_6/nov-4-2014-comprehensive-results-school-director-oakland-dist6.pdf
+CA,2014,general,School Director,Oakland,6,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/oakland/school_director_district_6/nov-4-2014-pass-report-school-director-oakland-dist6.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_1/nov-4-2014-comp-results-report-city-council-san-leandro-d1.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_1/nov-4-2014-pass-report-city-council-san-leandro-d1.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_3/nov-4-2014-comp-results-report-city-council-san-leandro-d3.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_3/nov-4-2014-pass-report-city-council-san-leandro-d3.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_5/nov-4-2014-comp-results-report-city-council-san-leandro-d5.pdf
+CA,2014,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/city_council_district_5/nov-4-2014-pass-report-city-council-san-leandro-d5.pdf
+CA,2014,general,Mayor,San Leandro,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/mayor/nov-4-2014-comprehensive-results-report-mayor-san-leandro.pdf
+CA,2014,general,Mayor,San Leandro,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2014/11042014/results/rcv/san_leandro/mayor/nov-4-2014-pass-report-mayor-san-leandro.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_2/nov-6-2012-comprehensive-results-report-council-member-dist2.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_2/nov-6-2012-pass-report-council-member-dist2.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_3/nov-6-2012-comprehensive-results-report-council-member-dist3.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_3/nov-6-2012-pass-report-council-member-dist3.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_5/nov-6-2012-comprehensive-results-report-council-member-dist-5.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_5/nov-6-2012-pass-report-council-member-dist-5.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_6/nov-6-2012-comprehensive-results-report-council-member-dist-6.pdf
+CA,2012,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/city_councilmember_district_6/nov-6-2012-pass-report-council-member-dist-6.pdf
+CA,2012,general,Mayor,Berkeley,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/mayor/nov-6-2012-comprehensive-results-report-mayor.pdf
+CA,2012,general,Mayor,Berkeley,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/berkeley/mayor/nov-6-2012-pass-report-mayor.pdf
+CA,2012,general,City Attorney,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_attorney/nov-6-2012-comprehensive-results-report-oakland-city-attorney.pdf
+CA,2012,general,City Attorney,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_attorney/nov-6-2012-pass-report-oakland-city-attorney.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_1/nov-6-2012-comprehensive-results-report-oak-council-member-dist-1.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_1/nov-6-2012-pass-report-oakland-council-member-dist-1.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_3/nov-6-2012-comprehensive-results-report-oak-council-member-dist-3.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_3/nov-6-2012-pass-report-oakland-council-member-dist-3.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_5/nov-6-2012-comprehensive-results-report-oak-council-member-dist-5.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_5/nov-6-2012-pass-report-oakland-council-member-dist-5.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_7/nov-6-2012-comprehensive-results-report-oak-council-member-dist-7.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_7/nov-6-2012-pass-report-oakland-council-member-dist-7.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_at_large/nov-6-2012-comprehensive-results-report-oak-council-member-at-large.pdf
+CA,2012,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/city_councilmember_district_at_large/nov-6-2012-pass-report-oakland-council-member-at-large.pdf
+CA,2012,general,School Director,Oakland,1,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_1/nov-6-2012-comprehensive-results-report-oak-school-director-dist-1.pdf
+CA,2012,general,School Director,Oakland,1,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_1/nov-6-2012-pass-report-oakland-school-director-dist-1.pdf
+CA,2012,general,School Director,Oakland,3,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_3/nov-6-2012-comprehensive-results-report-oak-school-director-dist-3.pdf
+CA,2012,general,School Director,Oakland,3,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_3/nov-6-2012-pass-report-oakland-school-director-dist-3.pdf
+CA,2012,general,School Director,Oakland,5,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_5/nov-6-2012-comprehensive-results-report-oak-school-director-dist-5.pdf
+CA,2012,general,School Director,Oakland,5,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_5/nov-6-2012-pass-report-oakland-school-director-dist-5.pdf
+CA,2012,general,School Director,Oakland,7,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_7/nov-6-2012-comprehensive-results-report-oak-school-director-dist-7.pdf
+CA,2012,general,School Director,Oakland,7,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/oakland/school_director_district_7/nov-6-2012-pass-report-oakland-school-director-dist-7.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_2/nov-6-2012-comprehensive-results-report-sl-council-member-dist-2.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_2/nov-6-2012-pass-report-san-leandro-council-member-dist-2.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_4/nov-6-2012-comprehensive-results-report-sl-council-member-dist-4.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_4/nov-6-2012-pass-report-san-leandro-council-member-dist-4.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_6/nov-6-2012-comprehensive-results-report-sl-council-member-dist-6.pdf
+CA,2012,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2012/11062012/results/rcv/san_leandro/city_councilmember_district_6/nov-6-2012-pass-report-san-leandro-council-member-dist-6.pdf
+CA,2010,general,,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_auditor/november-2-2010-comprehensive-results-report-berkeley-city-auditor.pdf
+CA,2010,general,,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_auditor/november-2-2010-pass-report-berkeley-city-auditor.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_1/november-2-2010-comprehensive-results-report-berkeley-council-member-dist-1.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_1/november-2-2010-pass-report-berkeley-council-member-dist-1.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_4/november-2-2010-comprehensive-results-report-berkeley-council-member-dist-4.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_4/november-2-2010-pass-report-berkeley-council-member-dist-4.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_7/november-2-2010-comprehensive-results-report-berkeley-council-member-dist-7.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_7/november-2-2010-pass-report-berkeley-council-member-dist-7.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_8/november-2-2010-comprehensive-results-report-berkeley-council-member-dist-8.pdf
+CA,2010,general,City Council,Berkeley,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/berkeley/city_councilmember_district_8/november-2-2010-pass-report-berkeley-council-member-dist-8.pdf
+CA,2010,general,,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_auditor/november-2-2010-comprehensive-results-report-oakland-city-auditor.pdf
+CA,2010,general,,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_auditor/november-2-2010-pass-report-oakland-city-auditor.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_2/november-2-2010-rcv-oakland-city-council-district-2-comprehensive-report.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_2/november-2-2010-rcv-oakland-city-council-district-2-pass-report.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_4/november-2-2010-rcv-oakland-city-council-district-4-comprehensive-report.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_4/november-2-2010-rcv-oakland-city-council-district-4-pass-report.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_6/november-2-2010-rcv-oakland-city-council-district-6-comprehensive-report.pdf
+CA,2010,general,City Council,Oakland,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/city_councilmember_district_6/november-2-2010-rcv-oakland-city-council-district-6-pass-report.pdf
+CA,2010,general,Mayor,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/mayor/november-2-2010-comprehensive-results-report-oakland-mayor.pdf
+CA,2010,general,Mayor,Oakland,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/mayor/november-2-2010-pass-report-oakland-mayor.pdf
+CA,2010,general,School Director,Oakland,2,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_2/november-2-2010-rcv-oakland-school-director-district-2-comprehensive-report.pdf
+CA,2010,general,School Director,Oakland,2,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_2/november-2-2010-rcv-oakland-school-director-district-2-pass-report.pdf
+CA,2010,general,School Director,Oakland,4,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_4/november-2-2010-rcv-oakland-school-director-district-4-comprehensive-report.pdf
+CA,2010,general,School Director,Oakland,4,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_4/november-2-2010-rcv-oakland-school-director-district-4-pass-report.pdf
+CA,2010,general,School Director,Oakland,6,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_6/november-2-2010-rcv-oakland-school-director-district-6-comprehensive-report.pdf
+CA,2010,general,School Director,Oakland,6,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/oakland/school_director_district_6/november-2-2010-rcv-oakland-school-director-district-6-pass-report.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_1/nov2-2010-comprehensive-results-report-dist1.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_1/nov-2-2010-pass-report-san-leandro-council-mem-dist-1.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_3/nov2-2010-comprehensive-results-report-dist3.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_3/nov-2-2010-pass-report-san-leandro-council-mem-dis-3.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_5/nov2-2010-comprehensive-results-report-dist5.pdf
+CA,2010,general,City Council,San Leandro,At_Large,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/city_councilmember_district_5/nov-2-2010-pass-report-san-leandro-council-mem-dis-5.pdf
+CA,2010,general,Mayor,San Leandro,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/mayor/november-2-2010-comprehensive-results-report-san-leandro-mayor.pdf
+CA,2010,general,Mayor,San Leandro,Citywide,https://acvote.alamedacountyca.gov/acvote-assets/pdf/elections/2010/11022010/results/rcv/san_leandro/mayor/november-2-2010-pass-report-san-leandro-mayor.pdf
+NY,2021,primary,Mayor,New York City,Citywide,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Mayor Citywide.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024306_1.html
+NY,2021,primary,Public Advocate,New York City,Citywide,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Public Advocate Citywide.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024408_1.html
+NY,2021,primary,Comptroller,New York City,Citywide,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM City Comptroller Citywide.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024314_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Borough President New York.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024307_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 1st Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024340_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 2nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024463_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 3rd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024321_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 5th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024332_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 6th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024361_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 7th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024318_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 8th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024470_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 9th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/24347_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 10th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024370_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Borough President Bronx.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024339_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 8th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024470_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 11th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024329_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 12th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024328_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 13th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024341_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 14th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024327_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 15th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024357_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 16th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024330_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 17th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024481_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 18th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024355_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 22nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024349_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Borough President Kings.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024336_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 33rd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024309_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 34th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024319_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 35th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024335_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 36th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024379_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 37th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024389_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 38th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024352_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 39th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024353_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 40th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024348_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 41st Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024424_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 42nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024323_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 45th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024375_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 46th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024338_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 47th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024394_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 48th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024337_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Borough President Queens.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024415_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 19th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024350_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 20th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024346_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 21st Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024358_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 22nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024349_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 23rd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024351_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 24th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024399_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 25th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024310_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 26th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024311_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 27th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024312_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 28th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024406_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 29th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024324_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 30th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024414_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 31st Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024462_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 32nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024320_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 34th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024319_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Borough President Richmond.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024458_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/DEM Council Member 49th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024326_1.html
+NY,2021,primary,Mayor,New York City,Citywide,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Mayor Citywide.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024425_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 15th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024524_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 19th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024410_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 23rd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024546_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 24th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024554_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 32nd Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024550_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Borough President Richmond.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024496_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/REP Council Member 50th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/24367_1.html
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/CON Council Member 19th Council District.pdf
+NY,2021,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary Election/rcv/024500_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_1st_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025715_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_2nd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025980_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_9th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025756_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_10th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026031_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_12th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025797_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_13th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025908_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_14th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025919_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_41st_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025822_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_42nd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025760_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_43rd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025755_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_19th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025767_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_22nd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026015_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_23rd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026013_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_25th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025985_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_26th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025983_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_29th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025804_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/DEM_Council_Member_34th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026026_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_13th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025927_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_43rd_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026119_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_44th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025933_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_47th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025913_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_48th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/026030_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/REP_Council_Member_20th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025934_1.html
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/CON_Council_Member_13th_Council_District.pdf
+NY,2023,primary,,New York City,At_Large,https://www.vote.nyc/sites/default/files/pdf/election_results/2023/20230627Primary%20Election/rcv/025929_1.html
