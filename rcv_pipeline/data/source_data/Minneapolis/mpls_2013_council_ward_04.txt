@@ -1,0 +1,23 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 4 election results
+Official Winner: Barb A. "Barb" Johnson
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 4
+Candidate	First ranked votes	Percent
+Barb A. "Barb" Johnson	2,153	56.60%
+Kris Brogan	1,138	29.92%
+Dan Niesen	501 	13.17%
+Write-ins	12	0.32%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Barb Johnson was elected.
+
+Ballots cast summary
+Total ballots cast	3,940	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	1,971	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	2	Voter voted for more candidates than allowed. 
+Undervotes	134	Voter did not rank any candidates for the office. 
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

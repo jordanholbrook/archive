@@ -1,0 +1,35 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 3 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+DEBORAH MATTHEWS	1576	24.45 %
+JOHN "CHIP" MOORE	1480	22.96 %
+BEN BARTLETT	3391	52.60 %
+CONTINUING BALLOTS TOTAL	6447	
+BLANKS	1071	
+EXHAUSTED	0	
+OVERVOTES	45	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	1116	
+
+JOHN "CHIP" MOORE is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate JOHN "CHIP" MOORE. 1480 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+JOHN "CHIP" MOORE	DEBORAH MATTHEWS	257	1	257
+JOHN "CHIP" MOORE	BEN BARTLETT	872	1	872
+JOHN "CHIP" MOORE	EXHAUSTED	347	1	347
+JOHN "CHIP" MOORE	OVERVOTES	4	1	4
+
+------------------------------------------
+
+Candidate	Votes	Percentage
+DEBORAH MATTHEWS	1833	30.07 %
+JOHN "CHIP" MOORE	0	0.00 %
+BEN BARTLETT	4263	69.93 %
+CONTINUING BALLOTS TOTAL	6096	
+BLANKS	1071	
+EXHAUSTED	347	
+OVERVOTES	49	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	1467	

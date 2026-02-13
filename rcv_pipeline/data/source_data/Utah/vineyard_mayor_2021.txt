@@ -1,0 +1,25 @@
+State: Utah
+link: https://rcvis.com/v/21g_vi_m_u4
+
+
+{
+  "config" : {
+    "contest" : "Vineyard Mayor",
+    "date" : "2021-11-02",
+    "jurisdiction" : "",
+    "office" : "",
+    "threshold" : "768"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "JULIE FULLMER" : "1329",
+      "MARC BRIMHALL" : "132",
+      "MARIA GUADALUPE CANE" : "73"
+    },
+    "tallyResults" : [ {
+      "elected" : "JULIE FULLMER",
+      "transfers" : { }
+    } ]
+  } ]
+}

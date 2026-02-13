@@ -1,0 +1,27 @@
+
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 City Council Ward 10 election results
+Official Winner: Lisa Bender
+November 7, 2017
+
+Municipal Election
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Lisa Bender was elected.
+
+Council Member Ward 10
+Candidate	First choice votes	Percentage
+Lisa Bender	4,883	64.34%
+Saralynn Romanishan	1,561	20.57%
+David Schorn	709	9.34%
+Bruce Lundeen	416	5.48%
+Undeclared Write-ins	20	0.26%
+ 
+
+Ballots cast summary
+Total ballots cast	7,911	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	3,956	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

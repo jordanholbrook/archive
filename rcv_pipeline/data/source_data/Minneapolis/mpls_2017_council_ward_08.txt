@@ -1,0 +1,28 @@
+
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 City Council Ward 8 election results
+Official Winner: Andrea Jenkins
+November 7, 2017
+
+Municipal Election
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Andrea Jenkins was elected.
+
+Council Member Ward 8
+Candidate	First choice votes	Percentage
+Andrea Jenkins	5,762	73.09%
+Terry White	1,007	12.77%
+April Kane	710	9.01%
+David Holsinger	387	4.91%
+Undeclared Write-ins	17	0.22%
+ 
+
+Ballots cast summary
+Total ballots cast	8,275	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	4,138	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.
+

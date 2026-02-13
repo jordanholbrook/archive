@@ -1,0 +1,38 @@
+State: Utah
+link: https://rcvis.com/v/21g_wh_m_u4
+
+{
+  "config" : {
+    "contest" : "Woodland Hills Mayor",
+    "date" : "2021-11-02",
+    "jurisdiction" : "",
+    "office" : "",
+    "threshold" : "300"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "BENJAMIN J HILLYARD" : "196",
+      "BRENT WINDER" : "269",
+      "MIKE LAURITZEN" : "190"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "MIKE LAURITZEN",
+      "transfers" : {
+        "BENJAMIN J HILLYARD" : "71",
+        "BRENT WINDER" : "62",
+        "exhausted" : "57"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "BENJAMIN J HILLYARD" : "267",
+      "BRENT WINDER" : "331"
+    },
+    "tallyResults" : [ {
+      "elected" : "BRENT WINDER",
+      "transfers" : { }
+    } ]
+  } ]
+}

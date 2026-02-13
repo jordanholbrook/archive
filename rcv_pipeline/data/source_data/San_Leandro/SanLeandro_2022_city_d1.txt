@@ -1,0 +1,46 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 1 - San Leandro (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+CELINA REYNES	10082	49.29 %
+KENNETH PON	7630	37.30 %
+DAVID L. ANDERSON, SR.	2744	13.41 %
+CONTINUING BALLOTS TOTAL	20456	
+BLANKS	2438	
+EXHAUSTED	0	
+OVERVOTES	99	
+REMAINDER POINTS	0	
+SUSPENDED	238	
+NON TRANSFERRABLE TOTAL	2775	
+
+DAVID L. ANDERSON, SR. is eliminated because the candidate had the least amount of votes.
+
+DAVID L. ANDERSON, SR. is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate DAVID L. ANDERSON, SR.. 2794 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+DAVID L. ANDERSON, SR.	CELINA REYNES	888	1	888
+DAVID L. ANDERSON, SR.	KENNETH PON	1082	1	1082
+DAVID L. ANDERSON, SR.	EXHAUSTED	802	1	802
+DAVID L. ANDERSON, SR.	OVERVOTES	22	1	22
+Elimination transfer for candidate Suspended. 238 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+SUSPENDED	CELINA REYNES	99	1	99
+SUSPENDED	KENNETH PON	62	1	62
+SUSPENDED	DAVID L. ANDERSON, SR.	50	1	50
+SUSPENDED	OVERVOTES	27	1	27
+
+------------------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+CELINA REYNES	11069	55.78 %
+KENNETH PON	8774	44.22 %
+DAVID L. ANDERSON, SR.	0	0.00 %
+CONTINUING BALLOTS TOTAL	19843	
+BLANKS	2438	
+EXHAUSTED	802	
+OVERVOTES	148	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	3388	

@@ -1,0 +1,24 @@
+City of Takoma Park, Maryland Nov. 8, 2022 Election Report 
+City Council- Ward 3
+FINAL 2022 RESULTS TABLES
+
+Ward 3 - Round 1 of 2
+Candidate Votes Percent of Votes Transfer
+Diez 485 35% +137
+Gibson 601 44% +125
+Hadden 285 21% -285
+Write-in 2 - -1
+Total Valid Votes 1,373
+Ballots Exhausted* 24
+Winning Threshold By Round 687
+Ward 3 - Round 2 of 2
+Candidate Votes Percent of Votes Status
+Diez 622 46%
+Gibson 726 54% Elected
+Total Valid Votes 1,348
+Winning Threshold By Round 675
+* A candidate must receive a majority of valid votes to be elected. If no candidate reaches a majority of
+first choice votes, an instant runoff is triggered. The ballots marked first choice for candidate(s) with the
+fewest first choice votes are reviewed to see if they selected a second choice. If so, those ballots are
+redistributed to their second choice candidate. If their second choice is defeated or if they did not select
+a second choice, those ballots are declared “exhausted.”

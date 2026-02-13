@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-school-director-dist1-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+DON MACLEAY
+7096
+24.60%
+Write-In
+0
+0.00%
+JODY LONDON
+** WINNER **
+21746
+75.40%
+Continuing Ballots
+28842
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+8269
+Exhausted Ballots
+0
+Exhausted by Over Votes
+28
+Total Ballots
+37139
+Run Id: 114 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 1 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

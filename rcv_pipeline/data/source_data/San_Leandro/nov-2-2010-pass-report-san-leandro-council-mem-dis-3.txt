@@ -1,0 +1,40 @@
+=== nov-2-2010-pass-report-san-leandro-council-mem-dis-3.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+508
+2.87%
+DIANA M. SOUZA
+** WINNER **
+17183
+97.13%
+Continuing Ballots
+17691
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5780
+Exhausted Ballots
+0
+Exhausted by Over Votes
+23
+Total Ballots
+23494
+Run Id: 181 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - San 
+Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

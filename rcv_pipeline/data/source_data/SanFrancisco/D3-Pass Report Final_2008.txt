@@ -1,0 +1,1058 @@
+=== D3-Pass Report Final_2008.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+CLAUDINE CHENG
+2515
+9.25%
+DAVID CHIU
+10270
+37.76%
+WILMA PANG
+952
+3.50%
+WRITE-IN
+35
+0.13%
+MARK QUESSEY
+204
+0.75%
+TONY GANTNER
+1195
+4.39%
+LYNN JEFFERSON
+1235
+4.54%
+DENISE MCCARTHY
+3172
+11.66%
+MIKE DENUNZIO
+1335
+4.91%
+JOSEPH ALIOTO, JR.
+6285
+23.11%
+Continuing Ballots
+27198
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+0
+Exhausted by Over Votes
+284
+Total Ballots
+30086
+Run Id: 56 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+Complete
+Load Type:
+Pass Number: 1
+MARK QUESSEY
+204
+WRITE-IN
+35
+WILMA PANG
+952
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+CLAUDINE CHENG
+2515
+9.25%
+DAVID CHIU
+10270
+37.76%
+WILMA PANG
+952
+3.50%
+WRITE-IN
+35
+0.13%
+MARK QUESSEY
+204
+0.75%
+TONY GANTNER
+1195
+4.39%
+LYNN JEFFERSON
+1235
+4.54%
+DENISE MCCARTHY
+3172
+11.66%
+MIKE DENUNZIO
+1335
+4.91%
+JOSEPH ALIOTO, JR.
+6285
+23.11%
+Continuing Ballots
+27198
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+0
+Exhausted by Over Votes
+284
+Total Ballots
+30086
+Run Id: 56 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+MARK QUESSEY
+DENISE MCCARTHY
+0
+36
+MARK QUESSEY
+JOSEPH ALIOTO, JR.
+0
+24
+MARK QUESSEY
+LYNN JEFFERSON
+0
+32
+WILMA PANG
+TONY GANTNER
+0
+30
+MARK QUESSEY
+CLAUDINE CHENG
+0
+13
+MARK QUESSEY
+DAVID CHIU
+0
+36
+WRITE-IN
+DENISE MCCARTHY
+0
+2
+WRITE-IN
+LYNN JEFFERSON
+0
+1
+WRITE-IN
+TONY GANTNER
+0
+1
+MARK QUESSEY
+MIKE DENUNZIO
+0
+23
+MARK QUESSEY
+TONY GANTNER
+0
+9
+WRITE-IN
+DAVID CHIU
+0
+4
+WILMA PANG
+Over Votes
+3
+0
+MARK QUESSEY
+Over Votes
+1
+0
+WRITE-IN
+Exhausted Ballots
+27
+0
+WILMA PANG
+Exhausted Ballots
+119
+0
+MARK QUESSEY
+Exhausted Ballots
+30
+0
+WILMA PANG
+CLAUDINE CHENG
+0
+251
+WILMA PANG
+LYNN JEFFERSON
+0
+97
+WILMA PANG
+MIKE DENUNZIO
+0
+28
+WILMA PANG
+JOSEPH ALIOTO, JR.
+0
+91
+WILMA PANG
+DAVID CHIU
+0
+202
+WILMA PANG
+DENISE MCCARTHY
+0
+131
+Total
+180
+1011
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+CLAUDINE CHENG
+2779
+10.29%
+DAVID CHIU
+10512
+38.91%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+1235
+4.57%
+LYNN JEFFERSON
+1365
+5.05%
+DENISE MCCARTHY
+3341
+12.37%
+MIKE DENUNZIO
+1386
+5.13%
+JOSEPH ALIOTO, JR.
+6400
+23.69%
+Continuing Ballots
+27018
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+176
+Exhausted by Over Votes
+288
+Total Ballots
+30086
+
+Complete
+Load Type:
+Pass Number: 2
+TONY GANTNER
+1235
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+CLAUDINE CHENG
+2779
+10.29%
+DAVID CHIU
+10512
+38.91%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+1235
+4.57%
+LYNN JEFFERSON
+1365
+5.05%
+DENISE MCCARTHY
+3341
+12.37%
+MIKE DENUNZIO
+1386
+5.13%
+JOSEPH ALIOTO, JR.
+6400
+23.69%
+Continuing Ballots
+27018
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+176
+Exhausted by Over Votes
+288
+Total Ballots
+30086
+Run Id: 56 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+TONY GANTNER
+JOSEPH ALIOTO, JR.
+0
+255
+TONY GANTNER
+DENISE MCCARTHY
+0
+231
+TONY GANTNER
+MIKE DENUNZIO
+0
+80
+TONY GANTNER
+LYNN JEFFERSON
+0
+106
+TONY GANTNER
+DAVID CHIU
+0
+288
+TONY GANTNER
+Exhausted Ballots
+166
+0
+TONY GANTNER
+Over Votes
+2
+0
+TONY GANTNER
+CLAUDINE CHENG
+0
+107
+Total
+168
+1067
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+CLAUDINE CHENG
+2886
+10.75%
+DAVID CHIU
+10800
+40.22%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+1471
+5.48%
+DENISE MCCARTHY
+3572
+13.30%
+MIKE DENUNZIO
+1466
+5.46%
+JOSEPH ALIOTO, JR.
+6655
+24.79%
+Continuing Ballots
+26850
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+342
+Exhausted by Over Votes
+290
+Total Ballots
+30086
+
+Complete
+Load Type:
+Pass Number: 3
+MIKE DENUNZIO
+1466
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+CLAUDINE CHENG
+2886
+10.75%
+DAVID CHIU
+10800
+40.22%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+1471
+5.48%
+DENISE MCCARTHY
+3572
+13.30%
+MIKE DENUNZIO
+1466
+5.46%
+JOSEPH ALIOTO, JR.
+6655
+24.79%
+Continuing Ballots
+26850
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+342
+Exhausted by Over Votes
+290
+Total Ballots
+30086
+Run Id: 56 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+MIKE DENUNZIO
+DENISE MCCARTHY
+0
+143
+MIKE DENUNZIO
+DAVID CHIU
+0
+119
+MIKE DENUNZIO
+LYNN JEFFERSON
+0
+179
+MIKE DENUNZIO
+JOSEPH ALIOTO, JR.
+0
+458
+MIKE DENUNZIO
+Exhausted Ballots
+423
+0
+MIKE DENUNZIO
+Over Votes
+3
+0
+MIKE DENUNZIO
+CLAUDINE CHENG
+0
+141
+Total
+426
+1040
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+CLAUDINE CHENG
+3027
+11.46%
+DAVID CHIU
+10919
+41.32%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+1650
+6.24%
+DENISE MCCARTHY
+3715
+14.06%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+7113
+26.92%
+Continuing Ballots
+26424
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+765
+Exhausted by Over Votes
+293
+Total Ballots
+30086
+
+Complete
+Load Type:
+Pass Number: 4
+LYNN JEFFERSON
+1650
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+CLAUDINE CHENG
+3027
+11.46%
+DAVID CHIU
+10919
+41.32%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+1650
+6.24%
+DENISE MCCARTHY
+3715
+14.06%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+7113
+26.92%
+Continuing Ballots
+26424
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+765
+Exhausted by Over Votes
+293
+Total Ballots
+30086
+Run Id: 56 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+LYNN JEFFERSON
+DAVID CHIU
+0
+227
+LYNN JEFFERSON
+DENISE MCCARTHY
+0
+512
+LYNN JEFFERSON
+JOSEPH ALIOTO, JR.
+0
+310
+LYNN JEFFERSON
+CLAUDINE CHENG
+0
+196
+LYNN JEFFERSON
+Exhausted Ballots
+404
+0
+LYNN JEFFERSON
+Over Votes
+1
+0
+Total
+405
+1245
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+CLAUDINE CHENG
+3223
+12.39%
+DAVID CHIU
+11146
+42.84%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+Eliminated in pass 4.
+0
+0.00%
+DENISE MCCARTHY
+4227
+16.25%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+7423
+28.53%
+Continuing Ballots
+26019
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+1169
+Exhausted by Over Votes
+294
+Total Ballots
+30086
+
+Complete
+Load Type:
+Pass Number: 5
+CLAUDINE CHENG
+3223
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+CLAUDINE CHENG
+3223
+12.39%
+DAVID CHIU
+11146
+42.84%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+Eliminated in pass 4.
+0
+0.00%
+DENISE MCCARTHY
+4227
+16.25%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+7423
+28.53%
+Continuing Ballots
+26019
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+1169
+Exhausted by Over Votes
+294
+Total Ballots
+30086
+Run Id: 56 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+CLAUDINE CHENG
+DAVID CHIU
+0
+1202
+CLAUDINE CHENG
+DENISE MCCARTHY
+0
+406
+CLAUDINE CHENG
+JOSEPH ALIOTO, JR.
+0
+752
+CLAUDINE CHENG
+Exhausted Ballots
+851
+0
+CLAUDINE CHENG
+Over Votes
+12
+0
+Total
+863
+2360
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+CLAUDINE CHENG
+Eliminated in pass 5.
+0
+0.00%
+DAVID CHIU
+12348
+49.09%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+Eliminated in pass 4.
+0
+0.00%
+DENISE MCCARTHY
+4633
+18.42%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+8175
+32.50%
+Continuing Ballots
+25156
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+2020
+Exhausted by Over Votes
+306
+Total Ballots
+30086
+
+Complete
+Load Type:
+Pass Number: 6
+DENISE MCCARTHY
+4633
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+DENISE MCCARTHY
+DAVID CHIU
+0
+1234
+DENISE MCCARTHY
+JOSEPH ALIOTO, JR.
+0
+1118
+DENISE MCCARTHY
+Over Votes
+10
+0
+DENISE MCCARTHY
+Exhausted Ballots
+2271
+0
+Total
+2281
+2352
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+CLAUDINE CHENG
+Eliminated in pass 5.
+0
+0.00%
+DAVID CHIU
+12348
+49.09%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+Eliminated in pass 4.
+0
+0.00%
+DENISE MCCARTHY
+4633
+18.42%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+8175
+32.50%
+Continuing Ballots
+25156
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2604
+Exhausted Ballots
+2020
+Exhausted by Over Votes
+306
+Total Ballots
+30086
+Run Id: 56 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 3
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+CLAUDINE CHENG
+Eliminated in pass 5.
+0
+0.00%
+DAVID CHIU
+** WINNER **
+13582
+59.37%
+WILMA PANG
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MARK QUESSEY
+Eliminated in pass 1.
+0
+0.00%
+TONY GANTNER
+Eliminated in pass 2.
+0
+0.00%
+LYNN JEFFERSON
+Eliminated in pass 4.
+0
+0.00%
+DENISE MCCARTHY
+Eliminated in pass 6.
+0
+0.00%
+MIKE DENUNZIO
+Eliminated in pass 3.
+0
+0.00%
+JOSEPH ALIOTO, JR.
+9293
+40.63%
+Continuing Ballots
+22875
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2604
+Exhausted Ballots
+4291
+Exhausted by Over Votes
+316
+Total Ballots
+30086
+

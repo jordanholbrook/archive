@@ -1,0 +1,25 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 3 election results
+Official Winner: Diane Hofstede
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 3
+Candidate	First ranked votes	Percent
+Diane Hofstede	1,465	65.93%
+Allen Kathir	348	15.66%
+Jeffrey Cobia	242	10.89%
+Melissa Hill	113	5.09%
+Raymond Wilson Rolfe	39	1.76%
+Write-ins	15	0.68%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Diane Hofstede was elected.
+
+Ballots cast summary
+Total ballots cast	2,222	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	1,112	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	35	Voter did not rank any candidates for the office.
+Spoiled ballots	94	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

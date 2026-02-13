@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 9 election results
+Official Winner: Gary Schiff
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 9
+Candidate	First ranked votes	Percent
+Gary Schiff	1,818	60.70%
+Dave Bicking	816	27.25%
+Todd J. Eberhardy	270	9.02%
+Khalif Jama	83	2.77%
+Write-ins	8	0.27%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Gary Schiff was elected.
+
+Ballots cast summary
+Total ballots cast	2,995	Total votes counted in the first round. Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Maximum possible threshold	1,498	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	40	Voter did not rank any candidates for the office.
+Spoiled ballots	95	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

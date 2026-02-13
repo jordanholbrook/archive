@@ -1,0 +1,616 @@
+=== D11-Pass Report Final_2008.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+RANDY KNOX
+2337
+9.47%
+MARY GOODNATURE
+459
+1.86%
+ADRIAN BERMUDEZ
+415
+1.68%
+A. JACKSON MATTESON
+1
+0.00%
+WRITE-IN
+30
+0.12%
+JOHN AVALOS
+6964
+28.23%
+AHSHA SAFAI
+5965
+24.18%
+JULIO RAMOS
+3646
+14.78%
+ELI M. HORN
+394
+1.60%
+MYRNA LIM
+4462
+18.08%
+Continuing Ballots
+24673
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1826
+Exhausted Ballots
+0
+Exhausted by Over Votes
+410
+Total Ballots
+26909
+Run Id: 59 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 11
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+Complete
+Load Type:
+Pass Number: 1
+ADRIAN BERMUDEZ
+415
+WRITE-IN
+30
+A. JACKSON MATTESON
+1
+RANDY KNOX
+2337
+ELI M. HORN
+394
+MARY GOODNATURE
+459
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+RANDY KNOX
+2337
+9.47%
+MARY GOODNATURE
+459
+1.86%
+ADRIAN BERMUDEZ
+415
+1.68%
+A. JACKSON MATTESON
+1
+0.00%
+WRITE-IN
+30
+0.12%
+JOHN AVALOS
+6964
+28.23%
+AHSHA SAFAI
+5965
+24.18%
+JULIO RAMOS
+3646
+14.78%
+ELI M. HORN
+394
+1.60%
+MYRNA LIM
+4462
+18.08%
+Continuing Ballots
+24673
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1826
+Exhausted Ballots
+0
+Exhausted by Over Votes
+410
+Total Ballots
+26909
+Run Id: 59 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 11
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+RANDY KNOX
+JOHN AVALOS
+0
+481
+RANDY KNOX
+JULIO RAMOS
+0
+406
+RANDY KNOX
+MYRNA LIM
+0
+356
+RANDY KNOX
+AHSHA SAFAI
+0
+517
+MARY GOODNATURE
+JOHN AVALOS
+0
+56
+MARY GOODNATURE
+JULIO RAMOS
+0
+82
+MARY GOODNATURE
+MYRNA LIM
+0
+122
+WRITE-IN
+JOHN AVALOS
+0
+1
+WRITE-IN
+MYRNA LIM
+0
+2
+A. JACKSON MATTESON
+MYRNA LIM
+0
+1
+ADRIAN BERMUDEZ
+MYRNA LIM
+0
+43
+ADRIAN BERMUDEZ
+AHSHA SAFAI
+0
+81
+ADRIAN BERMUDEZ
+JOHN AVALOS
+0
+63
+ADRIAN BERMUDEZ
+JULIO RAMOS
+0
+129
+MARY GOODNATURE
+AHSHA SAFAI
+0
+92
+ADRIAN BERMUDEZ
+Exhausted Ballots
+96
+0
+WRITE-IN
+Exhausted Ballots
+27
+0
+ELI M. HORN
+Over Votes
+1
+0
+ELI M. HORN
+Exhausted Ballots
+136
+0
+MARY GOODNATURE
+Exhausted Ballots
+101
+0
+RANDY KNOX
+Exhausted Ballots
+563
+0
+MARY GOODNATURE
+Over Votes
+6
+0
+ELI M. HORN
+JOHN AVALOS
+0
+60
+ELI M. HORN
+JULIO RAMOS
+0
+58
+ELI M. HORN
+MYRNA LIM
+0
+67
+RANDY KNOX
+Over Votes
+14
+0
+ADRIAN BERMUDEZ
+Over Votes
+3
+0
+ELI M. HORN
+AHSHA SAFAI
+0
+72
+Total
+947
+2689
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+RANDY KNOX
+Eliminated in pass 1.
+0
+0.00%
+MARY GOODNATURE
+Eliminated in pass 1.
+0
+0.00%
+ADRIAN BERMUDEZ
+Eliminated in pass 1.
+0
+0.00%
+A. JACKSON MATTESON
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JOHN AVALOS
+7625
+32.14%
+AHSHA SAFAI
+6727
+28.35%
+JULIO RAMOS
+4321
+18.21%
+ELI M. HORN
+Eliminated in pass 1.
+0
+0.00%
+MYRNA LIM
+5053
+21.30%
+Continuing Ballots
+23726
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1826
+Exhausted Ballots
+923
+Exhausted by Over Votes
+434
+Total Ballots
+26909
+
+Complete
+Load Type:
+Pass Number: 2
+JULIO RAMOS
+4321
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+RANDY KNOX
+Eliminated in pass 1.
+0
+0.00%
+MARY GOODNATURE
+Eliminated in pass 1.
+0
+0.00%
+ADRIAN BERMUDEZ
+Eliminated in pass 1.
+0
+0.00%
+A. JACKSON MATTESON
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JOHN AVALOS
+7625
+32.14%
+AHSHA SAFAI
+6727
+28.35%
+JULIO RAMOS
+4321
+18.21%
+ELI M. HORN
+Eliminated in pass 1.
+0
+0.00%
+MYRNA LIM
+5053
+21.30%
+Continuing Ballots
+23726
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1826
+Exhausted Ballots
+923
+Exhausted by Over Votes
+434
+Total Ballots
+26909
+Run Id: 59 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 11
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+JULIO RAMOS
+AHSHA SAFAI
+0
+884
+JULIO RAMOS
+JOHN AVALOS
+0
+1262
+JULIO RAMOS
+MYRNA LIM
+0
+876
+JULIO RAMOS
+Exhausted Ballots
+1286
+0
+JULIO RAMOS
+Over Votes
+13
+0
+Total
+1299
+3022
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+RANDY KNOX
+Eliminated in pass 1.
+0
+0.00%
+MARY GOODNATURE
+Eliminated in pass 1.
+0
+0.00%
+ADRIAN BERMUDEZ
+Eliminated in pass 1.
+0
+0.00%
+A. JACKSON MATTESON
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JOHN AVALOS
+8887
+39.63%
+AHSHA SAFAI
+7611
+33.94%
+JULIO RAMOS
+Eliminated in pass 2.
+0
+0.00%
+ELI M. HORN
+Eliminated in pass 1.
+0
+0.00%
+MYRNA LIM
+5929
+26.44%
+Continuing Ballots
+22427
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1826
+Exhausted Ballots
+2209
+Exhausted by Over Votes
+447
+Total Ballots
+26909
+
+Complete
+Load Type:
+Pass Number: 3
+MYRNA LIM
+5929
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+MYRNA LIM
+AHSHA SAFAI
+0
+1481
+MYRNA LIM
+JOHN AVALOS
+0
+1338
+MYRNA LIM
+Over Votes
+25
+0
+MYRNA LIM
+Exhausted Ballots
+3085
+0
+Total
+3110
+2819
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+RANDY KNOX
+Eliminated in pass 1.
+0
+0.00%
+MARY GOODNATURE
+Eliminated in pass 1.
+0
+0.00%
+ADRIAN BERMUDEZ
+Eliminated in pass 1.
+0
+0.00%
+A. JACKSON MATTESON
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JOHN AVALOS
+8887
+39.63%
+AHSHA SAFAI
+7611
+33.94%
+JULIO RAMOS
+Eliminated in pass 2.
+0
+0.00%
+ELI M. HORN
+Eliminated in pass 1.
+0
+0.00%
+MYRNA LIM
+5929
+26.44%
+Continuing Ballots
+22427
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1826
+Exhausted Ballots
+2209
+Exhausted by Over Votes
+447
+Total Ballots
+26909
+Run Id: 59 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 11
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+RANDY KNOX
+Eliminated in pass 1.
+0
+0.00%
+MARY GOODNATURE
+Eliminated in pass 1.
+0
+0.00%
+ADRIAN BERMUDEZ
+Eliminated in pass 1.
+0
+0.00%
+A. JACKSON MATTESON
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JOHN AVALOS
+** WINNER **
+10225
+52.93%
+AHSHA SAFAI
+9092
+47.07%
+JULIO RAMOS
+Eliminated in pass 2.
+0
+0.00%
+ELI M. HORN
+Eliminated in pass 1.
+0
+0.00%
+MYRNA LIM
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+19317
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1826
+Exhausted Ballots
+5294
+Exhausted by Over Votes
+472
+Total Ballots
+26909
+

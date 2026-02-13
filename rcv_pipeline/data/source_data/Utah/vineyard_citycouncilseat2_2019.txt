@@ -1,0 +1,95 @@
+State: Utah
+link: https://rcvis.com/visualize=vineyard-seat-2-2019-11-19_11-20-30_summary_2json
+
+{
+  "config" : {
+    "contest" : "Vineyard City Council",
+    "date" : "2019-11-05",
+    "jurisdiction" : "Vineyard City",
+    "office" : "Vineyard City Council",
+    "threshold" : "506"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "ANTHONY JENKINS" : "164",
+      "DAVID LAURET" : "214",
+      "G. TYCE FLAKE" : "394",
+      "HECTOR RAFAEL HERNANDEZ" : "114",
+      "KEITH KUDER" : "123",
+      "TAY GUDMUNDSON" : "64"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "TAY GUDMUNDSON",
+      "transfers" : {
+        "ANTHONY JENKINS" : "22",
+        "DAVID LAURET" : "6",
+        "G. TYCE FLAKE" : "20",
+        "HECTOR RAFAEL HERNANDEZ" : "8",
+        "KEITH KUDER" : "3",
+        "exhausted" : "5"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "ANTHONY JENKINS" : "186",
+      "DAVID LAURET" : "220",
+      "G. TYCE FLAKE" : "414",
+      "HECTOR RAFAEL HERNANDEZ" : "122",
+      "KEITH KUDER" : "126"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "HECTOR RAFAEL HERNANDEZ",
+      "transfers" : {
+        "ANTHONY JENKINS" : "28",
+        "DAVID LAURET" : "30",
+        "G. TYCE FLAKE" : "28",
+        "KEITH KUDER" : "29",
+        "exhausted" : "7"
+      }
+    } ]
+  }, {
+    "round" : 3,
+    "tally" : {
+      "ANTHONY JENKINS" : "214",
+      "DAVID LAURET" : "250",
+      "G. TYCE FLAKE" : "442",
+      "KEITH KUDER" : "155"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "KEITH KUDER",
+      "transfers" : {
+        "ANTHONY JENKINS" : "33",
+        "DAVID LAURET" : "39",
+        "G. TYCE FLAKE" : "59",
+        "exhausted" : "24"
+      }
+    } ]
+  }, {
+    "round" : 4,
+    "tally" : {
+      "ANTHONY JENKINS" : "247",
+      "DAVID LAURET" : "289",
+      "G. TYCE FLAKE" : "501"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "ANTHONY JENKINS",
+      "transfers" : {
+        "DAVID LAURET" : "62",
+        "G. TYCE FLAKE" : "159",
+        "exhausted" : "26"
+      }
+    } ]
+  }, {
+    "round" : 5,
+    "tally" : {
+      "DAVID LAURET" : "351",
+      "G. TYCE FLAKE" : "660"
+    },
+    "tallyResults" : [ {
+      "elected" : "G. TYCE FLAKE",
+      "transfers" : { }
+    } ]
+  } ]
+}

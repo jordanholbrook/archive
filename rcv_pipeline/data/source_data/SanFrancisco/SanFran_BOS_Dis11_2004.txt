@@ -1,0 +1,33 @@
+RCV District 11 Nov 2004
+RUN DATE:11/30/04 10:33AM
+
+SUMMARY
+            MEMBER, BOARD OF SUPERVISORS DIST. 11          Vote for  1
+                           GERARDO SANDOVAL .  .  .  .  .  .  .  .     7,427   32.24
+                           MYRNA VIRAY LIM  .  .  .  .  .  .  .  .     4,259   18.49
+                           JOSE MEDINA.  .  .  .  .  .  .  .  .  .     2,852   12.38
+                           ANITA GRIER.  .  .  .  .  .  .  .  .  .     2,787   12.10
+                           ROLANDO A. BONILLA  .  .  .  .  .  .  .     2,279    9.89
+                           REBECCA REYNOLDS SILVERBERG  .  .  .  .     1,810    7.86
+                           TOM YUEN.  .  .  .  .  .  .  .  .  .  .     1,318    5.72
+                           FIL M. SILVERIO  .  .  .  .  .  .  .  .       307    1.33
+                           WRITE-IN.  .  .  .  .  .  .  .  .  .  .         0
+
+
+ROUNDS
+
+Candidate		Pass 1	Pass 2	Pass 3	Pass 4	Pass 5	Pass 6
+JOSE MEDINA		2,869	2,989	3,359	3867	4683*	
+MYRNA VIRAY LIM		4280	4884	5248	5719	6760	7628
+ANITA GRIER		2806	3080	3522	3829*		
+FIL M. SILVERIO		307*					
+REBECCA REYNOLDS SILVERBERG		1,816	1946*				
+GERARDO SANDOVAL	(Winner 58.333%)	7477	7637	7919	8553	9256	10679
+ROLANDO A. BONILLA		2,293	2,356	2571*			
+TOM YUEN		1328*					
+WRITE-IN		*					
+Eligible Ballots	23176	22892	22619	21968	20699	18307
+Exhausted Ballots	1726	2010	2283	2934	4203	6595
+Total Ballots	24902	24902	24902	24902	24902	24902
+
+SAN FRANCISCO

@@ -1,0 +1,38 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+School Director, Dist. 4 - Oakland (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+MIKE HUTCHINSON	8227	31.13 %
+PECOLIA MANIGO	8190	30.99 %
+NICK RESNICK	10015	37.89 %
+CONTINUING BALLOTS TOTAL	26432	
+BLANKS	4403	
+EXHAUSTED	0	
+OVERVOTES	148	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	4551	
+
+PECOLIA MANIGO is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate PECOLIA MANIGO. 8190 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+PECOLIA MANIGO	MIKE HUTCHINSON	4194	1	4194
+PECOLIA MANIGO	NICK RESNICK	2150	1	2150
+PECOLIA MANIGO	EXHAUSTED	1821	1	1821
+PECOLIA MANIGO	OVERVOTES	25	1	25
+
+
+--------------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+MIKE HUTCHINSON	12421	50.52 %
+PECOLIA MANIGO	0	0.00 %
+NICK RESNICK	12165	49.48 %
+CONTINUING BALLOTS TOTAL	24586	
+BLANKS	4403	
+EXHAUSTED	1821	
+OVERVOTES	173	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6397	

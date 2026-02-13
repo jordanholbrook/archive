@@ -1,0 +1,33 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+
+2009 Mayor results
+Official winner: R.T. Rybak
+November 3, 2009
+
+Municipal Election
+
+Mayor
+Candidate	First ranked votes	Percent
+R.T. Rybak	33,234	73.60%
+Papa John Kolstad	4,953	10.97%
+Al Flowers	1,795	3.98%
+Dick Franson	1,579	3.50%
+Christopher Clark	1,337	2.96%
+Tom Fiske	650	1.44%
+Joey Lombard	444	0.98%
+James R. Everett	357	0.79%
+Bob Carney, Jr.	228	0.50%
+Bill McGaughey	232	0.51%
+John Charles Wilson	137	0.30%
+Write-in	211	0.47%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold met and R.T. Rybak was elected.
+
+Ballots cast summary
+Total ballots cast	45,157	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	22,579	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	810	Voter did not rank any candidates for the office.
+Overvotes	1	Voter voted for more candidates than allowed.
+Totally defective ballots	1	Unable to determine voter's intent for any office on the ballot.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

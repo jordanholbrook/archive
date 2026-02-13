@@ -1,0 +1,25 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 City Council Ward 12 election results
+Official Winner: Andrew Johnson
+November 7, 2017
+
+Municipal Election
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Andrew Johnson was elected.
+
+Council Member Ward 12
+Candidate	First choice votes	Percentage
+Andrew Johnson	8,874	87.15%
+Will Jaeger	957	9.40%
+Harrison Bullard	316	3.10%
+Undeclared Write-ins	35	0.34%
+ 
+
+Ballots cast summary
+Total ballots cast	10,704	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	5,353	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

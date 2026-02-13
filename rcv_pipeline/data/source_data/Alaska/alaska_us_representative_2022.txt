@@ -1,0 +1,178 @@
+Textbox11	Textbox3	Textbox2	Textbox9	Textbox12	Textbox8																			
+RCV Detailed Report	General Election	State of Alaska	8-Nov-22																					
+																								
+Textbox24	Textbox21	Textbox53	state	timeStamp																				
+U.S. Representative	Official results	Number of positions to elect is 1.	All Positions Filled	11/30/2022 13:37																				
+																								
+Textbox36	Textbox41	winnersByThreshold	usesDistricts	previousRoundsEvaluation	eliminationType	fixedPrecisionDecimals	performEliminationTransferInLastRound	skipOvervotedRankings	votesToInThresholdCalculation	useFirstRoundSuspension	skipRankingsRule													
+IRV	TRUE	FALSE	TRUE	None	Single	0	TRUE	FALSE	Continuing ballots per round	FALSE	Exhausted on Two or More Ranks Skipped													
+																								
+Textbox35	Textbox86	choiceName2	votes	Textbox17	points	continuingVotes	points1	choiceName3	votes1	points2	nonTransferableVotes	nonTransferablePoints	surplus	Textbox14	choiceName4	Textbox2	Textbox21	Textbox44	Textbox47	sourceChoiceName	choiceName	ballotsTransferred3	transferFraction3	votes5
+State of Alaska	Round 1	"Begich, Nick"	"62,505"	23.62%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	"Bye, Chris"	"4,999"	1.89%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	"Palin, Sarah"	"68,330"	25.82%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	"Peltola, Mary S."	"128,755"	48.66%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	Blanks	"1,775"	0.67%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	Exhausted	0	0.00%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	Overvotes	433	0.16%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1	Remainder Points	0	0.00%	0	"264,589"	0				"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	"Begich, Nick"	"62,505"	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	"Bye, Chris"	"4,999"	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	"Palin, Sarah"	"68,330"	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	"Peltola, Mary S."	"128,755"	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	Blanks	"1,775"	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	Exhausted	0	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	Overvotes	433	0	"2,208"	0	0											
+State of Alaska	Round 1					"264,589"	0	Remainder Points	0	0	"2,208"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Begich, Nick"									
+State of Alaska															"Bye, Chris"									
+State of Alaska															"Palin, Sarah"									
+State of Alaska															"Peltola, Mary S."									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Begich, Nick."								
+State of Alaska																"The tie is broken by selecting Bye, Chris."								
+State of Alaska																"The tie is broken by selecting Palin, Sarah."								
+State of Alaska																"The tie is broken by selecting Peltola, Mary S.."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Begich, Nick is  because "							
+State of Alaska																	"Bye, Chris is eliminated because the candidate had the least amount of votes."							
+State of Alaska																	"Palin, Sarah is  because "							
+State of Alaska																	"Peltola, Mary S. is  because "							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	"Begich, Nick"	1994	1	"1,994"
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	"Bye, Chris"	4999	1	"-4,999"
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	"Palin, Sarah"	1069	1	"1,069"
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	"Peltola, Mary S."	1031	1	"1,031"
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	Exhausted	902	1	902
+State of Alaska																		"Elimination transfer for candidate Bye, Chris."	4999 ballots have been transferred in the following manner:	"Bye, Chris"	Overvotes	3	1	3
+State of Alaska	Round 2	"Begich, Nick"	"64,499"	24.46%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	"Bye, Chris"	0	0.00%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	"Palin, Sarah"	"69,399"	26.32%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	"Peltola, Mary S."	"129,786"	49.22%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	Blanks	"1,775"	0.67%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	Exhausted	902	0.34%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	Overvotes	436	0.17%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2	Remainder Points	0	0.00%	0	"263,684"	0				"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	"Begich, Nick"	"64,499"	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	"Bye, Chris"	0	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	"Palin, Sarah"	"69,399"	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	"Peltola, Mary S."	"129,786"	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	Blanks	"1,775"	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	Exhausted	902	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	Overvotes	436	0	"3,113"	0	0											
+State of Alaska	Round 2					"263,684"	0	Remainder Points	0	0	"3,113"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Begich, Nick"									
+State of Alaska															"Bye, Chris"									
+State of Alaska															"Palin, Sarah"									
+State of Alaska															"Peltola, Mary S."									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Begich, Nick."								
+State of Alaska																"The tie is broken by selecting Bye, Chris."								
+State of Alaska																"The tie is broken by selecting Palin, Sarah."								
+State of Alaska																"The tie is broken by selecting Peltola, Mary S.."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Begich, Nick is eliminated because the candidate had the least amount of votes."							
+State of Alaska																	"Bye, Chris is  because "							
+State of Alaska																	"Palin, Sarah is  because "							
+State of Alaska																	"Peltola, Mary S. is  because "							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Bye, Chris"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
+State of Alaska																		"Elimination transfer for candidate Begich, Nick."	64499 ballots have been transferred in the following manner:	"Begich, Nick"	"Begich, Nick"	64499	1	"-64,499"
+State of Alaska																		"Elimination transfer for candidate Begich, Nick."	64499 ballots have been transferred in the following manner:	"Begich, Nick"	"Palin, Sarah"	43072	1	"43,072"
+State of Alaska																		"Elimination transfer for candidate Begich, Nick."	64499 ballots have been transferred in the following manner:	"Begich, Nick"	"Peltola, Mary S."	7477	1	"7,477"
+State of Alaska																		"Elimination transfer for candidate Begich, Nick."	64499 ballots have been transferred in the following manner:	"Begich, Nick"	Exhausted	13894	1	"13,894"
+State of Alaska																		"Elimination transfer for candidate Begich, Nick."	64499 ballots have been transferred in the following manner:	"Begich, Nick"	Overvotes	56	1	56
+State of Alaska	Round 3	"Begich, Nick"	0	0.00%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	"Bye, Chris"	0	0.00%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	"Palin, Sarah"	"112,471"	45.04%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	"Peltola, Mary S."	"137,263"	54.96%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	Blanks	"1,775"	0.71%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	Exhausted	"14,796"	5.92%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	Overvotes	492	0.20%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3	Remainder Points	0	0.00%	0	"249,734"	0				"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	"Begich, Nick"	0	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	"Bye, Chris"	0	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	"Palin, Sarah"	"112,471"	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	"Peltola, Mary S."	"137,263"	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	Blanks	"1,775"	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	Exhausted	"14,796"	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	Overvotes	492	0	"17,063"	0	0											
+State of Alaska	Round 3					"249,734"	0	Remainder Points	0	0	"17,063"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Begich, Nick"									
+State of Alaska															"Bye, Chris"									
+State of Alaska															"Palin, Sarah"									
+State of Alaska															"Peltola, Mary S."									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Begich, Nick."								
+State of Alaska																"The tie is broken by selecting Bye, Chris."								
+State of Alaska																"The tie is broken by selecting Palin, Sarah."								
+State of Alaska																"The tie is broken by selecting Peltola, Mary S.."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Begich, Nick is  because "							
+State of Alaska																	"Bye, Chris is  because "							
+State of Alaska																	"Palin, Sarah is eliminated because the candidate was not elected in the last round."							
+State of Alaska																	"Peltola, Mary S. is elected because all other candidates have been eliminated."							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Begich, Nick"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Bye, Chris"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Palin, Sarah"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Peltola, Mary S."			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Exhausted			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Overvotes			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			

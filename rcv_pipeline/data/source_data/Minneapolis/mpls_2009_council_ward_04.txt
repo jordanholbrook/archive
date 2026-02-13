@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 4 election results
+Official Winner: Barb A. "Barb" Johnson
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 4
+Candidate	Final round votes	Final round percentage
+Barb A. "Barb" Johnson	1,740	52.74%
+Troy Parker	1,252	37.95%
+Exhausted	307	0.32%
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After two rounds of tabulation, Barb Johnson was elected. 
+
+See the ranked-choice voting tabulation below for more details.
+
+Ballots cast summary
+Total ballots cast	3,299	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	1,650	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	23	Voter did not rank any candidates for the office.
+Spoiled ballots	2	Ballot spoiled by voter at poll. 
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

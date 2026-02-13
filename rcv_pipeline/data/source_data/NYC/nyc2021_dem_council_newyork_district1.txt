@@ -1,0 +1,34 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 1st Council District
+Election Date:	2021/06/22
+Election results
+Christopher Marte won the DEM Council Member 1st Council District Primary with 10,785 of the votes in the final round.
+Christopher Marte defeated Jenny L. Low, who received 7,054 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6	Round 7	Round 8
+Eliminated in this round	 	Write-ins	Susan Damplo; Denny R. Salas**	Tiffany Johnson-Winbush; Sean C. Hayes**	Susan Lee	Maud Maron		Gigi Li
+Elected	 	 	 	 	 	 	Christopher Marte over 50%	Christopher Marte*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Christopher Marte	8,598	39.4%	4	8,602	39.4%	103	8,705	40.2%	329	9,034	42.7%	244	9,278	44.9%	523	9,801	50.2%		9,801	50.2%	984	10,785	60.5%
+Jenny L. Low	3,855	17.7%	3	3,858	17.7%	81	3,939	18.2%	196	4,135	19.6%	490	4,625	22.4%	431	5,056	25.9%		5,056	25.9%	1998	7,054	39.5%
+Gigi Li	3,476	15.9%	3	3,479	16.0%	87	3,566	16.4%	202	3,768	17.8%	486	4,254	20.6%	408	4,662	23.9%		4,662	23.9%	-XXX	
+Maud Maron	1,899	8.7%	1	1,900	8.7%	76	1,976	9.1%	214	2,190	10.4%	305	2,495	12.1%	-XXX		 	 
+Susan Lee	1,699	7.8%	3	1,702	7.8%	55	1,757	8.1%	263	2,020	9.6%	-XXX		 	 	 
+Sean C. Hayes	874	4.0%	1	875	4.0%	53	928	4.3%	-XXX		 	 	 	 
+Tiffany Johnson-Winbush	755	3.5%	2	757	3.5%	52	809	3.7%	-XXX		 	 	 	 
+Susan Damplo	343	1.6%	1	344	1.6%	-XXX		 	 	 	 	 
+Denny R. Salas	292	1.3%		292	1.3%	-XXX		 	 	 	 	 
+Write-ins	43	0.2%	-XXX		 	 	 	 	 	 
+Inactive ballots		 	25	25	 	129	154	 	533	687	 	495	1,182	 	1133	2,315	 		2,315	 	1680	3,995	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

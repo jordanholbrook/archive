@@ -1,0 +1,193 @@
+=== 20191125_da_detail.pdf | City: San_Francisco ===
+
+Final RCV Detail Report
+City and County of San Francisco
+November 5, 2019, Consolidated Municipal Election
+DISTRICT ATTORNEY
+Official results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+11/25/2019 3:56:37 PM
+Tabulation Options
+RCV method
+IRV
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Fixed precision decimals
+0
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Votes to include in threshold calculation 
+Continuing ballots per round
+Use first round suspension
+False
+Ties are resolved in accordance with election law.
+11/25/2019 16:06:05
+Page: 1 / 3
+
+City and County of San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+SUZY LOFTUS
+60,007
+31.06%
+LEIF DAUTCH
+27,031
+13.99%
+NANCY TUNG
+37,353
+19.33%
+CHESA BOUDIN
+68,805
+35.61%
+Continuing Ballots Total
+193,196
+Blanks
+12,396
+Exhausted
+0
+Overvotes
+525
+Remainder Points
+0
+Non Transferable Total
+12,921
+LEIF DAUTCH is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate LEIF DAUTCH.
+27031 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+LEIF DAUTCH
+SUZY LOFTUS
+6501
+1
+6,501
+LEIF DAUTCH
+NANCY TUNG
+9277
+1
+9,277
+LEIF DAUTCH
+CHESA BOUDIN
+4745
+1
+4,745
+LEIF DAUTCH
+Exhausted
+6439
+1
+6,439
+LEIF DAUTCH
+Overvotes
+69
+1
+69
+Round 2
+Candidate
+Votes
+Percentage
+SUZY LOFTUS
+66,508
+35.63%
+LEIF DAUTCH
+0
+0.00%
+NANCY TUNG
+46,630
+24.98%
+CHESA BOUDIN
+73,550
+39.40%
+Continuing Ballots Total
+186,688
+Blanks
+12,396
+Exhausted
+6,439
+Overvotes
+594
+Remainder Points
+0
+Non Transferable Total
+19,429
+NANCY TUNG is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate NANCY TUNG.
+46630 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+NANCY TUNG
+SUZY LOFTUS
+17364
+1
+17,364
+NANCY TUNG
+CHESA BOUDIN
+13162
+1
+13,162
+NANCY TUNG
+Exhausted
+15981
+1
+15,981
+NANCY TUNG
+Overvotes
+123
+1
+123
+11/25/2019 16:06:05
+Page: 2 / 3
+
+Round 3
+Candidate
+Votes
+Percentage
+SUZY LOFTUS
+83,872
+49.17%
+LEIF DAUTCH
+0
+0.00%
+NANCY TUNG
+0
+0.00%
+CHESA BOUDIN
+86,712
+50.83%
+Continuing Ballots Total
+170,584
+Blanks
+12,396
+Exhausted
+22,420
+Overvotes
+717
+Remainder Points
+0
+Non Transferable Total
+35,533
+SUZY LOFTUS is eliminated because the candidate was not elected in the last round.
+CHESA BOUDIN is elected because all other candidates have been eliminated.
+11/25/2019 16:06:05
+Page: 3 / 3
+

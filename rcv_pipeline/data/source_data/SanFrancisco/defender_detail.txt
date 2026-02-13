@@ -1,0 +1,78 @@
+=== defender_detail.pdf | City: San_Francisco ===
+
+Final RCV Detail Report
+City and County of San Francisco
+November 8, 2022, Consolidated General Election
+PUBLIC DEFENDER
+Unofficial results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+12/1/2022 10:42:32 AM
+Tabulation Options
+RCV method
+IRV
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Votes to include in threshold calculation 
+Continuing ballots per round
+Fixed precision decimals
+0
+Use previous tie break decision
+True
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Pause after round
+False
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Assign skipped rankings to the set of 
+exhausted ballots
+False
+Use first round suspension
+False
+Include disabled candidate rankings in 
+overvote
+False
+Ties are resolved in accordance with election law.
+12/01/2022 10:53:19
+Page: 1 / 2
+
+San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+REBECCA SUSAN FENG YOUNG
+71,922
+28.17%
+MANO RAJU
+183,378
+71.83%
+Continuing Ballots Total
+255,300
+Blanks
+52,554
+Exhausted
+0
+Overvotes
+486
+Remainder Points
+0
+Non Transferable Total
+53,040
+REBECCA SUSAN FENG YOUNG is eliminated because the candidate was not elected in the last 
+round.
+MANO RAJU is elected because all other candidates have been eliminated.
+12/01/2022 10:53:19
+Page: 2 / 2
+

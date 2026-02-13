@@ -1,0 +1,42 @@
+=== november-2-2010-pass-report-oakland-city-auditor.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+COURTNEY RUBY
+** WINNER **
+65335
+66.92%
+Write-In
+1204
+1.23%
+MICHAEL KILIAN
+31086
+31.84%
+Continuing Ballots
+97625
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+24521
+Exhausted Ballots
+0
+Exhausted by Over Votes
+122
+Total Ballots
+122268
+Run Id: 173 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Auditor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

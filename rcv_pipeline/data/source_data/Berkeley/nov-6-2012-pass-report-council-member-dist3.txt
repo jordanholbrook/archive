@@ -1,0 +1,43 @@
+=== nov-6-2012-pass-report-council-member-dist3.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+DMITRI BELSER
+2028
+39.28%
+Write-In
+0
+0.00%
+MAX ANDERSON
+** WINNER **
+3135
+60.72%
+Continuing Ballots
+5163
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1355
+Exhausted Ballots
+0
+Exhausted by Over Votes
+6
+Total Ballots
+6524
+Run Id: 226 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Berkeley (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

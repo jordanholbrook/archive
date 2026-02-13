@@ -1,0 +1,1582 @@
+=== november-2-2010-pass-report-oakland-mayor.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+MARCIE HODGE
+2994
+2.50%
+JOE TUMAN
+14347
+12.00%
+ARNOLD FIELDS
+733
+0.61%
+Write-In
+268
+0.22%
+REBECCA KAPLAN
+25813
+21.58%
+LARRY LIONEL ''LL'' YOUNG JR.
+933
+0.78%
+TERENCE CANDELL
+2315
+1.94%
+DON PERATA
+40342
+33.73%
+GREG HARLAND
+966
+0.81%
+JEAN QUAN
+29266
+24.47%
+DON MACLEAY
+1630
+1.36%
+Continuing Ballots
+119607
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+0
+Exhausted by Over Votes
+355
+Total Ballots
+122268
+Run Id: 172 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+268
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+MARCIE HODGE
+2994
+2.50%
+JOE TUMAN
+14347
+12.00%
+ARNOLD FIELDS
+733
+0.61%
+Write-In
+268
+0.22%
+REBECCA KAPLAN
+25813
+21.58%
+LARRY LIONEL ''LL'' YOUNG JR.
+933
+0.78%
+TERENCE CANDELL
+2315
+1.94%
+DON PERATA
+40342
+33.73%
+GREG HARLAND
+966
+0.81%
+JEAN QUAN
+29266
+24.47%
+DON MACLEAY
+1630
+1.36%
+Continuing Ballots
+119607
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+0
+Exhausted by Over Votes
+355
+Total Ballots
+122268
+Run Id: 172 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+Write-In
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+0
+6
+Write-In
+JOE TUMAN
+0
+10
+Write-In
+JEAN QUAN
+0
+33
+Write-In
+TERENCE CANDELL
+0
+1
+Write-In
+REBECCA KAPLAN
+0
+18
+Write-In
+MARCIE HODGE
+0
+5
+Write-In
+GREG HARLAND
+0
+2
+Write-In
+Over Votes
+1
+0
+Write-In
+Exhausted Ballots
+149
+0
+Write-In
+ARNOLD FIELDS
+0
+5
+Write-In
+DON PERATA
+0
+32
+Write-In
+DON MACLEAY
+0
+6
+Total
+150
+118
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+MARCIE HODGE
+2999
+2.51%
+JOE TUMAN
+14357
+12.02%
+ARNOLD FIELDS
+738
+0.62%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+25831
+21.62%
+LARRY LIONEL ''LL'' YOUNG JR.
+939
+0.79%
+TERENCE CANDELL
+2316
+1.94%
+DON PERATA
+40374
+33.80%
+GREG HARLAND
+968
+0.81%
+JEAN QUAN
+29299
+24.53%
+DON MACLEAY
+1636
+1.37%
+Continuing Ballots
+119457
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+149
+Exhausted by Over Votes
+356
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 2
+ARNOLD FIELDS
+738
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+MARCIE HODGE
+2999
+2.51%
+JOE TUMAN
+14357
+12.02%
+ARNOLD FIELDS
+738
+0.62%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+25831
+21.62%
+LARRY LIONEL ''LL'' YOUNG JR.
+939
+0.79%
+TERENCE CANDELL
+2316
+1.94%
+DON PERATA
+40374
+33.80%
+GREG HARLAND
+968
+0.81%
+JEAN QUAN
+29299
+24.53%
+DON MACLEAY
+1636
+1.37%
+Continuing Ballots
+119457
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+149
+Exhausted by Over Votes
+356
+Total Ballots
+122268
+Run Id: 172 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+ARNOLD FIELDS
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+0
+37
+ARNOLD FIELDS
+JOE TUMAN
+0
+114
+ARNOLD FIELDS
+JEAN QUAN
+0
+92
+ARNOLD FIELDS
+TERENCE CANDELL
+0
+70
+ARNOLD FIELDS
+REBECCA KAPLAN
+0
+59
+ARNOLD FIELDS
+MARCIE HODGE
+0
+34
+ARNOLD FIELDS
+Over Votes
+6
+0
+ARNOLD FIELDS
+Exhausted Ballots
+113
+0
+ARNOLD FIELDS
+DON MACLEAY
+0
+41
+ARNOLD FIELDS
+GREG HARLAND
+0
+91
+ARNOLD FIELDS
+DON PERATA
+0
+81
+Total
+119
+619
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+MARCIE HODGE
+3033
+2.54%
+JOE TUMAN
+14471
+12.13%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+25890
+21.69%
+LARRY LIONEL ''LL'' YOUNG JR.
+976
+0.82%
+TERENCE CANDELL
+2386
+2.00%
+DON PERATA
+40455
+33.90%
+GREG HARLAND
+1059
+0.89%
+JEAN QUAN
+29391
+24.63%
+DON MACLEAY
+1677
+1.41%
+Continuing Ballots
+119338
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+262
+Exhausted by Over Votes
+362
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 3
+LARRY LIONEL ''LL'' YOUNG JR.
+976
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+MARCIE HODGE
+3033
+2.54%
+JOE TUMAN
+14471
+12.13%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+25890
+21.69%
+LARRY LIONEL ''LL'' YOUNG JR.
+976
+0.82%
+TERENCE CANDELL
+2386
+2.00%
+DON PERATA
+40455
+33.90%
+GREG HARLAND
+1059
+0.89%
+JEAN QUAN
+29391
+24.63%
+DON MACLEAY
+1677
+1.41%
+Continuing Ballots
+119338
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+262
+Exhausted by Over Votes
+362
+Total Ballots
+122268
+Run Id: 172 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+JOE TUMAN
+0
+81
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+JEAN QUAN
+0
+123
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+MARCIE HODGE
+0
+122
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+TERENCE CANDELL
+0
+111
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+REBECCA KAPLAN
+0
+136
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+GREG HARLAND
+0
+28
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+Over Votes
+9
+0
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+Exhausted Ballots
+173
+0
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+DON PERATA
+0
+151
+LARRY LIONEL ''LL'' YOUNG 
+JR.
+DON MACLEAY
+0
+42
+Total
+182
+794
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+MARCIE HODGE
+3155
+2.65%
+JOE TUMAN
+14552
+12.21%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26026
+21.84%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2497
+2.10%
+DON PERATA
+40606
+34.08%
+GREG HARLAND
+1087
+0.91%
+JEAN QUAN
+29514
+24.77%
+DON MACLEAY
+1719
+1.44%
+Continuing Ballots
+119156
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+435
+Exhausted by Over Votes
+371
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 4
+GREG HARLAND
+1087
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+MARCIE HODGE
+3155
+2.65%
+JOE TUMAN
+14552
+12.21%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26026
+21.84%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2497
+2.10%
+DON PERATA
+40606
+34.08%
+GREG HARLAND
+1087
+0.91%
+JEAN QUAN
+29514
+24.77%
+DON MACLEAY
+1719
+1.44%
+Continuing Ballots
+119156
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+435
+Exhausted by Over Votes
+371
+Total Ballots
+122268
+Run Id: 172 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+GREG HARLAND
+JOE TUMAN
+0
+228
+GREG HARLAND
+JEAN QUAN
+0
+131
+GREG HARLAND
+MARCIE HODGE
+0
+45
+GREG HARLAND
+TERENCE CANDELL
+0
+116
+GREG HARLAND
+REBECCA KAPLAN
+0
+91
+GREG HARLAND
+Over Votes
+5
+0
+GREG HARLAND
+Exhausted Ballots
+216
+0
+GREG HARLAND
+DON PERATA
+0
+122
+GREG HARLAND
+DON MACLEAY
+0
+133
+Total
+221
+866
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+MARCIE HODGE
+3200
+2.69%
+JOE TUMAN
+14780
+12.43%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26117
+21.96%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2613
+2.20%
+DON PERATA
+40728
+34.24%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+29645
+24.93%
+DON MACLEAY
+1852
+1.56%
+Continuing Ballots
+118935
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+651
+Exhausted by Over Votes
+376
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 5
+DON MACLEAY
+1852
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+MARCIE HODGE
+3200
+2.69%
+JOE TUMAN
+14780
+12.43%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26117
+21.96%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2613
+2.20%
+DON PERATA
+40728
+34.24%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+29645
+24.93%
+DON MACLEAY
+1852
+1.56%
+Continuing Ballots
+118935
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+651
+Exhausted by Over Votes
+376
+Total Ballots
+122268
+Run Id: 172 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+DON MACLEAY
+MARCIE HODGE
+0
+50
+DON MACLEAY
+JOE TUMAN
+0
+169
+DON MACLEAY
+TERENCE CANDELL
+0
+67
+DON MACLEAY
+REBECCA KAPLAN
+0
+379
+DON MACLEAY
+JEAN QUAN
+0
+855
+DON MACLEAY
+Exhausted Ballots
+242
+0
+DON MACLEAY
+Over Votes
+4
+0
+DON MACLEAY
+DON PERATA
+0
+86
+Total
+246
+1606
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+MARCIE HODGE
+3250
+2.74%
+JOE TUMAN
+14949
+12.60%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26496
+22.32%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2680
+2.26%
+DON PERATA
+40814
+34.39%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+30500
+25.70%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+118689
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+893
+Exhausted by Over Votes
+380
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 6
+TERENCE CANDELL
+2680
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+MARCIE HODGE
+3250
+2.74%
+JOE TUMAN
+14949
+12.60%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26496
+22.32%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+2680
+2.26%
+DON PERATA
+40814
+34.39%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+30500
+25.70%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+118689
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+893
+Exhausted by Over Votes
+380
+Total Ballots
+122268
+Run Id: 172 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+TERENCE CANDELL
+JOE TUMAN
+0
+253
+TERENCE CANDELL
+JEAN QUAN
+0
+384
+TERENCE CANDELL
+REBECCA KAPLAN
+0
+335
+TERENCE CANDELL
+MARCIE HODGE
+0
+375
+TERENCE CANDELL
+Exhausted Ballots
+762
+0
+TERENCE CANDELL
+Over Votes
+21
+0
+TERENCE CANDELL
+DON PERATA
+0
+550
+Total
+783
+1897
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+MARCIE HODGE
+3625
+3.07%
+JOE TUMAN
+15202
+12.89%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26831
+22.76%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+41364
+35.08%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+30884
+26.19%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+117906
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+1655
+Exhausted by Over Votes
+401
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 7
+MARCIE HODGE
+3625
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+MARCIE HODGE
+3625
+3.07%
+JOE TUMAN
+15202
+12.89%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+26831
+22.76%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+41364
+35.08%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+30884
+26.19%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+117906
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+1655
+Exhausted by Over Votes
+401
+Total Ballots
+122268
+Run Id: 172 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+MARCIE HODGE
+JEAN QUAN
+0
+771
+MARCIE HODGE
+JOE TUMAN
+0
+260
+MARCIE HODGE
+REBECCA KAPLAN
+0
+644
+MARCIE HODGE
+DON PERATA
+0
+824
+MARCIE HODGE
+Exhausted Ballots
+1111
+0
+MARCIE HODGE
+Over Votes
+15
+0
+Total
+1126
+2499
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+MARCIE HODGE
+Eliminated in pass 7.
+0
+0.00%
+JOE TUMAN
+15462
+13.24%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+27475
+23.53%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+42188
+36.13%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+31655
+27.11%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+116780
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+2766
+Exhausted by Over Votes
+416
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 8
+JOE TUMAN
+15462
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+MARCIE HODGE
+Eliminated in pass 7.
+0
+0.00%
+JOE TUMAN
+15462
+13.24%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+27475
+23.53%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+42188
+36.13%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+31655
+27.11%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+116780
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+2766
+Exhausted by Over Votes
+416
+Total Ballots
+122268
+Run Id: 172 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+JOE TUMAN
+DON PERATA
+0
+3277
+JOE TUMAN
+JEAN QUAN
+0
+3378
+JOE TUMAN
+REBECCA KAPLAN
+0
+5244
+JOE TUMAN
+Exhausted Ballots
+3518
+0
+JOE TUMAN
+Over Votes
+45
+0
+Total
+3563
+11899
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+MARCIE HODGE
+Eliminated in pass 7.
+0
+0.00%
+JOE TUMAN
+Eliminated in pass 8.
+0
+0.00%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+32719
+28.90%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+45465
+40.16%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+35033
+30.94%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+113217
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+6284
+Exhausted by Over Votes
+461
+Total Ballots
+122268
+
+Complete
+Load Type:
+Pass Number: 9
+REBECCA KAPLAN
+32719
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+MARCIE HODGE
+Eliminated in pass 7.
+0
+0.00%
+JOE TUMAN
+Eliminated in pass 8.
+0
+0.00%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+32719
+28.90%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+45465
+40.16%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+35033
+30.94%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+113217
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2306
+Exhausted Ballots
+6284
+Exhausted by Over Votes
+461
+Total Ballots
+122268
+Run Id: 172 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+REBECCA KAPLAN
+DON PERATA
+0
+6407
+REBECCA KAPLAN
+JEAN QUAN
+0
+18864
+REBECCA KAPLAN
+Over Votes
+65
+0
+REBECCA KAPLAN
+Exhausted Ballots
+7383
+0
+Total
+7448
+25271
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+MARCIE HODGE
+Eliminated in pass 7.
+0
+0.00%
+JOE TUMAN
+Eliminated in pass 8.
+0
+0.00%
+ARNOLD FIELDS
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+REBECCA KAPLAN
+Eliminated in pass 9.
+0
+0.00%
+LARRY LIONEL ''LL'' YOUNG JR.
+Eliminated in pass 3.
+0
+0.00%
+TERENCE CANDELL
+Eliminated in pass 6.
+0
+0.00%
+DON PERATA
+51872
+49.04%
+GREG HARLAND
+Eliminated in pass 4.
+0
+0.00%
+JEAN QUAN
+** WINNER **
+53897
+50.96%
+DON MACLEAY
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+105769
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2306
+Exhausted Ballots
+13667
+Exhausted by Over Votes
+526
+Total Ballots
+122268
+

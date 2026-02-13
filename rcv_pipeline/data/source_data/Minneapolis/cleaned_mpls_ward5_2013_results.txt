@@ -1,0 +1,32 @@
+2013 Minneapolis Municipal Election Results: City Council Ward 5
+Ranked-choice Voting Tabulation Center Summary Statement
+
+Total votes cast for the office: 3499
+Note: Total votes counted in the first round. Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+
+Number to be elected: 1
+Threshold: 1750
+Note: Half of total votes cast for office + 1, disregarding fractions.
+
+Undervotes: 123
+Note: Voter did not rank any candidates for the office.
+
+Candidate                  | Round 1 | Round 2 Change | Round 2 Total | Final Round %
+---------------------------|---------|----------------|----------------|---------------
+Blong Yang                |   1475  |         367    |     1842       | 52.64%
+Brett Buckner             |    746  |        -746    |        0       | 
+Ian Alexander             |   1048  |         346    |     1394       | 39.84%
+Kale R. Severson          |    220  |        -220    |        0       | 
+Undeclared Write-ins      |     10  |         -10    |        0       | 
+Exhausted                 |         |         263    |      263       | 7.52%
+
+TOTAL                     |   3499  |     BALANCED   |     3499       |
+
+Partially defective ballots: 
+Note: Unable to determine voter's intent with respect to the office being counted.
+
+Totally defective ballots:
+Note: Unable to determine voter's intent for any office on the ballot.
+
+Spoiled ballots:
+Note: Voters who spoil a ballot are allowed to obtain a replacement ballot.

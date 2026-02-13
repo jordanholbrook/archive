@@ -1,0 +1,106 @@
+House District 37
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+37-700 Akutan 48 554
+37-702 Aleknagik 51 160
+37-704 Aleutians No. 1 20 170
+37-706 Aleutians No. 2 433 1,858
+37-707 Aniak 96 336
+37-708 Chignik 10 228
+37-709 Chuathbaluk 21 53
+37-710 Clark's Point 12 44
+37-712 Cold Bay 14 78
+37-713 Crooked Creek 12 71
+37-714 Dillingham 577 1,765
+37-716 Egegik 5 101
+37-718 Ekwok 34 72
+37-719 Goodnews Bay 49 205
+37-720 King Cove 112 362
+37-722 King Salmon 101 367
+37-724 Koliganek 57 110
+37-726 Lake Iliamna No. 1 100 219
+37-728 Lake Iliamna No. 2 60 164
+37-730 Levelock 15 44
+37-731 Lower Kalskag 51 179
+37-732 Manokotak 80 341
+37-734 Naknek 132 424
+37-736 New Stuyahok 148 307
+37-738 Nondalton 40 291
+37-740 Pedro Bay 8 32
+37-742 Port Heiden 23 68
+37-744 Sand Point 97 445
+Precinct
+State
+State of Alaska
+37-700 Akutan 37-702 Aleknagik 37-704 Aleutians No. 1 37-706 Aleutians No. 2 37-707 Aniak 37-708 Chignik 37-709 Chuathbaluk 37-710 Clark's Point 37-712 Cold Bay 37-713 Crooked Creek 37-714 Dillingham 37-716 Egegik 37-718 Ekwok 37-719 Goodnews Bay 37-720 King Cove 37-722 King Salmon 37-724 Koliganek 37-726 Lake Iliamna No. 1 37-728 Lake Iliamna No. 2 37-730 Levelock 37-731 Lower Kalskag 37-732 Manokotak 37-734 Naknek 37-736 New Stuyahok 37-738 Nondalton 37-740 Pedro Bay 37-742 Port Heiden 37-744 Sand Point Edgmon, Bryce
+(UND)
+40 100.00% 39 97.50% 15 100.00% 325 97.01% 83 96.51% 7 100.00% 15 100.00% 11 100.00% 10 90.91% 12 100.00% 452 94.36% 4 100.00% 27 96.43% 43 97.73% 89 97.80% 82 96.47% 49 98.00% 77 91.67% 50 100.00% 15 100.00% 43 97.73% 71 98.61% 109 97.32% 120 98.36% 37 100.00% 8 100.00% 20 90.91% 78 92.86% 11/30/2022 2:12:13 PM
+Write-in
+Total Votes
+0 0.00% 40
+1 2.50% 40
+0 0.00% 15
+10 2.99% 335
+3 3.49% 86
+0 0.00% 7
+0 0.00% 15
+0 0.00% 11
+1 9.09% 11
+0 0.00% 12
+27 5.64% 479
+0 0.00% 4
+1 3.57% 28
+1 2.27% 44
+2 2.20% 91
+3 3.53% 85
+1 2.00% 50
+7 8.33% 84
+0 0.00% 50
+0 0.00% 15
+1 2.27% 44
+1 1.39% 72
+3 2.68% 112
+2 1.64% 122
+0 0.00% 37
+0 0.00% 8
+2 9.09% 22
+6 7.14% 84
+
+Precinct
+Times Cast
+Registered
+Voters
+37-746 Sleetmute 26 113
+37-748 South Naknek 19 52
+37-750 St. George Island 9 41
+37-752 St. Paul Island 97 271
+37-754 Togiak 128 614
+37-756 Tyonek 25 390
+37-758 Upper Kalskag 49 137
+District 37 - Absentee 759 0
+District 37 - Early Voting 73 0
+District 37 - Question 89 0
+State of Alaska - Total 3,680 10,666
+State - Total 3,680 10,666
+Precinct
+Edgmon, Bryce
+(UND)
+37-746 Sleetmute 21 91.30% 37-748 South Naknek 17 94.44% 37-750 St. George Island 8 88.89% 37-752 St. Paul Island 80 98.77% 37-754 Togiak 112 100.00% 37-756 Tyonek 20 100.00% 37-758 Upper Kalskag 35 100.00% District 37 - Absentee 575 97.29% District 37 - Early Voting 61 96.83% District 37 - Question 23 100.00% State of Alaska - Total 2,883 96.81% State - Total 2,883 96.81% 11/30/2022 2:12:13 PM
+Write-in
+Total Votes
+2 8.70% 23
+1 5.56% 18
+1 11.11% 9
+1 1.23% 81
+0 0.00% 112
+0 0.00% 20
+0 0.00% 35
+16 2.71% 591
+2 3.17% 63
+0 0.00% 23
+95 3.19% 2,978
+95 3.19% 2,978

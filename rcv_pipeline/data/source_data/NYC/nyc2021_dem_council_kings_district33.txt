@@ -1,0 +1,33 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 33rd Council District
+Election Date:	2021/06/22
+Election results
+Lincoln Restler won the DEM Council Member 33rd Council District Primary with 16,537 of the votes in the final round.
+Lincoln Restler defeated Elizabeth E. Adams, who received 9,332 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6	Round 7
+Eliminated in this round	 	Write-ins	Ben Solotaire		Stu Sherman	April Somboun	Toba Potosky; Sabrina N. Gates; Victoria E. Cambranes**
+Elected	 	 	 	Lincoln Restler over 50%	 	 	Lincoln Restler*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Lincoln Restler	14,444	49.4%	8	14,452	49.6%	130	14,582	50.3%		14,582	50.3%	235	14,817	51.7%	304	15,121	53.5%	1416	16,537	63.9%
+Elizabeth E. Adams	6,181	21.1%	1	6,182	21.2%	102	6,284	21.7%		6,284	21.7%	258	6,542	22.8%	346	6,888	24.4%	2444	9,332	36.1%
+Victoria E. Cambranes	2,055	7.0%	3	2,058	7.1%	71	2,129	7.3%		2,129	7.3%	135	2,264	7.9%	171	2,435	8.6%	-XXX	
+Sabrina N. Gates	1,611	5.5%	7	1,618	5.6%	32	1,650	5.7%		1,650	5.7%	64	1,714	6.0%	226	1,940	6.9%	-XXX	
+Toba Potosky	1,591	5.4%	3	1,594	5.5%	38	1,632	5.6%		1,632	5.6%	86	1,718	6.0%	174	1,892	6.7%	-XXX	
+April Somboun	1,483	5.1%		1,483	5.1%	31	1,514	5.2%		1,514	5.2%	74	1,588	5.5%	-XXX		 
+Stu Sherman	1,139	3.9%	1	1,140	3.9%	57	1,197	4.1%		1,197	4.1%	-XXX		 	 
+Ben Solotaire	622	2.1%	1	623	2.1%	-XXX		 	 	 	 
+Write-ins	102	0.3%	-XXX		 	 	 	 	 
+Inactive ballots		 	78	78	 	162	240	 		240	 	345	585	 	367	952	 	2407	3,359	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

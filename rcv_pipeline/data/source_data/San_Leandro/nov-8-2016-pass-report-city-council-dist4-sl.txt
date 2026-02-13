@@ -1,0 +1,40 @@
+=== nov-8-2016-pass-report-city-council-dist4-sl.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+0
+0.00%
+BENNY LEE
+** WINNER **
+23293
+100.00%
+Continuing Ballots
+23293
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+8456
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+31790
+Run Id: 119 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - San 
+Leandro (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

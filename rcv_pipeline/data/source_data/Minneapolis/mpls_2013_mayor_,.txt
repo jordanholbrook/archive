@@ -1,0 +1,117 @@
+"2013 Minneapolis Municipal Election Results: Mayor
+Ranked-choice Voting Tabulation Center Summary Statement"																																																																			
+"Total votes cast
+for the office:"	79415	"Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots."																																																																	
+Number to be elected:	1																																																																		
+Threshold:	39708	Note: Half of total votes cast for office + 1, disregarding fractions.																																																																	
+Undervotes:	686	Note: Voter did not rank any candidates for the office.																																																																	
+																																																																			
+																																																																			
+Candidate	Round 1	Round 2	Round 2	Round 3	Round 3	Round 4	Round 4	Round 5	Round 5	Round 6	Round 6	Round 7	Round 7	Round 8	Round 8	Round 9	Round 9	Round 10	Round 10	Round 11	Round 11	Round 12	Round 12	Round 13	Round 13	Round 14	Round 14	Round 15	Round 15	Round 16	Round 16	Round 17	Round 17	Round 18	Round 18	Round 19	Round 19	Round 20	Round 20	Round 21	Round 21	Round 22	Round 22	Round 23	Round 23	Round 24	Round 24	Round 25	Round 25	Round 26	Round 26	Round 27	Round 27	Round 28	Round 28	Round 29	Round 29	Round 30	Round 30	Round 31	Round 31	Round 32	Round 32	Round 33	Round 33	Round 34	Final Round Percentage
+		defeated undeclared Write-ins		defeated Wilson		Defeated Gorman		Defeated Carney, Jr.		Defeated Workcuff		Defeated Stroud		Defeated Bruyere		Defeated Hartwig		Defeated Kahn		Defeated Rea		Defeated Merrill Anderson		Defeated Gregg Iverson		Defeated Benjegerdes		Defeated Baxter		Defeated Wagner		Defeated Zimmerman		Defeated Hanna		Defeated Gould		defeated Kelly		Defeated Lane		Defeated Clark		Defeated Sparrow		Defeated Rahaman		Defeated Bennett		Defeated Everett		Defeated Savior		Defeated Mann		Defeated Mark V Anderson		Defeated Woodruff		Defeated Cohen		Defeated Fine, Cherryhomes		Defeated Winton, Samuels  		"Elected Hodges
+Defeated Andrew"	
+	First preference votes	" Vote Change
+ (+ Added, 
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	no vote transfer in this round	May not sum to 100% due to rounding
+Alicia K. Bennett	354	1	355	0	355	0	355	1	356	0	356	3	359	1	360	3	363	4	367	3	370	6	376	5	381	1	382	0	382	11	393	2	395	1	396	20	416	9	425	6	431	3	434	3	437	6	443	-443	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Mike Gould	204	3	207	0	207	0	207	0	207	0	207	2	209	1	210	0	210	4	214	3	217	1	218	2	220	1	221	6	227	8	235	1	236	2	238	-238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Troy Benjegerdes	149	0	149	1	150	0	150	0	150	0	150	2	152	4	156	1	157	1	158	0	158	6	164	3	167	-167	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Ole Savior	700	1	701	1	702	0	702	0	702	3	705	0	705	0	705	6	711	4	715	0	715	5	720	2	722	2	724	10	734	1	735	18	753	4	757	2	759	1	760	0	760	38	798	12	810	4	814	3	817	0	817	-817	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Kurtis W. Hanna	200	0	200	0	200	1	201	1	202	0	202	0	202	0	202	2	204	0	204	2	206	1	207	0	207	7	214	0	214	2	216	6	222	-222	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Abdul M Rahaman "The Rock"	355	1	356	0	356	0	356	1	357	1	358	2	360	0	360	0	360	5	365	4	369	3	372	5	377	5	382	0	382	4	386	2	388	3	391	5	396	2	398	0	398	1	399	16	415	-415	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Bill Kahn	102	1	103	1	104	1	105	1	106	0	106	2	108	0	108	2	110	-110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Stephanie Woodruff	1014	2	1016	1	1017	1	1018	1	1019	1	1020	0	1020	4	1024	1	1025	4	1029	0	1029	4	1033	6	1039	8	1047	7	1054	6	1060	0	1060	3	1063	15	1078	7	1085	4	1089	1	1090	8	1098	17	1115	71	1186	12	1198	4	1202	37	1239	20	1259	-1259	0	0	0	0	0	0	0	-	0.00%
+John Leslie Hartwig	97	0	97	2	99	0	99	1	100	1	101	0	101	0	101	-101	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Dan Cohen	1808	3	1811	2	1813	2	1815	0	1815	1	1816	3	1819	1	1820	6	1826	6	1832	5	1837	8	1845	7	1852	3	1855	4	1859	6	1865	5	1870	9	1879	8	1887	10	1897	3	1900	16	1916	23	1939	5	1944	10	1954	9	1963	53	2016	33	2049	53	2102	41	2143	-2143	0	0	0	0	0	-	0.00%
+Bob "Again" Carney Jr	56	0	56	0	56	1	57	-57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+James Everett	349	1	350	1	351	1	352	3	355	3	358	0	358	1	359	6	365	3	368	2	370	1	371	0	371	9	380	3	383	1	384	4	388	12	400	3	403	10	413	15	428	3	431	9	440	4	444	8	452	-452	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Don Samuels	8350	4	8354	1	8355	2	8357	8	8365	5	8370	3	8373	5	8378	3	8381	1	8382	3	8385	7	8392	5	8397	8	8405	9	8414	9	8423	5	8428	11	8439	16	8455	6	8461	17	8478	5	8483	11	8494	7	8501	29	8530	26	8556	24	8580	43	8623	76	8699	145	8844	253	9097	1204	10301	-10301	0	-	0.00%
+Betsy Hodges	28962	21	28983	1	28984	4	28988	6	28994	5	28999	4	29003	12	29015	8	29023	4	29027	4	29031	5	29036	7	29043	28	29071	32	29103	14	29117	6	29123	49	29172	13	29185	74	29259	57	29316	8	29324	58	29382	35	29417	73	29490	102	29592	14	29606	439	30045	244	30289	383	30672	291	30963	1618	32581	6289	38870	-	48.95%
+Rahn V. Workcuff	66	0	66	0	66	0	66	0	66	-66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Bob Fine	2101	2	2103	2	2105	1	2106	2	2108	4	2112	3	2115	2	2117	1	2118	3	2121	1	2122	3	2125	10	2135	2	2137	4	2141	6	2147	0	2147	8	2155	13	2168	4	2172	4	2176	6	2182	16	2198	6	2204	19	2223	13	2236	19	2255	31	2286	57	2343	74	2417	142	2559	-2559	0	0	0	-	0.00%
+Mark V Anderson	984	1	985	1	986	3	989	1	990	5	995	1	996	1	997	5	1002	5	1007	3	1010	8	1018	2	1020	5	1025	3	1028	1	1029	16	1045	4	1049	0	1049	4	1053	3	1056	18	1074	4	1078	8	1086	11	1097	9	1106	47	1153	10	1163	-1163	0	0	0	0	0	0	0	0	0	-	0.00%
+Gregg A. Iverson	146	0	146	1	147	2	149	0	149	0	149	0	149	0	149	3	152	1	153	2	155	1	156	-156	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Edmund Bernard Bruyere	72	0	72	0	72	0	72	0	72	1	73	0	73	-73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Captain Jack Sparrow	265	5	270	1	271	0	271	6	277	1	278	1	279	0	279	1	280	4	284	4	288	5	293	2	295	4	299	5	304	3	307	2	309	16	325	4	329	4	333	8	341	11	352	-352	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Jackie Cherryhomes	3548	3	3551	0	3551	0	3551	0	3551	5	3556	4	3560	6	3566	2	3568	3	3571	9	3580	6	3586	23	3609	4	3613	4	3617	11	3628	8	3636	2	3638	16	3654	8	3662	7	3669	2	3671	11	3682	8	3690	21	3711	30	3741	10	3751	18	3769	100	3869	92	3961	109	4070	-4070	0	0	0	-	0.00%
+Christopher Robin Zimmerman	172	0	172	0	172	1	173	0	173	4	177	1	178	1	179	3	182	3	185	1	186	2	188	2	190	2	192	2	194	0	194	-194	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Cyd Gorman	39	0	39	0	39	-39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Joshua Rea	110	0	110	0	110	3	113	0	113	1	114	1	115	0	115	1	116	3	119	-119	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Merrill Anderson	109	0	109	0	109	3	112	1	113	0	113	5	118	3	121	1	122	1	123	16	139	-139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Doug Mann	779	3	782	5	787	4	791	3	794	2	796	0	796	4	800	1	801	1	802	7	809	4	813	3	816	15	831	5	836	5	841	5	846	17	863	4	867	32	899	62	961	10	971	22	993	3	996	6	1002	87	1089	17	1106	-1106	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+James "Jimmy" L. Stroud, Jr.	65	1	66	0	66	0	66	2	68	0	68	-68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Tony Lane	220	1	221	3	224	0	224	0	224	1	225	1	226	1	227	1	228	2	230	1	231	5	236	2	238	6	244	2	246	4	250	1	251	5	256	7	263	13	276	-276	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Jeffrey Alan Wagner	167	0	167	0	167	0	167	0	167	1	168	3	171	0	171	1	172	2	174	2	176	3	179	7	186	2	188	1	189	-189	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Christopher Clark	192	2	194	2	196	0	196	0	196	1	197	0	197	0	197	3	200	2	202	0	202	1	203	2	205	1	206	6	212	0	212	54	266	14	280	3	283	0	283	4	287	-287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Mark Andrew	19648	16	19664	4	19668	1	19669	7	19676	1	19677	6	19683	5	19688	2	19690	3	19693	5	19698	10	19708	17	19725	13	19738	16	19754	42	19796	7	19803	10	19813	30	19843	8	19851	25	19876	8	19884	23	19907	35	19942	45	19987	35	20022	22	20044	107	20151	58	20209	127	20336	191	20527	1304	21831	3141	24972	-	31.44%
+Cam Winton	7533	7	7540	2	7542	2	7544	0	7544	3	7547	1	7548	8	7556	6	7562	2	7564	3	7567	3	7570	1	7571	5	7576	15	7591	2	7593	20	7613	21	7634	3	7637	5	7642	5	7647	57	7704	11	7715	3	7718	5	7723	7	7730	93	7823	18	7841	95	7936	94	8030	419	8449	520	8969	-8969	0	-	0.00%
+John Charles Wilson	37	1	38	-38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Neal Baxter	147	0	147	0	147	1	148	0	148	5	153	0	153	0	153	15	168	4	172	1	173	3	176	2	178	2	180	-180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Jaymie Kelly	197	1	198	0	198	0	198	1	199	1	200	3	203	1	204	0	204	2	206	9	215	5	220	4	224	12	236	5	241	1	242	1	243	5	248	4	252	-252	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Undeclared Write-ins	118	-118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-	0.00%
+Exhausted	-	37	37	6	43	5	48	11	59	10	69	17	86	12	98	17	115	33	148	29	177	33	210	37	247	22	269	41	310	52	362	31	393	26	419	72	491	55	546	56	602	100	702	125	827	274	1101	142	1243	122	1365	514	1879	370	2249	460	2709	303	3012	738	3750	1983	5733	9840	15573		19.61%
+TOTAL	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415	BALANCED	79415		
+	BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		

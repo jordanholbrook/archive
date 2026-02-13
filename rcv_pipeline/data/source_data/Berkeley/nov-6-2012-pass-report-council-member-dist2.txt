@@ -1,0 +1,46 @@
+=== nov-6-2012-pass-report-council-member-dist2.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+DARRYL MOORE
+** WINNER **
+3412
+58.96%
+Write-In
+0
+0.00%
+DENISHA DELANE
+1635
+28.25%
+ADOLFO CABRAL
+740
+12.79%
+Continuing Ballots
+5787
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1036
+Exhausted Ballots
+0
+Exhausted by Over Votes
+16
+Total Ballots
+6839
+Run Id: 225 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Berkeley (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

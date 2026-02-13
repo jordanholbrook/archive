@@ -1,0 +1,42 @@
+=== nov-4-2014-pass-report-city-auditor-oakland.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+LEN RAPHAEL
+18317
+23.10%
+Write-In
+0
+0.00%
+BRENDA ROBERTS
+** WINNER **
+60970
+76.90%
+Continuing Ballots
+79287
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+25448
+Exhausted Ballots
+0
+Exhausted by Over Votes
+99
+Total Ballots
+104834
+Run Id: 210 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Auditor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

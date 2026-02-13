@@ -1,0 +1,55 @@
+State: Utah
+link: https://rcvis.com/visualize=payson-seat-2-2019-11-19_11-18-27_summary_2json
+
+{
+  "config" : {
+    "contest" : "Payson City Council",
+    "date" : "2019-11-05",
+    "jurisdiction" : "Payson City",
+    "office" : "Payson City Council",
+    "threshold" : "1299"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "BRIAN V. HULET" : "1117",
+      "CARY KENNETH STOCKWELL" : "348",
+      "LINDA CARTER" : "976",
+      "SCOTT PINKHAM" : "224"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "SCOTT PINKHAM",
+      "transfers" : {
+        "BRIAN V. HULET" : "83",
+        "CARY KENNETH STOCKWELL" : "77",
+        "LINDA CARTER" : "47",
+        "exhausted" : "17"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "BRIAN V. HULET" : "1200",
+      "CARY KENNETH STOCKWELL" : "425",
+      "LINDA CARTER" : "1023"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "CARY KENNETH STOCKWELL",
+      "transfers" : {
+        "BRIAN V. HULET" : "195",
+        "LINDA CARTER" : "179",
+        "exhausted" : "51"
+      }
+    } ]
+  }, {
+    "round" : 3,
+    "tally" : {
+      "BRIAN V. HULET" : "1395",
+      "LINDA CARTER" : "1202"
+    },
+    "tallyResults" : [ {
+      "elected" : "BRIAN V. HULET",
+      "transfers" : { }
+    } ]
+  } ]
+}

@@ -1,0 +1,20 @@
+Final Certified Ranked-Choice Results Report
+November 6, 2012 Consolidated General Election
+Board of Supervisors, District 3
+
+The Election Summary Report provides the accumulated totals of first-choice rankings.
+
+The Ranked-Choice Voting Report for Round 1 combines the accumulated totals of first-choice rankings as well as the second- or third-choice selections transferred to the first-choice ranking selections when the first-choice ranking was skipped as required under San Francisco Charter Sec. 13.102: "If a voter casts a ranked-choice ballot but skips a rank, the voter's vote shall be transferred to that voter's next ranked choice."
+
+Last Updated: November 6, 2012 20:45
+
+Detailed Reports: One of the candidates in the contest has received a majority of first-choice selections from the ballots counted.
+
+Board of Supervisors, District 3
+Ballots cast	Percent
+DAVID CHIU		17700	75.42%
+F. JOSEPH BUTLER		2685	11.44%
+MARC BRUNO		1984	8.45%
+WILMA PANG		1033	4.4%
+WRITE-IN		68	0.29%
+Total		23470	100%

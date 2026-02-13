@@ -1,0 +1,46 @@
+"2013 Minneapolis Municipal Election Results:
+Park and Recreation Commissioner  At Large
+Ranked-choice Voting Tabulation Center Summary Statement"																	
+"Total votes cast
+for the office:"	59463	"Note: Total votes counted in the first round.
+Does not include undervotes, overvotes, defective, or spoiled ballots."															
+Number to be elected:	3																
+Threshold:	14866	Note: One-quarter of total votes cast for office + 1, disregarding fractions.															
+Undervotes:	20638	Note: Voter did not rank any candidates for the office.															
+																	
+																	
+Candidate	Round 1	Round 2	Round 2	Round 3	Round 3	Round 4	Round 4	Round 5	Round 5	Round 6	Round 6	Round 7	Round 7	Round 8	Round 8	Round 9	Final Round Percentage
+		Defeated UWI, Hill		Defeated Israel		Distributed Surplus: Erwin		Defeatead McPherson		Defeated Barland		Defeated Yonis		Defeated Stone		 Elected Young,Forney, Defeated Nordyke	
+	First preference votes	" Vote Change
+ (+ Added, 
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	" Vote Change
+ (+ Added
+- Subtracted)"	Grand Total	No Vote Transfers in this round	May not sum to 100% due to rounding
+Annie Young	9294	158	9452	531	9983	72.9492	10055.9492	1000.0044	11055.9536	472.1160	11528.0696	502.3534	12030.4230	1875.2750	13905.6980	-	23.39%
+Casper Hill	1280	-1280	0	0	0	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	-	0.00%
+Hashim Yonis	3762	37	3799	530	4329	4.6314	4333.6314	144.3348	4477.9662	81.1116	4559.0778	-4559.0778	0.0000	0.0000	0.0000	-	0.00%
+Ishmael Israel	3305	69	3374	-3374	0	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	-	0.00%
+Jason Stone	5357	120	5477	289	5766	45.6630	5811.6630	279.0974	6090.7604	453.4322	6544.1926	192.4278	6736.6204	-6736.6204	0.0000	-	0.00%
+John Erwin	14678	188	14866	282	15148	-281.7528	14866.2472	0.0000	14866.2472	0.0000	14866.2472	0.0000	14866.2472	0.0000	14866.2472	-	25.00%
+Mary Lynn McPherson	3373	106	3479	202	3681	7.4400	3688.4400	-3688.4400	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	-	0.00%
+Meg Forney	7856	175	8031	372	8403	20.6460	8423.6460	738.9300	9162.5760	670.8370	9833.4130	327.1860	10160.5990	812.7386	10973.3376	-	18.45%
+Steve Barland	3705	98	3803	90	3893	8.5374	3901.5374	212.6510	4114.1884	-4114.1884	0.0000	0.0000	0.0000	0.0000	0.0000	-	0.00%
+Tom Nordyke	6511	84	6595	128	6723	78.6408	6801.6408	242.7998	7044.4406	535.5810	7580.0216	153.2976	7733.3192	1019.2124	8752.5316	-	0.00%
+Undeclared Write-ins	342	-342	0	0	0	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	-	0.00%
+Exhausted	-	587	587	950	1537	43.2450	1580.2450	1070.6226	2650.8676	1901.1106	4551.9782	3383.8130	7935.7912	3029.3944	10965.1856	-	18.44%
+TOTAL	59463	BALANCED	59463	BALANCED	59463	BALANCED	59463.0000	BALANCED	59463.0000	BALANCED	59463.0000	BALANCED	59463.0000	BALANCED	59463.0000	-	
+	BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		BALANCED		
+							0.2472 of Erwin's total will not transfer due to rounding, and will stay with the candidate.										
+Partially defective ballots:		Note: Unable to determine voter's intent with respect to the office being counted.															
+Totally defective ballots:		Note: Unable to determine voter's intent for any office on the ballot.															
+Spoiled ballots:		Note: Voter requested a replacement ballot.															

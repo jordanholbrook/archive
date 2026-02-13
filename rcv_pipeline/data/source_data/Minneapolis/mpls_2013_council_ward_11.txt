@@ -1,0 +1,23 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 11 election results
+Official Winner: John Quincy
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 11
+Candidate	First ranked votes	Percent
+John Quincy	4,952	67.48%
+Matt Steele	2,053	27.97%
+Bob Schlosser	329	4.48%
+Write-ins	5	0.07%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and John Quincy was elected.
+
+Ballots cast summary
+Total ballots cast	7,800	Total votes counted in the first round.
+Maximum possible threshold	3,901	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	1	Voter voted for more candidates than allowed.
+Undervotes	460	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

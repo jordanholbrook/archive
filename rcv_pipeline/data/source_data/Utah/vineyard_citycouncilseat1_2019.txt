@@ -1,0 +1,118 @@
+State: Utah
+link: https://rcvis.com/visualize=vineyard-seat-1-updated-2019-11-19_11-20-30json
+
+{
+  "config" : {
+    "contest" : "Vineyard City Council",
+    "date" : "2019-11-05",
+    "jurisdiction" : "Vineyard City",
+    "office" : "Vineyard City Council",
+    "threshold" : "528"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "ANTHONY JENKINS" : "94",
+      "CRISTY WELSH" : "347",
+      "DAVID LAURET" : "155",
+      "G. TYCE FLAKE" : "277",
+      "HECTOR RAFAEL HERNANDEZ" : "89",
+      "KEITH KUDER" : "101",
+      "TAY GUDMUNDSON" : "35"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "TAY GUDMUNDSON",
+      "transfers" : {
+        "ANTHONY JENKINS" : "8",
+        "CRISTY WELSH" : "15",
+        "DAVID LAURET" : "2",
+        "G. TYCE FLAKE" : "5",
+        "HECTOR RAFAEL HERNANDEZ" : "2",
+        "KEITH KUDER" : "2",
+        "exhausted" : "1"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "ANTHONY JENKINS" : "102",
+      "CRISTY WELSH" : "362",
+      "DAVID LAURET" : "157",
+      "G. TYCE FLAKE" : "282",
+      "HECTOR RAFAEL HERNANDEZ" : "91",
+      "KEITH KUDER" : "104"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "HECTOR RAFAEL HERNANDEZ",
+      "transfers" : {
+        "ANTHONY JENKINS" : "16",
+        "CRISTY WELSH" : "31",
+        "DAVID LAURET" : "12",
+        "G. TYCE FLAKE" : "9",
+        "KEITH KUDER" : "18",
+        "exhausted" : "5"
+      }
+    } ]
+  }, {
+    "round" : 3,
+    "tally" : {
+      "ANTHONY JENKINS" : "118",
+      "CRISTY WELSH" : "393",
+      "DAVID LAURET" : "169",
+      "G. TYCE FLAKE" : "291",
+      "KEITH KUDER" : "122"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "ANTHONY JENKINS",
+      "transfers" : {
+        "CRISTY WELSH" : "56",
+        "DAVID LAURET" : "5",
+        "G. TYCE FLAKE" : "42",
+        "KEITH KUDER" : "9",
+        "exhausted" : "6"
+      }
+    } ]
+  }, {
+    "round" : 4,
+    "tally" : {
+      "CRISTY WELSH" : "449",
+      "DAVID LAURET" : "174",
+      "G. TYCE FLAKE" : "333",
+      "KEITH KUDER" : "131"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "KEITH KUDER",
+      "transfers" : {
+        "CRISTY WELSH" : "49",
+        "DAVID LAURET" : "27",
+        "G. TYCE FLAKE" : "34",
+        "exhausted" : "21"
+      }
+    } ]
+  }, {
+    "round" : 5,
+    "tally" : {
+      "CRISTY WELSH" : "498",
+      "DAVID LAURET" : "201",
+      "G. TYCE FLAKE" : "367"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "DAVID LAURET",
+      "transfers" : {
+        "CRISTY WELSH" : "91",
+        "G. TYCE FLAKE" : "99",
+        "exhausted" : "11"
+      }
+    } ]
+  }, {
+    "round" : 6,
+    "tally" : {
+      "CRISTY WELSH" : "589",
+      "G. TYCE FLAKE" : "466"
+    },
+    "tallyResults" : [ {
+      "elected" : "CRISTY WELSH",
+      "transfers" : { }
+    } ]
+  } ]
+}

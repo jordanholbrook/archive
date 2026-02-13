@@ -1,0 +1,37 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 1 - Oakland (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+EDWARD C. FRANK	2649	8.85 %
+ZAC UNGER	22815	76.22 %
+LEN RAPHAEL	4468	14.93 %
+CONTINUING BALLOTS TOTAL	29932	
+BLANKS	5156	
+EXHAUSTED	0	
+OVERVOTES	169	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	5325	
+
+EDWARD C. FRANK is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate EDWARD C. FRANK. 2649 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+EDWARD C. FRANK	ZAC UNGER	1535	1	1535
+EDWARD C. FRANK	LEN RAPHAEL	434	1	434
+EDWARD C. FRANK	EXHAUSTED	663	1	663
+EDWARD C. FRANK	OVERVOTES	17	1	17
+
+-------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+EDWARD C. FRANK	0	0.00 %
+ZAC UNGER	24350	83.24 %
+LEN RAPHAEL	4902	16.76 %
+CONTINUING BALLOTS TOTAL	29252	
+BLANKS	5156	
+EXHAUSTED	663	
+OVERVOTES	186	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6005	

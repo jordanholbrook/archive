@@ -1,0 +1,43 @@
+=== november-2-2010-rcv-oakland-city-council-district-2-pass-report.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+JENNIFER S. PAE
+4604
+33.77%
+Write-In
+75
+0.55%
+PATRICIA KERNIGHAN
+** WINNER **
+8954
+65.68%
+Continuing Ballots
+13633
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1599
+Exhausted Ballots
+0
+Exhausted by Over Votes
+11
+Total Ballots
+15243
+Run Id: 174 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

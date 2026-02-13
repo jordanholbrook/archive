@@ -1,0 +1,5131 @@
+=== RCV-D10_2010.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+Run Id: 61 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ERIC SMITH
+448
+2.52%
+JACKIE NORMAN
+186
+1.04%
+LYNETTE SWEET
+2150
+12.07%
+DEWITT M. LACY
+1274
+7.15%
+M.J. MARIE FRANKLIN
+81
+0.45%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+237
+1.33%
+WRITE-IN
+17
+0.10%
+TERESA DUQUE
+1441
+8.09%
+STEVE MOSS
+1969
+11.06%
+ED DONALDSON
+202
+1.13%
+CHRIS JACKSON
+1088
+6.11%
+JAMES M. CALLOWAY
+417
+2.34%
+STEPHEN WEBER
+311
+1.75%
+MALIA COHEN
+2097
+11.78%
+ASHLEY H RHODES
+260
+1.46%
+MARLENE TRAN
+2049
+11.51%
+NYESE JOSHUA
+135
+0.76%
+ELLSWORTH ''ELL'' JENNISON
+68
+0.38%
+KRISTINE ENEA
+544
+3.05%
+DIANE WESLEY SMITH
+399
+2.24%
+TONY KELLY
+2102
+11.80%
+Continuing Ballots
+17808
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+0
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 1
+ERIC SMITH
+448
+2.52%
+JACKIE NORMAN
+186
+1.04%
+LYNETTE SWEET
+2150
+12.07%
+DEWITT M. LACY
+1274
+7.15%
+M.J. MARIE FRANKLIN
+81
+0.45%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+237
+1.33%
+WRITE-IN
+17
+0.10%
+TERESA DUQUE
+1441
+8.09%
+STEVE MOSS
+1969
+11.06%
+ED DONALDSON
+202
+1.13%
+CHRIS JACKSON
+1088
+6.11%
+JAMES M. CALLOWAY
+417
+2.34%
+STEPHEN WEBER
+311
+1.75%
+MALIA COHEN
+2097
+11.78%
+ASHLEY H RHODES
+260
+1.46%
+MARLENE TRAN
+2049
+11.51%
+NYESE JOSHUA
+135
+0.76%
+ELLSWORTH ''ELL'' JENNISON
+68
+0.38%
+KRISTINE ENEA
+544
+3.05%
+DIANE WESLEY SMITH
+399
+2.24%
+TONY KELLY
+2102
+11.80%
+Continuing Ballots
+17808
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+0
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+Run Id: 61 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+WRITE-IN
+17
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+WRITE-IN
+JAMES M. CALLOWAY
+0
+1
+WRITE-IN
+LYNETTE SWEET
+0
+3
+WRITE-IN
+MALIA COHEN
+0
+1
+WRITE-IN
+Exhausted Ballots
+10
+0
+WRITE-IN
+DEWITT M. LACY
+0
+2
+Total
+10
+7
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+ERIC SMITH
+448
+2.52%
+JACKIE NORMAN
+186
+1.05%
+LYNETTE SWEET
+2153
+12.10%
+DEWITT M. LACY
+1276
+7.17%
+M.J. MARIE FRANKLIN
+81
+0.46%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+237
+1.33%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1441
+8.10%
+STEVE MOSS
+1969
+11.06%
+ED DONALDSON
+202
+1.13%
+CHRIS JACKSON
+1088
+6.11%
+JAMES M. CALLOWAY
+418
+2.35%
+STEPHEN WEBER
+311
+1.75%
+MALIA COHEN
+2098
+11.79%
+ASHLEY H RHODES
+260
+1.46%
+MARLENE TRAN
+2049
+11.51%
+NYESE JOSHUA
+135
+0.76%
+ELLSWORTH ''ELL'' JENNISON
+68
+0.38%
+KRISTINE ENEA
+544
+3.06%
+DIANE WESLEY SMITH
+399
+2.24%
+TONY KELLY
+2102
+11.81%
+Continuing Ballots
+17798
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+10
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 2
+ERIC SMITH
+448
+2.52%
+JACKIE NORMAN
+186
+1.05%
+LYNETTE SWEET
+2153
+12.10%
+DEWITT M. LACY
+1276
+7.17%
+M.J. MARIE FRANKLIN
+81
+0.46%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+237
+1.33%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1441
+8.10%
+STEVE MOSS
+1969
+11.06%
+ED DONALDSON
+202
+1.13%
+CHRIS JACKSON
+1088
+6.11%
+JAMES M. CALLOWAY
+418
+2.35%
+STEPHEN WEBER
+311
+1.75%
+MALIA COHEN
+2098
+11.79%
+ASHLEY H RHODES
+260
+1.46%
+MARLENE TRAN
+2049
+11.51%
+NYESE JOSHUA
+135
+0.76%
+ELLSWORTH ''ELL'' JENNISON
+68
+0.38%
+KRISTINE ENEA
+544
+3.06%
+DIANE WESLEY SMITH
+399
+2.24%
+TONY KELLY
+2102
+11.81%
+Continuing Ballots
+17798
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+10
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+Run Id: 61 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ELLSWORTH ''ELL'' JENNISON
+68
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+
+ELLSWORTH ''ELL'' 
+JENNISON
+MARLENE TRAN
+0
+3
+ELLSWORTH ''ELL'' 
+JENNISON
+NYESE JOSHUA
+0
+6
+ELLSWORTH ''ELL'' 
+JENNISON
+MALIA COHEN
+0
+2
+ELLSWORTH ''ELL'' 
+JENNISON
+LYNETTE SWEET
+0
+3
+ELLSWORTH ''ELL'' 
+JENNISON
+M.J. MARIE FRANKLIN
+0
+4
+ELLSWORTH ''ELL'' 
+JENNISON
+TERESA DUQUE
+0
+2
+ELLSWORTH ''ELL'' 
+JENNISON
+TONY KELLY
+0
+6
+ELLSWORTH ''ELL'' 
+JENNISON
+STEVE MOSS
+0
+2
+ELLSWORTH ''ELL'' 
+JENNISON
+RODNEY HAMPTON, JR.
+0
+2
+ELLSWORTH ''ELL'' 
+JENNISON
+STEPHEN WEBER
+0
+4
+ELLSWORTH ''ELL'' 
+JENNISON
+CHRIS JACKSON
+0
+6
+ELLSWORTH ''ELL'' 
+JENNISON
+DEWITT M. LACY
+0
+3
+ELLSWORTH ''ELL'' 
+JENNISON
+Exhausted Ballots
+9
+0
+ELLSWORTH ''ELL'' 
+JENNISON
+ASHLEY H RHODES
+0
+2
+ELLSWORTH ''ELL'' 
+JENNISON
+DIANE WESLEY SMITH
+0
+1
+ELLSWORTH ''ELL'' 
+JENNISON
+JAMES M. CALLOWAY
+0
+4
+ELLSWORTH ''ELL'' 
+JENNISON
+KRISTINE ENEA
+0
+4
+ELLSWORTH ''ELL'' 
+JENNISON
+ERIC SMITH
+0
+3
+ELLSWORTH ''ELL'' 
+JENNISON
+JACKIE NORMAN
+0
+2
+Total
+9
+59
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+
+ERIC SMITH
+451
+2.54%
+JACKIE NORMAN
+188
+1.06%
+LYNETTE SWEET
+2156
+12.12%
+DEWITT M. LACY
+1279
+7.19%
+M.J. MARIE FRANKLIN
+85
+0.48%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+239
+1.34%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1443
+8.11%
+STEVE MOSS
+1971
+11.08%
+ED DONALDSON
+202
+1.14%
+CHRIS JACKSON
+1094
+6.15%
+JAMES M. CALLOWAY
+422
+2.37%
+STEPHEN WEBER
+315
+1.77%
+MALIA COHEN
+2100
+11.81%
+ASHLEY H RHODES
+262
+1.47%
+MARLENE TRAN
+2052
+11.54%
+NYESE JOSHUA
+141
+0.79%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+548
+3.08%
+DIANE WESLEY SMITH
+400
+2.25%
+TONY KELLY
+2108
+11.85%
+Continuing Ballots
+17789
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+19
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 3
+ERIC SMITH
+451
+2.54%
+JACKIE NORMAN
+188
+1.06%
+LYNETTE SWEET
+2156
+12.12%
+DEWITT M. LACY
+1279
+7.19%
+M.J. MARIE FRANKLIN
+85
+0.48%
+GEOFFREA MORRIS
+333
+1.87%
+RODNEY HAMPTON, JR.
+239
+1.34%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1443
+8.11%
+STEVE MOSS
+1971
+11.08%
+ED DONALDSON
+202
+1.14%
+CHRIS JACKSON
+1094
+6.15%
+JAMES M. CALLOWAY
+422
+2.37%
+STEPHEN WEBER
+315
+1.77%
+MALIA COHEN
+2100
+11.81%
+ASHLEY H RHODES
+262
+1.47%
+MARLENE TRAN
+2052
+11.54%
+NYESE JOSHUA
+141
+0.79%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+548
+3.08%
+DIANE WESLEY SMITH
+400
+2.25%
+TONY KELLY
+2108
+11.85%
+Continuing Ballots
+17789
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+19
+Exhausted by Over Votes
+500
+Total Ballots
+20550
+Run Id: 61 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+M.J. MARIE FRANKLIN
+85
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+M.J. MARIE FRANKLIN
+MARLENE TRAN
+0
+7
+M.J. MARIE FRANKLIN
+NYESE JOSHUA
+0
+6
+M.J. MARIE FRANKLIN
+MALIA COHEN
+0
+5
+M.J. MARIE FRANKLIN
+KRISTINE ENEA
+0
+4
+M.J. MARIE FRANKLIN
+LYNETTE SWEET
+0
+6
+M.J. MARIE FRANKLIN
+TERESA DUQUE
+0
+6
+M.J. MARIE FRANKLIN
+TONY KELLY
+0
+3
+M.J. MARIE FRANKLIN
+STEVE MOSS
+0
+6
+M.J. MARIE FRANKLIN
+RODNEY HAMPTON, JR.
+0
+4
+M.J. MARIE FRANKLIN
+STEPHEN WEBER
+0
+1
+M.J. MARIE FRANKLIN
+ASHLEY H RHODES
+0
+1
+M.J. MARIE FRANKLIN
+CHRIS JACKSON
+0
+4
+M.J. MARIE FRANKLIN
+Exhausted Ballots
+11
+0
+M.J. MARIE FRANKLIN
+Over Votes
+1
+0
+M.J. MARIE FRANKLIN
+DEWITT M. LACY
+0
+3
+M.J. MARIE FRANKLIN
+JACKIE NORMAN
+0
+3
+M.J. MARIE FRANKLIN
+JAMES M. CALLOWAY
+0
+8
+M.J. MARIE FRANKLIN
+ERIC SMITH
+0
+3
+M.J. MARIE FRANKLIN
+GEOFFREA MORRIS
+0
+3
+Total
+12
+73
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+ERIC SMITH
+454
+2.55%
+JACKIE NORMAN
+191
+1.07%
+LYNETTE SWEET
+2162
+12.16%
+DEWITT M. LACY
+1282
+7.21%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+336
+1.89%
+RODNEY HAMPTON, JR.
+243
+1.37%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1449
+8.15%
+STEVE MOSS
+1977
+11.12%
+ED DONALDSON
+202
+1.14%
+CHRIS JACKSON
+1098
+6.18%
+JAMES M. CALLOWAY
+430
+2.42%
+STEPHEN WEBER
+316
+1.78%
+MALIA COHEN
+2105
+11.84%
+ASHLEY H RHODES
+263
+1.48%
+MARLENE TRAN
+2059
+11.58%
+NYESE JOSHUA
+147
+0.83%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+552
+3.11%
+DIANE WESLEY SMITH
+400
+2.25%
+TONY KELLY
+2111
+11.87%
+Continuing Ballots
+17777
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+30
+Exhausted by Over Votes
+501
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 4
+ERIC SMITH
+454
+2.55%
+JACKIE NORMAN
+191
+1.07%
+LYNETTE SWEET
+2162
+12.16%
+DEWITT M. LACY
+1282
+7.21%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+336
+1.89%
+RODNEY HAMPTON, JR.
+243
+1.37%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1449
+8.15%
+STEVE MOSS
+1977
+11.12%
+ED DONALDSON
+202
+1.14%
+CHRIS JACKSON
+1098
+6.18%
+JAMES M. CALLOWAY
+430
+2.42%
+STEPHEN WEBER
+316
+1.78%
+MALIA COHEN
+2105
+11.84%
+ASHLEY H RHODES
+263
+1.48%
+MARLENE TRAN
+2059
+11.58%
+NYESE JOSHUA
+147
+0.83%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+552
+3.11%
+DIANE WESLEY SMITH
+400
+2.25%
+TONY KELLY
+2111
+11.87%
+Continuing Ballots
+17777
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+30
+Exhausted by Over Votes
+501
+Total Ballots
+20550
+Run Id: 61 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+NYESE JOSHUA
+147
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+NYESE JOSHUA
+MALIA COHEN
+0
+6
+NYESE JOSHUA
+MARLENE TRAN
+0
+12
+NYESE JOSHUA
+KRISTINE ENEA
+0
+3
+NYESE JOSHUA
+LYNETTE SWEET
+0
+8
+NYESE JOSHUA
+RODNEY HAMPTON, JR.
+0
+8
+NYESE JOSHUA
+TERESA DUQUE
+0
+7
+NYESE JOSHUA
+TONY KELLY
+0
+21
+NYESE JOSHUA
+STEPHEN WEBER
+0
+2
+NYESE JOSHUA
+STEVE MOSS
+0
+2
+NYESE JOSHUA
+JAMES M. CALLOWAY
+0
+4
+NYESE JOSHUA
+CHRIS JACKSON
+0
+12
+NYESE JOSHUA
+DEWITT M. LACY
+0
+10
+NYESE JOSHUA
+Exhausted Ballots
+25
+0
+NYESE JOSHUA
+ASHLEY H RHODES
+0
+2
+NYESE JOSHUA
+GEOFFREA MORRIS
+0
+8
+NYESE JOSHUA
+JACKIE NORMAN
+0
+2
+NYESE JOSHUA
+DIANE WESLEY SMITH
+0
+12
+NYESE JOSHUA
+ED DONALDSON
+0
+3
+Total
+25
+122
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+
+ERIC SMITH
+454
+2.56%
+JACKIE NORMAN
+193
+1.09%
+LYNETTE SWEET
+2170
+12.22%
+DEWITT M. LACY
+1292
+7.28%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+344
+1.94%
+RODNEY HAMPTON, JR.
+251
+1.41%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1456
+8.20%
+STEVE MOSS
+1979
+11.15%
+ED DONALDSON
+205
+1.15%
+CHRIS JACKSON
+1110
+6.25%
+JAMES M. CALLOWAY
+434
+2.44%
+STEPHEN WEBER
+318
+1.79%
+MALIA COHEN
+2111
+11.89%
+ASHLEY H RHODES
+265
+1.49%
+MARLENE TRAN
+2071
+11.67%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+555
+3.13%
+DIANE WESLEY SMITH
+412
+2.32%
+TONY KELLY
+2132
+12.01%
+Continuing Ballots
+17752
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+55
+Exhausted by Over Votes
+501
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 5
+ERIC SMITH
+454
+2.56%
+JACKIE NORMAN
+193
+1.09%
+LYNETTE SWEET
+2170
+12.22%
+DEWITT M. LACY
+1292
+7.28%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+344
+1.94%
+RODNEY HAMPTON, JR.
+251
+1.41%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1456
+8.20%
+STEVE MOSS
+1979
+11.15%
+ED DONALDSON
+205
+1.15%
+CHRIS JACKSON
+1110
+6.25%
+JAMES M. CALLOWAY
+434
+2.44%
+STEPHEN WEBER
+318
+1.79%
+MALIA COHEN
+2111
+11.89%
+ASHLEY H RHODES
+265
+1.49%
+MARLENE TRAN
+2071
+11.67%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+555
+3.13%
+DIANE WESLEY SMITH
+412
+2.32%
+TONY KELLY
+2132
+12.01%
+Continuing Ballots
+17752
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+55
+Exhausted by Over Votes
+501
+Total Ballots
+20550
+Run Id: 61 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+JACKIE NORMAN
+193
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+JACKIE NORMAN
+MALIA COHEN
+0
+21
+JACKIE NORMAN
+MARLENE TRAN
+0
+1
+JACKIE NORMAN
+LYNETTE SWEET
+0
+19
+JACKIE NORMAN
+JAMES M. CALLOWAY
+0
+3
+JACKIE NORMAN
+KRISTINE ENEA
+0
+4
+JACKIE NORMAN
+TERESA DUQUE
+0
+3
+JACKIE NORMAN
+TONY KELLY
+0
+4
+JACKIE NORMAN
+STEVE MOSS
+0
+8
+JACKIE NORMAN
+RODNEY HAMPTON, JR.
+0
+10
+JACKIE NORMAN
+STEPHEN WEBER
+0
+3
+JACKIE NORMAN
+ASHLEY H RHODES
+0
+12
+JACKIE NORMAN
+CHRIS JACKSON
+0
+16
+JACKIE NORMAN
+Exhausted Ballots
+54
+0
+JACKIE NORMAN
+Over Votes
+2
+0
+JACKIE NORMAN
+DEWITT M. LACY
+0
+6
+JACKIE NORMAN
+ERIC SMITH
+0
+5
+JACKIE NORMAN
+GEOFFREA MORRIS
+0
+5
+JACKIE NORMAN
+DIANE WESLEY SMITH
+0
+16
+JACKIE NORMAN
+ED DONALDSON
+0
+1
+Total
+56
+137
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+
+ERIC SMITH
+459
+2.59%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2189
+12.37%
+DEWITT M. LACY
+1298
+7.33%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+349
+1.97%
+RODNEY HAMPTON, JR.
+261
+1.47%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1459
+8.24%
+STEVE MOSS
+1987
+11.23%
+ED DONALDSON
+206
+1.16%
+CHRIS JACKSON
+1126
+6.36%
+JAMES M. CALLOWAY
+437
+2.47%
+STEPHEN WEBER
+321
+1.81%
+MALIA COHEN
+2132
+12.05%
+ASHLEY H RHODES
+277
+1.57%
+MARLENE TRAN
+2072
+11.71%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+559
+3.16%
+DIANE WESLEY SMITH
+428
+2.42%
+TONY KELLY
+2136
+12.07%
+Continuing Ballots
+17696
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+109
+Exhausted by Over Votes
+503
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 6
+ERIC SMITH
+459
+2.59%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2189
+12.37%
+DEWITT M. LACY
+1298
+7.33%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+349
+1.97%
+RODNEY HAMPTON, JR.
+261
+1.47%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1459
+8.24%
+STEVE MOSS
+1987
+11.23%
+ED DONALDSON
+206
+1.16%
+CHRIS JACKSON
+1126
+6.36%
+JAMES M. CALLOWAY
+437
+2.47%
+STEPHEN WEBER
+321
+1.81%
+MALIA COHEN
+2132
+12.05%
+ASHLEY H RHODES
+277
+1.57%
+MARLENE TRAN
+2072
+11.71%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+559
+3.16%
+DIANE WESLEY SMITH
+428
+2.42%
+TONY KELLY
+2136
+12.07%
+Continuing Ballots
+17696
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+109
+Exhausted by Over Votes
+503
+Total Ballots
+20550
+Run Id: 61 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ED DONALDSON
+206
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+ED DONALDSON
+MALIA COHEN
+0
+22
+ED DONALDSON
+MARLENE TRAN
+0
+2
+ED DONALDSON
+KRISTINE ENEA
+0
+5
+ED DONALDSON
+LYNETTE SWEET
+0
+38
+ED DONALDSON
+RODNEY HAMPTON, JR.
+0
+19
+ED DONALDSON
+TERESA DUQUE
+0
+5
+ED DONALDSON
+TONY KELLY
+0
+3
+ED DONALDSON
+STEPHEN WEBER
+0
+5
+ED DONALDSON
+STEVE MOSS
+0
+12
+ED DONALDSON
+CHRIS JACKSON
+0
+8
+ED DONALDSON
+DEWITT M. LACY
+0
+19
+ED DONALDSON
+Exhausted Ballots
+51
+0
+ED DONALDSON
+ASHLEY H RHODES
+0
+1
+ED DONALDSON
+GEOFFREA MORRIS
+0
+3
+ED DONALDSON
+JAMES M. CALLOWAY
+0
+6
+ED DONALDSON
+DIANE WESLEY SMITH
+0
+4
+ED DONALDSON
+ERIC SMITH
+0
+3
+Total
+51
+155
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+
+ERIC SMITH
+462
+2.62%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2227
+12.62%
+DEWITT M. LACY
+1317
+7.46%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+352
+1.99%
+RODNEY HAMPTON, JR.
+280
+1.59%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1464
+8.30%
+STEVE MOSS
+1999
+11.33%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1134
+6.43%
+JAMES M. CALLOWAY
+443
+2.51%
+STEPHEN WEBER
+326
+1.85%
+MALIA COHEN
+2154
+12.21%
+ASHLEY H RHODES
+278
+1.58%
+MARLENE TRAN
+2074
+11.75%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+564
+3.20%
+DIANE WESLEY SMITH
+432
+2.45%
+TONY KELLY
+2139
+12.12%
+Continuing Ballots
+17645
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+160
+Exhausted by Over Votes
+503
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 7
+ERIC SMITH
+462
+2.62%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2227
+12.62%
+DEWITT M. LACY
+1317
+7.46%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+352
+1.99%
+RODNEY HAMPTON, JR.
+280
+1.59%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1464
+8.30%
+STEVE MOSS
+1999
+11.33%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1134
+6.43%
+JAMES M. CALLOWAY
+443
+2.51%
+STEPHEN WEBER
+326
+1.85%
+MALIA COHEN
+2154
+12.21%
+ASHLEY H RHODES
+278
+1.58%
+MARLENE TRAN
+2074
+11.75%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+564
+3.20%
+DIANE WESLEY SMITH
+432
+2.45%
+TONY KELLY
+2139
+12.12%
+Continuing Ballots
+17645
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+160
+Exhausted by Over Votes
+503
+Total Ballots
+20550
+Run Id: 61 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ASHLEY H RHODES
+278
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+ASHLEY H RHODES
+MALIA COHEN
+0
+40
+ASHLEY H RHODES
+MARLENE TRAN
+0
+22
+ASHLEY H RHODES
+KRISTINE ENEA
+0
+14
+ASHLEY H RHODES
+LYNETTE SWEET
+0
+16
+ASHLEY H RHODES
+RODNEY HAMPTON, JR.
+0
+10
+ASHLEY H RHODES
+TERESA DUQUE
+0
+3
+ASHLEY H RHODES
+TONY KELLY
+0
+11
+ASHLEY H RHODES
+STEPHEN WEBER
+0
+13
+ASHLEY H RHODES
+STEVE MOSS
+0
+4
+ASHLEY H RHODES
+CHRIS JACKSON
+0
+9
+ASHLEY H RHODES
+DEWITT M. LACY
+0
+7
+ASHLEY H RHODES
+Exhausted Ballots
+68
+0
+ASHLEY H RHODES
+Over Votes
+4
+0
+ASHLEY H RHODES
+GEOFFREA MORRIS
+0
+4
+ASHLEY H RHODES
+JAMES M. CALLOWAY
+0
+21
+ASHLEY H RHODES
+DIANE WESLEY SMITH
+0
+29
+ASHLEY H RHODES
+ERIC SMITH
+0
+3
+Total
+72
+206
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+
+ERIC SMITH
+465
+2.65%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2243
+12.76%
+DEWITT M. LACY
+1324
+7.53%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+356
+2.03%
+RODNEY HAMPTON, JR.
+290
+1.65%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1467
+8.35%
+STEVE MOSS
+2003
+11.40%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1143
+6.50%
+JAMES M. CALLOWAY
+464
+2.64%
+STEPHEN WEBER
+339
+1.93%
+MALIA COHEN
+2194
+12.49%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2096
+11.93%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+578
+3.29%
+DIANE WESLEY SMITH
+461
+2.62%
+TONY KELLY
+2150
+12.23%
+Continuing Ballots
+17573
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+228
+Exhausted by Over Votes
+507
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 8
+ERIC SMITH
+465
+2.65%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2243
+12.76%
+DEWITT M. LACY
+1324
+7.53%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+356
+2.03%
+RODNEY HAMPTON, JR.
+290
+1.65%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1467
+8.35%
+STEVE MOSS
+2003
+11.40%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1143
+6.50%
+JAMES M. CALLOWAY
+464
+2.64%
+STEPHEN WEBER
+339
+1.93%
+MALIA COHEN
+2194
+12.49%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2096
+11.93%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+578
+3.29%
+DIANE WESLEY SMITH
+461
+2.62%
+TONY KELLY
+2150
+12.23%
+Continuing Ballots
+17573
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+228
+Exhausted by Over Votes
+507
+Total Ballots
+20550
+Run Id: 61 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+RODNEY HAMPTON, JR.
+290
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+RODNEY HAMPTON, JR.
+MALIA COHEN
+0
+21
+RODNEY HAMPTON, JR.
+MARLENE TRAN
+0
+8
+RODNEY HAMPTON, JR.
+KRISTINE ENEA
+0
+7
+RODNEY HAMPTON, JR.
+LYNETTE SWEET
+0
+35
+RODNEY HAMPTON, JR.
+TERESA DUQUE
+0
+6
+RODNEY HAMPTON, JR.
+TONY KELLY
+0
+5
+RODNEY HAMPTON, JR.
+STEPHEN WEBER
+0
+10
+RODNEY HAMPTON, JR.
+STEVE MOSS
+0
+10
+RODNEY HAMPTON, JR.
+JAMES M. CALLOWAY
+0
+14
+RODNEY HAMPTON, JR.
+CHRIS JACKSON
+0
+24
+RODNEY HAMPTON, JR.
+Over Votes
+1
+0
+RODNEY HAMPTON, JR.
+Exhausted Ballots
+95
+0
+RODNEY HAMPTON, JR.
+DEWITT M. LACY
+0
+13
+RODNEY HAMPTON, JR.
+GEOFFREA MORRIS
+0
+17
+RODNEY HAMPTON, JR.
+ERIC SMITH
+0
+9
+RODNEY HAMPTON, JR.
+DIANE WESLEY SMITH
+0
+15
+Total
+96
+194
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+
+ERIC SMITH
+474
+2.71%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2278
+13.03%
+DEWITT M. LACY
+1337
+7.65%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+373
+2.13%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1473
+8.43%
+STEVE MOSS
+2013
+11.52%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1167
+6.68%
+JAMES M. CALLOWAY
+478
+2.74%
+STEPHEN WEBER
+349
+2.00%
+MALIA COHEN
+2215
+12.67%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2104
+12.04%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+585
+3.35%
+DIANE WESLEY SMITH
+476
+2.72%
+TONY KELLY
+2155
+12.33%
+Continuing Ballots
+17477
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+323
+Exhausted by Over Votes
+508
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 9
+ERIC SMITH
+474
+2.71%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2278
+13.03%
+DEWITT M. LACY
+1337
+7.65%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+373
+2.13%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1473
+8.43%
+STEVE MOSS
+2013
+11.52%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1167
+6.68%
+JAMES M. CALLOWAY
+478
+2.74%
+STEPHEN WEBER
+349
+2.00%
+MALIA COHEN
+2215
+12.67%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2104
+12.04%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+585
+3.35%
+DIANE WESLEY SMITH
+476
+2.72%
+TONY KELLY
+2155
+12.33%
+Continuing Ballots
+17477
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+323
+Exhausted by Over Votes
+508
+Total Ballots
+20550
+Run Id: 61 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+STEPHEN WEBER
+349
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+STEPHEN WEBER
+LYNETTE SWEET
+0
+13
+STEPHEN WEBER
+MALIA COHEN
+0
+29
+STEPHEN WEBER
+JAMES M. CALLOWAY
+0
+16
+STEPHEN WEBER
+KRISTINE ENEA
+0
+25
+STEPHEN WEBER
+TERESA DUQUE
+0
+10
+STEPHEN WEBER
+TONY KELLY
+0
+25
+STEPHEN WEBER
+MARLENE TRAN
+0
+12
+STEPHEN WEBER
+STEVE MOSS
+0
+34
+STEPHEN WEBER
+CHRIS JACKSON
+0
+13
+STEPHEN WEBER
+Over Votes
+1
+0
+STEPHEN WEBER
+Exhausted Ballots
+116
+0
+STEPHEN WEBER
+DEWITT M. LACY
+0
+24
+STEPHEN WEBER
+GEOFFREA MORRIS
+0
+2
+STEPHEN WEBER
+ERIC SMITH
+0
+6
+STEPHEN WEBER
+DIANE WESLEY SMITH
+0
+23
+Total
+117
+232
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+
+ERIC SMITH
+480
+2.76%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2291
+13.20%
+DEWITT M. LACY
+1361
+7.84%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+375
+2.16%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1483
+8.54%
+STEVE MOSS
+2047
+11.79%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1180
+6.80%
+JAMES M. CALLOWAY
+494
+2.85%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2244
+12.93%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2116
+12.19%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+610
+3.51%
+DIANE WESLEY SMITH
+499
+2.87%
+TONY KELLY
+2180
+12.56%
+Continuing Ballots
+17360
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+439
+Exhausted by Over Votes
+509
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 10
+ERIC SMITH
+480
+2.76%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2291
+13.20%
+DEWITT M. LACY
+1361
+7.84%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+375
+2.16%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1483
+8.54%
+STEVE MOSS
+2047
+11.79%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1180
+6.80%
+JAMES M. CALLOWAY
+494
+2.85%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2244
+12.93%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2116
+12.19%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+610
+3.51%
+DIANE WESLEY SMITH
+499
+2.87%
+TONY KELLY
+2180
+12.56%
+Continuing Ballots
+17360
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+439
+Exhausted by Over Votes
+509
+Total Ballots
+20550
+Run Id: 61 - Pass 10
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+GEOFFREA MORRIS
+375
+Candidate
+Votes
+Eliminated Candidates - Pass
+10
+GEOFFREA MORRIS
+MALIA COHEN
+0
+56
+GEOFFREA MORRIS
+LYNETTE SWEET
+0
+47
+GEOFFREA MORRIS
+KRISTINE ENEA
+0
+7
+GEOFFREA MORRIS
+MARLENE TRAN
+0
+8
+GEOFFREA MORRIS
+TONY KELLY
+0
+5
+GEOFFREA MORRIS
+TERESA DUQUE
+0
+12
+GEOFFREA MORRIS
+STEVE MOSS
+0
+12
+GEOFFREA MORRIS
+DEWITT M. LACY
+0
+23
+GEOFFREA MORRIS
+CHRIS JACKSON
+0
+16
+GEOFFREA MORRIS
+Exhausted Ballots
+152
+0
+GEOFFREA MORRIS
+JAMES M. CALLOWAY
+0
+17
+GEOFFREA MORRIS
+ERIC SMITH
+0
+4
+GEOFFREA MORRIS
+DIANE WESLEY SMITH
+0
+16
+Total
+152
+223
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+10
+
+ERIC SMITH
+484
+2.81%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2338
+13.59%
+DEWITT M. LACY
+1384
+8.04%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1495
+8.69%
+STEVE MOSS
+2059
+11.97%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1196
+6.95%
+JAMES M. CALLOWAY
+511
+2.97%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2300
+13.37%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2124
+12.34%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+617
+3.59%
+DIANE WESLEY SMITH
+515
+2.99%
+TONY KELLY
+2185
+12.70%
+Continuing Ballots
+17208
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+591
+Exhausted by Over Votes
+509
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 11
+ERIC SMITH
+484
+2.81%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2338
+13.59%
+DEWITT M. LACY
+1384
+8.04%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1495
+8.69%
+STEVE MOSS
+2059
+11.97%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1196
+6.95%
+JAMES M. CALLOWAY
+511
+2.97%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2300
+13.37%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2124
+12.34%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+617
+3.59%
+DIANE WESLEY SMITH
+515
+2.99%
+TONY KELLY
+2185
+12.70%
+Continuing Ballots
+17208
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+591
+Exhausted by Over Votes
+509
+Total Ballots
+20550
+Run Id: 61 - Pass 11
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ERIC SMITH
+484
+Candidate
+Votes
+Eliminated Candidates - Pass
+11
+ERIC SMITH
+MALIA COHEN
+0
+86
+ERIC SMITH
+LYNETTE SWEET
+0
+17
+ERIC SMITH
+KRISTINE ENEA
+0
+17
+ERIC SMITH
+MARLENE TRAN
+0
+8
+ERIC SMITH
+TONY KELLY
+0
+96
+ERIC SMITH
+TERESA DUQUE
+0
+4
+ERIC SMITH
+STEVE MOSS
+0
+47
+ERIC SMITH
+CHRIS JACKSON
+0
+40
+ERIC SMITH
+Over Votes
+1
+0
+ERIC SMITH
+Exhausted Ballots
+91
+0
+ERIC SMITH
+JAMES M. CALLOWAY
+0
+11
+ERIC SMITH
+DIANE WESLEY SMITH
+0
+11
+ERIC SMITH
+DEWITT M. LACY
+0
+55
+Total
+92
+392
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+11
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2355
+13.76%
+DEWITT M. LACY
+1439
+8.41%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1499
+8.76%
+STEVE MOSS
+2106
+12.30%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1236
+7.22%
+JAMES M. CALLOWAY
+522
+3.05%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2386
+13.94%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2132
+12.46%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+634
+3.70%
+DIANE WESLEY SMITH
+526
+3.07%
+TONY KELLY
+2281
+13.33%
+Continuing Ballots
+17116
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+682
+Exhausted by Over Votes
+510
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 12
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2355
+13.76%
+DEWITT M. LACY
+1439
+8.41%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1499
+8.76%
+STEVE MOSS
+2106
+12.30%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1236
+7.22%
+JAMES M. CALLOWAY
+522
+3.05%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2386
+13.94%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2132
+12.46%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+634
+3.70%
+DIANE WESLEY SMITH
+526
+3.07%
+TONY KELLY
+2281
+13.33%
+Continuing Ballots
+17116
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+682
+Exhausted by Over Votes
+510
+Total Ballots
+20550
+Run Id: 61 - Pass 12
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+JAMES M. CALLOWAY
+522
+Candidate
+Votes
+Eliminated Candidates - Pass
+12
+JAMES M. CALLOWAY
+MARLENE TRAN
+0
+37
+JAMES M. CALLOWAY
+MALIA COHEN
+0
+37
+JAMES M. CALLOWAY
+LYNETTE SWEET
+0
+41
+JAMES M. CALLOWAY
+TONY KELLY
+0
+29
+JAMES M. CALLOWAY
+TERESA DUQUE
+0
+13
+JAMES M. CALLOWAY
+STEVE MOSS
+0
+33
+JAMES M. CALLOWAY
+KRISTINE ENEA
+0
+20
+JAMES M. CALLOWAY
+Over Votes
+3
+0
+JAMES M. CALLOWAY
+Exhausted Ballots
+191
+0
+JAMES M. CALLOWAY
+CHRIS JACKSON
+0
+45
+JAMES M. CALLOWAY
+DIANE WESLEY SMITH
+0
+41
+JAMES M. CALLOWAY
+DEWITT M. LACY
+0
+32
+Total
+194
+328
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+12
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2396
+14.16%
+DEWITT M. LACY
+1471
+8.69%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1512
+8.94%
+STEVE MOSS
+2139
+12.64%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1281
+7.57%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2423
+14.32%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2169
+12.82%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+654
+3.86%
+DIANE WESLEY SMITH
+567
+3.35%
+TONY KELLY
+2310
+13.65%
+Continuing Ballots
+16922
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+873
+Exhausted by Over Votes
+513
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 13
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2396
+14.16%
+DEWITT M. LACY
+1471
+8.69%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1512
+8.94%
+STEVE MOSS
+2139
+12.64%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1281
+7.57%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2423
+14.32%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2169
+12.82%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+654
+3.86%
+DIANE WESLEY SMITH
+567
+3.35%
+TONY KELLY
+2310
+13.65%
+Continuing Ballots
+16922
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+873
+Exhausted by Over Votes
+513
+Total Ballots
+20550
+Run Id: 61 - Pass 13
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+KRISTINE ENEA
+654
+DIANE WESLEY SMITH
+567
+Candidate
+Votes
+Eliminated Candidates - Pass
+13
+KRISTINE ENEA
+TERESA DUQUE
+0
+25
+KRISTINE ENEA
+STEVE MOSS
+0
+93
+KRISTINE ENEA
+TONY KELLY
+0
+82
+DIANE WESLEY SMITH
+TERESA DUQUE
+0
+5
+DIANE WESLEY SMITH
+TONY KELLY
+0
+18
+KRISTINE ENEA
+DEWITT M. LACY
+0
+73
+KRISTINE ENEA
+CHRIS JACKSON
+0
+43
+KRISTINE ENEA
+LYNETTE SWEET
+0
+55
+KRISTINE ENEA
+MARLENE TRAN
+0
+32
+KRISTINE ENEA
+MALIA COHEN
+0
+57
+DIANE WESLEY SMITH
+STEVE MOSS
+0
+23
+DIANE WESLEY SMITH
+Over Votes
+4
+0
+KRISTINE ENEA
+Over Votes
+3
+0
+DIANE WESLEY SMITH
+Exhausted Ballots
+273
+0
+KRISTINE ENEA
+Exhausted Ballots
+191
+0
+DIANE WESLEY SMITH
+CHRIS JACKSON
+0
+46
+DIANE WESLEY SMITH
+MALIA COHEN
+0
+50
+DIANE WESLEY SMITH
+MARLENE TRAN
+0
+15
+DIANE WESLEY SMITH
+DEWITT M. LACY
+0
+41
+DIANE WESLEY SMITH
+LYNETTE SWEET
+0
+92
+Total
+471
+750
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+13
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2543
+15.46%
+DEWITT M. LACY
+1585
+9.63%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1542
+9.37%
+STEVE MOSS
+2255
+13.71%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1370
+8.33%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2530
+15.38%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2216
+13.47%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2410
+14.65%
+Continuing Ballots
+16451
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+1337
+Exhausted by Over Votes
+520
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 14
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2543
+15.46%
+DEWITT M. LACY
+1585
+9.63%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1542
+9.37%
+STEVE MOSS
+2255
+13.71%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+1370
+8.33%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2530
+15.38%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2216
+13.47%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2410
+14.65%
+Continuing Ballots
+16451
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+1337
+Exhausted by Over Votes
+520
+Total Ballots
+20550
+Run Id: 61 - Pass 14
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+CHRIS JACKSON
+1370
+Candidate
+Votes
+Eliminated Candidates - Pass
+14
+CHRIS JACKSON
+MARLENE TRAN
+0
+84
+CHRIS JACKSON
+MALIA COHEN
+0
+147
+CHRIS JACKSON
+STEVE MOSS
+0
+109
+CHRIS JACKSON
+TONY KELLY
+0
+229
+CHRIS JACKSON
+TERESA DUQUE
+0
+32
+CHRIS JACKSON
+Over Votes
+15
+0
+CHRIS JACKSON
+Exhausted Ballots
+478
+0
+CHRIS JACKSON
+LYNETTE SWEET
+0
+139
+CHRIS JACKSON
+DEWITT M. LACY
+0
+137
+Total
+493
+877
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+14
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2682
+16.81%
+DEWITT M. LACY
+1722
+10.79%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1574
+9.86%
+STEVE MOSS
+2364
+14.81%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2677
+16.78%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2300
+14.41%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2639
+16.54%
+Continuing Ballots
+15958
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+1815
+Exhausted by Over Votes
+535
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 15
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2682
+16.81%
+DEWITT M. LACY
+1722
+10.79%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+1574
+9.86%
+STEVE MOSS
+2364
+14.81%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2677
+16.78%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+2300
+14.41%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2639
+16.54%
+Continuing Ballots
+15958
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+1815
+Exhausted by Over Votes
+535
+Total Ballots
+20550
+Run Id: 61 - Pass 15
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+TERESA DUQUE
+1574
+Candidate
+Votes
+Eliminated Candidates - Pass
+15
+TERESA DUQUE
+MARLENE TRAN
+0
+739
+TERESA DUQUE
+MALIA COHEN
+0
+64
+TERESA DUQUE
+TONY KELLY
+0
+22
+TERESA DUQUE
+STEVE MOSS
+0
+76
+TERESA DUQUE
+LYNETTE SWEET
+0
+30
+TERESA DUQUE
+Exhausted Ballots
+595
+0
+TERESA DUQUE
+Over Votes
+13
+0
+TERESA DUQUE
+DEWITT M. LACY
+0
+35
+Total
+608
+966
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+15
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2712
+17.67%
+DEWITT M. LACY
+1757
+11.45%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+2440
+15.90%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2741
+17.86%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3039
+19.80%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2661
+17.34%
+Continuing Ballots
+15350
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+2410
+Exhausted by Over Votes
+548
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 16
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2712
+17.67%
+DEWITT M. LACY
+1757
+11.45%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+2440
+15.90%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+2741
+17.86%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3039
+19.80%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2661
+17.34%
+Continuing Ballots
+15350
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+2410
+Exhausted by Over Votes
+548
+Total Ballots
+20550
+Run Id: 61 - Pass 16
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+DEWITT M. LACY
+1757
+Candidate
+Votes
+Eliminated Candidates - Pass
+16
+DEWITT M. LACY
+MARLENE TRAN
+0
+45
+DEWITT M. LACY
+MALIA COHEN
+0
+488
+DEWITT M. LACY
+TONY KELLY
+0
+197
+DEWITT M. LACY
+STEVE MOSS
+0
+169
+DEWITT M. LACY
+Exhausted Ballots
+679
+0
+DEWITT M. LACY
+Over Votes
+11
+0
+DEWITT M. LACY
+LYNETTE SWEET
+0
+168
+Total
+690
+1067
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+16
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2880
+19.65%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+2609
+17.80%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+3229
+22.03%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3084
+21.04%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2858
+19.50%
+Continuing Ballots
+14660
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+3089
+Exhausted by Over Votes
+559
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 17
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+2880
+19.65%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+2609
+17.80%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+3229
+22.03%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3084
+21.04%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+2858
+19.50%
+Continuing Ballots
+14660
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+3089
+Exhausted by Over Votes
+559
+Total Ballots
+20550
+Run Id: 61 - Pass 17
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+STEVE MOSS
+2609
+Candidate
+Votes
+Eliminated Candidates - Pass
+17
+STEVE MOSS
+MALIA COHEN
+0
+272
+STEVE MOSS
+MARLENE TRAN
+0
+147
+STEVE MOSS
+TONY KELLY
+0
+534
+STEVE MOSS
+LYNETTE SWEET
+0
+321
+STEVE MOSS
+Exhausted Ballots
+1325
+0
+STEVE MOSS
+Over Votes
+10
+0
+Total
+1335
+1274
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+17
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+3201
+24.02%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+Eliminated in pass 17.
+0
+0.00%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+3501
+26.27%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3231
+24.25%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+3392
+25.46%
+Continuing Ballots
+13325
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+4414
+Exhausted by Over Votes
+569
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 18
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+3201
+24.02%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+Eliminated in pass 17.
+0
+0.00%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+3501
+26.27%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3231
+24.25%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+3392
+25.46%
+Continuing Ballots
+13325
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+4414
+Exhausted by Over Votes
+569
+Total Ballots
+20550
+Run Id: 61 - Pass 18
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+LYNETTE SWEET
+3201
+Candidate
+Votes
+Eliminated Candidates - Pass
+18
+LYNETTE SWEET
+MALIA COHEN
+0
+619
+LYNETTE SWEET
+MARLENE TRAN
+0
+99
+LYNETTE SWEET
+TONY KELLY
+0
+184
+LYNETTE SWEET
+Exhausted Ballots
+2281
+0
+LYNETTE SWEET
+Over Votes
+18
+0
+Total
+2299
+902
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+18
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+Eliminated in pass 18.
+0
+0.00%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+Eliminated in pass 17.
+0
+0.00%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+4120
+37.37%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3330
+30.20%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+3576
+32.43%
+Continuing Ballots
+11026
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+6695
+Exhausted by Over Votes
+587
+Total Ballots
+20550
+
+Complete
+Load Type:
+Pass Number: 19
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+Eliminated in pass 18.
+0
+0.00%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+Eliminated in pass 17.
+0
+0.00%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+4120
+37.37%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+3330
+30.20%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+3576
+32.43%
+Continuing Ballots
+11026
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2242
+Exhausted Ballots
+6695
+Exhausted by Over Votes
+587
+Total Ballots
+20550
+Run Id: 61 - Pass 19
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+MARLENE TRAN
+3330
+Candidate
+Votes
+Eliminated Candidates - Pass
+19
+MARLENE TRAN
+MALIA COHEN
+0
+201
+MARLENE TRAN
+TONY KELLY
+0
+303
+MARLENE TRAN
+Over Votes
+18
+0
+MARLENE TRAN
+Exhausted Ballots
+2808
+0
+Total
+2826
+504
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+19
+
+ERIC SMITH
+Eliminated in pass 11.
+0
+0.00%
+JACKIE NORMAN
+Eliminated in pass 5.
+0
+0.00%
+LYNETTE SWEET
+Eliminated in pass 18.
+0
+0.00%
+DEWITT M. LACY
+Eliminated in pass 16.
+0
+0.00%
+M.J. MARIE FRANKLIN
+Eliminated in pass 3.
+0
+0.00%
+GEOFFREA MORRIS
+Eliminated in pass 10.
+0
+0.00%
+RODNEY HAMPTON, JR.
+Eliminated in pass 8.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+TERESA DUQUE
+Eliminated in pass 15.
+0
+0.00%
+STEVE MOSS
+Eliminated in pass 17.
+0
+0.00%
+ED DONALDSON
+Eliminated in pass 6.
+0
+0.00%
+CHRIS JACKSON
+Eliminated in pass 14.
+0
+0.00%
+JAMES M. CALLOWAY
+Eliminated in pass 12.
+0
+0.00%
+STEPHEN WEBER
+Eliminated in pass 9.
+0
+0.00%
+MALIA COHEN
+** WINNER **
+4321
+52.70%
+ASHLEY H RHODES
+Eliminated in pass 7.
+0
+0.00%
+MARLENE TRAN
+Eliminated in pass 19.
+0
+0.00%
+NYESE JOSHUA
+Eliminated in pass 4.
+0
+0.00%
+ELLSWORTH ''ELL'' JENNISON
+Eliminated in pass 2.
+0
+0.00%
+KRISTINE ENEA
+Eliminated in pass 13.
+0
+0.00%
+DIANE WESLEY SMITH
+Eliminated in pass 13.
+0
+0.00%
+TONY KELLY
+3879
+47.30%
+Continuing Ballots
+8200
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2242
+Exhausted Ballots
+9503
+Exhausted by Over Votes
+605
+Total Ballots
+20550
+

@@ -1,0 +1,678 @@
+=== nov-6-2012-pass-report-oakland-council-member-dist-3.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+LYNETTE GIBSON-MCELHANEY
+5213
+23.71%
+NYEISHA DEWITT
+3911
+17.78%
+Write-In
+0
+0.00%
+ALEX MILLER-COLE
+2010
+9.14%
+LARRY LIONEL YOUNG, JR.
+1965
+8.94%
+SEAN SULLIVAN
+5739
+26.10%
+DERRICK MUHAMMAD
+3153
+14.34%
+Continuing Ballots
+21991
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+0
+Exhausted by Over Votes
+98
+Total Ballots
+26761
+Run Id: 231 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+LYNETTE GIBSON-MCELHANEY
+5213
+23.71%
+NYEISHA DEWITT
+3911
+17.78%
+Write-In
+0
+0.00%
+ALEX MILLER-COLE
+2010
+9.14%
+LARRY LIONEL YOUNG, JR.
+1965
+8.94%
+SEAN SULLIVAN
+5739
+26.10%
+DERRICK MUHAMMAD
+3153
+14.34%
+Continuing Ballots
+21991
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4672
+Exhausted Ballots
+0
+Exhausted by Over Votes
+98
+Total Ballots
+26761
+Run Id: 231 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+LYNETTE GIBSON-MCELHANEY
+5213
+23.71%
+NYEISHA DEWITT
+3911
+17.78%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+2010
+9.14%
+LARRY LIONEL YOUNG, JR.
+1965
+8.94%
+SEAN SULLIVAN
+5739
+26.10%
+DERRICK MUHAMMAD
+3153
+14.34%
+Continuing Ballots
+21991
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+0
+Exhausted by Over Votes
+98
+Total Ballots
+26761
+
+Complete
+Load Type:
+Pass Number: 2
+LARRY LIONEL YOUNG, JR.
+1965
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+LYNETTE GIBSON-MCELHANEY
+5213
+23.71%
+NYEISHA DEWITT
+3911
+17.78%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+2010
+9.14%
+LARRY LIONEL YOUNG, JR.
+1965
+8.94%
+SEAN SULLIVAN
+5739
+26.10%
+DERRICK MUHAMMAD
+3153
+14.34%
+Continuing Ballots
+21991
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4672
+Exhausted Ballots
+0
+Exhausted by Over Votes
+98
+Total Ballots
+26761
+Run Id: 231 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+LARRY LIONEL YOUNG, JR.
+LYNETTE GIBSON-
+MCELHANEY
+0
+294
+LARRY LIONEL YOUNG, JR.
+DERRICK MUHAMMAD
+0
+357
+LARRY LIONEL YOUNG, JR.
+SEAN SULLIVAN
+0
+397
+LARRY LIONEL YOUNG, JR.
+NYEISHA DEWITT
+0
+352
+LARRY LIONEL YOUNG, JR.
+Exhausted Ballots
+435
+0
+LARRY LIONEL YOUNG, JR.
+Over Votes
+11
+0
+LARRY LIONEL YOUNG, JR.
+ALEX MILLER-COLE
+0
+119
+Total
+446
+1519
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+LYNETTE GIBSON-MCELHANEY
+5507
+25.56%
+NYEISHA DEWITT
+4263
+19.79%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+2129
+9.88%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+6136
+28.48%
+DERRICK MUHAMMAD
+3510
+16.29%
+Continuing Ballots
+21545
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+435
+Exhausted by Over Votes
+109
+Total Ballots
+26761
+
+Complete
+Load Type:
+Pass Number: 3
+ALEX MILLER-COLE
+2129
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+ALEX MILLER-COLE
+LYNETTE GIBSON-
+MCELHANEY
+0
+433
+ALEX MILLER-COLE
+NYEISHA DEWITT
+0
+485
+ALEX MILLER-COLE
+SEAN SULLIVAN
+0
+481
+ALEX MILLER-COLE
+DERRICK MUHAMMAD
+0
+223
+ALEX MILLER-COLE
+Exhausted Ballots
+502
+0
+ALEX MILLER-COLE
+Over Votes
+5
+0
+Total
+507
+1622
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+LYNETTE GIBSON-MCELHANEY
+5507
+25.56%
+NYEISHA DEWITT
+4263
+19.79%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+2129
+9.88%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+6136
+28.48%
+DERRICK MUHAMMAD
+3510
+16.29%
+Continuing Ballots
+21545
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4672
+Exhausted Ballots
+435
+Exhausted by Over Votes
+109
+Total Ballots
+26761
+Run Id: 231 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+LYNETTE GIBSON-MCELHANEY
+5940
+28.23%
+NYEISHA DEWITT
+4748
+22.57%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+Eliminated in pass 3.
+0
+0.00%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+6617
+31.45%
+DERRICK MUHAMMAD
+3733
+17.74%
+Continuing Ballots
+21038
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+937
+Exhausted by Over Votes
+114
+Total Ballots
+26761
+
+Complete
+Load Type:
+Pass Number: 4
+DERRICK MUHAMMAD
+3733
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+DERRICK MUHAMMAD
+LYNETTE GIBSON-
+MCELHANEY
+0
+898
+DERRICK MUHAMMAD
+NYEISHA DEWITT
+0
+1319
+DERRICK MUHAMMAD
+SEAN SULLIVAN
+0
+530
+DERRICK MUHAMMAD
+Exhausted Ballots
+971
+0
+DERRICK MUHAMMAD
+Over Votes
+15
+0
+Total
+986
+2747
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+LYNETTE GIBSON-MCELHANEY
+5940
+28.23%
+NYEISHA DEWITT
+4748
+22.57%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+Eliminated in pass 3.
+0
+0.00%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+6617
+31.45%
+DERRICK MUHAMMAD
+3733
+17.74%
+Continuing Ballots
+21038
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4672
+Exhausted Ballots
+937
+Exhausted by Over Votes
+114
+Total Ballots
+26761
+Run Id: 231 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+LYNETTE GIBSON-MCELHANEY
+6838
+34.10%
+NYEISHA DEWITT
+6067
+30.26%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+Eliminated in pass 3.
+0
+0.00%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+7147
+35.64%
+DERRICK MUHAMMAD
+Eliminated in pass 4.
+0
+0.00%
+Continuing Ballots
+20052
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+1908
+Exhausted by Over Votes
+129
+Total Ballots
+26761
+
+Complete
+Load Type:
+Pass Number: 5
+NYEISHA DEWITT
+6067
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+NYEISHA DEWITT
+LYNETTE GIBSON-
+MCELHANEY
+0
+2559
+NYEISHA DEWITT
+SEAN SULLIVAN
+0
+883
+NYEISHA DEWITT
+Over Votes
+17
+0
+NYEISHA DEWITT
+Exhausted Ballots
+2608
+0
+Total
+2625
+3442
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+LYNETTE GIBSON-MCELHANEY
+6838
+34.10%
+NYEISHA DEWITT
+6067
+30.26%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+Eliminated in pass 3.
+0
+0.00%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+7147
+35.64%
+DERRICK MUHAMMAD
+Eliminated in pass 4.
+0
+0.00%
+Continuing Ballots
+20052
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4672
+Exhausted Ballots
+1908
+Exhausted by Over Votes
+129
+Total Ballots
+26761
+Run Id: 231 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+LYNETTE GIBSON-MCELHANEY
+** WINNER **
+9397
+53.92%
+NYEISHA DEWITT
+Eliminated in pass 5.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+ALEX MILLER-COLE
+Eliminated in pass 3.
+0
+0.00%
+LARRY LIONEL YOUNG, JR.
+Eliminated in pass 2.
+0
+0.00%
+SEAN SULLIVAN
+8030
+46.08%
+DERRICK MUHAMMAD
+Eliminated in pass 4.
+0
+0.00%
+Continuing Ballots
+17427
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4672
+Exhausted Ballots
+4516
+Exhausted by Over Votes
+146
+Total Ballots
+26761
+

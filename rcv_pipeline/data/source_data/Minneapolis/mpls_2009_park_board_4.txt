@@ -1,0 +1,21 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 Minneapolis Park Board District 4 results
+Official Winner: Anita Tabb
+November 3, 2009
+
+Municipal Election
+
+ Park Board District 4
+Candidate	First ranked votes	Percent
+Anita Tabb	5,012	97.45%
+Write-ins	131	2.55%
+Ranked-choice voting tabulation was not necessary. Anita Tabb ran unopposed, met maximum possible threshold, and was elected.
+
+Ballots cast summary
+Total ballots cast	5,143	Total votes counted in the first round.
+Maximum possible threshold	2,572	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	2,246	Voter did not rank any candidates for the office.
+Spoiled ballots	301	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidate's last name was abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

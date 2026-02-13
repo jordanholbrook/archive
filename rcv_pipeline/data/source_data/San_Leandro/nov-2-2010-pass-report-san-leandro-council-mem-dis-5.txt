@@ -1,0 +1,43 @@
+=== nov-2-2010-pass-report-san-leandro-council-mem-dis-5.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+CORINA N. LOPEZ
+9291
+45.79%
+Write-In
+217
+1.07%
+PAULINE RUSSO CUTTER
+** WINNER **
+10784
+53.14%
+Continuing Ballots
+20292
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3161
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+23494
+Run Id: 182 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 5 - San 
+Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

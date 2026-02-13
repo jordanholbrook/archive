@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-councilmember-dist5.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+STEPHEN MURPHY
+3502
+37.56%
+Write-In
+0
+0.00%
+SOPHIE HAHN
+** WINNER **
+5821
+62.44%
+Continuing Ballots
+9323
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+920
+Exhausted Ballots
+0
+Exhausted by Over Votes
+4
+Total Ballots
+10247
+Run Id: 106 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 5 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

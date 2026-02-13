@@ -1,0 +1,1500 @@
+=== 20161206_d1.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+SANDRA LEE FEWER
+12568
+39.67%
+JONATHAN LYENS
+611
+1.93%
+BRIAN J. LARKIN
+747
+2.36%
+WRITE-IN
+0
+0.00%
+JASON JUNGREIS
+612
+1.93%
+ANDY THORNLEY
+360
+1.14%
+SHERMAN R. D'SILVA
+558
+1.76%
+SAMUEL KWONG
+744
+2.35%
+MARJAN PHILHOUR
+11099
+35.03%
+DAVID LEE
+3402
+10.74%
+RICHIE GREENBERG
+980
+3.09%
+Continuing Ballots
+31681
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+0
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+Run Id: 136 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+SANDRA LEE FEWER
+12568
+39.67%
+JONATHAN LYENS
+611
+1.93%
+BRIAN J. LARKIN
+747
+2.36%
+WRITE-IN
+0
+0.00%
+JASON JUNGREIS
+612
+1.93%
+ANDY THORNLEY
+360
+1.14%
+SHERMAN R. D'SILVA
+558
+1.76%
+SAMUEL KWONG
+744
+2.35%
+MARJAN PHILHOUR
+11099
+35.03%
+DAVID LEE
+3402
+10.74%
+RICHIE GREENBERG
+980
+3.09%
+Continuing Ballots
+31681
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+0
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+Run Id: 136 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+SANDRA LEE FEWER
+12568
+39.67%
+JONATHAN LYENS
+611
+1.93%
+BRIAN J. LARKIN
+747
+2.36%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+612
+1.93%
+ANDY THORNLEY
+360
+1.14%
+SHERMAN R. D'SILVA
+558
+1.76%
+SAMUEL KWONG
+744
+2.35%
+MARJAN PHILHOUR
+11099
+35.03%
+DAVID LEE
+3402
+10.74%
+RICHIE GREENBERG
+980
+3.09%
+Continuing Ballots
+31681
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+0
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 2
+ANDY THORNLEY
+360
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+SANDRA LEE FEWER
+12568
+39.67%
+JONATHAN LYENS
+611
+1.93%
+BRIAN J. LARKIN
+747
+2.36%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+612
+1.93%
+ANDY THORNLEY
+360
+1.14%
+SHERMAN R. D'SILVA
+558
+1.76%
+SAMUEL KWONG
+744
+2.35%
+MARJAN PHILHOUR
+11099
+35.03%
+DAVID LEE
+3402
+10.74%
+RICHIE GREENBERG
+980
+3.09%
+Continuing Ballots
+31681
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+0
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+Run Id: 136 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+ANDY THORNLEY
+RICHIE GREENBERG
+0
+10
+ANDY THORNLEY
+MARJAN PHILHOUR
+0
+68
+ANDY THORNLEY
+SAMUEL KWONG
+0
+4
+ANDY THORNLEY
+SHERMAN R. D'SILVA
+0
+9
+ANDY THORNLEY
+SANDRA LEE FEWER
+0
+139
+ANDY THORNLEY
+JONATHAN LYENS
+0
+43
+ANDY THORNLEY
+BRIAN J. LARKIN
+0
+26
+ANDY THORNLEY
+Exhausted Ballots
+33
+0
+ANDY THORNLEY
+JASON JUNGREIS
+0
+16
+ANDY THORNLEY
+DAVID LEE
+0
+12
+Total
+33
+327
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+SANDRA LEE FEWER
+12707
+40.15%
+JONATHAN LYENS
+654
+2.07%
+BRIAN J. LARKIN
+773
+2.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+628
+1.98%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+567
+1.79%
+SAMUEL KWONG
+748
+2.36%
+MARJAN PHILHOUR
+11167
+35.29%
+DAVID LEE
+3414
+10.79%
+RICHIE GREENBERG
+990
+3.13%
+Continuing Ballots
+31648
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+33
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 3
+SHERMAN R. D'SILVA
+567
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+SANDRA LEE FEWER
+12707
+40.15%
+JONATHAN LYENS
+654
+2.07%
+BRIAN J. LARKIN
+773
+2.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+628
+1.98%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+567
+1.79%
+SAMUEL KWONG
+748
+2.36%
+MARJAN PHILHOUR
+11167
+35.29%
+DAVID LEE
+3414
+10.79%
+RICHIE GREENBERG
+990
+3.13%
+Continuing Ballots
+31648
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+33
+Exhausted by Over Votes
+192
+Total Ballots
+35109
+Run Id: 136 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+SHERMAN R. D'SILVA
+MARJAN PHILHOUR
+0
+113
+SHERMAN R. D'SILVA
+JONATHAN LYENS
+0
+28
+SHERMAN R. D'SILVA
+RICHIE GREENBERG
+0
+58
+SHERMAN R. D'SILVA
+SANDRA LEE FEWER
+0
+88
+SHERMAN R. D'SILVA
+SAMUEL KWONG
+0
+17
+SHERMAN R. D'SILVA
+JASON JUNGREIS
+0
+29
+SHERMAN R. D'SILVA
+Over Votes
+3
+0
+SHERMAN R. D'SILVA
+Exhausted Ballots
+87
+0
+SHERMAN R. D'SILVA
+DAVID LEE
+0
+82
+SHERMAN R. D'SILVA
+BRIAN J. LARKIN
+0
+62
+Total
+90
+477
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+SANDRA LEE FEWER
+12795
+40.54%
+JONATHAN LYENS
+682
+2.16%
+BRIAN J. LARKIN
+835
+2.65%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+657
+2.08%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+765
+2.42%
+MARJAN PHILHOUR
+11280
+35.74%
+DAVID LEE
+3496
+11.08%
+RICHIE GREENBERG
+1048
+3.32%
+Continuing Ballots
+31558
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+120
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 4
+JASON JUNGREIS
+657
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+SANDRA LEE FEWER
+12795
+40.54%
+JONATHAN LYENS
+682
+2.16%
+BRIAN J. LARKIN
+835
+2.65%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+657
+2.08%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+765
+2.42%
+MARJAN PHILHOUR
+11280
+35.74%
+DAVID LEE
+3496
+11.08%
+RICHIE GREENBERG
+1048
+3.32%
+Continuing Ballots
+31558
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+120
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+Run Id: 136 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+JASON JUNGREIS
+RICHIE GREENBERG
+0
+181
+JASON JUNGREIS
+MARJAN PHILHOUR
+0
+111
+JASON JUNGREIS
+SANDRA LEE FEWER
+0
+68
+JASON JUNGREIS
+SAMUEL KWONG
+0
+27
+JASON JUNGREIS
+JONATHAN LYENS
+0
+52
+JASON JUNGREIS
+Exhausted Ballots
+78
+0
+JASON JUNGREIS
+BRIAN J. LARKIN
+0
+70
+JASON JUNGREIS
+DAVID LEE
+0
+70
+Total
+78
+579
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+SANDRA LEE FEWER
+12863
+40.86%
+JONATHAN LYENS
+734
+2.33%
+BRIAN J. LARKIN
+905
+2.87%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+792
+2.52%
+MARJAN PHILHOUR
+11391
+36.18%
+DAVID LEE
+3566
+11.33%
+RICHIE GREENBERG
+1229
+3.90%
+Continuing Ballots
+31480
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+198
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 5
+JONATHAN LYENS
+734
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+SANDRA LEE FEWER
+12863
+40.86%
+JONATHAN LYENS
+734
+2.33%
+BRIAN J. LARKIN
+905
+2.87%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+792
+2.52%
+MARJAN PHILHOUR
+11391
+36.18%
+DAVID LEE
+3566
+11.33%
+RICHIE GREENBERG
+1229
+3.90%
+Continuing Ballots
+31480
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+198
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+Run Id: 136 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+JONATHAN LYENS
+RICHIE GREENBERG
+0
+61
+JONATHAN LYENS
+MARJAN PHILHOUR
+0
+168
+JONATHAN LYENS
+SANDRA LEE FEWER
+0
+221
+JONATHAN LYENS
+SAMUEL KWONG
+0
+32
+JONATHAN LYENS
+Exhausted Ballots
+104
+0
+JONATHAN LYENS
+BRIAN J. LARKIN
+0
+71
+JONATHAN LYENS
+DAVID LEE
+0
+77
+Total
+104
+630
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+SANDRA LEE FEWER
+13084
+41.70%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+976
+3.11%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+824
+2.63%
+MARJAN PHILHOUR
+11559
+36.84%
+DAVID LEE
+3643
+11.61%
+RICHIE GREENBERG
+1290
+4.11%
+Continuing Ballots
+31376
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+302
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 6
+SAMUEL KWONG
+824
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+SANDRA LEE FEWER
+13084
+41.70%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+976
+3.11%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+824
+2.63%
+MARJAN PHILHOUR
+11559
+36.84%
+DAVID LEE
+3643
+11.61%
+RICHIE GREENBERG
+1290
+4.11%
+Continuing Ballots
+31376
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+302
+Exhausted by Over Votes
+195
+Total Ballots
+35109
+Run Id: 136 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+SAMUEL KWONG
+MARJAN PHILHOUR
+0
+206
+SAMUEL KWONG
+DAVID LEE
+0
+242
+SAMUEL KWONG
+SANDRA LEE FEWER
+0
+68
+SAMUEL KWONG
+RICHIE GREENBERG
+0
+130
+SAMUEL KWONG
+Exhausted Ballots
+118
+0
+SAMUEL KWONG
+Over Votes
+4
+0
+SAMUEL KWONG
+BRIAN J. LARKIN
+0
+56
+Total
+122
+702
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+SANDRA LEE FEWER
+13152
+42.08%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+1032
+3.30%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+11765
+37.64%
+DAVID LEE
+3885
+12.43%
+RICHIE GREENBERG
+1420
+4.54%
+Continuing Ballots
+31254
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+420
+Exhausted by Over Votes
+199
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 7
+BRIAN J. LARKIN
+1032
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+SANDRA LEE FEWER
+13152
+42.08%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+1032
+3.30%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+11765
+37.64%
+DAVID LEE
+3885
+12.43%
+RICHIE GREENBERG
+1420
+4.54%
+Continuing Ballots
+31254
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+420
+Exhausted by Over Votes
+199
+Total Ballots
+35109
+Run Id: 136 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+BRIAN J. LARKIN
+MARJAN PHILHOUR
+0
+203
+BRIAN J. LARKIN
+RICHIE GREENBERG
+0
+142
+BRIAN J. LARKIN
+SANDRA LEE FEWER
+0
+164
+BRIAN J. LARKIN
+DAVID LEE
+0
+121
+BRIAN J. LARKIN
+Exhausted Ballots
+401
+0
+BRIAN J. LARKIN
+Over Votes
+1
+0
+Total
+402
+630
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+SANDRA LEE FEWER
+13316
+43.16%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+Eliminated in pass 7.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+11968
+38.79%
+DAVID LEE
+4006
+12.98%
+RICHIE GREENBERG
+1562
+5.06%
+Continuing Ballots
+30852
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+821
+Exhausted by Over Votes
+200
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 8
+RICHIE GREENBERG
+1562
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+SANDRA LEE FEWER
+13316
+43.16%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+Eliminated in pass 7.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+11968
+38.79%
+DAVID LEE
+4006
+12.98%
+RICHIE GREENBERG
+1562
+5.06%
+Continuing Ballots
+30852
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+821
+Exhausted by Over Votes
+200
+Total Ballots
+35109
+Run Id: 136 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+RICHIE GREENBERG
+DAVID LEE
+0
+160
+RICHIE GREENBERG
+MARJAN PHILHOUR
+0
+314
+RICHIE GREENBERG
+SANDRA LEE FEWER
+0
+163
+RICHIE GREENBERG
+Exhausted Ballots
+922
+0
+RICHIE GREENBERG
+Over Votes
+3
+0
+Total
+925
+637
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+SANDRA LEE FEWER
+13479
+45.04%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+Eliminated in pass 7.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+12282
+41.04%
+DAVID LEE
+4166
+13.92%
+RICHIE GREENBERG
+Eliminated in pass 8.
+0
+0.00%
+Continuing Ballots
+29927
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+1743
+Exhausted by Over Votes
+203
+Total Ballots
+35109
+
+Complete
+Load Type:
+Pass Number: 9
+DAVID LEE
+4166
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+SANDRA LEE FEWER
+13479
+45.04%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+Eliminated in pass 7.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+12282
+41.04%
+DAVID LEE
+4166
+13.92%
+RICHIE GREENBERG
+Eliminated in pass 8.
+0
+0.00%
+Continuing Ballots
+29927
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3236
+Exhausted Ballots
+1743
+Exhausted by Over Votes
+203
+Total Ballots
+35109
+Run Id: 136 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 1
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+DAVID LEE
+MARJAN PHILHOUR
+0
+1177
+DAVID LEE
+SANDRA LEE FEWER
+0
+1558
+DAVID LEE
+Over Votes
+7
+0
+DAVID LEE
+Exhausted Ballots
+1424
+0
+Total
+1431
+2735
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+SANDRA LEE FEWER
+** WINNER **
+15037
+52.77%
+JONATHAN LYENS
+Eliminated in pass 5.
+0
+0.00%
+BRIAN J. LARKIN
+Eliminated in pass 7.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+JASON JUNGREIS
+Eliminated in pass 4.
+0
+0.00%
+ANDY THORNLEY
+Eliminated in pass 2.
+0
+0.00%
+SHERMAN R. D'SILVA
+Eliminated in pass 3.
+0
+0.00%
+SAMUEL KWONG
+Eliminated in pass 6.
+0
+0.00%
+MARJAN PHILHOUR
+13459
+47.23%
+DAVID LEE
+Eliminated in pass 9.
+0
+0.00%
+RICHIE GREENBERG
+Eliminated in pass 8.
+0
+0.00%
+Continuing Ballots
+28496
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3236
+Exhausted Ballots
+3167
+Exhausted by Over Votes
+210
+Total Ballots
+35109
+

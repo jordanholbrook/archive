@@ -1,0 +1,76 @@
+=== 2017-Park-District-6-RCV-Tabulation-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+18488
+Number to be elected:
+1
+Threshold:
+9245
+Undervotes:
+    3110
+Round 2
+Zielinski, Schlosser 
+defeated
+First preference 
+votes
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Bob Fine
+7491
+980
+8471
+45.82%
+Brad Bourn
+8084
+701
+8785
+47.52%
+Jennifer Zielinski
+2273
+-2273
+0
+Robert M Schlosser "Bob"
+584
+-584
+0
+Undeclared Write-ins
+56
+-56
+0
+Exhausted
+-
+1232
+1232
+6.66%
+18488
+BALANCED
+18488
+BALANCED
+BALANCED
+Partially defective ballots:
+0
+Totally defective ballots:
+0
+Spoiled ballots:
+0
+Note: Unable to determine voter's intent for any office on the ballot.
+2017 Minneapolis Municipal Election Results: Park and Recreation Commissioner District 6 
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Voters who spoil a ballot are allowed to obtain a replacement ballot.
+Note: Unable to determine voter's intent with respect to the office being counted.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+Round 2
+

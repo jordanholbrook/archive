@@ -1,0 +1,318 @@
+=== 2017-Mayor-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+104522
+Number to be elected:
+1
+Threshold:
+52262
+Undervotes:
+1406
+Round 2
+Round 3
+Round 4
+Round 5
+Round 6
+Defeated: Flowers, Rahman, 
+Sparrow, Gers, Zimmerman, 
+Wilson, Rosenfeld, Iverson, 
+Simpson, Nik, Lischeid, 
+Washington, Benjegerdes; 
+undeclared write-ins
+Defeated: Levy-Pounds
+Defeated: Hoch
+Defeated: Hodges
+Elected: Frey;
+Defeated: Dehn
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+ Vote Change
+ (+ Added
+- Subtracted)
+Grand Total
+ Vote Change
+ (+ Added
+- Subtracted)
+Grand Total
+ Vote Change
+ (+ Added
+- Subtracted)
+Grand Total
+no vote transfer in this round
+May not sum to 
+100% due to 
+rounding
+Al Flowers
+711
+-711
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Aswar Rahman
+756
+-756
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Betsy Hodges
+18915
+552
+19467
+4044
+23511
+3364
+26875
+-26875
+0
+-
+0.00%
+Captain Jack Sparrow
+438
+-438
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Charlie Gers
+1233
+-1233
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Christopher Robin Zimmerman
+1
+-1
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+David John Wilson
+220
+-220
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+David Rosenfeld
+477
+-477
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Gregg A. Iverson
+335
+-335
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Ian Simpson
+119
+-119
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Jacob Frey
+26116
+634
+26750
+2730
+29480
+9888
+39368
+7348
+46716
+-
+44.69%
+L.A. Nik
+612
+-612
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Nekima Levy-Pounds
+15716
+473
+16189
+-16189
+0
+0
+0
+0
+0
+-
+0.00%
+Raymond Dehn
+18101
+473
+18574
+5454
+24028
+3330
+27358
+7613
+34971
+-
+33.46%
+Ronald Lischeid
+325
+-325
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Theron Preston Washington
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Tom Hoch
+20125
+787
+20912
+1842
+22754
+-22754
+0
+0
+0
+-
+0.00%
+Troy Benjegerdes
+184
+-184
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Undeclared Write-ins
+138
+-138
+0
+0
+0
+0
+0
+0
+0
+-
+0.00%
+Exhausted
+-
+2630
+2630
+2119
+4749
+6172
+10921
+11914
+22835
+-
+21.85%
+104522
+BALANCED
+104522
+BALANCED
+104522
+BALANCED
+104522
+BALANCED
+104522
+BALANCED
+BALANCED
+BALANCED
+BALANCED
+BALANCED
+2017 Minneapolis Municipal Election Results: Mayor
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 5
+Round 1
+Round 2
+Round 3
+Round 4
+

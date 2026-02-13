@@ -1,0 +1,74 @@
+State: Utah
+link: https://rcvis.com/visualize=payson-seat-1-updated-2019-11-19_11-18-27json
+
+{
+  "config" : {
+    "contest" : "Payson City Council",
+    "date" : "2019-11-05",
+    "jurisdiction" : "Payson City",
+    "office" : "Payson City Council",
+    "threshold" : "1304"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "BRIAN V. HULET" : "624",
+      "CARY KENNETH STOCKWELL" : "214",
+      "DOUG WELTON" : "1047",
+      "LINDA CARTER" : "691",
+      "SCOTT PINKHAM" : "140"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "SCOTT PINKHAM",
+      "transfers" : {
+        "BRIAN V. HULET" : "37",
+        "CARY KENNETH STOCKWELL" : "31",
+        "DOUG WELTON" : "42",
+        "LINDA CARTER" : "21",
+        "exhausted" : "10"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "BRIAN V. HULET" : "662",
+      "CARY KENNETH STOCKWELL" : "245",
+      "DOUG WELTON" : "1089",
+      "LINDA CARTER" : "712"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "CARY KENNETH STOCKWELL",
+      "transfers" : {
+        "BRIAN V. HULET" : "41",
+        "DOUG WELTON" : "105",
+        "LINDA CARTER" : "70",
+        "exhausted" : "29"
+      }
+    } ]
+  }, {
+    "round" : 3,
+    "tally" : {
+      "BRIAN V. HULET" : "703",
+      "DOUG WELTON" : "1194",
+      "LINDA CARTER" : "782"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "BRIAN V. HULET",
+      "transfers" : {
+        "DOUG WELTON" : "372",
+        "LINDA CARTER" : "258",
+        "exhausted" : "73"
+      }
+    } ]
+  }, {
+    "round" : 4,
+    "tally" : {
+      "DOUG WELTON" : "1566",
+      "LINDA CARTER" : "1040"
+    },
+    "tallyResults" : [ {
+      "elected" : "DOUG WELTON",
+      "transfers" : { }
+    } ]
+  } ]
+}

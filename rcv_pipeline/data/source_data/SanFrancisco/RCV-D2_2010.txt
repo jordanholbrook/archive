@@ -1,0 +1,242 @@
+=== RCV-D2_2010.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+ABRAHAM SIMMONS
+2074
+8.61%
+MARK FARRELL
+9700
+40.26%
+WRITE-IN
+18
+0.07%
+KAT ANDERSON
+1707
+7.08%
+JANET REILLY
+9898
+41.08%
+VILMA B. GUINTO PEORO
+160
+0.66%
+BARBARA BERWICK
+537
+2.23%
+Continuing Ballots
+24094
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4731
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28911
+Run Id: 58 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+Complete
+Load Type:
+Pass Number: 1
+ABRAHAM SIMMONS
+2074
+KAT ANDERSON
+1707
+WRITE-IN
+18
+VILMA B. GUINTO PEORO
+160
+BARBARA BERWICK
+537
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+ABRAHAM SIMMONS
+2074
+8.61%
+MARK FARRELL
+9700
+40.26%
+WRITE-IN
+18
+0.07%
+KAT ANDERSON
+1707
+7.08%
+JANET REILLY
+9898
+41.08%
+VILMA B. GUINTO PEORO
+160
+0.66%
+BARBARA BERWICK
+537
+2.23%
+Continuing Ballots
+24094
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4731
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28911
+Run Id: 58 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+BARBARA BERWICK
+MARK FARRELL
+0
+215
+ABRAHAM SIMMONS
+JANET REILLY
+0
+651
+VILMA B. GUINTO PEORO
+MARK FARRELL
+0
+46
+BARBARA BERWICK
+JANET REILLY
+0
+133
+ABRAHAM SIMMONS
+MARK FARRELL
+0
+750
+WRITE-IN
+JANET REILLY
+0
+2
+WRITE-IN
+MARK FARRELL
+0
+3
+KAT ANDERSON
+JANET REILLY
+0
+445
+KAT ANDERSON
+MARK FARRELL
+0
+712
+VILMA B. GUINTO PEORO
+JANET REILLY
+0
+39
+ABRAHAM SIMMONS
+Exhausted Ballots
+668
+0
+KAT ANDERSON
+Exhausted Ballots
+546
+0
+VILMA B. GUINTO PEORO
+Exhausted Ballots
+75
+0
+BARBARA BERWICK
+Exhausted Ballots
+187
+0
+ABRAHAM SIMMONS
+Over Votes
+5
+0
+KAT ANDERSON
+Over Votes
+4
+0
+WRITE-IN
+Exhausted Ballots
+13
+0
+BARBARA BERWICK
+Over Votes
+2
+0
+Total
+1500
+2996
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+ABRAHAM SIMMONS
+Eliminated in pass 1.
+0
+0.00%
+MARK FARRELL
+** WINNER **
+11426
+50.57%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+KAT ANDERSON
+Eliminated in pass 1.
+0
+0.00%
+JANET REILLY
+11168
+49.43%
+VILMA B. GUINTO PEORO
+Eliminated in pass 1.
+0
+0.00%
+BARBARA BERWICK
+Eliminated in pass 1.
+0
+0.00%
+Continuing Ballots
+22594
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4731
+Exhausted Ballots
+1489
+Exhausted by Over Votes
+97
+Total Ballots
+28911
+

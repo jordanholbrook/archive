@@ -1,0 +1,203 @@
+=== d6_detail.pdf | City: San_Francisco ===
+
+Final RCV Detail Report
+City and County of San Francisco
+November 8, 2022, Consolidated General Election
+BOARD OF SUPERVISORS DISTRICT 6
+Unofficial results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+12/1/2022 10:43:12 AM
+Tabulation Options
+RCV method
+IRV
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Votes to include in threshold calculation 
+Continuing ballots per round
+Fixed precision decimals
+0
+Use previous tie break decision
+True
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Pause after round
+False
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Assign skipped rankings to the set of 
+exhausted ballots
+False
+Use first round suspension
+False
+Include disabled candidate rankings in 
+overvote
+False
+Ties are resolved in accordance with election law.
+12/01/2022 10:57:55
+Page: 1 / 3
+
+San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+MATT DORSEY
+8,267
+50.80%
+MS BILLIE COOPER
+366
+2.25%
+HONEY MAHOGANY
+7,101
+43.63%
+CHERELLE JACKSON
+540
+3.32%
+Continuing Ballots Total
+16,274
+Blanks
+2,299
+Exhausted
+0
+Overvotes
+90
+Remainder Points
+0
+Non Transferable Total
+2,389
+MS BILLIE COOPER is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MS BILLIE COOPER.
+366 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+MS BILLIE COOPER
+MATT DORSEY
+91
+1
+91
+MS BILLIE COOPER
+HONEY MAHOGANY
+153
+1
+153
+MS BILLIE COOPER
+CHERELLE JACKSON
+75
+1
+75
+MS BILLIE COOPER
+Exhausted
+45
+1
+45
+MS BILLIE COOPER
+Overvotes
+2
+1
+2
+Round 2
+Candidate
+Votes
+Percentage
+MATT DORSEY
+8,358
+51.51%
+MS BILLIE COOPER
+0
+0.00%
+HONEY MAHOGANY
+7,254
+44.70%
+CHERELLE JACKSON
+615
+3.79%
+Continuing Ballots Total
+16,227
+Blanks
+2,299
+Exhausted
+45
+Overvotes
+92
+Remainder Points
+0
+Non Transferable Total
+2,436
+CHERELLE JACKSON is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate CHERELLE JACKSON.
+615 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+CHERELLE JACKSON
+MATT DORSEY
+188
+1
+188
+CHERELLE JACKSON
+HONEY MAHOGANY
+294
+1
+294
+CHERELLE JACKSON
+Exhausted
+127
+1
+127
+CHERELLE JACKSON
+Overvotes
+6
+1
+6
+12/01/2022 10:57:55
+Page: 2 / 3
+
+Round 3
+Candidate
+Votes
+Percentage
+MATT DORSEY
+8,546
+53.10%
+MS BILLIE COOPER
+0
+0.00%
+HONEY MAHOGANY
+7,548
+46.90%
+CHERELLE JACKSON
+0
+0.00%
+Continuing Ballots Total
+16,094
+Blanks
+2,299
+Exhausted
+172
+Overvotes
+98
+Remainder Points
+0
+Non Transferable Total
+2,569
+MATT DORSEY is elected because all other candidates have been eliminated.
+HONEY MAHOGANY is eliminated because the candidate was not elected in the last round.
+12/01/2022 10:57:55
+Page: 3 / 3
+

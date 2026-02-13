@@ -1,0 +1,67 @@
+=== 2021-Park-Board-District-2-Round-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+10811
+Number to be elected:
+1
+Threshold:
+5406
+Undervotes:
+4534
+Round 2
+Round 2
+ Defeated: E. 
+Moran, UWI
+Defeated: M. Shelton
+Elected: B. Thompson
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Becka Thompson
+4479
+801
+5280
+48.8%
+Eric Moran
+3047
+-3047
+0
+0.0%
+Mike Shelton
+3212
+924
+4136
+38.3%
+Undeclared Write-ins
+73
+-73
+0
+0.0%
+Exhausted
+-
+1395
+1395
+12.9%
+10811
+BALANCED
+10811
+BALANCED
+BALANCED
+Candidate
+Round 1
+Final Round 
+Percentage
+TOTAL
+2021 Minneapolis Municipal Election Results:
+Park and Recreation Commisioner District 2
+Ranked Choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+

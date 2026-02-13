@@ -1,0 +1,55 @@
+=== 2017-Board-of-Estimate-and-Taxation-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+69694
+Number to be elected:
+2
+Threshold:
+23232
+Undervotes:
+36234
+Round 2
+Elected: Becker, Wheeler; 
+Defeated: Edwards, 
+undeclared write-ins
+Grand Total
+no vote transfer in this round
+May not sum to 
+100% due to 
+rounding
+Carol Becker
+48163.0000
+-
+69.11%
+David B. Wheeler
+19312.0000
+-
+27.71%
+John Edwards
+1539.0000
+-
+2.21%
+Undeclared Write-ins
+680.0000
+-
+0.98%
+Exhausted
+-
+-
+0.00%
+69694
+BALANCED
+TOTAL
+Candidate
+Round 1
+2017 Minneapolis Municipal Election Results:
+Board of Estimate and Taxation
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes, overvotes, defective, or spoiled ballots.
+Note: One-third of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank a first-choice candidate
+Final Round 
+Percentage
+

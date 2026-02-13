@@ -1,0 +1,27 @@
+City of Minneapolis
+
+2021 City Council Ward 6 election results
+Official winner: Jamal Osman
+November 2, 2021
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Jamal Osman received enough first-choice votes to be elected and is the winner.
+
+Council Member Ward 6
+Candidate	First-choice votes
+Jamal Osman	3,722
+A. Bihi	2,468
+Write-in	75
+ 
+
+Ballots cast summary
+Total ballots cast	6,871	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	3,436	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.
+
+

@@ -1,0 +1,29 @@
+City of Minneapolis
+
+2021 City Council Ward 13 election results
+Official winner: Linea Palmisano
+November 2, 2021
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Linea Palmisano received enough first-choice votes to be elected and is the winner.
+
+Council Member Ward 13
+Candidate	First-choice votes
+Linea Palmisano	10,883
+Mike Norton	3,282
+Ken Salway	1,305
+Kati Medford	557
+Bob Reuer	401
+Write-in	14
+ 
+
+Ballots cast summary
+Total ballots cast	17,028	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	8,515	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.
+

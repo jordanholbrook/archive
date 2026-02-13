@@ -1,0 +1,376 @@
+=== 20151119_mayor.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+WRITE-IN - KARLA GOTTSCHALK 
+(a.k.a BELLE STARR)
+6
+0.00%
+WRITE-IN - JOHN E. FITCH
+5
+0.00%
+WRITE-IN
+0
+0.00%
+WRITE-IN - ROBERT L. JORDAN, JR.
+7
+0.00%
+WRITE-IN - MICHAEL PETRELIS
+37
+0.02%
+WRITE-IN - IGNACIO L. NUNEZ
+0
+0.00%
+WRITE-IN - DANIEL C KAPPLER
+6
+0.00%
+REED MARTIN
+4660
+2.46%
+ED LEE
+105771
+55.75%
+FRANCISCO HERRERA
+28805
+15.18%
+STUART SCHUFFMAN
+18347
+9.67%
+KENT GRAHAM
+8827
+4.65%
+AMY FARAH WEISS
+23236
+12.25%
+Continuing Ballots
+189707
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+12741
+Exhausted Ballots
+0
+Exhausted by Over Votes
+621
+Total Ballots
+203069
+Run Id: 55 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20151103_E
+Election Date:
+Run Date:
+11/3/2015
+11/19/2015
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN - KARLA GOTTSCHALK 
+(a.k.a BELLE STARR)
+6
+0.00%
+WRITE-IN - JOHN E. FITCH
+5
+0.00%
+WRITE-IN
+0
+0.00%
+WRITE-IN - ROBERT L. JORDAN, JR.
+7
+0.00%
+WRITE-IN - MICHAEL PETRELIS
+37
+0.02%
+WRITE-IN - IGNACIO L. NUNEZ
+0
+0.00%
+WRITE-IN - DANIEL C KAPPLER
+6
+0.00%
+REED MARTIN
+4660
+2.46%
+ED LEE
+105771
+55.75%
+FRANCISCO HERRERA
+28805
+15.18%
+STUART SCHUFFMAN
+18347
+9.67%
+KENT GRAHAM
+8827
+4.65%
+AMY FARAH WEISS
+23236
+12.25%
+Continuing Ballots
+189707
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+12741
+Exhausted Ballots
+0
+Exhausted by Over Votes
+621
+Total Ballots
+203069
+Run Id: 55 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20151103_E
+Election Date:
+Run Date:
+11/3/2015
+11/19/2015
+
+WRITE-IN - ROBERT L. JORDAN, JR.
+7
+WRITE-IN - KARLA GOTTSCHALK 
+(a.k.a BELLE STARR)
+6
+WRITE-IN - JOHN E. FITCH
+5
+WRITE-IN - MICHAEL PETRELIS
+37
+WRITE-IN - IGNACIO L. NUNEZ
+0
+WRITE-IN - DANIEL C KAPPLER
+6
+AMY FARAH WEISS
+23236
+REED MARTIN
+4660
+KENT GRAHAM
+8827
+WRITE-IN
+0
+STUART SCHUFFMAN
+18347
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+REED MARTIN
+ED LEE
+0
+902
+WRITE-IN - JOHN E. FITCH
+Exhausted Ballots
+4
+0
+WRITE-IN - KARLA 
+GOTTSCHALK (a.k.a BELLE 
+STARR)
+Exhausted Ballots
+3
+0
+WRITE-IN - ROBERT L. 
+JORDAN, JR.
+Exhausted Ballots
+5
+0
+STUART SCHUFFMAN
+Exhausted Ballots
+6544
+0
+REED MARTIN
+Exhausted Ballots
+2514
+0
+AMY FARAH WEISS
+Exhausted Ballots
+7266
+0
+KENT GRAHAM
+Exhausted Ballots
+4968
+0
+KENT GRAHAM
+Over Votes
+25
+0
+STUART SCHUFFMAN
+Over Votes
+49
+0
+WRITE-IN - DANIEL C 
+KAPPLER
+Over Votes
+2
+0
+AMY FARAH WEISS
+Over Votes
+56
+0
+WRITE-IN - DANIEL C 
+KAPPLER
+Exhausted Ballots
+1
+0
+WRITE-IN - MICHAEL 
+PETRELIS
+Exhausted Ballots
+20
+0
+REED MARTIN
+Over Votes
+18
+0
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+WRITE-IN - ROBERT L. 
+JORDAN, JR.
+ED LEE
+0
+1
+WRITE-IN - KARLA 
+GOTTSCHALK (a.k.a BELLE 
+STARR)
+FRANCISCO HERRERA
+0
+3
+WRITE-IN - JOHN E. FITCH
+FRANCISCO HERRERA
+0
+1
+WRITE-IN - ROBERT L. 
+JORDAN, JR.
+FRANCISCO HERRERA
+0
+1
+WRITE-IN - MICHAEL 
+PETRELIS
+FRANCISCO HERRERA
+0
+12
+WRITE-IN - MICHAEL 
+PETRELIS
+ED LEE
+0
+5
+WRITE-IN - DANIEL C 
+KAPPLER
+FRANCISCO HERRERA
+0
+3
+AMY FARAH WEISS
+FRANCISCO HERRERA
+0
+13091
+AMY FARAH WEISS
+ED LEE
+0
+2823
+REED MARTIN
+FRANCISCO HERRERA
+0
+1226
+KENT GRAHAM
+ED LEE
+0
+1766
+STUART SCHUFFMAN
+FRANCISCO HERRERA
+0
+9831
+STUART SCHUFFMAN
+ED LEE
+0
+1923
+KENT GRAHAM
+FRANCISCO HERRERA
+0
+2068
+Total
+21475
+33656
+
+WRITE-IN - KARLA GOTTSCHALK 
+(a.k.a BELLE STARR)
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN - JOHN E. FITCH
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN - ROBERT L. JORDAN, JR.
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN - MICHAEL PETRELIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN - IGNACIO L. NUNEZ
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN - DANIEL C KAPPLER
+Eliminated in pass 1.
+0
+0.00%
+REED MARTIN
+Eliminated in pass 1.
+0
+0.00%
+ED LEE
+** WINNER **
+113191
+67.28%
+FRANCISCO HERRERA
+55041
+32.72%
+STUART SCHUFFMAN
+Eliminated in pass 1.
+0
+0.00%
+KENT GRAHAM
+Eliminated in pass 1.
+0
+0.00%
+AMY FARAH WEISS
+Eliminated in pass 1.
+0
+0.00%
+Continuing Ballots
+168232
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+12741
+Exhausted Ballots
+21325
+Exhausted by Over Votes
+771
+Total Ballots
+203069
+

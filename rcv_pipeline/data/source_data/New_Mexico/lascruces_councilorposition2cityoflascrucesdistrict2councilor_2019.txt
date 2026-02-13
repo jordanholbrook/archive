@@ -1,0 +1,43 @@
+RCV Short Report														
+General Election														
+														
+Dona Ana County														
+														
+November 05, 2019														
+														
+														
+COUNCILOR POSITION 2 CITY OF LAS CRUCES DISTRICT 2 COUNCILOR														
+Official results														
+Number of positions to elect is 1.														
+Tabulation status:				All Positions Filled										
+Tabulation time:				11/6/2019 12:07:53 AM										
+														
+Tabulation Options														
+RCV method				IRV										
+Exclude unresolved write-ins				TRUE										
+Declare winners by threshold				TRUE										
+Uses precincts				FALSE										
+Previous rounds evaluation method				Backwards from previous round										
+Elimination type				Single										
+Fixed precision decimals				0										
+Perform elimination transfer in last round				FALSE										
+Skip overvoted rankings				FALSE										
+Votes to include in threshold calculation 				Continuing ballots per round										
+Use first round suspension				FALSE										
+														
+Dona Ana County														
+Candidate		Round 1					Round 2				Round 3			
+		Votes		Percentage	"Transfer
+(Elimination)"		Votes	Percentage		"Transfer
+(Elimination)"	Votes	Percentage	Transfer	
+TESSA ABEYTA STUVE		970		43.17%	32		1,002	45.22%		149	1,151	55.15%	0	
+JACK L VALENCIA, JR		373		16.60%	22		395	17.82%		-395	0	0.00%	0	
+PHILIP A VANVEEN		782		34.80%	37		819	36.96%		117	936	44.85%	0	
+JASON D ESTRADA		122		5.43%	-122		0	0.00%		0	0	0.00%	0	
+Continuing Ballots Total		2,247					2,216				2,087			
+Blanks		141			0		141			0	141		0	
+Exhausted		0			30		30			127	157		0	
+Overvotes		5			1		6			2	8		0	
+Non Transferable Total		146					177				306			
+Threshold		1,124					1,109				1,044			
+	* Tie resolved in accordance with election law.													

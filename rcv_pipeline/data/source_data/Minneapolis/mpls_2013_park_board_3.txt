@@ -1,0 +1,21 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 Minneapolis Park Board District 3 results
+Official Winner: Scott Vreeland
+November 5, 2013
+
+Municipal Election
+
+ Park Board District 3
+Candidate	First ranked votes	Percent
+Scott Vreeland	6,415	75.64%
+Said Maye	1,994	23.51%
+Write-ins	72	0.85%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Scott Vreeland was elected.
+
+Ballots cast summary
+Total ballots cast	12,381	Total votes counted in the first round.
+Maximum possible threshold	6,191	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	3.900	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

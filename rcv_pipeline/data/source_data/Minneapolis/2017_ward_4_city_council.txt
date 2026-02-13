@@ -1,0 +1,72 @@
+==================================================
+2017 Minneapolis Municipal Election Results
+Ward 4 - City Council
+==================================================
+
+Total votes cast for the office: 5263
+Number to be elected: 1
+Majority Threshold: 2632 votes
+Undervotes: 86
+Spoiled/Defective Ballots: Not reported
+
+--------------------------------------------------
+CANDIDATES:
+- Barbara A. "Barb" Johnson
+- Philippe M. Cunningham
+- Stephanie Gasca
+- Dana Hansen
+- Undeclared Write-ins
+
+==================================================
+ROUND 1 TOTALS
+(Initial count based on first-choice rankings)
+--------------------------------------------------
+Johnson        : 2258
+Cunningham     : 2140
+Gasca          : 634
+Hansen         : 220
+Write-ins      : 11
+Exhausted      : 0
+
+ROUND 1 TOTAL: 5263 votes
+
+==================================================
+ROUND 2 SUBTOTALS
+(Transfers from eliminated candidates: Gasca, Hansen, Write-ins)
+--------------------------------------------------
+Johnson        : +172
+Cunningham     : +465
+Gasca          : -634 (eliminated)
+Hansen         : -220 (eliminated)
+Write-ins      : -11 (eliminated)
+Exhausted      : +228 (from non-transferable ballots)
+
+--------------------------------------------------
+ROUND 2 TOTALS
+(Accumulated vote totals after transfers)
+--------------------------------------------------
+Johnson        : 2430
+Cunningham     : 2605
+Gasca          : Eliminated
+Hansen         : Eliminated
+Write-ins      : Eliminated
+Exhausted      : 228
+
+ROUND 2 TOTAL: 5263 votes (BALANCED)
+
+==================================================
+FINAL ROUND SUMMARY
+(No further transfers occurred; Cunningham exceeds threshold)
+--------------------------------------------------
+Elected       : Philippe M. Cunningham (2605 votes, 49.50%)
+Defeated      : Barbara A. Johnson (2430 votes, 46.17%)
+Exhausted     : 228 votes (4.33%)
+
+Note:
+- No actual vote transfers occurred beyond Round 2.
+- A third "round" was reported in official summary only to display final status.
+- Candidates eliminated in Round 2 are not listed with 0s to avoid misinterpretation.
+
+==================================================
+END OF REPORT
+==================================================

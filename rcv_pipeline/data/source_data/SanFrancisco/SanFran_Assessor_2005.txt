@@ -1,0 +1,33 @@
+ELECTION SUMMARY           SAN FRANCISCO               FINAL RESULTS
+                                           CONSOL SPECIAL STATEWIDE ELECTION
+                                           NOVEMBER 8, 2005
+                RUN DATE:12/05/05 01:46 PM
+
+
+ASSESSOR-RECORDER          Vote for  1
+                           PHIL TING  .  .  .  .  .  .  .  .  .  .    92,729   47.43
+                           GERARDO SANDOVAL .  .  .  .  .  .  .  .    70,686   36.16
+                           RONALD CHUN.  .  .  .  .  .  .  .  .  .    32,068   16.40
+                           ANTHONY FABER .  .  .  .  .  .  .  .  .        18     .01
+
+
+RCV Assessor Nov 2005
+Candidate	FIELD2	Pass 1	Pass 2		Pre-RCV	Difference
+RONALD CHUN		33294*			32068	1226
+GERARDO SANDOVAL		71850	79261		70686	1164
+PHIL TING	(Winner 58.133%)	94062	110053		92729	1333
+ANTHONY FABER		18*			18	
+Eligible Ballots	199224	189314	Total:	195501	3723
+Exhausted Ballots	26146	36056	Undervotes	29169	
+Total Ballots	225370	225370	Overvotes	700	
+To understand the difference between the Pre-RCV and RCV vote totals,
+
+A number of undervotes reported were, in fact, advanceable ballots (Difference column)
+The RCV algorithm advances those ballots and sums them in Pass 1.
+The candidate(s) with the lowest vote total is selected for elimination (indicated with an asterisk * )
+The number of Eligible Ballots (for Pass 1) is:
+
+The number of ballots with a mark for a candidate in the 1st choice, plus those whose marks were advanced.
+The number of Exhausted Ballots is:
+
+The number of undervotes minus the number of advanced ballots, plus the number of overvotes (invalid votes for multiple candidates)

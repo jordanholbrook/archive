@@ -1,0 +1,231 @@
+=== nov-8-2016--pass-report-councilmember-dist2.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+DARRYL MOORE
+2837
+39.75%
+Write-In
+0
+0.00%
+NANCI IRA ARMSTRONG-TEMPLE
+2086
+29.22%
+CHERYL DAVILA
+2215
+31.03%
+Continuing Ballots
+7138
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+968
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+8123
+Run Id: 104 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+DARRYL MOORE
+2837
+39.75%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NANCI IRA ARMSTRONG-TEMPLE
+2086
+29.22%
+CHERYL DAVILA
+2215
+31.03%
+Continuing Ballots
+7138
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+968
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+8123
+DARRYL MOORE
+2837
+39.75%
+Write-In
+0
+0.00%
+NANCI IRA ARMSTRONG-TEMPLE
+2086
+29.22%
+CHERYL DAVILA
+2215
+31.03%
+Continuing Ballots
+7138
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+968
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+8123
+Run Id: 104 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+
+Complete
+Load Type:
+Pass Number: 2
+NANCI IRA ARMSTRONG-TEMPLE
+2086
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+NANCI IRA ARMSTRONG-
+TEMPLE
+CHERYL DAVILA
+0
+1236
+NANCI IRA ARMSTRONG-
+TEMPLE
+DARRYL MOORE
+0
+446
+NANCI IRA ARMSTRONG-
+TEMPLE
+Over Votes
+1
+0
+NANCI IRA ARMSTRONG-
+TEMPLE
+Exhausted Ballots
+403
+0
+Total
+404
+1682
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+DARRYL MOORE
+2837
+39.75%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NANCI IRA ARMSTRONG-TEMPLE
+2086
+29.22%
+CHERYL DAVILA
+2215
+31.03%
+Continuing Ballots
+7138
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+968
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+8123
+Run Id: 104 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+DARRYL MOORE
+3283
+48.75%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NANCI IRA ARMSTRONG-TEMPLE
+Eliminated in pass 2.
+0
+0.00%
+CHERYL DAVILA
+** WINNER **
+3451
+51.25%
+Continuing Ballots
+6734
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+968
+Exhausted Ballots
+403
+Exhausted by Over Votes
+18
+Total Ballots
+8123
+

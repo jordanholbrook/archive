@@ -1,0 +1,75 @@
+Senate District C
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+05-800 Chiniak 38 142
+05-810 Flats 428 1,806
+05-815 Kodiak Island South 17 157
+05-820 Kodiak No. 1 510 2,030
+05-825 Kodiak No. 2 495 1,998
+05-830 Mission Road 1,161 3,630
+05-835 Old Harbor 27 125
+05-840 Ouzinkie 49 142
+05-845 Port Lions 53 178
+05-860 Cordova 515 2,053
+05-865 Seward-Lowell Point 559 1,895
+05-870 Tatitlek 17 134
+District 5 - Absentee 1,917 0
+District 5 - Early Voting 37 0
+District 5 - Question 166 0
+State of Alaska - Total 5,989 14,290
+State - Total 5,989 14,290
+Precinct
+State
+State of Alaska
+05-800 Chiniak 05-810 Flats 05-815 Kodiak Island South 05-820 Kodiak No. 1 05-825 Kodiak No. 2 05-830 Mission Road 05-835 Old Harbor 05-840 Ouzinkie 05-845 Port Lions 05-860 Cordova 05-865 Seward-Lowell Point 05-870 Tatitlek District 5 - Absentee District 5 - Early Voting District 5 - Question State of Alaska - Total State - Total Jones, Walter H.
+(REP)
+1 2.86% 67 18.06% 1 6.67% 56 11.91% 51 11.62% 134 12.40% 3 12.00% 4 9.52% 9 18.37% 53 11.62% 86 19.59% 3 20.00% 209 12.29% 3 9.38% 13 18.31% 693 13.22% 693 13.22% 11/30/2022 2:04:41 PM
+Smith, Heath
+(REP)
+2 5.71%
+72 19.41%
+1 6.67%
+72 15.32%
+89 20.27%
+223 20.63%
+2 8.00%
+3 7.14%
+5 10.20%
+95 20.83%
+102 23.23%
+1 6.67%
+268 15.76%
+7 21.88%
+13 18.31%
+955 18.22%
+955 18.22%
+
+Precinct
+State
+State of Alaska
+05-800 Chiniak 05-810 Flats 05-815 Kodiak Island South 05-820 Kodiak No. 1 05-825 Kodiak No. 2 05-830 Mission Road 05-835 Old Harbor 05-840 Ouzinkie 05-845 Port Lions 05-860 Cordova 05-865 Seward-Lowell Point 05-870 Tatitlek District 5 - Absentee District 5 - Early Voting District 5 - Question State of Alaska - Total State - Total Stevens, Gary
+(REP)
+32 232 13 342 298 722 20 35 35 307 246 11 1,184 21 43 3,541 3,541 91.43% 62.53% 86.67% 72.77% 67.88% 66.79% 80.00% 83.33% 71.43% 67.32% 56.04% 73.33% 69.61% 65.63% 60.56% 67.56% 67.56% Write-in
+0 0.00% 0 0.00% 0 0.00% 0 0.00% 1 0.23% 2 0.19% 0 0.00% 0 0.00% 0 0.00% 1 0.22% 5 1.14% 0 0.00% 40 2.35% 1 3.13% 2 2.82% 52 0.99% 52 0.99% 11/30/2022 2:04:41 PM
+Total Votes
+35
+371
+15
+470
+439
+1,081
+25
+42
+49
+456
+439
+15
+1,701
+32
+71
+5,241
+5,241

@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 12 election results
+Official Winner: Sandy Colvin Roy
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 12
+Candidate	First ranked votes	Percent
+Sandy Colvin Roy	3,035	64.33%
+Rick L. Nyhlen	880	18.65%
+Charley Underwood	663	14.05%
+Brent Perry	130	2.76%
+Write-ins	10	0.21%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Sandy Colvin Roy was elected.
+
+Ballots cast summary
+Total ballots cast	4,718	Total votes counted in the first round.
+Maximum possible threshold	2,360	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	100	Voter did not rank any candidates for the office.
+Spoiled ballots	173	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

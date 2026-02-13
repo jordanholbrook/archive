@@ -1,0 +1,26 @@
+Department of the Secretary of State 
+State of Maine
+
+Report Name	Summary Report						
+							
+Election Name	General Election						
+Election Date	11.06.18						
+Office Title	Congressional District 2						
+							
+	Round 1			Round 2			
+Candidate Names	Votes	Percentage	Transfer	Votes	Percentage	Transfer	
+Bond, Tiffany L.	16552	05.71%	-16552	0	00.00%	0	
+DEM Golden, Jared F.	132013	45.58%	10427	142440	50.62%	0	
+Hoar, William R.S.	6875	02.37%	-6875	0	00.00%	0	
+REP Poliquin, Bruce	134184	46.33%	4747	138931	49.38%	0	
+Ballot Exhausted							
+   By Overvotes	435		98	533		0	
+   By Undervotes	6018		7820	13838		0	
+   By Exhausted Choices	0		335	335		0	
+Continuing Ballots	289624		0	281371		0	
+TOTAL	296077		0	296077		0	
+Winning threshold by round	144813			140686			
+Generated: 11/21/2018 19:36							
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots							
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1							
+"*" symbol signifies elimination due to Tie Resolution.							

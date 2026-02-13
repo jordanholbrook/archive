@@ -1,0 +1,26 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 City Council Ward 7 election results
+Official Winner: Lisa Goodman
+November 7, 2017
+
+Municipal Election
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Lisa Goodman was elected.
+
+Council Member Ward 7
+Candidate	First choice votes	Percentage
+Lisa Goodman	4,742	52.26%
+Janne Flisrand	2,832	31.21%
+Teqen Zea-Aida	888	9.79%
+Joe Kovacs	599	6.60%
+Undeclared Write-ins	13	0.14%
+ 
+
+Ballots cast summary
+Total ballots cast	9,255	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	4,628	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

@@ -1,0 +1,202 @@
+2020
+City Council District 3
+General election
+General election for Oakland City Council District 3
+
+Round 1
+
+
+
+The ranked-choice voting election was won by Carroll Fife in round 3 . The results of Round 1 are displayed below. To see the results of other rounds, use the dropdown menu above to select a round and the table will update.
+  	  	Candidate
+	
+%
+	Total Votes
+	Transfer
+	Round eliminated
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/CarrollFife24.jpg
+	Carroll Fife 	
+ 
+49.4
+ 
+	15,023 	0 	Won (3)
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Lynette_McElhaney.png
+	Lynette Gibson McElhaney 	
+ 
+30.5
+ 
+	9,262 	0 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Seneca Scott 	
+ 
+6.9
+ 
+	2,083 	0 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Meron Semedar 	
+ 
+6.5
+ 
+	1,984 	0 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Alexus Taylor 	
+ 
+4.4
+ 
+	1,350 	0 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Faye Taylor 	
+ 
+2.3
+ 
+	706 	0 	2
+
+Ballotpedia Logo
+	
+
+Incumbents are bolded and underlined. The results have been certified. Source
+	Total votes: 30,408
+
+-----------------------------------------------
+
+Round 2
+
+
+
+The ranked-choice voting election was won by Carroll Fife in round 3 . The results of Round 2 are displayed below. To see the results of other rounds, use the dropdown menu above to select a round and the table will update.
+  	  	Candidate
+	
+%
+	Total Votes
+	Transfer
+	Round eliminated
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/CarrollFife24.jpg
+	Carroll Fife 	
+ 
+49.9
+ 
+	15,203 	180 	Won (3)
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Lynette_McElhaney.png
+	Lynette Gibson McElhaney 	
+ 
+30.9
+ 
+	9,415 	153 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Seneca Scott 	
+ 
+7.6
+ 
+	2,302 	219 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Meron Semedar 	
+ 
+6.9
+ 
+	2,096 	112 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Alexus Taylor 	
+ 
+4.8
+ 
+	1,473 	123 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Faye Taylor 	
+ 
+0.0
+ 
+	0 	-706 	2
+
+Ballotpedia Logo
+	
+
+Incumbents are bolded and underlined. The results have been certified. Source
+	Total votes: 30,408
+Exhausted votes through round 2: -81
+
+---------------------------------------------------------
+
+Round 3
+
+
+
+The ranked-choice voting election was won by Carroll Fife in round 3 . The results of Round 3 are displayed below. To see the results of other rounds, use the dropdown menu above to select a round and the table will update.
+  	  	Candidate
+	
+%
+	Total Votes
+	Transfer
+	Round eliminated
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/CarrollFife24.jpg
+	Carroll Fife 	
+ 
+51.1
+ 
+	15,429 	226 	Won (3)
+	
+Image of https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/100/100/Lynette_McElhaney.png
+	Lynette Gibson McElhaney 	
+ 
+32.1
+ 
+	9,687 	272 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Meron Semedar 	
+ 
+8.7
+ 
+	2,631 	535 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Seneca Scott 	
+ 
+8.1
+ 
+	2,447 	145 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Alexus Taylor 	
+ 
+0.0
+ 
+	0 	-1,473 	3
+	
+Silhouette Placeholder Image.png
+Submit photo
+	Faye Taylor 	
+ 
+0.0
+ 
+	0 	0 	2
+
+Ballotpedia Logo
+	
+
+Incumbents are bolded and underlined. The results have been certified. Source
+	Total votes: 30,408
+Total exhausted votes: 214

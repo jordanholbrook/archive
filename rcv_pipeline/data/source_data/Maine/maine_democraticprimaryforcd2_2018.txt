@@ -1,0 +1,26 @@
+Department of the Secretary of State 
+State of Maine
+
+Report Name	Summary Report						
+							
+Election Name	Democratic Primary Election						
+Election Date	June 12, 2018						
+Office Title	Congressional District 2						
+							
+	Round 1			Round 2			
+Candidate Names	Votes	Percentage	Transfer	Votes	Percentage	Transfer	
+Fulford, Jonathan S.	2489	05.51%	-2489	0	00.00%	0	
+Golden, Jared F.	20987	46.42%	2624	23611	54.32%	0	
+Olson, Craig R.	3993	08.83%	-3993	0	00.00%	0	
+St. Clair, Lucas R.	17742	39.24%	2111	19853	45.68%	0	
+Ballot Exhausted							
+   By Overvotes	108		26	134		0	
+   By Undervotes	5526		1691	7217		0	
+   By Exhausted Choices	0		30	30		0	
+Continuing Ballots	45211		0	43464		0	
+TOTAL	50845		0	50845		0	
+Winning threshold by round	22606			21733			
+Generated: 06/22/2018 10:37							
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots							
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1							
+"*" symbol signifies elimination due to Tie Resolution.							

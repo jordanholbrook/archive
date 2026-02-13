@@ -1,0 +1,507 @@
+=== nov-4-2014-pass-report-city-council-oakland-dist2.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+KEVIN BLACKBURN
+1299
+9.58%
+ANDREW PARK
+2600
+19.18%
+Write-In
+0
+0.00%
+DANA KING
+4459
+32.90%
+ABEL GUILLEN
+4886
+36.05%
+KEN MAXEY
+311
+2.29%
+Continuing Ballots
+13555
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1697
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+15293
+Run Id: 207 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+KEVIN BLACKBURN
+1299
+9.58%
+ANDREW PARK
+2600
+19.18%
+Write-In
+0
+0.00%
+DANA KING
+4459
+32.90%
+ABEL GUILLEN
+4886
+36.05%
+KEN MAXEY
+311
+2.29%
+Continuing Ballots
+13555
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1697
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+15293
+Run Id: 207 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+KEVIN BLACKBURN
+1299
+9.58%
+ANDREW PARK
+2600
+19.18%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4459
+32.90%
+ABEL GUILLEN
+4886
+36.05%
+KEN MAXEY
+311
+2.29%
+Continuing Ballots
+13555
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1697
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+15293
+
+Complete
+Load Type:
+Pass Number: 2
+KEN MAXEY
+311
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+KEN MAXEY
+ANDREW PARK
+0
+53
+KEN MAXEY
+DANA KING
+0
+73
+KEN MAXEY
+KEVIN BLACKBURN
+0
+55
+KEN MAXEY
+ABEL GUILLEN
+0
+67
+KEN MAXEY
+Exhausted Ballots
+61
+0
+KEN MAXEY
+Over Votes
+2
+0
+Total
+63
+248
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+KEVIN BLACKBURN
+1299
+9.58%
+ANDREW PARK
+2600
+19.18%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4459
+32.90%
+ABEL GUILLEN
+4886
+36.05%
+KEN MAXEY
+311
+2.29%
+Continuing Ballots
+13555
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1697
+Exhausted Ballots
+0
+Exhausted by Over Votes
+41
+Total Ballots
+15293
+Run Id: 207 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+KEVIN BLACKBURN
+1354
+10.04%
+ANDREW PARK
+2653
+19.66%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4532
+33.59%
+ABEL GUILLEN
+4953
+36.71%
+KEN MAXEY
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+13492
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1697
+Exhausted Ballots
+61
+Exhausted by Over Votes
+43
+Total Ballots
+15293
+
+Complete
+Load Type:
+Pass Number: 3
+KEVIN BLACKBURN
+1354
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+KEVIN BLACKBURN
+ABEL GUILLEN
+0
+354
+KEVIN BLACKBURN
+ANDREW PARK
+0
+346
+KEVIN BLACKBURN
+DANA KING
+0
+431
+KEVIN BLACKBURN
+Exhausted Ballots
+220
+0
+KEVIN BLACKBURN
+Over Votes
+3
+0
+Total
+223
+1131
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+KEVIN BLACKBURN
+1354
+10.04%
+ANDREW PARK
+2653
+19.66%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4532
+33.59%
+ABEL GUILLEN
+4953
+36.71%
+KEN MAXEY
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+13492
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1697
+Exhausted Ballots
+61
+Exhausted by Over Votes
+43
+Total Ballots
+15293
+Run Id: 207 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+KEVIN BLACKBURN
+Eliminated in pass 3.
+0
+0.00%
+ANDREW PARK
+2999
+22.60%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4963
+37.40%
+ABEL GUILLEN
+5307
+40.00%
+KEN MAXEY
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+13269
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1697
+Exhausted Ballots
+281
+Exhausted by Over Votes
+46
+Total Ballots
+15293
+
+Complete
+Load Type:
+Pass Number: 4
+ANDREW PARK
+2999
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+ANDREW PARK
+ABEL GUILLEN
+0
+1240
+ANDREW PARK
+DANA KING
+0
+837
+ANDREW PARK
+Over Votes
+13
+0
+ANDREW PARK
+Exhausted Ballots
+909
+0
+Total
+922
+2077
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+KEVIN BLACKBURN
+Eliminated in pass 3.
+0
+0.00%
+ANDREW PARK
+2999
+22.60%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+4963
+37.40%
+ABEL GUILLEN
+5307
+40.00%
+KEN MAXEY
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+13269
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1697
+Exhausted Ballots
+281
+Exhausted by Over Votes
+46
+Total Ballots
+15293
+Run Id: 207 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+KEVIN BLACKBURN
+Eliminated in pass 3.
+0
+0.00%
+ANDREW PARK
+Eliminated in pass 4.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+DANA KING
+5800
+46.97%
+ABEL GUILLEN
+** WINNER **
+6547
+53.03%
+KEN MAXEY
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+12347
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1697
+Exhausted Ballots
+1190
+Exhausted by Over Votes
+59
+Total Ballots
+15293
+

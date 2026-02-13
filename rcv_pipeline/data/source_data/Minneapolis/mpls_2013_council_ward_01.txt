@@ -1,0 +1,23 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 1 election results
+Official Winner: Kevin Reich
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 1
+Candidate	First ranked votes	Percent
+Kevin Reich	4,268	76.08%
+Mark Fox	1,069	19.06%
+Vincent Coffeen	246	4.39%
+Write-ins	27	0.48%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold met and Kevin Reich was elected.
+
+Ballots cast summary
+Total ballots cast	5,942	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	2,972	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	1	Voter voted for more candidates than allowed.
+Undervotes	331	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

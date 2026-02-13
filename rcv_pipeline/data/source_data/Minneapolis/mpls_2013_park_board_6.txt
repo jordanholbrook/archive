@@ -1,0 +1,20 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 Minneapolis Park Board District 6 results
+Official Winner: Brad Bourn
+November 5, 2013
+
+Municipal Election
+
+ Park Board District 6
+Candidate	Final round votes	Percent
+Brad Bourn	8,903	64.80%
+Josh Neiman	4,775	34.76%
+Write-ins	61	0.44%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Brad Bourn was elected.
+
+Total ballots cast	13,739	Total votes counted in the first round. 
+Maximum possible threshold	6,870	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	4,784	Voter did not rank any candidates for the office. 
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

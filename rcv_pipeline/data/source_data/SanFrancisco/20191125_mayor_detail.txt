@@ -1,0 +1,454 @@
+=== 20191125_mayor_detail.pdf | City: San_Francisco ===
+
+Final RCV Detail Report
+City and County of San Francisco
+November 5, 2019, Consolidated Municipal Election
+MAYOR
+Official results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+11/25/2019 3:54:54 PM
+Tabulation Options
+RCV method
+IRV
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Fixed precision decimals
+0
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Votes to include in threshold calculation 
+Continuing ballots per round
+Use first round suspension
+False
+Ties are resolved in accordance with election law.
+11/25/2019 15:59:40
+Page: 1 / 6
+
+City and County of San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+13,283
+7.40%
+WILMA PANG
+4,963
+2.76%
+ROBERT L. JORDAN, JR.
+2,458
+1.37%
+PAUL YBARRA ROBERTSON
+7,649
+4.26%
+ELLEN LEE ZHOU
+25,006
+13.92%
+LONDON N. BREED
+126,221
+70.28%
+MARC ROTH
+7
+0.00%
+Continuing Ballots Total
+179,587
+Blanks
+25,927
+Exhausted
+0
+Overvotes
+603
+Remainder Points
+0
+Non Transferable Total
+26,530
+MARC ROTH is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MARC ROTH.
+7 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+MARC ROTH
+JOEL VENTRESCA
+3
+1
+3
+MARC ROTH
+WILMA PANG
+1
+1
+1
+MARC ROTH
+ROBERT L. JORDAN, JR.
+1
+1
+1
+MARC ROTH
+LONDON N. BREED
+1
+1
+1
+MARC ROTH
+Exhausted
+1
+1
+1
+11/25/2019 15:59:40
+Page: 2 / 6
+
+Round 2
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+13,286
+7.40%
+WILMA PANG
+4,964
+2.76%
+ROBERT L. JORDAN, JR.
+2,459
+1.37%
+PAUL YBARRA ROBERTSON
+7,649
+4.26%
+ELLEN LEE ZHOU
+25,006
+13.92%
+LONDON N. BREED
+126,222
+70.28%
+MARC ROTH
+0
+0.00%
+Continuing Ballots Total
+179,586
+Blanks
+25,927
+Exhausted
+1
+Overvotes
+603
+Remainder Points
+0
+Non Transferable Total
+26,531
+ROBERT L. JORDAN, JR. is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate ROBERT L. JORDAN, JR..
+2459 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+ROBERT L. JORDAN, JR.
+JOEL VENTRESCA
+328
+1
+328
+ROBERT L. JORDAN, JR.
+WILMA PANG
+333
+1
+333
+ROBERT L. JORDAN, JR.
+PAUL YBARRA ROBERTSON
+655
+1
+655
+ROBERT L. JORDAN, JR.
+ELLEN LEE ZHOU
+301
+1
+301
+ROBERT L. JORDAN, JR.
+LONDON N. BREED
+341
+1
+341
+ROBERT L. JORDAN, JR.
+Exhausted
+485
+1
+485
+ROBERT L. JORDAN, JR.
+Overvotes
+16
+1
+16
+11/25/2019 15:59:40
+Page: 3 / 6
+
+Round 3
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+13,614
+7.60%
+WILMA PANG
+5,297
+2.96%
+ROBERT L. JORDAN, JR.
+0
+0.00%
+PAUL YBARRA ROBERTSON
+8,304
+4.64%
+ELLEN LEE ZHOU
+25,307
+14.13%
+LONDON N. BREED
+126,563
+70.67%
+MARC ROTH
+0
+0.00%
+Continuing Ballots Total
+179,085
+Blanks
+25,927
+Exhausted
+486
+Overvotes
+619
+Remainder Points
+0
+Non Transferable Total
+27,032
+WILMA PANG is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate WILMA PANG.
+5297 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+WILMA PANG
+JOEL VENTRESCA
+917
+1
+917
+WILMA PANG
+PAUL YBARRA ROBERTSON
+1008
+1
+1,008
+WILMA PANG
+ELLEN LEE ZHOU
+1637
+1
+1,637
+WILMA PANG
+LONDON N. BREED
+680
+1
+680
+WILMA PANG
+Exhausted
+1041
+1
+1,041
+WILMA PANG
+Overvotes
+14
+1
+14
+11/25/2019 15:59:40
+Page: 4 / 6
+
+Round 4
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+14,531
+8.16%
+WILMA PANG
+0
+0.00%
+ROBERT L. JORDAN, JR.
+0
+0.00%
+PAUL YBARRA ROBERTSON
+9,312
+5.23%
+ELLEN LEE ZHOU
+26,944
+15.13%
+LONDON N. BREED
+127,243
+71.47%
+MARC ROTH
+0
+0.00%
+Continuing Ballots Total
+178,030
+Blanks
+25,927
+Exhausted
+1,527
+Overvotes
+633
+Remainder Points
+0
+Non Transferable Total
+28,087
+PAUL YBARRA ROBERTSON is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate PAUL YBARRA ROBERTSON.
+9312 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+PAUL YBARRA ROBERTSON
+JOEL VENTRESCA
+2894
+1
+2,894
+PAUL YBARRA ROBERTSON
+ELLEN LEE ZHOU
+2959
+1
+2,959
+PAUL YBARRA ROBERTSON
+LONDON N. BREED
+1498
+1
+1,498
+PAUL YBARRA ROBERTSON
+Exhausted
+1914
+1
+1,914
+PAUL YBARRA ROBERTSON
+Overvotes
+47
+1
+47
+Round 5
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+17,425
+9.90%
+WILMA PANG
+0
+0.00%
+ROBERT L. JORDAN, JR.
+0
+0.00%
+PAUL YBARRA ROBERTSON
+0
+0.00%
+ELLEN LEE ZHOU
+29,903
+16.98%
+LONDON N. BREED
+128,741
+73.12%
+MARC ROTH
+0
+0.00%
+Continuing Ballots Total
+176,069
+Blanks
+25,927
+Exhausted
+3,441
+Overvotes
+680
+Remainder Points
+0
+Non Transferable Total
+30,048
+JOEL VENTRESCA is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate JOEL VENTRESCA.
+17425 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+JOEL VENTRESCA
+ELLEN LEE ZHOU
+5803
+1
+5,803
+JOEL VENTRESCA
+LONDON N. BREED
+5604
+1
+5,604
+JOEL VENTRESCA
+Exhausted
+5942
+1
+5,942
+JOEL VENTRESCA
+Overvotes
+76
+1
+76
+11/25/2019 15:59:40
+Page: 5 / 6
+
+Round 6
+Candidate
+Votes
+Percentage
+JOEL VENTRESCA
+0
+0.00%
+WILMA PANG
+0
+0.00%
+ROBERT L. JORDAN, JR.
+0
+0.00%
+PAUL YBARRA ROBERTSON
+0
+0.00%
+ELLEN LEE ZHOU
+35,706
+21.00%
+LONDON N. BREED
+134,345
+79.00%
+MARC ROTH
+0
+0.00%
+Continuing Ballots Total
+170,051
+Blanks
+25,927
+Exhausted
+9,383
+Overvotes
+756
+Remainder Points
+0
+Non Transferable Total
+36,066
+ELLEN LEE ZHOU is eliminated because the candidate was not elected in the last round.
+LONDON N. BREED is elected because all other candidates have been eliminated.
+11/25/2019 15:59:40
+Page: 6 / 6
+

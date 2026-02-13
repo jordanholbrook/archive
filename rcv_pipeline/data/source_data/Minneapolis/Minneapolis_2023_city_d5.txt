@@ -1,0 +1,22 @@
+
+2023 City Council Ward 5 election results
+Official winner: Jeremiah Ellison
+
+
+November 7, 2023
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Jeremiah Ellison received enough first-choice votes to be elected and is the winner.
+Council Member Ward 5 Candidate 	First-choice votes
+Jeremiah Bey Ellison 	1,665
+Victor Martinez 	1,296
+Phillip "OMac" Peterson 	112
+Undeclared write-Ins 	96
+
+ 
+Ballots cast summary Total ballots cast 	3,194 	Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold 	1,598 	
+
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

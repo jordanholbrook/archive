@@ -1,0 +1,37 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Borough President Kings
+Election Date:	2021/06/22
+Election results
+Antonio Reynoso won the DEM Borough President Kings Primary with 107,963 of the votes in the final round.
+Antonio Reynoso defeated Jo Anne Simon, who received 88,794 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6	Round 7	Round 8	Round 9	Round 10	Round 11
+Eliminated in this round	 	Write-ins	Lamor Miller-Whitehead	Pearlene S. Fields	Robert A. Elstein	Trisha N. Ocona	Anthony T. Jones	Robert Ramos Jr.	Kim Council	Khari O. Edwards; Mathieu Eugene**	Robert E. Cornegy Jr.
+Elected	 	 	 	 	 	 	 	 	 	 	Antonio Reynoso*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Antonio Reynoso	80,867	27.9%	23	80,890	28.0%	270	81,160	28.2%	403	81,563	28.5%	628	82,191	29.0%	570	82,761	29.5%	807	83,568	30.2%	2916	86,484	31.7%	2981	89,465	33.7%	6979	96,444	40.5%	11519	107,963	54.9%
+Robert E. Cornegy Jr.	55,285	19.1%	27	55,312	19.1%	327	55,639	19.4%	277	55,916	19.5%	580	56,496	19.9%	366	56,862	20.3%	974	57,836	20.9%	1136	58,972	21.6%	2908	61,880	23.3%	8293	70,173	29.4%	-XXX	
+Jo Anne Simon	51,732	17.9%	24	51,756	17.9%	250	52,006	18.1%	548	52,554	18.4%	1064	53,618	18.9%	1824	55,442	19.8%	1128	56,570	20.4%	1256	57,826	21.2%	4284	62,110	23.4%	9679	71,789	30.1%	17005	88,794	45.1%
+Mathieu Eugene	23,153	8.0%	12	23,165	8.0%	199	23,364	8.1%	207	23,571	8.2%	302	23,873	8.4%	452	24,325	8.7%	641	24,966	9.0%	892	25,858	9.5%	1317	27,175	10.2%	-XXX		 
+Khari O. Edwards	18,150	6.3%	12	18,162	6.3%	410	18,572	6.5%	430	19,002	6.6%	346	19,348	6.8%	969	20,317	7.2%	1216	21,533	7.8%	874	22,407	8.2%	2804	25,211	9.5%	-XXX		 
+Kim Council	16,129	5.6%	18	16,147	5.6%	264	16,411	5.7%	980	17,391	6.1%	512	17,903	6.3%	1290	19,193	6.8%	857	20,050	7.2%	909	20,959	7.7%	-XXX		 	 
+Robert Ramos Jr.	10,053	3.5%	3	10,056	3.5%	165	10,221	3.6%	144	10,365	3.6%	274	10,639	3.8%	571	11,210	4.0%	918	12,128	4.4%	-XXX		 	 	 
+Anthony T. Jones	8,758	3.0%	8	8,766	3.0%	288	9,054	3.1%	366	9,420	3.3%	405	9,825	3.5%	567	10,392	3.7%	-XXX		 	 	 	 
+Trisha N. Ocona	8,704	3.0%	8	8,712	3.0%	202	8,914	3.1%	441	9,355	3.3%	215	9,570	3.4%	-XXX		 	 	 	 	 
+Robert A. Elstein	6,834	2.4%	11	6,845	2.4%	115	6,960	2.4%	191	7,151	2.5%	-XXX		 	 	 	 	 	 
+Pearlene S. Fields	5,032	1.7%	24	5,056	1.7%	166	5,222	1.8%	-XXX		 	 	 	 	 	 	 
+Lamor Miller-Whitehead	4,074	1.4%	10	4,084	1.4%	-XXX		 	 	 	 	 	 	 	 
+Write-ins	706	0.2%	-XXX		 	 	 	 	 	 	 	 	 
+Inactive ballots		 	526	526	 	1428	1,954	 	1235	3,189	 	2825	6,014	 	2961	8,975	 	3851	12,826	 	4145	16,971	 	6665	23,636	 	27435	51,071	 	41649	92,720	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

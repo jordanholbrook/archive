@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 3 election results
+Official Winner: Jacob Frey
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 3
+Candidate	First ranked votes	Percent
+Jacob Frey	3,722	61.31%
+Diane Hofstede	1,614	26.59%
+Kristina Gronquist	357	5.88%
+Michael Katch	363	5.98%
+Write-ins	15	0.24%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Jacob Frey was elected.
+
+Ballots cast summary
+Total ballots cast	6,206	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	3,104	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	3	Voter voted for more candidates than allowed.
+Undervotes	132	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

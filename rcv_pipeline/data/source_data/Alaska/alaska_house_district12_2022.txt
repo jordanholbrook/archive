@@ -1,0 +1,88 @@
+House District 12
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+12-250 Southeast Anchorage
+No. 1 735 3,314
+12-255 Southeast Anchorage
+No. 2 494 1,671
+12-260 Southeast Anchorage
+No. 3 675 2,602
+12-265 Southeast Anchorage
+No. 4 715 2,110
+12-270 Southeast Anchorage
+No. 5 889 3,247
+12-275 Southeast Anchorage
+No. 6 824 2,251
+District 12 - Absentee 1,442 0
+District 12 - Early Voting 853 0
+District 12 - Question 147 0
+State of Alaska - Total 6,774 15,195
+State - Total 6,774 15,195
+
+Precinct
+State
+State of Alaska
+12-250 Southeast Anchorage
+No. 1
+12-255 Southeast Anchorage
+No. 2
+12-260 Southeast Anchorage
+No. 3
+12-265 Southeast Anchorage
+No. 4
+12-270 Southeast Anchorage
+No. 5
+12-275 Southeast Anchorage
+No. 6
+District 12 - Absentee District 12 - Early Voting District 12 - Question State of Alaska - Total State - Total Schrage, Calvin R.
+(NON)
+353 238 359 361 471 487 986 534 31 3,820 3,820 50.07% 49.28% 54.98% 51.79% 54.33% 60.05% 71.60% 63.88% 64.58% 58.98% 58.98% McDonald, Jay
+(REP)
+352 244 293 336 396 324 388 302 17 2,652 2,652 11/30/2022 2:06:40 PM
+49.93%
+50.52%
+44.87%
+48.21%
+45.67%
+39.95%
+28.18%
+36.12%
+35.42%
+40.94%
+40.94%
+
+
+Precinct
+State
+State of Alaska
+12-250 Southeast Anchorage
+No. 1
+12-255 Southeast Anchorage
+No. 2
+12-260 Southeast Anchorage
+No. 3
+12-265 Southeast Anchorage
+No. 4
+12-270 Southeast Anchorage
+No. 5
+12-275 Southeast Anchorage
+No. 6
+District 12 - Absentee District 12 - Early Voting District 12 - Question State of Alaska - Total State - Total Write-in
+0 0.00% 1 0.21% 1 0.15% 0 0.00% 0 0.00% 0 0.00% 3 0.22% 0 0.00% 0 0.00% 5 0.08% 5 0.08% 11/30/2022 2:06:40 PM
+Total Votes
+705
+483
+653
+697
+867
+811
+1,377
+836
+48
+6,477
+6,477
+

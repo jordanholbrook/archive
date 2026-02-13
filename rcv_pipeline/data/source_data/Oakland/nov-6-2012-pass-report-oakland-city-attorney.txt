@@ -1,0 +1,42 @@
+=== nov-6-2012-pass-report-oakland-city-attorney.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+BARBARA PARKER
+** WINNER **
+90222
+68.98%
+Write-In
+0
+0.00%
+JANE BRUNNER
+40577
+31.02%
+Continuing Ballots
+130799
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+25786
+Exhausted Ballots
+0
+Exhausted by Over Votes
+247
+Total Ballots
+156832
+Run Id: 234 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Attorney - Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

@@ -1,0 +1,2337 @@
+=== RCV-D6_2010.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+JIM MEKO
+407
+1.93%
+MATT ASHE
+185
+0.88%
+FORTUNATE ''NATE'' PAYNE
+150
+0.71%
+ELAINE ZAMORA
+637
+3.02%
+GLENDON ''ANNA CONDA'' HYDE
+692
+3.28%
+WRITE-IN
+29
+0.14%
+MATT DRAKE
+947
+4.49%
+GEORGE DAVIS
+158
+0.75%
+JAMES KEYS
+960
+4.55%
+DEBRA WALKER
+5669
+26.89%
+DEAN CLARK
+602
+2.85%
+JANE KIM
+6621
+31.40%
+THERESA SPARKS
+3605
+17.10%
+GEORGE VAZHAPPALLY
+242
+1.15%
+H. BROWN
+182
+0.86%
+Continuing Ballots
+21086
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+0
+Exhausted by Over Votes
+357
+Total Ballots
+25057
+Run Id: 59 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+29
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+JIM MEKO
+407
+1.93%
+MATT ASHE
+185
+0.88%
+FORTUNATE ''NATE'' PAYNE
+150
+0.71%
+ELAINE ZAMORA
+637
+3.02%
+GLENDON ''ANNA CONDA'' HYDE
+692
+3.28%
+WRITE-IN
+29
+0.14%
+MATT DRAKE
+947
+4.49%
+GEORGE DAVIS
+158
+0.75%
+JAMES KEYS
+960
+4.55%
+DEBRA WALKER
+5669
+26.89%
+DEAN CLARK
+602
+2.85%
+JANE KIM
+6621
+31.40%
+THERESA SPARKS
+3605
+17.10%
+GEORGE VAZHAPPALLY
+242
+1.15%
+H. BROWN
+182
+0.86%
+Continuing Ballots
+21086
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+0
+Exhausted by Over Votes
+357
+Total Ballots
+25057
+Run Id: 59 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+WRITE-IN
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+1
+WRITE-IN
+JANE KIM
+0
+2
+WRITE-IN
+MATT ASHE
+0
+1
+WRITE-IN
+Exhausted Ballots
+24
+0
+WRITE-IN
+DEBRA WALKER
+0
+1
+Total
+24
+5
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+JIM MEKO
+407
+1.93%
+MATT ASHE
+186
+0.88%
+FORTUNATE ''NATE'' PAYNE
+150
+0.71%
+ELAINE ZAMORA
+637
+3.02%
+GLENDON ''ANNA CONDA'' HYDE
+693
+3.29%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+947
+4.50%
+GEORGE DAVIS
+158
+0.75%
+JAMES KEYS
+960
+4.56%
+DEBRA WALKER
+5670
+26.92%
+DEAN CLARK
+602
+2.86%
+JANE KIM
+6623
+31.45%
+THERESA SPARKS
+3605
+17.12%
+GEORGE VAZHAPPALLY
+242
+1.15%
+H. BROWN
+182
+0.86%
+Continuing Ballots
+21062
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+24
+Exhausted by Over Votes
+357
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 2
+FORTUNATE ''NATE'' PAYNE
+150
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+JIM MEKO
+407
+1.93%
+MATT ASHE
+186
+0.88%
+FORTUNATE ''NATE'' PAYNE
+150
+0.71%
+ELAINE ZAMORA
+637
+3.02%
+GLENDON ''ANNA CONDA'' HYDE
+693
+3.29%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+947
+4.50%
+GEORGE DAVIS
+158
+0.75%
+JAMES KEYS
+960
+4.56%
+DEBRA WALKER
+5670
+26.92%
+DEAN CLARK
+602
+2.86%
+JANE KIM
+6623
+31.45%
+THERESA SPARKS
+3605
+17.12%
+GEORGE VAZHAPPALLY
+242
+1.15%
+H. BROWN
+182
+0.86%
+Continuing Ballots
+21062
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+24
+Exhausted by Over Votes
+357
+Total Ballots
+25057
+Run Id: 59 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+FORTUNATE ''NATE'' PAYNE
+H. BROWN
+0
+5
+FORTUNATE ''NATE'' PAYNE
+JAMES KEYS
+0
+6
+FORTUNATE ''NATE'' PAYNE
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+16
+FORTUNATE ''NATE'' PAYNE
+THERESA SPARKS
+0
+6
+FORTUNATE ''NATE'' PAYNE
+MATT ASHE
+0
+2
+FORTUNATE ''NATE'' PAYNE
+MATT DRAKE
+0
+8
+FORTUNATE ''NATE'' PAYNE
+JANE KIM
+0
+12
+FORTUNATE ''NATE'' PAYNE
+JIM MEKO
+0
+13
+FORTUNATE ''NATE'' PAYNE
+DEAN CLARK
+0
+10
+FORTUNATE ''NATE'' PAYNE
+Over Votes
+2
+0
+FORTUNATE ''NATE'' PAYNE
+Exhausted Ballots
+27
+0
+FORTUNATE ''NATE'' PAYNE
+DEBRA WALKER
+0
+19
+FORTUNATE ''NATE'' PAYNE
+GEORGE VAZHAPPALLY
+0
+19
+FORTUNATE ''NATE'' PAYNE
+GEORGE DAVIS
+0
+2
+FORTUNATE ''NATE'' PAYNE
+ELAINE ZAMORA
+0
+3
+Total
+29
+121
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+
+JIM MEKO
+420
+2.00%
+MATT ASHE
+188
+0.89%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+640
+3.04%
+GLENDON ''ANNA CONDA'' HYDE
+709
+3.37%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+955
+4.54%
+GEORGE DAVIS
+160
+0.76%
+JAMES KEYS
+966
+4.59%
+DEBRA WALKER
+5689
+27.05%
+DEAN CLARK
+612
+2.91%
+JANE KIM
+6635
+31.55%
+THERESA SPARKS
+3611
+17.17%
+GEORGE VAZHAPPALLY
+261
+1.24%
+H. BROWN
+187
+0.89%
+Continuing Ballots
+21033
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+51
+Exhausted by Over Votes
+359
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 3
+GEORGE DAVIS
+160
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+JIM MEKO
+420
+2.00%
+MATT ASHE
+188
+0.89%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+640
+3.04%
+GLENDON ''ANNA CONDA'' HYDE
+709
+3.37%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+955
+4.54%
+GEORGE DAVIS
+160
+0.76%
+JAMES KEYS
+966
+4.59%
+DEBRA WALKER
+5689
+27.05%
+DEAN CLARK
+612
+2.91%
+JANE KIM
+6635
+31.55%
+THERESA SPARKS
+3611
+17.17%
+GEORGE VAZHAPPALLY
+261
+1.24%
+H. BROWN
+187
+0.89%
+Continuing Ballots
+21033
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+51
+Exhausted by Over Votes
+359
+Total Ballots
+25057
+Run Id: 59 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+GEORGE DAVIS
+JANE KIM
+0
+11
+GEORGE DAVIS
+JAMES KEYS
+0
+8
+GEORGE DAVIS
+H. BROWN
+0
+11
+GEORGE DAVIS
+JIM MEKO
+0
+4
+GEORGE DAVIS
+THERESA SPARKS
+0
+12
+GEORGE DAVIS
+MATT DRAKE
+0
+7
+GEORGE DAVIS
+MATT ASHE
+0
+3
+GEORGE DAVIS
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+14
+GEORGE DAVIS
+DEAN CLARK
+0
+11
+GEORGE DAVIS
+Over Votes
+1
+0
+GEORGE DAVIS
+Exhausted Ballots
+33
+0
+GEORGE DAVIS
+GEORGE VAZHAPPALLY
+0
+9
+GEORGE DAVIS
+ELAINE ZAMORA
+0
+9
+GEORGE DAVIS
+DEBRA WALKER
+0
+27
+Total
+34
+126
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+JIM MEKO
+424
+2.02%
+MATT ASHE
+191
+0.91%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+649
+3.09%
+GLENDON ''ANNA CONDA'' HYDE
+723
+3.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+962
+4.58%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+974
+4.64%
+DEBRA WALKER
+5716
+27.22%
+DEAN CLARK
+623
+2.97%
+JANE KIM
+6646
+31.65%
+THERESA SPARKS
+3623
+17.25%
+GEORGE VAZHAPPALLY
+270
+1.29%
+H. BROWN
+198
+0.94%
+Continuing Ballots
+20999
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+84
+Exhausted by Over Votes
+360
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 4
+MATT ASHE
+191
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+JIM MEKO
+424
+2.02%
+MATT ASHE
+191
+0.91%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+649
+3.09%
+GLENDON ''ANNA CONDA'' HYDE
+723
+3.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+962
+4.58%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+974
+4.64%
+DEBRA WALKER
+5716
+27.22%
+DEAN CLARK
+623
+2.97%
+JANE KIM
+6646
+31.65%
+THERESA SPARKS
+3623
+17.25%
+GEORGE VAZHAPPALLY
+270
+1.29%
+H. BROWN
+198
+0.94%
+Continuing Ballots
+20999
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+84
+Exhausted by Over Votes
+360
+Total Ballots
+25057
+Run Id: 59 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+MATT ASHE
+JAMES KEYS
+0
+6
+MATT ASHE
+H. BROWN
+0
+7
+MATT ASHE
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+17
+MATT ASHE
+JANE KIM
+0
+28
+MATT ASHE
+THERESA SPARKS
+0
+19
+MATT ASHE
+MATT DRAKE
+0
+24
+MATT ASHE
+JIM MEKO
+0
+12
+MATT ASHE
+DEAN CLARK
+0
+6
+MATT ASHE
+Over Votes
+1
+0
+MATT ASHE
+Exhausted Ballots
+31
+0
+MATT ASHE
+GEORGE VAZHAPPALLY
+0
+7
+MATT ASHE
+ELAINE ZAMORA
+0
+8
+MATT ASHE
+DEBRA WALKER
+0
+25
+Total
+32
+159
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+
+JIM MEKO
+436
+2.08%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+657
+3.13%
+GLENDON ''ANNA CONDA'' HYDE
+740
+3.53%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+986
+4.70%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+980
+4.67%
+DEBRA WALKER
+5741
+27.38%
+DEAN CLARK
+629
+3.00%
+JANE KIM
+6674
+31.83%
+THERESA SPARKS
+3642
+17.37%
+GEORGE VAZHAPPALLY
+277
+1.32%
+H. BROWN
+205
+0.98%
+Continuing Ballots
+20967
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+115
+Exhausted by Over Votes
+361
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 5
+H. BROWN
+205
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+JIM MEKO
+436
+2.08%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+657
+3.13%
+GLENDON ''ANNA CONDA'' HYDE
+740
+3.53%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+986
+4.70%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+980
+4.67%
+DEBRA WALKER
+5741
+27.38%
+DEAN CLARK
+629
+3.00%
+JANE KIM
+6674
+31.83%
+THERESA SPARKS
+3642
+17.37%
+GEORGE VAZHAPPALLY
+277
+1.32%
+H. BROWN
+205
+0.98%
+Continuing Ballots
+20967
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+115
+Exhausted by Over Votes
+361
+Total Ballots
+25057
+Run Id: 59 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+H. BROWN
+JANE KIM
+0
+23
+H. BROWN
+JAMES KEYS
+0
+15
+H. BROWN
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+8
+H. BROWN
+THERESA SPARKS
+0
+13
+H. BROWN
+MATT DRAKE
+0
+10
+H. BROWN
+JIM MEKO
+0
+11
+H. BROWN
+GEORGE VAZHAPPALLY
+0
+7
+H. BROWN
+Over Votes
+2
+0
+H. BROWN
+Exhausted Ballots
+45
+0
+H. BROWN
+DEAN CLARK
+0
+33
+H. BROWN
+ELAINE ZAMORA
+0
+16
+H. BROWN
+DEBRA WALKER
+0
+22
+Total
+47
+158
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+
+JIM MEKO
+447
+2.14%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+673
+3.22%
+GLENDON ''ANNA CONDA'' HYDE
+748
+3.58%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+996
+4.76%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+995
+4.76%
+DEBRA WALKER
+5763
+27.55%
+DEAN CLARK
+662
+3.16%
+JANE KIM
+6697
+32.01%
+THERESA SPARKS
+3655
+17.47%
+GEORGE VAZHAPPALLY
+284
+1.36%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20920
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+160
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 6
+GEORGE VAZHAPPALLY
+284
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+JIM MEKO
+447
+2.14%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+673
+3.22%
+GLENDON ''ANNA CONDA'' HYDE
+748
+3.58%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+996
+4.76%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+995
+4.76%
+DEBRA WALKER
+5763
+27.55%
+DEAN CLARK
+662
+3.16%
+JANE KIM
+6697
+32.01%
+THERESA SPARKS
+3655
+17.47%
+GEORGE VAZHAPPALLY
+284
+1.36%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20920
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+160
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+Run Id: 59 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+GEORGE VAZHAPPALLY
+JANE KIM
+0
+23
+GEORGE VAZHAPPALLY
+JAMES KEYS
+0
+7
+GEORGE VAZHAPPALLY
+JIM MEKO
+0
+51
+GEORGE VAZHAPPALLY
+THERESA SPARKS
+0
+16
+GEORGE VAZHAPPALLY
+MATT DRAKE
+0
+35
+GEORGE VAZHAPPALLY
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+9
+GEORGE VAZHAPPALLY
+DEAN CLARK
+0
+35
+GEORGE VAZHAPPALLY
+Exhausted Ballots
+68
+0
+GEORGE VAZHAPPALLY
+ELAINE ZAMORA
+0
+22
+GEORGE VAZHAPPALLY
+DEBRA WALKER
+0
+18
+Total
+68
+216
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+
+JIM MEKO
+498
+2.39%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+695
+3.33%
+GLENDON ''ANNA CONDA'' HYDE
+757
+3.63%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1031
+4.94%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1002
+4.81%
+DEBRA WALKER
+5781
+27.72%
+DEAN CLARK
+697
+3.34%
+JANE KIM
+6720
+32.23%
+THERESA SPARKS
+3671
+17.61%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20852
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+228
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 7
+JIM MEKO
+498
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+JIM MEKO
+498
+2.39%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+695
+3.33%
+GLENDON ''ANNA CONDA'' HYDE
+757
+3.63%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1031
+4.94%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1002
+4.81%
+DEBRA WALKER
+5781
+27.72%
+DEAN CLARK
+697
+3.34%
+JANE KIM
+6720
+32.23%
+THERESA SPARKS
+3671
+17.61%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20852
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+228
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+Run Id: 59 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+JIM MEKO
+JAMES KEYS
+0
+41
+JIM MEKO
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+22
+JIM MEKO
+JANE KIM
+0
+80
+JIM MEKO
+THERESA SPARKS
+0
+48
+JIM MEKO
+MATT DRAKE
+0
+46
+JIM MEKO
+DEAN CLARK
+0
+16
+JIM MEKO
+Exhausted Ballots
+150
+0
+JIM MEKO
+ELAINE ZAMORA
+0
+19
+JIM MEKO
+DEBRA WALKER
+0
+76
+Total
+150
+348
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+714
+3.45%
+GLENDON ''ANNA CONDA'' HYDE
+779
+3.76%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1077
+5.20%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1043
+5.04%
+DEBRA WALKER
+5857
+28.29%
+DEAN CLARK
+713
+3.44%
+JANE KIM
+6800
+32.85%
+THERESA SPARKS
+3719
+17.96%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20702
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+378
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+
+
+Complete
+Load Type:
+Pass Number: 8
+DEAN CLARK
+713
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+714
+3.45%
+GLENDON ''ANNA CONDA'' HYDE
+779
+3.76%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1077
+5.20%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1043
+5.04%
+DEBRA WALKER
+5857
+28.29%
+DEAN CLARK
+713
+3.44%
+JANE KIM
+6800
+32.85%
+THERESA SPARKS
+3719
+17.96%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20702
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+378
+Exhausted by Over Votes
+363
+Total Ballots
+25057
+Run Id: 59 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+DEAN CLARK
+JAMES KEYS
+0
+59
+DEAN CLARK
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+25
+DEAN CLARK
+JANE KIM
+0
+108
+DEAN CLARK
+THERESA SPARKS
+0
+62
+DEAN CLARK
+MATT DRAKE
+0
+56
+DEAN CLARK
+Over Votes
+1
+0
+DEAN CLARK
+Exhausted Ballots
+233
+0
+DEAN CLARK
+ELAINE ZAMORA
+0
+32
+DEAN CLARK
+DEBRA WALKER
+0
+137
+Total
+234
+479
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+746
+3.64%
+GLENDON ''ANNA CONDA'' HYDE
+804
+3.93%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1133
+5.54%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1102
+5.38%
+DEBRA WALKER
+5994
+29.28%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+6908
+33.75%
+THERESA SPARKS
+3781
+18.47%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20468
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+611
+Exhausted by Over Votes
+364
+Total Ballots
+25057
+
+
+Complete
+Load Type:
+Pass Number: 9
+ELAINE ZAMORA
+746
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+746
+3.64%
+GLENDON ''ANNA CONDA'' HYDE
+804
+3.93%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1133
+5.54%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1102
+5.38%
+DEBRA WALKER
+5994
+29.28%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+6908
+33.75%
+THERESA SPARKS
+3781
+18.47%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20468
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+611
+Exhausted by Over Votes
+364
+Total Ballots
+25057
+Run Id: 59 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+ELAINE ZAMORA
+JANE KIM
+0
+131
+ELAINE ZAMORA
+JAMES KEYS
+0
+46
+ELAINE ZAMORA
+THERESA SPARKS
+0
+101
+ELAINE ZAMORA
+MATT DRAKE
+0
+67
+ELAINE ZAMORA
+GLENDON ''ANNA CONDA'' 
+HYDE
+0
+35
+ELAINE ZAMORA
+Exhausted Ballots
+256
+0
+ELAINE ZAMORA
+Over Votes
+3
+0
+ELAINE ZAMORA
+DEBRA WALKER
+0
+107
+Total
+259
+487
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+Eliminated in pass 9.
+0
+0.00%
+GLENDON ''ANNA CONDA'' HYDE
+839
+4.15%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1200
+5.94%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1148
+5.68%
+DEBRA WALKER
+6101
+30.19%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+7039
+34.83%
+THERESA SPARKS
+3882
+19.21%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20209
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+867
+Exhausted by Over Votes
+367
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 10
+MATT DRAKE
+1200
+GLENDON ''ANNA CONDA'' HYDE
+839
+JAMES KEYS
+1148
+Candidate
+Votes
+Eliminated Candidates - Pass
+10
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+Eliminated in pass 9.
+0
+0.00%
+GLENDON ''ANNA CONDA'' HYDE
+839
+4.15%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+1200
+5.94%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+1148
+5.68%
+DEBRA WALKER
+6101
+30.19%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+7039
+34.83%
+THERESA SPARKS
+3882
+19.21%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+20209
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+867
+Exhausted by Over Votes
+367
+Total Ballots
+25057
+Run Id: 59 - Pass 10
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+MATT DRAKE
+DEBRA WALKER
+0
+86
+MATT DRAKE
+JANE KIM
+0
+256
+JAMES KEYS
+JANE KIM
+0
+300
+JAMES KEYS
+THERESA SPARKS
+0
+147
+GLENDON ''ANNA CONDA'' 
+HYDE
+JANE KIM
+0
+172
+GLENDON ''ANNA CONDA'' 
+HYDE
+THERESA SPARKS
+0
+118
+MATT DRAKE
+THERESA SPARKS
+0
+187
+GLENDON ''ANNA CONDA'' 
+HYDE
+DEBRA WALKER
+0
+245
+GLENDON ''ANNA CONDA'' 
+HYDE
+Exhausted Ballots
+303
+0
+MATT DRAKE
+Exhausted Ballots
+670
+0
+JAMES KEYS
+Exhausted Ballots
+422
+0
+JAMES KEYS
+Over Votes
+10
+0
+JAMES KEYS
+DEBRA WALKER
+0
+269
+GLENDON ''ANNA CONDA'' 
+HYDE
+Over Votes
+1
+0
+MATT DRAKE
+Over Votes
+1
+0
+Total
+1407
+1780
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+10
+
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+Eliminated in pass 9.
+0
+0.00%
+GLENDON ''ANNA CONDA'' HYDE
+Eliminated in pass 10.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+Eliminated in pass 10.
+0
+0.00%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+Eliminated in pass 10.
+0
+0.00%
+DEBRA WALKER
+6701
+35.64%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+7767
+41.31%
+THERESA SPARKS
+4334
+23.05%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+18802
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+2262
+Exhausted by Over Votes
+379
+Total Ballots
+25057
+
+Complete
+Load Type:
+Pass Number: 11
+THERESA SPARKS
+4334
+Candidate
+Votes
+Eliminated Candidates - Pass
+11
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+Eliminated in pass 9.
+0
+0.00%
+GLENDON ''ANNA CONDA'' HYDE
+Eliminated in pass 10.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+Eliminated in pass 10.
+0
+0.00%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+Eliminated in pass 10.
+0
+0.00%
+DEBRA WALKER
+6701
+35.64%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+7767
+41.31%
+THERESA SPARKS
+4334
+23.05%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+18802
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3614
+Exhausted Ballots
+2262
+Exhausted by Over Votes
+379
+Total Ballots
+25057
+Run Id: 59 - Pass 11
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/24/2010
+
+THERESA SPARKS
+DEBRA WALKER
+0
+827
+THERESA SPARKS
+JANE KIM
+0
+1098
+THERESA SPARKS
+Over Votes
+7
+0
+THERESA SPARKS
+Exhausted Ballots
+2402
+0
+Total
+2409
+1925
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+11
+JIM MEKO
+Eliminated in pass 7.
+0
+0.00%
+MATT ASHE
+Eliminated in pass 4.
+0
+0.00%
+FORTUNATE ''NATE'' PAYNE
+Eliminated in pass 2.
+0
+0.00%
+ELAINE ZAMORA
+Eliminated in pass 9.
+0
+0.00%
+GLENDON ''ANNA CONDA'' HYDE
+Eliminated in pass 10.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT DRAKE
+Eliminated in pass 10.
+0
+0.00%
+GEORGE DAVIS
+Eliminated in pass 3.
+0
+0.00%
+JAMES KEYS
+Eliminated in pass 10.
+0
+0.00%
+DEBRA WALKER
+7528
+45.92%
+DEAN CLARK
+Eliminated in pass 8.
+0
+0.00%
+JANE KIM
+** WINNER **
+8865
+54.08%
+THERESA SPARKS
+Eliminated in pass 11.
+0
+0.00%
+GEORGE VAZHAPPALLY
+Eliminated in pass 6.
+0
+0.00%
+H. BROWN
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+16393
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3614
+Exhausted Ballots
+4664
+Exhausted by Over Votes
+386
+Total Ballots
+25057
+

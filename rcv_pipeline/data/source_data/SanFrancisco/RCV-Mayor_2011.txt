@@ -1,0 +1,3479 @@
+=== RCV-Mayor_2011.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+Run Id: 34 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+248
+0.13%
+WRITE-IN RODNEY HAUGE
+9
+0.00%
+WRITE-IN LEA SHERMAN
+9
+0.00%
+CESAR ASCARRUNZ
+537
+0.28%
+WILMA PANG
+444
+0.23%
+EMIL LAWRENCE
+382
+0.20%
+WRITE-IN HAROLD MILLER
+7
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+2
+0.00%
+WRITE-IN
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+5
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN
+3
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+3
+0.00%
+DAVID CHIU
+17921
+9.22%
+LELAND YEE
+14609
+7.51%
+JEFF ADACHI
+12534
+6.45%
+ED LEE
+59775
+30.75%
+JOHN AVALOS
+37445
+19.26%
+DENNIS HERRERA
+21914
+11.27%
+JOANNA REES
+3104
+1.60%
+TERRY JOAN BAUM
+1665
+0.86%
+PHIL TING
+1016
+0.52%
+BEVAN DUFTY
+9208
+4.74%
+TONY HALL
+6930
+3.56%
+MICHELA ALIOTO-PIER
+6648
+3.42%
+Continuing Ballots
+194418
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+0
+Exhausted by Over Votes
+820
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 1
+Run Id: 34 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+248
+0.13%
+WRITE-IN RODNEY HAUGE
+9
+0.00%
+WRITE-IN LEA SHERMAN
+9
+0.00%
+CESAR ASCARRUNZ
+537
+0.28%
+WILMA PANG
+444
+0.23%
+EMIL LAWRENCE
+382
+0.20%
+WRITE-IN HAROLD MILLER
+7
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+2
+0.00%
+WRITE-IN
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+5
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN
+3
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+3
+0.00%
+DAVID CHIU
+17921
+9.22%
+LELAND YEE
+14609
+7.51%
+JEFF ADACHI
+12534
+6.45%
+ED LEE
+59775
+30.75%
+JOHN AVALOS
+37445
+19.26%
+DENNIS HERRERA
+21914
+11.27%
+JOANNA REES
+3104
+1.60%
+TERRY JOAN BAUM
+1665
+0.86%
+PHIL TING
+1016
+0.52%
+BEVAN DUFTY
+9208
+4.74%
+TONY HALL
+6930
+3.56%
+MICHELA ALIOTO-PIER
+6648
+3.42%
+Continuing Ballots
+194418
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+0
+Exhausted by Over Votes
+820
+Total Ballots
+197242
+
+WRITE-IN HAROLD MILLER
+7
+WRITE-IN PATRICK MONETTE-
+SHAW
+5
+WRITE-IN LEA SHERMAN
+9
+PAUL CURRIER
+248
+WRITE-IN RODNEY HAUGE
+9
+WRITE-IN DAVID VILLA-LOBOS
+3
+WRITE-IN JOHN EDWARD FITCH
+0
+WRITE-IN
+0
+WRITE-IN ROBERT 'BOBBY' JORDAN
+3
+WRITE-IN GILBERT LOUIS FRANCIS
+2
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+WRITE-IN LEA SHERMAN
+Exhausted Ballots
+8
+0
+WRITE-IN HAROLD MILLER
+Exhausted Ballots
+1
+0
+PAUL CURRIER
+Exhausted Ballots
+40
+0
+WRITE-IN RODNEY HAUGE
+Exhausted Ballots
+1
+0
+WRITE-IN ROBERT 'BOBBY' 
+JORDAN
+Exhausted Ballots
+2
+0
+WRITE-IN GILBERT LOUIS 
+FRANCIS
+Exhausted Ballots
+1
+0
+WRITE-IN PATRICK 
+MONETTE-SHAW
+Exhausted Ballots
+1
+0
+WRITE-IN DAVID VILLA-
+LOBOS
+Exhausted Ballots
+1
+0
+WRITE-IN GILBERT LOUIS 
+FRANCIS
+CESAR ASCARRUNZ
+0
+1
+WRITE-IN HAROLD MILLER
+DENNIS HERRERA
+0
+1
+WRITE-IN PATRICK 
+MONETTE-SHAW
+LELAND YEE
+0
+2
+WRITE-IN DAVID VILLA-
+LOBOS
+ED LEE
+0
+2
+WRITE-IN ROBERT 'BOBBY' 
+JORDAN
+LELAND YEE
+0
+1
+WRITE-IN PATRICK 
+MONETTE-SHAW
+ED LEE
+0
+1
+WRITE-IN PATRICK 
+MONETTE-SHAW
+DENNIS HERRERA
+0
+1
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+PAUL CURRIER
+TONY HALL
+0
+23
+PAUL CURRIER
+WILMA PANG
+0
+11
+PAUL CURRIER
+TERRY JOAN BAUM
+0
+11
+PAUL CURRIER
+ED LEE
+0
+17
+PAUL CURRIER
+EMIL LAWRENCE
+0
+12
+PAUL CURRIER
+JEFF ADACHI
+0
+23
+PAUL CURRIER
+MICHELA ALIOTO-PIER
+0
+11
+PAUL CURRIER
+PHIL TING
+0
+6
+PAUL CURRIER
+LELAND YEE
+0
+9
+PAUL CURRIER
+JOANNA REES
+0
+7
+PAUL CURRIER
+JOHN AVALOS
+0
+25
+WRITE-IN HAROLD MILLER
+WILMA PANG
+0
+1
+WRITE-IN LEA SHERMAN
+BEVAN DUFTY
+0
+1
+WRITE-IN HAROLD MILLER
+MICHELA ALIOTO-PIER
+0
+1
+WRITE-IN HAROLD MILLER
+ED LEE
+0
+1
+WRITE-IN HAROLD MILLER
+JOHN AVALOS
+0
+2
+WRITE-IN RODNEY HAUGE
+EMIL LAWRENCE
+0
+3
+PAUL CURRIER
+DAVID CHIU
+0
+8
+PAUL CURRIER
+DENNIS HERRERA
+0
+21
+PAUL CURRIER
+CESAR ASCARRUNZ
+0
+13
+WRITE-IN RODNEY HAUGE
+TONY HALL
+0
+5
+PAUL CURRIER
+BEVAN DUFTY
+0
+11
+Total
+55
+231
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+551
+0.28%
+WILMA PANG
+456
+0.23%
+EMIL LAWRENCE
+397
+0.20%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17929
+9.22%
+LELAND YEE
+14621
+7.52%
+JEFF ADACHI
+12557
+6.46%
+ED LEE
+59796
+30.77%
+JOHN AVALOS
+37472
+19.28%
+DENNIS HERRERA
+21937
+11.29%
+JOANNA REES
+3111
+1.60%
+TERRY JOAN BAUM
+1676
+0.86%
+PHIL TING
+1022
+0.53%
+BEVAN DUFTY
+9220
+4.74%
+TONY HALL
+6958
+3.58%
+MICHELA ALIOTO-PIER
+6660
+3.43%
+Continuing Ballots
+194363
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+55
+Exhausted by Over Votes
+820
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 2
+Run Id: 34 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+551
+0.28%
+WILMA PANG
+456
+0.23%
+EMIL LAWRENCE
+397
+0.20%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17929
+9.22%
+LELAND YEE
+14621
+7.52%
+JEFF ADACHI
+12557
+6.46%
+ED LEE
+59796
+30.77%
+JOHN AVALOS
+37472
+19.28%
+DENNIS HERRERA
+21937
+11.29%
+JOANNA REES
+3111
+1.60%
+TERRY JOAN BAUM
+1676
+0.86%
+PHIL TING
+1022
+0.53%
+BEVAN DUFTY
+9220
+4.74%
+TONY HALL
+6958
+3.58%
+MICHELA ALIOTO-PIER
+6660
+3.43%
+Continuing Ballots
+194363
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+55
+Exhausted by Over Votes
+820
+Total Ballots
+197242
+
+EMIL LAWRENCE
+397
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+EMIL LAWRENCE
+JOANNA REES
+0
+32
+EMIL LAWRENCE
+JOHN AVALOS
+0
+9
+EMIL LAWRENCE
+TONY HALL
+0
+43
+EMIL LAWRENCE
+WILMA PANG
+0
+13
+EMIL LAWRENCE
+PHIL TING
+0
+8
+EMIL LAWRENCE
+TERRY JOAN BAUM
+0
+22
+EMIL LAWRENCE
+LELAND YEE
+0
+13
+EMIL LAWRENCE
+MICHELA ALIOTO-PIER
+0
+34
+EMIL LAWRENCE
+JEFF ADACHI
+0
+29
+EMIL LAWRENCE
+BEVAN DUFTY
+0
+10
+EMIL LAWRENCE
+Over Votes
+4
+0
+EMIL LAWRENCE
+Exhausted Ballots
+89
+0
+EMIL LAWRENCE
+CESAR ASCARRUNZ
+0
+27
+EMIL LAWRENCE
+ED LEE
+0
+26
+EMIL LAWRENCE
+DENNIS HERRERA
+0
+21
+EMIL LAWRENCE
+DAVID CHIU
+0
+17
+Total
+93
+304
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+578
+0.30%
+WILMA PANG
+469
+0.24%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17946
+9.24%
+LELAND YEE
+14634
+7.53%
+JEFF ADACHI
+12586
+6.48%
+ED LEE
+59822
+30.79%
+JOHN AVALOS
+37481
+19.29%
+DENNIS HERRERA
+21958
+11.30%
+JOANNA REES
+3143
+1.62%
+TERRY JOAN BAUM
+1698
+0.87%
+PHIL TING
+1030
+0.53%
+BEVAN DUFTY
+9230
+4.75%
+TONY HALL
+7001
+3.60%
+MICHELA ALIOTO-PIER
+6694
+3.45%
+Continuing Ballots
+194270
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+144
+Exhausted by Over Votes
+824
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 3
+Run Id: 34 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+578
+0.30%
+WILMA PANG
+469
+0.24%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17946
+9.24%
+LELAND YEE
+14634
+7.53%
+JEFF ADACHI
+12586
+6.48%
+ED LEE
+59822
+30.79%
+JOHN AVALOS
+37481
+19.29%
+DENNIS HERRERA
+21958
+11.30%
+JOANNA REES
+3143
+1.62%
+TERRY JOAN BAUM
+1698
+0.87%
+PHIL TING
+1030
+0.53%
+BEVAN DUFTY
+9230
+4.75%
+TONY HALL
+7001
+3.60%
+MICHELA ALIOTO-PIER
+6694
+3.45%
+Continuing Ballots
+194270
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+144
+Exhausted by Over Votes
+824
+Total Ballots
+197242
+
+WILMA PANG
+469
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+WILMA PANG
+JOANNA REES
+0
+42
+WILMA PANG
+JOHN AVALOS
+0
+16
+WILMA PANG
+JEFF ADACHI
+0
+38
+WILMA PANG
+TONY HALL
+0
+24
+WILMA PANG
+PHIL TING
+0
+19
+WILMA PANG
+TERRY JOAN BAUM
+0
+40
+WILMA PANG
+LELAND YEE
+0
+32
+WILMA PANG
+MICHELA ALIOTO-PIER
+0
+26
+WILMA PANG
+BEVAN DUFTY
+0
+14
+WILMA PANG
+Over Votes
+1
+0
+WILMA PANG
+Exhausted Ballots
+68
+0
+WILMA PANG
+CESAR ASCARRUNZ
+0
+5
+WILMA PANG
+ED LEE
+0
+77
+WILMA PANG
+DENNIS HERRERA
+0
+19
+WILMA PANG
+DAVID CHIU
+0
+48
+Total
+69
+400
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+583
+0.30%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17994
+9.27%
+LELAND YEE
+14666
+7.55%
+JEFF ADACHI
+12624
+6.50%
+ED LEE
+59899
+30.84%
+JOHN AVALOS
+37497
+19.31%
+DENNIS HERRERA
+21977
+11.32%
+JOANNA REES
+3185
+1.64%
+TERRY JOAN BAUM
+1738
+0.89%
+PHIL TING
+1049
+0.54%
+BEVAN DUFTY
+9244
+4.76%
+TONY HALL
+7025
+3.62%
+MICHELA ALIOTO-PIER
+6720
+3.46%
+Continuing Ballots
+194201
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+212
+Exhausted by Over Votes
+825
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 4
+Run Id: 34 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+CESAR ASCARRUNZ
+583
+0.30%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+17994
+9.27%
+LELAND YEE
+14666
+7.55%
+JEFF ADACHI
+12624
+6.50%
+ED LEE
+59899
+30.84%
+JOHN AVALOS
+37497
+19.31%
+DENNIS HERRERA
+21977
+11.32%
+JOANNA REES
+3185
+1.64%
+TERRY JOAN BAUM
+1738
+0.89%
+PHIL TING
+1049
+0.54%
+BEVAN DUFTY
+9244
+4.76%
+TONY HALL
+7025
+3.62%
+MICHELA ALIOTO-PIER
+6720
+3.46%
+Continuing Ballots
+194201
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+212
+Exhausted by Over Votes
+825
+Total Ballots
+197242
+
+TERRY JOAN BAUM
+1738
+JOANNA REES
+3185
+PHIL TING
+1049
+CESAR ASCARRUNZ
+583
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+PHIL TING
+MICHELA ALIOTO-PIER
+0
+49
+PHIL TING
+LELAND YEE
+0
+85
+PHIL TING
+TONY HALL
+0
+32
+PHIL TING
+JOHN AVALOS
+0
+79
+PHIL TING
+DENNIS HERRERA
+0
+117
+PHIL TING
+DAVID CHIU
+0
+163
+PHIL TING
+JEFF ADACHI
+0
+111
+PHIL TING
+ED LEE
+0
+214
+PHIL TING
+BEVAN DUFTY
+0
+60
+PHIL TING
+Over Votes
+1
+0
+CESAR ASCARRUNZ
+Over Votes
+6
+0
+JOANNA REES
+Over Votes
+6
+0
+TERRY JOAN BAUM
+Over Votes
+2
+0
+PHIL TING
+Exhausted Ballots
+138
+0
+CESAR ASCARRUNZ
+Exhausted Ballots
+133
+0
+JOANNA REES
+Exhausted Ballots
+595
+0
+TERRY JOAN BAUM
+Exhausted Ballots
+194
+0
+CESAR ASCARRUNZ
+BEVAN DUFTY
+0
+22
+CESAR ASCARRUNZ
+LELAND YEE
+0
+35
+CESAR ASCARRUNZ
+JOHN AVALOS
+0
+83
+CESAR ASCARRUNZ
+TONY HALL
+0
+53
+CESAR ASCARRUNZ
+MICHELA ALIOTO-PIER
+0
+77
+CESAR ASCARRUNZ
+DENNIS HERRERA
+0
+62
+CESAR ASCARRUNZ
+DAVID CHIU
+0
+18
+CESAR ASCARRUNZ
+JEFF ADACHI
+0
+46
+CESAR ASCARRUNZ
+ED LEE
+0
+48
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+
+JOANNA REES
+DENNIS HERRERA
+0
+371
+JOANNA REES
+ED LEE
+0
+394
+JOANNA REES
+BEVAN DUFTY
+0
+176
+JOANNA REES
+DAVID CHIU
+0
+276
+JOANNA REES
+JEFF ADACHI
+0
+263
+JOANNA REES
+MICHELA ALIOTO-PIER
+0
+468
+JOANNA REES
+TONY HALL
+0
+258
+JOANNA REES
+JOHN AVALOS
+0
+185
+JOANNA REES
+LELAND YEE
+0
+193
+TERRY JOAN BAUM
+DENNIS HERRERA
+0
+79
+TERRY JOAN BAUM
+ED LEE
+0
+55
+TERRY JOAN BAUM
+BEVAN DUFTY
+0
+81
+TERRY JOAN BAUM
+DAVID CHIU
+0
+44
+TERRY JOAN BAUM
+JEFF ADACHI
+0
+112
+TERRY JOAN BAUM
+MICHELA ALIOTO-PIER
+0
+64
+TERRY JOAN BAUM
+TONY HALL
+0
+29
+TERRY JOAN BAUM
+JOHN AVALOS
+0
+1027
+TERRY JOAN BAUM
+LELAND YEE
+0
+51
+Total
+1075
+5480
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+18495
+9.58%
+LELAND YEE
+15030
+7.78%
+JEFF ADACHI
+13156
+6.81%
+ED LEE
+60610
+31.38%
+JOHN AVALOS
+38871
+20.13%
+DENNIS HERRERA
+22606
+11.71%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+9583
+4.96%
+TONY HALL
+7397
+3.83%
+MICHELA ALIOTO-PIER
+7378
+3.82%
+Continuing Ballots
+193126
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+1272
+Exhausted by Over Votes
+840
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 5
+Run Id: 34 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+18495
+9.58%
+LELAND YEE
+15030
+7.78%
+JEFF ADACHI
+13156
+6.81%
+ED LEE
+60610
+31.38%
+JOHN AVALOS
+38871
+20.13%
+DENNIS HERRERA
+22606
+11.71%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+9583
+4.96%
+TONY HALL
+7397
+3.83%
+MICHELA ALIOTO-PIER
+7378
+3.82%
+Continuing Ballots
+193126
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+1272
+Exhausted by Over Votes
+840
+Total Ballots
+197242
+
+MICHELA ALIOTO-PIER
+7378
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+MICHELA ALIOTO-PIER
+JEFF ADACHI
+0
+572
+MICHELA ALIOTO-PIER
+ED LEE
+0
+1137
+MICHELA ALIOTO-PIER
+JOHN AVALOS
+0
+449
+MICHELA ALIOTO-PIER
+TONY HALL
+0
+499
+MICHELA ALIOTO-PIER
+LELAND YEE
+0
+601
+MICHELA ALIOTO-PIER
+DENNIS HERRERA
+0
+925
+MICHELA ALIOTO-PIER
+Over Votes
+26
+0
+MICHELA ALIOTO-PIER
+Exhausted Ballots
+2157
+0
+MICHELA ALIOTO-PIER
+DAVID CHIU
+0
+462
+MICHELA ALIOTO-PIER
+BEVAN DUFTY
+0
+550
+Total
+2183
+5195
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+18957
+9.93%
+LELAND YEE
+15631
+8.19%
+JEFF ADACHI
+13728
+7.19%
+ED LEE
+61747
+32.34%
+JOHN AVALOS
+39320
+20.59%
+DENNIS HERRERA
+23531
+12.32%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+10133
+5.31%
+TONY HALL
+7896
+4.14%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+190943
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+3429
+Exhausted by Over Votes
+866
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 6
+Run Id: 34 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+18957
+9.93%
+LELAND YEE
+15631
+8.19%
+JEFF ADACHI
+13728
+7.19%
+ED LEE
+61747
+32.34%
+JOHN AVALOS
+39320
+20.59%
+DENNIS HERRERA
+23531
+12.32%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+10133
+5.31%
+TONY HALL
+7896
+4.14%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+190943
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+3429
+Exhausted by Over Votes
+866
+Total Ballots
+197242
+
+TONY HALL
+7896
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+TONY HALL
+ED LEE
+0
+1748
+TONY HALL
+DENNIS HERRERA
+0
+726
+TONY HALL
+JEFF ADACHI
+0
+1320
+TONY HALL
+LELAND YEE
+0
+390
+TONY HALL
+JOHN AVALOS
+0
+204
+TONY HALL
+Over Votes
+14
+0
+TONY HALL
+Exhausted Ballots
+2803
+0
+TONY HALL
+DAVID CHIU
+0
+369
+TONY HALL
+BEVAN DUFTY
+0
+322
+Total
+2817
+5079
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+19326
+10.27%
+LELAND YEE
+16021
+8.52%
+JEFF ADACHI
+15048
+8.00%
+ED LEE
+63495
+33.75%
+JOHN AVALOS
+39524
+21.01%
+DENNIS HERRERA
+24257
+12.89%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+10455
+5.56%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+188126
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+6232
+Exhausted by Over Votes
+880
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 7
+Run Id: 34 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+19326
+10.27%
+LELAND YEE
+16021
+8.52%
+JEFF ADACHI
+15048
+8.00%
+ED LEE
+63495
+33.75%
+JOHN AVALOS
+39524
+21.01%
+DENNIS HERRERA
+24257
+12.89%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+10455
+5.56%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+188126
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+6232
+Exhausted by Over Votes
+880
+Total Ballots
+197242
+
+BEVAN DUFTY
+10455
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+BEVAN DUFTY
+JEFF ADACHI
+0
+622
+BEVAN DUFTY
+ED LEE
+0
+1647
+BEVAN DUFTY
+LELAND YEE
+0
+670
+BEVAN DUFTY
+JOHN AVALOS
+0
+1511
+BEVAN DUFTY
+DENNIS HERRERA
+0
+2824
+BEVAN DUFTY
+Exhausted Ballots
+2169
+0
+BEVAN DUFTY
+Over Votes
+11
+0
+BEVAN DUFTY
+DAVID CHIU
+0
+1001
+Total
+2180
+8275
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+20327
+10.93%
+LELAND YEE
+16691
+8.98%
+JEFF ADACHI
+15670
+8.43%
+ED LEE
+65142
+35.03%
+JOHN AVALOS
+41035
+22.07%
+DENNIS HERRERA
+27081
+14.56%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+185946
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+8401
+Exhausted by Over Votes
+891
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 8
+Run Id: 34 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+20327
+10.93%
+LELAND YEE
+16691
+8.98%
+JEFF ADACHI
+15670
+8.43%
+ED LEE
+65142
+35.03%
+JOHN AVALOS
+41035
+22.07%
+DENNIS HERRERA
+27081
+14.56%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+185946
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+8401
+Exhausted by Over Votes
+891
+Total Ballots
+197242
+
+JEFF ADACHI
+15670
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+JEFF ADACHI
+ED LEE
+0
+2400
+JEFF ADACHI
+DENNIS HERRERA
+0
+2592
+JEFF ADACHI
+LELAND YEE
+0
+1325
+JEFF ADACHI
+JOHN AVALOS
+0
+1842
+JEFF ADACHI
+Exhausted Ballots
+5334
+0
+JEFF ADACHI
+Over Votes
+43
+0
+JEFF ADACHI
+DAVID CHIU
+0
+2134
+Total
+5377
+10293
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+22461
+12.44%
+LELAND YEE
+18016
+9.98%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+67542
+37.41%
+JOHN AVALOS
+42877
+23.75%
+DENNIS HERRERA
+29673
+16.43%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+180569
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+13735
+Exhausted by Over Votes
+934
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 9
+Run Id: 34 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+22461
+12.44%
+LELAND YEE
+18016
+9.98%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+67542
+37.41%
+JOHN AVALOS
+42877
+23.75%
+DENNIS HERRERA
+29673
+16.43%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+180569
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+13735
+Exhausted by Over Votes
+934
+Total Ballots
+197242
+
+LELAND YEE
+18016
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+LELAND YEE
+DENNIS HERRERA
+0
+2603
+LELAND YEE
+ED LEE
+0
+3591
+LELAND YEE
+JOHN AVALOS
+0
+2628
+LELAND YEE
+DAVID CHIU
+0
+2806
+LELAND YEE
+Exhausted Ballots
+6335
+0
+LELAND YEE
+Over Votes
+53
+0
+Total
+6388
+11628
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+25267
+14.51%
+LELAND YEE
+Eliminated in pass 9.
+0
+0.00%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+71133
+40.84%
+JOHN AVALOS
+45505
+26.13%
+DENNIS HERRERA
+32276
+18.53%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+174181
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+20070
+Exhausted by Over Votes
+987
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 10
+Run Id: 34 - Pass 10
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+25267
+14.51%
+LELAND YEE
+Eliminated in pass 9.
+0
+0.00%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+71133
+40.84%
+JOHN AVALOS
+45505
+26.13%
+DENNIS HERRERA
+32276
+18.53%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+174181
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+20070
+Exhausted by Over Votes
+987
+Total Ballots
+197242
+
+DAVID CHIU
+25267
+Candidate
+Votes
+Eliminated Candidates - Pass
+10
+DAVID CHIU
+DENNIS HERRERA
+0
+4866
+DAVID CHIU
+ED LEE
+0
+7482
+DAVID CHIU
+JOHN AVALOS
+0
+3133
+DAVID CHIU
+Exhausted Ballots
+9758
+0
+DAVID CHIU
+Over Votes
+28
+0
+Total
+9786
+15481
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+10
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+Eliminated in pass 10.
+0
+0.00%
+LELAND YEE
+Eliminated in pass 9.
+0
+0.00%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+78615
+47.82%
+JOHN AVALOS
+48638
+29.59%
+DENNIS HERRERA
+37142
+22.59%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+164395
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+29828
+Exhausted by Over Votes
+1015
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 11
+Run Id: 34 - Pass 11
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/30/2011
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+Eliminated in pass 10.
+0
+0.00%
+LELAND YEE
+Eliminated in pass 9.
+0
+0.00%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+78615
+47.82%
+JOHN AVALOS
+48638
+29.59%
+DENNIS HERRERA
+37142
+22.59%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+164395
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2004
+Exhausted Ballots
+29828
+Exhausted by Over Votes
+1015
+Total Ballots
+197242
+
+DENNIS HERRERA
+37142
+Candidate
+Votes
+Eliminated Candidates - Pass
+11
+DENNIS HERRERA
+ED LEE
+0
+5842
+DENNIS HERRERA
+JOHN AVALOS
+0
+8522
+DENNIS HERRERA
+Over Votes
+82
+0
+DENNIS HERRERA
+Exhausted Ballots
+22696
+0
+Total
+22778
+14364
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+11
+
+PAUL CURRIER
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN JOHN EDWARD FITCH
+Eliminated in pass 1.
+0
+0.00%
+JOANNA REES
+Eliminated in pass 4.
+0
+0.00%
+WILMA PANG
+Eliminated in pass 3.
+0
+0.00%
+EMIL LAWRENCE
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN GILBERT LOUIS FRANCIS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN PATRICK MONETTE-
+SHAW
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN LEA SHERMAN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN DAVID VILLA-LOBOS
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN RODNEY HAUGE
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN ROBERT 'BOBBY' JORDAN Eliminated in pass 1.
+0
+0.00%
+WRITE-IN HAROLD MILLER
+Eliminated in pass 1.
+0
+0.00%
+DAVID CHIU
+Eliminated in pass 10.
+0
+0.00%
+LELAND YEE
+Eliminated in pass 9.
+0
+0.00%
+JEFF ADACHI
+Eliminated in pass 8.
+0
+0.00%
+ED LEE
+** WINNER **
+84457
+59.64%
+JOHN AVALOS
+57160
+40.36%
+DENNIS HERRERA
+Eliminated in pass 11.
+0
+0.00%
+PHIL TING
+Eliminated in pass 4.
+0
+0.00%
+TERRY JOAN BAUM
+Eliminated in pass 4.
+0
+0.00%
+CESAR ASCARRUNZ
+Eliminated in pass 4.
+0
+0.00%
+BEVAN DUFTY
+Eliminated in pass 7.
+0
+0.00%
+TONY HALL
+Eliminated in pass 6.
+0
+0.00%
+MICHELA ALIOTO-PIER
+Eliminated in pass 5.
+0
+0.00%
+Continuing Ballots
+141617
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2004
+Exhausted Ballots
+52524
+Exhausted by Over Votes
+1097
+Total Ballots
+197242
+

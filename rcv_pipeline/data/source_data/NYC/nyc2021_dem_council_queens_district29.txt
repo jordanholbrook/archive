@@ -1,0 +1,34 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 29th Council District
+Election Date:	2021/06/22
+Election results
+Lynn C. Schulman won the DEM Council Member 29th Council District Primary with 7,232 of the votes in the final round.
+Lynn C. Schulman defeated Aleda F. Gagarin, who received 4,825 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6	Round 7	Round 8
+Eliminated in this round	 	Write-ins	Eliseo Dorion Labayen; Sheryl Ann Fetik**	Douglas J. Shapiro	Edwin K. Wong	Avi Cyperstein	Donghui Zang	David Aronov
+Elected	 	 	 	 	 	 	 	Lynn C. Schulman*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Lynn C. Schulman	3,942	23.0%	5	3,947	23.1%	204	4,151	24.6%	314	4,465	27.0%	189	4,654	28.7%	602	5,256	33.6%	676	5,932	41.4%	1300	7,232	60.0%
+Aleda F. Gagarin	3,316	19.4%	1	3,317	19.4%	200	3,517	20.8%	135	3,652	22.1%	111	3,763	23.2%	155	3,918	25.0%	356	4,274	29.8%	551	4,825	40.0%
+David Aronov	2,355	13.8%	1	2,356	13.8%	129	2,485	14.7%	210	2,695	16.3%	130	2,825	17.4%	640	3,465	22.1%	670	4,135	28.8%	-XXX	
+Donghui Zang	1,855	10.8%	2	1,857	10.9%	112	1,969	11.7%	112	2,081	12.6%	729	2,810	17.3%	202	3,012	19.2%	-XXX		 
+Avi Cyperstein	1,844	10.8%		1,844	10.8%	129	1,973	11.7%	154	2,127	12.8%	56	2,183	13.4%	-XXX		 	 
+Edwin K. Wong	1,353	7.9%	2	1,355	7.9%	69	1,424	8.4%	117	1,541	9.3%	-XXX		 	 	 
+Douglas J. Shapiro	1,241	7.2%		1,241	7.3%	125	1,366	8.1%	-XXX		 	 	 	 
+Eliseo Dorion Labayen	689	4.0%	3	692	4.0%	-XXX		 	 	 	 	 
+Sheryl Ann Fetik	486	2.8%	1	487	2.8%	-XXX		 	 	 	 	 
+Write-ins	41	0.2%	-XXX		 	 	 	 	 	 
+Inactive ballots		 	26	26	 	211	237	 	324	561	 	326	887	 	584	1,471	 	1310	2,781	 	2284	5,065	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

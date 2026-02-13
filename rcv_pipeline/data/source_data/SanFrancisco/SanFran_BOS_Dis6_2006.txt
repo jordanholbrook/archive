@@ -1,0 +1,30 @@
+
+ELECTION SUMMARY           SAN FRANCISCO               OFFICIAL RESULTS
+                                           CONSOL GENERAL ELECTION
+                                           NOVEMBER 7, 2006
+                RUN DATE:12/05/06 11:10 AM
+                
+OFFICIAL RESULTS
+RUN DATE: 12/05/06 11:50 AM
+
+MEMBER, BOARD OF SUPERVISORS DIST. 6	Pass 1	Pass 2	Pass 3	Pass 4	Pass 5		Pre-RCV Count	Pre-RCV Diff.
+VILIAM DUGOVIC	340	348	358*				330	10
+GEORGE DIAS	230	231*					222	8
+MATT DRAKE	679	688	725	830	869		669	10
+CHRIS DALY (Winner 50.822%)	8,746	8,763	8,803	8,871	8,968		8,654	92
+DAVY JONES	389	402	421	463	506		372	17
+ROBERT JORDAN	125*						119	6
+MANUEL JIMENEZ, JR.	317	328	375	399*			311	6
+ROB BLACK	7,115	7,134	7,173	7,215	7,303		7,051	64
+WRITE-IN	*						0	0
+Eligible Ballots	17,941	17,894	17,855	17,778	17,646	Undervotes	2,027	
+Exhausted Ballots	1,974	2,021	2,060	2,137	2,269	Overvotes	160	
+Total Ballots	19,915	19,915	19,915	19,915	19,915	Total	19,915	
+To understand the difference between the Pre-RCV and RCV vote totals:
+A number of undervotes reported were, in fact, advanceable ballots (Difference column)
+The RCV algorithm advances those ballots and sums them in Pass1.
+The candidate(s) with the lowest vote total is selected for elimination (indicated with an asterisk * )
+Ballot Definitions:
+The number of Eligible Ballots (for Pass 1) is the number of ballots with a mark for a candidate in the 1st choice, plus those whose marks were advanced.
+The number of Exhausted Ballots is the number of undervotes minus the number of advanced ballots, plus the number of overvotes (invalid votes for multiple candidates).
+The number of Total Ballots is all cards, marked in any way, or blank.

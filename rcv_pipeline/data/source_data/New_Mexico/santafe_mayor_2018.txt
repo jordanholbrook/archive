@@ -1,0 +1,96 @@
+Election Summary Report
+City of Santa Fe
+UNOFFICIAL RESULTS
+March 06, 2018
+General Election
+Mayor
+
+
+
+City of Santa Fe
+Round 1
+Threshold: 10,303
+Candidate Votes Percentage
+Peter N. Ives 1,238 6.01%
+Alan Webber 8,080 39.22%
+Kate I. Noble 4,611 22.38%
+Joseph M. Maestas 1,649 8.00%
+Ronald S. Trujillo 5,026 24.39%
+Continuing Ballots Total 20,604
+Blanks 40
+Exhausted 0
+Overvotes 26
+Remainder Points 0
+Non Transferable Total 66
+Peter N. Ives is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Peter N. Ives.
+1238 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Fraction Votes
+Peter N. Ives Alan Webber 394 1 394
+Peter N. Ives Kate I. Noble 317 1 317
+Peter N. Ives Joseph M. Maestas 169 1 169
+Peter N. Ives Ronald S. Trujillo 215 1 215
+Peter N. Ives Exhausted 141 1 141
+Peter N. Ives Overvotes 2 1 2
+Round 2
+Threshold: 10,231
+Candidate Votes Percentage
+Peter N. Ives 0 0.00%
+Alan Webber 8,474 41.42%
+Kate I. Noble 4,928 24.08%
+Joseph M. Maestas 1,818 8.89%
+Ronald S. Trujillo 5,241 25.61%
+Continuing Ballots Total 20,461
+Blanks 40
+Exhausted 141
+Overvotes 28
+Remainder Points 0
+Non Transferable Total 209
+Joseph M. Maestas is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Joseph M. Maestas.
+1818 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Fraction Votes
+Joseph M. Maestas Alan Webber 618 1 618
+Joseph M. Maestas Kate I. Noble 637 1 637
+Joseph M. Maestas Ronald S. Trujillo 413 1 413
+Joseph M. Maestas Exhausted 142 1 142
+Joseph M. Maestas Overvotes 8 1 8
+Page: 2 / 3 03/06/2018 23:31:38
+Round 3
+Threshold: 10,156
+Candidate Votes Percentage
+Peter N. Ives 0 0.00%
+Alan Webber 9,092 44.76%
+Kate I. Noble 5,565 27.40%
+Joseph M. Maestas 0 0.00%
+Ronald S. Trujillo 5,654 27.84%
+Continuing Ballots Total 20,311
+Blanks 40
+Exhausted 283
+Overvotes 36
+Remainder Points 0
+Non Transferable Total 359
+Kate I. Noble is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Kate I. Noble.
+5565 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Fraction Votes
+Kate I. Noble Alan Webber 3996 1 3,996
+Kate I. Noble Ronald S. Trujillo 1032 1 1,032
+Kate I. Noble Exhausted 521 1 521
+Kate I. Noble Overvotes 16 1 16
+Round 4
+Threshold: 9,888
+Candidate Votes Percentage
+Peter N. Ives 0 0.00%
+Alan Webber 13,088 66.19%
+Kate I. Noble 0 0.00%
+Joseph M. Maestas 0 0.00%
+Ronald S. Trujillo 6,686 33.81%
+Continuing Ballots Total 19,774
+Blanks 40
+Exhausted 804
+Overvotes 52
+Remainder Points 0
+Non Transferable Total 896
+Alan Webber is elected because the candidate reached the threshold value.
+Ronald S. Trujillo is eliminated because the candidate was not elected in the last round.

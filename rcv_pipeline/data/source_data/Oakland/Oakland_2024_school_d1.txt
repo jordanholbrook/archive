@@ -1,0 +1,14 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+School Director, District 1 - Oakland (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+RACHEL LATTA	22512	77.73 %
+BENJAMIN SALOP	6448	22.27 %
+CONTINUING BALLOTS TOTAL	28960	
+BLANKS	6304	
+EXHAUSTED	0	
+OVERVOTES	103	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6407

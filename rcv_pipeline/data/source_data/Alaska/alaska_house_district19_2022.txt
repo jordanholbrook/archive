@@ -1,0 +1,54 @@
+House District 19
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+19-605 Airport Heights No. 1 733 2,307
+19-610 Airport Heights No. 2 616 3,985
+19-615 Mountainview No. 1 304 2,030
+19-620 Mountainview No. 2 247 2,646
+19-625 South Mountainview 369 2,543
+District 19 - Absentee 840 0
+District 19 - Early Voting 445 0
+District 19 - Question 174 0
+State of Alaska - Total 3,728 13,511
+State - Total 3,728 13,511
+
+Precinct
+State
+State of Alaska
+19-605 Airport Heights No. 1 19-610 Airport Heights No. 2 19-615 Mountainview No. 1 19-620 Mountainview No. 2 19-625 South Mountainview District 19 - Absentee District 19 - Early Voting District 19 - Question State of Alaska - Total State - Total Wyatt, Russell O.
+(DEM)
+112 147 67 66 74 118 61 24 669 669 17.92% 29.22% 26.38% 33.67% 25.87% 16.39% 16.01% 36.36% 22.07% 22.07% Mina, Genevieve G.
+(DEM)
+494 331 180 121 190 580 310 39 2,245 2,245 11/30/2022 2:08:12 PM
+79.04%
+65.81%
+70.87%
+61.73%
+66.43%
+80.56%
+81.36%
+59.09%
+74.07%
+74.07%
+
+
+Precinct
+State
+State of Alaska
+19-605 Airport Heights No. 1 19-610 Airport Heights No. 2 19-615 Mountainview No. 1 19-620 Mountainview No. 2 19-625 South Mountainview District 19 - Absentee District 19 - Early Voting District 19 - Question State of Alaska - Total State - Total Write-in
+19 3.04% 25 4.97% 7 2.76% 9 4.59% 22 7.69% 22 3.06% 10 2.62% 3 4.55% 117 3.86% 117 3.86% 11/30/2022 2:08:12 PM
+Total Votes
+625
+503
+254
+196
+286
+720
+381
+66
+3,031
+3,031

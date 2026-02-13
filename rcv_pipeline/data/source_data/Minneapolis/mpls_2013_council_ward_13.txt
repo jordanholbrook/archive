@@ -1,0 +1,22 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 13 election results
+Official Winner: Linea Palmisano
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 13
+Candidate	Final round votes	Final round percentage
+Linea Palmisano	5,059	48.37%
+Matt Perry	4,705	44.99%
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After two rounds of tabulation, Linea Palmisano was elected.
+
+See the ranked-choice voting tabulation below for more details.
+
+Ballots cast summary
+Total ballots cast	10,459	Total votes counted in the first round.
+Maximum possible threshold	5,230	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	283	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

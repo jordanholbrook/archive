@@ -1,0 +1,56 @@
+=== Summary Statement-4.pdf | City: Minnetonka_MN ===
+
+Total Votes Cast:
+11350
+Undervotes:
+533
+Defective Ballots:
+13
+Spoiled Ballots:
+321
+Number of Seats:
+1
+Maximum Possible Threshold:
+5676
+Round 1
+Final Percentage
+Total Number of 
+1st Choice Votes
+Declared Winner:        
+Deb Calvert
+Karen Ahlbrecht
+1014
+8.93
+Deb Calvert
+5881
+51.81
+Marshall Glynn
+654
+5.76
+Iola Kostrzewski
+1084
+9.55
+Wyn Ray
+2138
+18.84
+Undeclared Write-ins (UWI)
+18
+0.16
+Overvotes
+19
+0.17
+Undervotes
+542
+4.78
+TOTAL:
+11350
+100.00
+Candidate
+November 2, 2021 Municipal Election
+At-Large Councilmember, Seat A
+Ranked-Choice Voting Tabulation Center Summary Statement
+** Total number of ballots cast, including undervotes, overvotes, and defective ballots **
+** Voter did not rank any candidates for this office **
+** Unable to determine voter's intent with respect to the office being counted **
+** Half of total ballots cast for office + 1, disregarding fractions/decimals **
+

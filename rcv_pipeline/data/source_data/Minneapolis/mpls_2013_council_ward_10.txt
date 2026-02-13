@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 10 election results
+Official Winner: Lisa Bender
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 10
+Candidate	First ranked votes	Percent
+Lisa Bender	3,704	64.21%
+Meg Tuthill	1,732	30.02%
+Nate Griggs	226	3.92%
+Scott Hargarten	96	1.66%
+Write-ins	11	0.19%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Lisa Bender was elected.
+
+Ballots cast summary
+Total ballots cast	5,933	Total votes counted in the first round.
+Maximum possible threshold	2,967	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	4	Voter voted for more candidates than allowed.
+Undervotes	160	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

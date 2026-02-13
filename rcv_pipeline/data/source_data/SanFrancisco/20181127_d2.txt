@@ -1,0 +1,354 @@
+=== 20181127_d2.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+SCHUYLER HUDAK
+4145
+11.74%
+CATHERINE STEFANI
+14415
+40.82%
+WRITE-IN
+0
+0.00%
+NICK JOSEFOWITZ
+13644
+38.64%
+JOHN DENNIS
+3108
+8.80%
+Continuing Ballots
+35312
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4515
+Exhausted Ballots
+0
+Exhausted by Over Votes
+79
+Total Ballots
+39906
+Run Id: 143 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+SCHUYLER HUDAK
+4145
+11.74%
+CATHERINE STEFANI
+14415
+40.82%
+WRITE-IN
+0
+0.00%
+NICK JOSEFOWITZ
+13644
+38.64%
+JOHN DENNIS
+3108
+8.80%
+Continuing Ballots
+35312
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4515
+Exhausted Ballots
+0
+Exhausted by Over Votes
+79
+Total Ballots
+39906
+Run Id: 143 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+SCHUYLER HUDAK
+4145
+11.74%
+CATHERINE STEFANI
+14415
+40.82%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+NICK JOSEFOWITZ
+13644
+38.64%
+JOHN DENNIS
+3108
+8.80%
+Continuing Ballots
+35312
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4515
+Exhausted Ballots
+0
+Exhausted by Over Votes
+79
+Total Ballots
+39906
+
+Complete
+Load Type:
+Pass Number: 2
+JOHN DENNIS
+3108
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+JOHN DENNIS
+CATHERINE STEFANI
+0
+594
+JOHN DENNIS
+NICK JOSEFOWITZ
+0
+698
+JOHN DENNIS
+SCHUYLER HUDAK
+0
+793
+JOHN DENNIS
+Exhausted Ballots
+1018
+0
+JOHN DENNIS
+Over Votes
+5
+0
+Total
+1023
+2085
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+SCHUYLER HUDAK
+4145
+11.74%
+CATHERINE STEFANI
+14415
+40.82%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+NICK JOSEFOWITZ
+13644
+38.64%
+JOHN DENNIS
+3108
+8.80%
+Continuing Ballots
+35312
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4515
+Exhausted Ballots
+0
+Exhausted by Over Votes
+79
+Total Ballots
+39906
+Run Id: 143 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+SCHUYLER HUDAK
+4938
+14.40%
+CATHERINE STEFANI
+15009
+43.77%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+NICK JOSEFOWITZ
+14342
+41.83%
+JOHN DENNIS
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+34289
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4515
+Exhausted Ballots
+1018
+Exhausted by Over Votes
+84
+Total Ballots
+39906
+
+Complete
+Load Type:
+Pass Number: 3
+SCHUYLER HUDAK
+4938
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+SCHUYLER HUDAK
+CATHERINE STEFANI
+0
+2331
+SCHUYLER HUDAK
+NICK JOSEFOWITZ
+0
+1719
+SCHUYLER HUDAK
+Over Votes
+13
+0
+SCHUYLER HUDAK
+Exhausted Ballots
+875
+0
+Total
+888
+4050
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+SCHUYLER HUDAK
+4938
+14.40%
+CATHERINE STEFANI
+15009
+43.77%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+NICK JOSEFOWITZ
+14342
+41.83%
+JOHN DENNIS
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+34289
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4515
+Exhausted Ballots
+1018
+Exhausted by Over Votes
+84
+Total Ballots
+39906
+Run Id: 143 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 2
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+SCHUYLER HUDAK
+Eliminated in pass 3.
+0
+0.00%
+CATHERINE STEFANI
+** WINNER **
+17340
+51.91%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+NICK JOSEFOWITZ
+16061
+48.09%
+JOHN DENNIS
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+33401
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4515
+Exhausted Ballots
+1893
+Exhausted by Over Votes
+97
+Total Ballots
+39906
+

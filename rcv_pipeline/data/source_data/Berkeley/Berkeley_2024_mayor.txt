@@ -1,0 +1,93 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Mayor - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+ADENA ISHII	20034	38.02 %
+SOPHIE HAHN	19695	37.38 %
+KATE HARRISON	11893	22.57 %
+NAOMI D. PETE	514	0.98 %
+LOGAN BOWIE	555	1.05 %
+CONTINUING BALLOTS TOTAL	52691	
+BLANKS	6287	
+EXHAUSTED	0	
+OVERVOTES	290	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6577	
+
+NAOMI D. PETE is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate NAOMI D. PETE. 514 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+NAOMI D. PETE	ADENA ISHII	113	1	113
+NAOMI D. PETE	SOPHIE HAHN	99	1	99
+NAOMI D. PETE	KATE HARRISON	73	1	73
+NAOMI D. PETE	LOGAN BOWIE	88	1	88
+NAOMI D. PETE	EXHAUSTED	131	1	131
+NAOMI D. PETE	OVERVOTES	10	1	10
+
+
+----------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+ADENA ISHII	20147	38.34 %
+SOPHIE HAHN	19794	37.67 %
+KATE HARRISON	11966	22.77 %
+NAOMI D. PETE	0	0.00 %
+LOGAN BOWIE	643	1.22 %
+CONTINUING BALLOTS TOTAL	52550	
+BLANKS	6287	
+EXHAUSTED	131	
+OVERVOTES	300	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6718	
+
+LOGAN BOWIE is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate LOGAN BOWIE. 643 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+LOGAN BOWIE	ADENA ISHII	163	1	163
+LOGAN BOWIE	SOPHIE HAHN	136	1	136
+LOGAN BOWIE	KATE HARRISON	189	1	189
+LOGAN BOWIE	EXHAUSTED	146	1	146
+LOGAN BOWIE	OVERVOTES	9	1	9
+
+----------------------------------------------------
+
+Round 3
+
+Candidate	Votes	Percentage
+ADENA ISHII	20310	38.76 %
+SOPHIE HAHN	19930	38.04 %
+KATE HARRISON	12155	23.20 %
+NAOMI D. PETE	0	0.00 %
+LOGAN BOWIE	0	0.00 %
+CONTINUING BALLOTS TOTAL	52395	
+BLANKS	6287	
+EXHAUSTED	277	
+OVERVOTES	309	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	6873	
+
+KATE HARRISON is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate KATE HARRISON. 12155 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+KATE HARRISON	ADENA ISHII	4846	1	4846
+KATE HARRISON	SOPHIE HAHN	4179	1	4179
+KATE HARRISON	EXHAUSTED	3088	1	3088
+KATE HARRISON	OVERVOTES	42	1	42
+
+----------------------------------------------------
+
+Round 4
+
+Candidate	Votes	Percentage
+ADENA ISHII	25156	51.06 %
+SOPHIE HAHN	24109	48.94 %
+KATE HARRISON	0	0.00 %
+NAOMI D. PETE	0	0.00 %
+LOGAN BOWIE	0	0.00 %
+CONTINUING BALLOTS TOTAL	49265	
+BLANKS	6287	
+EXHAUSTED	3365	
+OVERVOTES	351	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	10003	

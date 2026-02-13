@@ -1,0 +1,43 @@
+=== nov-6-2012-pass-report-council-member-dist-5.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+SOPHIE HAHN
+3628
+45.55%
+Write-In
+0
+0.00%
+LAURIE CAPITELLI
+** WINNER **
+4336
+54.45%
+Continuing Ballots
+7964
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+798
+Exhausted Ballots
+0
+Exhausted by Over Votes
+5
+Total Ballots
+8767
+Run Id: 227 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 5 - 
+Berkeley (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

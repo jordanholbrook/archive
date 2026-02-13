@@ -1,0 +1,60 @@
+Page: 1 / 2
+11/30/2022 14:15:25
+RCV Detailed Report
+General Election
+State of Alaska
+November 08, 2022
+House District 11
+Official results
+Number of positions to elect is 1.
+Tabulation status: All Positions Filled
+Tabulation time: 11/30/2022 1:42:08 PM
+Tabulation Options
+RCV method IRV
+Exclude unresolved write-ins True
+Declare winners by threshold False
+Uses precincts True
+Previous rounds evaluation method None
+Elimination type Single
+Fixed precision decimals 0
+Perform elimination transfer in last round True
+Skip overvoted rankings False
+Votes to include in threshold calculation Continuing ballots per round
+Use first round suspension False
+Handling skip rankings Exhausted on Two or More Ranks Skipped
+Ties are resolved in accordance with election law.
+Page: 2 / 2
+State of Alaska
+Round 1
+11/30/2022 14:15:25
+Candidate Votes Percentage
+Featherly, Walter T. 3,484 45.42%
+Bieling, Ross P. 1,186 15.46%
+Coulombe, Julie 3,001 39.12%
+Continuing Ballots Total 7,671
+Blanks 516
+Exhausted 0
+Overvotes 3
+Remainder Points 0
+Non Transferable Total 519
+Bieling, Ross P. is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Bieling, Ross P..
+1186 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Votes
+Bieling, Ross P. Featherly, Walter T. 81 81
+Bieling, Ross P. Coulombe, Julie 676 676
+Bieling, Ross P. Exhausted 429 429
+Round 2
+Candidate Votes Percentage
+Featherly, Walter T. 3,565 49.23%
+Bieling, Ross P. 0 0.00%
+Coulombe, Julie 3,677 50.77%
+Continuing Ballots Total 7,242
+Blanks 516
+Exhausted 429
+Overvotes 3
+Remainder Points 0
+Non Transferable Total 948
+Featherly, Walter T. is eliminated because the candidate was not elected in the last
+round.
+Coulombe, Julie is elected because all other candidates have been eliminated.

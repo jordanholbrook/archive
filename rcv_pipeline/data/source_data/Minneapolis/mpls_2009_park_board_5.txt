@@ -1,0 +1,26 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 Minneapolis Park Board District 5 results
+Official Winner: Carol Kummer
+November 3, 2009
+
+Municipal Election
+
+ Park Board District 5
+Candidate	Final round votes	Final round percentage
+Caorl Kummer	2,964	46.13%
+Jason Stone	3,271	41.68%
+Exhausted	957	12.19%
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After two rounds of tabulation, Carol Kummer was elected. 
+
+See the ranked-choice voting tabulation below for more details.
+
+Ballots cast summary
+Total ballots cast	7,848	Total votes counted in the first round.
+Maximum possible threshold	3,925	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	1,534	Voter did not rank any candidates for the office.
+Spoiled ballots	351	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidate's last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.
+
+ 

@@ -1,0 +1,46 @@
+=== nov-2-2010-pass-report-san-leandro-council-mem-dist-1.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+152
+0.76%
+CAROL LIBBRECHT
+120
+0.60%
+DAVID L. ANDERSON, SR.
+6742
+33.64%
+MICHAEL J. GREGORY
+** WINNER **
+13030
+65.01%
+Continuing Ballots
+20044
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3416
+Exhausted Ballots
+0
+Exhausted by Over Votes
+34
+Total Ballots
+23494
+Run Id: 180 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 1 - San 
+Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

@@ -1,0 +1,18 @@
+Ranked Choice Voting Results Table
+Pierce County Washington
+November 4, 2008 General Election - Official Results
+
+Contest: County Executive
+Load Type: Complete
+Round 1 Round 2 Round 3
+Votes % Transfer Votes % Transfer Votes % Transfer
+Mike Lonergan 45330 15.15% -45330 0 0.00% 0 0 0.00% 0
+Pat McCarthy 79235 26.49% +12973 92208 31.98% +44138 136346 Calvin Goings 69052 23.08% +8375 77427 26.85% -77427 0 0.00% 0
+Shawn Bunney 105057 35.12% +13633 118690 41.17% +13602 49.25% 0
+Write-In 458 0.15% -458 0 0.00% 0 0 0.00% 0
+Exhausted by Over Votes 532 +61 593 +125 Under Votes 13107 0 13107 0 13107 0
+Exhausted Ballots 0 +10746 10746 +19562 Continuing Ballots 299132 100.00% 288325 100.00% 50.75% 0
+268638 132292 100.00%
+718 0
+30308 0
+TOTAL 312771 0 312771 0 312771 0

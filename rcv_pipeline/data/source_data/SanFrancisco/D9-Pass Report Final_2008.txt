@@ -1,0 +1,410 @@
+=== D9-Pass Report Final_2008.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+DAVID CAMPOS
+9468
+35.75%
+TOM VALTIN
+862
+3.25%
+WRITE-IN
+39
+0.15%
+ERIC QUEZADA
+5352
+20.21%
+ERIC STOREY
+806
+3.04%
+EVA ROYALE
+1842
+6.95%
+VERN MATHEWS
+469
+1.77%
+MARK SANCHEZ
+7648
+28.88%
+Continuing Ballots
+26486
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2085
+Exhausted Ballots
+0
+Exhausted by Over Votes
+313
+Total Ballots
+28884
+Run Id: 58 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 9
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+Complete
+Load Type:
+Pass Number: 1
+ERIC STOREY
+806
+TOM VALTIN
+862
+WRITE-IN
+39
+EVA ROYALE
+1842
+VERN MATHEWS
+469
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+DAVID CAMPOS
+9468
+35.75%
+TOM VALTIN
+862
+3.25%
+WRITE-IN
+39
+0.15%
+ERIC QUEZADA
+5352
+20.21%
+ERIC STOREY
+806
+3.04%
+EVA ROYALE
+1842
+6.95%
+VERN MATHEWS
+469
+1.77%
+MARK SANCHEZ
+7648
+28.88%
+Continuing Ballots
+26486
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2085
+Exhausted Ballots
+0
+Exhausted by Over Votes
+313
+Total Ballots
+28884
+Run Id: 58 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 9
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+VERN MATHEWS
+MARK SANCHEZ
+0
+110
+ERIC STOREY
+DAVID CAMPOS
+0
+156
+ERIC STOREY
+ERIC QUEZADA
+0
+92
+EVA ROYALE
+MARK SANCHEZ
+0
+552
+VERN MATHEWS
+DAVID CAMPOS
+0
+73
+VERN MATHEWS
+ERIC QUEZADA
+0
+51
+TOM VALTIN
+MARK SANCHEZ
+0
+182
+WRITE-IN
+DAVID CAMPOS
+0
+4
+WRITE-IN
+ERIC QUEZADA
+0
+3
+ERIC STOREY
+MARK SANCHEZ
+0
+131
+TOM VALTIN
+DAVID CAMPOS
+0
+274
+TOM VALTIN
+ERIC QUEZADA
+0
+137
+EVA ROYALE
+ERIC QUEZADA
+0
+329
+TOM VALTIN
+Exhausted Ballots
+265
+0
+WRITE-IN
+Exhausted Ballots
+31
+0
+ERIC STOREY
+Exhausted Ballots
+426
+0
+EVA ROYALE
+Exhausted Ballots
+540
+0
+VERN MATHEWS
+Exhausted Ballots
+232
+0
+EVA ROYALE
+Over Votes
+9
+0
+WRITE-IN
+Over Votes
+1
+0
+EVA ROYALE
+DAVID CAMPOS
+0
+412
+TOM VALTIN
+Over Votes
+4
+0
+VERN MATHEWS
+Over Votes
+3
+0
+ERIC STOREY
+Over Votes
+1
+0
+Total
+1512
+2506
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+
+DAVID CAMPOS
+10387
+41.59%
+TOM VALTIN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ERIC QUEZADA
+5964
+23.88%
+ERIC STOREY
+Eliminated in pass 1.
+0
+0.00%
+EVA ROYALE
+Eliminated in pass 1.
+0
+0.00%
+VERN MATHEWS
+Eliminated in pass 1.
+0
+0.00%
+MARK SANCHEZ
+8623
+34.53%
+Continuing Ballots
+24974
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2085
+Exhausted Ballots
+1494
+Exhausted by Over Votes
+331
+Total Ballots
+28884
+
+Complete
+Load Type:
+Pass Number: 2
+ERIC QUEZADA
+5964
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+ERIC QUEZADA
+DAVID CAMPOS
+0
+2250
+ERIC QUEZADA
+MARK SANCHEZ
+0
+2214
+ERIC QUEZADA
+Over Votes
+21
+0
+ERIC QUEZADA
+Exhausted Ballots
+1479
+0
+Total
+1500
+4464
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+DAVID CAMPOS
+10387
+41.59%
+TOM VALTIN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ERIC QUEZADA
+5964
+23.88%
+ERIC STOREY
+Eliminated in pass 1.
+0
+0.00%
+EVA ROYALE
+Eliminated in pass 1.
+0
+0.00%
+VERN MATHEWS
+Eliminated in pass 1.
+0
+0.00%
+MARK SANCHEZ
+8623
+34.53%
+Continuing Ballots
+24974
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2085
+Exhausted Ballots
+1494
+Exhausted by Over Votes
+331
+Total Ballots
+28884
+Run Id: 58 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 9
+The City and County of San Francisco
+SFC_20081104_E
+Election Date:
+Run Date:
+11/4/2008
+12/2/2008
+
+DAVID CAMPOS
+** WINNER **
+12637
+53.83%
+TOM VALTIN
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ERIC QUEZADA
+Eliminated in pass 2.
+0
+0.00%
+ERIC STOREY
+Eliminated in pass 1.
+0
+0.00%
+EVA ROYALE
+Eliminated in pass 1.
+0
+0.00%
+VERN MATHEWS
+Eliminated in pass 1.
+0
+0.00%
+MARK SANCHEZ
+10837
+46.17%
+Continuing Ballots
+23474
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2085
+Exhausted Ballots
+2973
+Exhausted by Over Votes
+352
+Total Ballots
+28884
+

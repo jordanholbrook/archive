@@ -1,0 +1,22 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 Minneapolis Park Board District 4 results
+Official Winner: Anita Tabb
+November 5, 2013
+
+Municipal Election
+
+ Park Board District 4
+Candidate	First ranked votes	Percent
+Anita Tabb	6,671	79.15%
+Bobby Davis	1,680	19.93%
+Write-ins	77	0.91%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Anita Tabb was elected.
+
+Ballots cast summary
+Total ballots cast	12,827	Total votes counted in the first round.
+Maximum possible threshold	6,414	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	9	Voter voted for more candidates than allowed.
+Undervotes	4,390	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

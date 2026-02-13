@@ -1,0 +1,901 @@
+=== D7-PassReport.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+NORMAN YEE
+9182
+29.26%
+JULIAN P. LAGOS
+1091
+3.48%
+JOEL ENGARDIO
+4168
+13.28%
+WRITE-IN
+0
+0.00%
+ANDREW BLEY
+825
+2.63%
+GLENN ROGERS
+597
+1.90%
+ROBERT J. SQUERI
+1545
+4.92%
+F. X. FRANCIS XAVIER CROWLEY
+7746
+24.68%
+MICHAEL GARCIA
+5512
+17.56%
+LYNN GAVIN
+719
+2.29%
+Continuing Ballots
+31385
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+0
+Exhausted by Over Votes
+181
+Total Ballots
+35351
+Run Id: 53 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+GLENN ROGERS
+597
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+NORMAN YEE
+9182
+29.26%
+JULIAN P. LAGOS
+1091
+3.48%
+JOEL ENGARDIO
+4168
+13.28%
+WRITE-IN
+0
+0.00%
+ANDREW BLEY
+825
+2.63%
+GLENN ROGERS
+597
+1.90%
+ROBERT J. SQUERI
+1545
+4.92%
+F. X. FRANCIS XAVIER CROWLEY
+7746
+24.68%
+MICHAEL GARCIA
+5512
+17.56%
+LYNN GAVIN
+719
+2.29%
+Continuing Ballots
+31385
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3785
+Exhausted Ballots
+0
+Exhausted by Over Votes
+181
+Total Ballots
+35351
+Run Id: 53 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+GLENN ROGERS
+LYNN GAVIN
+0
+84
+GLENN ROGERS
+JULIAN P. LAGOS
+0
+81
+GLENN ROGERS
+MICHAEL GARCIA
+0
+44
+GLENN ROGERS
+ROBERT J. SQUERI
+0
+47
+GLENN ROGERS
+NORMAN YEE
+0
+69
+GLENN ROGERS
+ANDREW BLEY
+0
+100
+GLENN ROGERS
+Exhausted Ballots
+71
+0
+GLENN ROGERS
+JOEL ENGARDIO
+0
+40
+GLENN ROGERS
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+61
+Total
+71
+526
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+NORMAN YEE
+9251
+29.54%
+JULIAN P. LAGOS
+1172
+3.74%
+JOEL ENGARDIO
+4208
+13.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+925
+2.95%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+1592
+5.08%
+F. X. FRANCIS XAVIER CROWLEY
+7807
+24.93%
+MICHAEL GARCIA
+5556
+17.74%
+LYNN GAVIN
+803
+2.56%
+Continuing Ballots
+31314
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+71
+Exhausted by Over Votes
+181
+Total Ballots
+35351
+
+Complete
+Load Type:
+Pass Number: 2
+LYNN GAVIN
+803
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+NORMAN YEE
+9251
+29.54%
+JULIAN P. LAGOS
+1172
+3.74%
+JOEL ENGARDIO
+4208
+13.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+925
+2.95%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+1592
+5.08%
+F. X. FRANCIS XAVIER CROWLEY
+7807
+24.93%
+MICHAEL GARCIA
+5556
+17.74%
+LYNN GAVIN
+803
+2.56%
+Continuing Ballots
+31314
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3785
+Exhausted Ballots
+71
+Exhausted by Over Votes
+181
+Total Ballots
+35351
+Run Id: 53 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+LYNN GAVIN
+JULIAN P. LAGOS
+0
+157
+LYNN GAVIN
+JOEL ENGARDIO
+0
+84
+LYNN GAVIN
+MICHAEL GARCIA
+0
+86
+LYNN GAVIN
+ROBERT J. SQUERI
+0
+32
+LYNN GAVIN
+NORMAN YEE
+0
+124
+LYNN GAVIN
+Over Votes
+2
+0
+LYNN GAVIN
+Exhausted Ballots
+95
+0
+LYNN GAVIN
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+76
+LYNN GAVIN
+ANDREW BLEY
+0
+147
+Total
+97
+706
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+NORMAN YEE
+9375
+30.03%
+JULIAN P. LAGOS
+1329
+4.26%
+JOEL ENGARDIO
+4292
+13.75%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+1072
+3.43%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+1624
+5.20%
+F. X. FRANCIS XAVIER CROWLEY
+7883
+25.25%
+MICHAEL GARCIA
+5642
+18.07%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+31217
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+166
+Exhausted by Over Votes
+183
+Total Ballots
+35351
+
+Complete
+Load Type:
+Pass Number: 3
+JULIAN P. LAGOS
+1329
+ANDREW BLEY
+1072
+ROBERT J. SQUERI
+1624
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+NORMAN YEE
+9375
+30.03%
+JULIAN P. LAGOS
+1329
+4.26%
+JOEL ENGARDIO
+4292
+13.75%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+1072
+3.43%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+1624
+5.20%
+F. X. FRANCIS XAVIER CROWLEY
+7883
+25.25%
+MICHAEL GARCIA
+5642
+18.07%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+31217
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3785
+Exhausted Ballots
+166
+Exhausted by Over Votes
+183
+Total Ballots
+35351
+Run Id: 53 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+JULIAN P. LAGOS
+JOEL ENGARDIO
+0
+170
+JULIAN P. LAGOS
+MICHAEL GARCIA
+0
+172
+ROBERT J. SQUERI
+NORMAN YEE
+0
+238
+JULIAN P. LAGOS
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+144
+JULIAN P. LAGOS
+NORMAN YEE
+0
+407
+ANDREW BLEY
+MICHAEL GARCIA
+0
+149
+ANDREW BLEY
+NORMAN YEE
+0
+177
+ANDREW BLEY
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+184
+ANDREW BLEY
+JOEL ENGARDIO
+0
+140
+ROBERT J. SQUERI
+MICHAEL GARCIA
+0
+333
+ANDREW BLEY
+Exhausted Ballots
+420
+0
+ROBERT J. SQUERI
+Over Votes
+3
+0
+ROBERT J. SQUERI
+Exhausted Ballots
+396
+0
+JULIAN P. LAGOS
+Exhausted Ballots
+432
+0
+ROBERT J. SQUERI
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+413
+ROBERT J. SQUERI
+JOEL ENGARDIO
+0
+241
+JULIAN P. LAGOS
+Over Votes
+4
+0
+ANDREW BLEY
+Over Votes
+2
+0
+Total
+1257
+2768
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+NORMAN YEE
+10197
+34.04%
+JULIAN P. LAGOS
+Eliminated in pass 3.
+0
+0.00%
+JOEL ENGARDIO
+4843
+16.16%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+Eliminated in pass 3.
+0
+0.00%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+Eliminated in pass 3.
+0
+0.00%
+F. X. FRANCIS XAVIER CROWLEY
+8624
+28.79%
+MICHAEL GARCIA
+6296
+21.01%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+29960
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+1414
+Exhausted by Over Votes
+192
+Total Ballots
+35351
+
+Complete
+Load Type:
+Pass Number: 4
+JOEL ENGARDIO
+4843
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+NORMAN YEE
+10197
+34.04%
+JULIAN P. LAGOS
+Eliminated in pass 3.
+0
+0.00%
+JOEL ENGARDIO
+4843
+16.16%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+Eliminated in pass 3.
+0
+0.00%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+Eliminated in pass 3.
+0
+0.00%
+F. X. FRANCIS XAVIER CROWLEY
+8624
+28.79%
+MICHAEL GARCIA
+6296
+21.01%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+29960
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3785
+Exhausted Ballots
+1414
+Exhausted by Over Votes
+192
+Total Ballots
+35351
+Run Id: 53 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+JOEL ENGARDIO
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+1085
+JOEL ENGARDIO
+MICHAEL GARCIA
+0
+1177
+JOEL ENGARDIO
+NORMAN YEE
+0
+987
+JOEL ENGARDIO
+Exhausted Ballots
+1590
+0
+JOEL ENGARDIO
+Over Votes
+4
+0
+Total
+1594
+3249
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+NORMAN YEE
+11184
+39.43%
+JULIAN P. LAGOS
+Eliminated in pass 3.
+0
+0.00%
+JOEL ENGARDIO
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+Eliminated in pass 3.
+0
+0.00%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+Eliminated in pass 3.
+0
+0.00%
+F. X. FRANCIS XAVIER CROWLEY
+9709
+34.23%
+MICHAEL GARCIA
+7473
+26.34%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+28366
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+3004
+Exhausted by Over Votes
+196
+Total Ballots
+35351
+
+Complete
+Load Type:
+Pass Number: 5
+MICHAEL GARCIA
+7473
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+NORMAN YEE
+11184
+39.43%
+JULIAN P. LAGOS
+Eliminated in pass 3.
+0
+0.00%
+JOEL ENGARDIO
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+Eliminated in pass 3.
+0
+0.00%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+Eliminated in pass 3.
+0
+0.00%
+F. X. FRANCIS XAVIER CROWLEY
+9709
+34.23%
+MICHAEL GARCIA
+7473
+26.34%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+28366
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3785
+Exhausted Ballots
+3004
+Exhausted by Over Votes
+196
+Total Ballots
+35351
+Run Id: 53 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/21/2012
+
+MICHAEL GARCIA
+F. X. FRANCIS XAVIER 
+CROWLEY
+0
+2664
+MICHAEL GARCIA
+NORMAN YEE
+0
+1321
+MICHAEL GARCIA
+Over Votes
+9
+0
+MICHAEL GARCIA
+Exhausted Ballots
+3479
+0
+Total
+3488
+3985
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+NORMAN YEE
+** WINNER **
+12505
+50.27%
+JULIAN P. LAGOS
+Eliminated in pass 3.
+0
+0.00%
+JOEL ENGARDIO
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+ANDREW BLEY
+Eliminated in pass 3.
+0
+0.00%
+GLENN ROGERS
+Eliminated in pass 1.
+0
+0.00%
+ROBERT J. SQUERI
+Eliminated in pass 3.
+0
+0.00%
+F. X. FRANCIS XAVIER CROWLEY
+12373
+49.73%
+MICHAEL GARCIA
+Eliminated in pass 5.
+0
+0.00%
+LYNN GAVIN
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+24878
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3785
+Exhausted Ballots
+6483
+Exhausted by Over Votes
+205
+Total Ballots
+35351
+

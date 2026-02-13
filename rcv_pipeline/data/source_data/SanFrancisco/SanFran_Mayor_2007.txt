@@ -1,0 +1,39 @@
+
+SUMMARY REPORT             SAN FRANCISCO               OFFICIAL RESULTS
+                                           MUNICIPAL ELECTION
+                                           NOVEMBER 6, 2007
+                RUN DATE:12/07/07 11:49 AM
+                
+                                                                       VOTES PERCENT
+                
+                           PRECINCTS COUNTED (OF 580).  .  .  .  .       580  100.00
+                           REGISTERED VOTERS - TOTAL .  .  .  .  .   419,598
+                           BALLOTS CAST - TOTAL.  .  .  .  .  .  .   149,465
+                           BALLOTS CAST - TOTAL CARD 1  .  .  .  .   149,465
+                           BALLOTS CAST - TOTAL CARD 2  .  .  .  .   150,089
+                           VOTER TURNOUT - TOTAL  .  .  .  .  .  .             35.62
+                           VOTER TURNOUT - TOTAL CARD 1 .  .  .  .             35.62
+                           VOTER TURNOUT - TOTAL CARD 2 .  .  .  .             35.77
+                
+                          MAYOR CITY OF SAN FRANCISCO
+                           GEORGE DAVIS  .  .  .  .  .  .  .  .  .       644     .45
+                           GRASSHOPPER ALEC KAPLAN.  .  .  .  .  .     1,423     .99
+                           JOHN RINALDI  .  .  .  .  .  .  .  .  .     2,508    1.75
+                           H. BROWN.  .  .  .  .  .  .  .  .  .  .       915     .64
+                           AHIMSA PORTER SUMCHAI  .  .  .  .  .  .     3,398    2.37
+                           MICHAEL POWERS.  .  .  .  .  .  .  .  .       519     .36
+                           WILMA PANG .  .  .  .  .  .  .  .  .  .     7,274    5.07
+                           GAVIN NEWSOM  .  .  .  .  .  .  .  .  .   105,596   73.66
+                           LONNIE S. HOLMES .  .  .  .  .  .  .  .     1,807    1.26
+                           HAROLD M. HOOGASIAN .  .  .  .  .  .  .     8,400    5.86
+                           JOSH WOLF  .  .  .  .  .  .  .  .  .  .     1,772    1.24
+                           QUINTIN MECKE .  .  .  .  .  .  .  .  .     9,076    6.33
+                           WRITE-IN RODNEY HAUGE  .  .  .  .  .  .         6
+                           WRITE-IN KENNETH KAHN  .  .  .  .  .  .         3
+                           WRITE-IN ROBERT KULLY  .  .  .  .  .  .         2
+                           WRITE-IN ROBERT MCCULLOUGH.  .  .  .  .         1
+                           WRITE-IN PATRICK MONETTE-SHAW.  .  .  .         6
+                           WRITE-IN LEA SHERMAN.  .  .  .  .  .  .         9     .01
+                           
+                           RCV Mayor
+One of the candidates in the contest has received a majority of first-choice selections from the ballots counted. Accordingly, the ranked-choice voting method was not applied to this contest.

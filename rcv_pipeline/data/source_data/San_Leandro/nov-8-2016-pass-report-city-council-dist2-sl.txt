@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-city-council-dist2-sl.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+BRYAN AZEVEDO
+12282
+45.61%
+Write-In
+0
+0.00%
+ED HERNANDEZ
+** WINNER **
+14648
+54.39%
+Continuing Ballots
+26930
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4755
+Exhausted Ballots
+0
+Exhausted by Over Votes
+105
+Total Ballots
+31790
+Run Id: 118 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 2 - San 
+Leandro (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

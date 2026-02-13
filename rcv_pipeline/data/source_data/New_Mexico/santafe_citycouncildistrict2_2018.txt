@@ -1,0 +1,23 @@
+Election Summary Report
+City of Santa Fe
+UNOFFICIAL RESULTS
+March 06, 2018
+General Election
+COUNCILOR DISTRICT 2
+
+City of Santa Fe
+Round 1
+Threshold: 3,129
+Candidate Votes Percentage
+Nate Downey 2,023 32.34%
+Carol Romero-Wirth 3,310 52.91%
+Joe H. Arellano 923 14.75%
+Continuing Ballots Total 6,256
+Blanks 173
+Exhausted 0
+Overvotes 4
+Remainder Points 0
+Non Transferable Total 177
+Nate Downey is eliminated because the candidate was not elected in the last round.
+Carol Romero-Wirth is elected because the candidate reached the threshold value.
+Joe H. Arellano is eliminated because the candidate was not elected in the last round.

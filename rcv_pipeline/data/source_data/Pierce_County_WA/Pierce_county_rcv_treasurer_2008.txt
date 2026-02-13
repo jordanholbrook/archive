@@ -1,0 +1,21 @@
+Ranked Choice Voting Results Table
+Pierce County Washington
+November 4, 2008 General Election - Official Results
+
+Ranked Choice Voting Results Table
+Contest: County Assessor - Treasurer
+Load Type: Complete
+Round 1 Round 2 Round 3 Round 4
+Votes % Transfer Votes % Transfer Votes % Transfer Votes % Transfer
+Dale Washam 65676 25.02% +6322 71998 28.94% +10492 82490 36.44% +15876 98366 51.93% 0
+Terry Lee 50278 19.16% +8245 58523 23.52% +11686 70209 31.02% -70209 0 0.00% 0
+Jan Shabro 50023 19.06% +8224 58247 23.41% -58247 0 0.00% 0 0 0.00% 0
+Bernardo Tuma 18205 6.94% -18205 0 0.00% 0 0 0.00% 0 0 0.00% 0
+Barbara Gelman 49874 19.00% +10133 60007 24.12% +13640 73647 32.54% +17420 91067 48.07% 0
+Beverly Davidson 27340 10.42% -27340 0 0.00% 0 0 0.00% 0 0 0.00% 0
+Write-In 1051 0.40% -1051 0 0.00% 0 0 0.00% 0 0 0.00% 0
+Exhausted by Over Votes 363 +71 434 +73 507 +93 600 0
+Under Votes 49961 0 49961 0 49961 0 49961 0
+Exhausted Ballots 0 +13601 13601 +22356 35957 +36820 72777 0
+Continuing Ballots 262447 100.00% 248775 100.00% 226346 100.00% 189433 100.00%
+TOTAL 312771 0 312771 0 312771 0 312771 0

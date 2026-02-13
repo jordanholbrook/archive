@@ -1,0 +1,24 @@
+State: Utah
+link: https://rcvis.com/visualize=payson-seat-3-2019-11-19_11-18-27_summary_3json
+
+{
+  "config" : {
+    "contest" : "Payson City Council",
+    "date" : "2019-11-05",
+    "jurisdiction" : "Payson City",
+    "office" : "Payson City Council",
+    "threshold" : "1280"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "CARY KENNETH STOCKWELL" : "605",
+      "LINDA CARTER" : "1524",
+      "SCOTT PINKHAM" : "430"
+    },
+    "tallyResults" : [ {
+      "elected" : "LINDA CARTER",
+      "transfers" : { }
+    } ]
+  } ]
+}

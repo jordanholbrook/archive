@@ -1,0 +1,22 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 City Council Ward 9 election results
+Official Winner: Alondra Cano. See the results and ranked-choice vote tabulation of the 2013 City Council Ward 9 race.
+November 5, 2013
+
+Municipal Election
+
+Council Member Ward 9
+Candidate	Final round votes	Final round percentage
+Alondra Cano	1,987	47.55%
+Ty Moore	1,758	42.07%
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After two rounds of tabulation, Alondra Cano was elected.
+
+See the ranked-choice voting tabulation below for more details.
+
+Ballots cast summary
+Total ballots cast	4,179	Total votes counted in the first round.
+Maximum possible threshold	2,090	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	131	Voter did not rank any candidates for the office.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

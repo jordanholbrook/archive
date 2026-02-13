@@ -1,0 +1,47 @@
+=== Summary Statement.pdf | City: Minnetonka_MN ===
+
+Total Votes Cast:
+11350
+Undervotes:
+317
+Defective Ballots:
+1
+Spoiled Ballots:
+321
+Number of Seats:
+1
+Maximum Possible Threshold:
+5676
+Round 1
+Final Percentage
+Total Number of 
+1st Choice Votes
+Declared Winner: Brad 
+Wiersum
+John Kuhl
+4100
+36.12
+Brad Wiersum
+6897
+60.77
+Undeclared Write-Ins (UWI)
+19
+0.17
+Over-Votes
+5
+0.04
+Undervotes
+329
+2.90
+TOTAL:
+11350
+100.00
+Ranked-Choice Voting Tabulation Center Summary Statement
+Candidate
+November 2, 2021 Municipal Election
+Mayor
+** Total number of ballots cast, including undervotes, overvotes, and defective ballots **
+** Half of total ballots cast for office + 1, disregarding fractions/decimals **
+** Unable to determine voter's intent with respect to the office being counted **
+** Voter did not rank any candidates for this office **
+

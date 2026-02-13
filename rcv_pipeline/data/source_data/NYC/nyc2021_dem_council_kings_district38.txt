@@ -1,0 +1,31 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 38th Council District
+Election Date:	2021/06/22
+Election results
+Alexa Aviles won the DEM Council Member 38th Council District Primary with 6,857 of the votes in the final round.
+Alexa Aviles defeated Yu Lin, who received 3,683 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5
+Eliminated in this round	 	Write-ins	Victor Swinton	Cesar Zuniga	Jacqui Painter; Rodrigo G. Camarena**
+Elected	 	 	 	 	Alexa Aviles*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Alexa Aviles	4,806	39.7%	2	4,808	39.7%	61	4,869	40.9%	338	5,207	45.0%	1650	6,857	65.1%
+Yu Lin	3,113	25.7%	6	3,119	25.8%	57	3,176	26.7%	114	3,290	28.4%	393	3,683	34.9%
+Rodrigo G. Camarena	1,398	11.5%	3	1,401	11.6%	23	1,424	12.0%	195	1,619	14.0%	-XXX	
+Jacqui Painter	1,189	9.8%	1	1,190	9.8%	93	1,283	10.8%	179	1,462	12.6%	-XXX	
+Cesar Zuniga	1,086	9.0%	2	1,088	9.0%	66	1,154	9.7%	-XXX		 
+Victor Swinton	491	4.1%		491	4.1%	-XXX		 	 
+Write-ins	33	0.3%	-XXX		 	 	 
+Inactive ballots		 	19	19	 	191	210	 	328	538	 	1038	1,576	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

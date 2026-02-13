@@ -1,0 +1,14 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 3 - San Leandro (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+VICTOR AGUILAR	16449	100.00 %
+CONTINUING BALLOTS TOTAL	16449	
+BLANKS	5992	
+EXHAUSTED	0	
+OVERVOTES	15	
+REMAINDER POINTS	0	
+SUSPENDED	775	
+NON TRANSFERRABLE TOTAL	6782

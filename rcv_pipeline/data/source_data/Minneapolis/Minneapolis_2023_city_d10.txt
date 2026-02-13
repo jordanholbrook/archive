@@ -1,0 +1,23 @@
+
+2023 City Council Ward 10 election results
+Official winner: Aisha Chughtai
+
+
+November 7, 2023
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Aisha Chugtai received enough first-choice votes to be elected and is the winner.
+Council Member Ward 10 Candidate 	First-choice votes
+Aisha Chughtai 	3,828
+Bruce Dachis 	1,713
+Nasri Warsame 	638
+Greg Kline 	105
+Undeclared write-ins 	18
+
+ 
+Ballots cast summary Total ballots cast 	6,316 	Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold 	3,159 	
+
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

@@ -1,0 +1,46 @@
+=== nov-4-2014-pass-report-city-council-san-leandro-d5.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+CORINA LOPEZ
+** WINNER **
+7906
+53.84%
+Write-In
+0
+0.00%
+MIA OUSLEY
+3292
+22.42%
+LEAH HALL
+3486
+23.74%
+Continuing Ballots
+14684
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2481
+Exhausted Ballots
+0
+Exhausted by Over Votes
+35
+Total Ballots
+17200
+Run Id: 217 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 5 - San 
+Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

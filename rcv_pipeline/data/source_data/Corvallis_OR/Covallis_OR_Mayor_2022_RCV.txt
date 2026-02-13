@@ -1,0 +1,82 @@
+=== Covallis_OR_Mayor_2022_RCV.pdf | City: Corvallis_Oregon ===
+
+Report Name
+Election Name
+Election Date
+Office Title
+Candidate Names
+Votes
+Percentage
+Transfer
+Votes
+Percentage
+Transfer
+Andrew Struthers
+7115
+34.41%
+2741
+9856
+49.91%
+0
+Charles Maughan
+7883
+38.13%
+2007
+9890
+50.09%
+0
+Roen Hogg
+5504
+26.62%
+‐5504
+0
+00.00%
+0
+Write‐in
+174
+00.84%
+‐174
+0
+00.00%
+0
+   By Overvotes
+22
+14
+36
+0
+   By Undervotes
+3181
+838
+4019
+0
+   By Exhausted Choices
+0
+78
+78
+0
+Continuing Ballots
+20676
+0
+19746
+0
+TOTAL
+23879
+0
+23879
+0
+Winning threshold by round
+10339
+9874
+Generated: 11/30/2022 19:17
+Round 1
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1
+"*" symbol signifies elimination due to Tie Resolution.
+Round 2
+Ballot Exhausted
+Summary Report
+General Election
+November 8, 2022
+Corvallis Mayor
+Benton County Elections, Oregon - General Election November 8, 2022 - Page 1 of 2
+

@@ -1,0 +1,37 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 5 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+NILANG GOR	1085	12.55 %
+TODD ANDREW	1733	20.04 %
+SHOSHANA O'KEEFE	5830	67.41 %
+CONTINUING BALLOTS TOTAL	8648	
+BLANKS	1587	
+EXHAUSTED	0	
+OVERVOTES	23	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	1610	
+
+NILANG GOR is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate NILANG GOR. 1085 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+NILANG GOR	TODD ANDREW	262	1	262
+NILANG GOR	SHOSHANA O'KEEFE	437	1	437
+NILANG GOR	EXHAUSTED	385	1	385
+NILANG GOR	OVERVOTES	1	1	1
+
+-------------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+NILANG GOR	0	0.00 %
+TODD ANDREW	1995	24.15 %
+SHOSHANA O'KEEFE	6267	75.85 %
+CONTINUING BALLOTS TOTAL	8262	
+BLANKS	1587	
+EXHAUSTED	385	
+OVERVOTES	24	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	1996	

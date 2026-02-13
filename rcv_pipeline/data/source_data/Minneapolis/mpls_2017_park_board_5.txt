@@ -1,0 +1,32 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 Park Board District 5 results
+Official Winner: Steffanie Musich
+November 7, 2017
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After one round of tabulation, Steffanie Musich was elected.
+
+ 
+
+Park Board District 5
+Candidate	Final round votes	Percent
+Steffanie Musich	9,466	58.30%
+Bill Shroyer	3,990	24.57%
+Andrea Fahrenkrug	2,691	16.57%
+Undeclared Write-ins	91	0.56%
+ 
+
+Ballots cast summary
+Total votes cast	16,238	
+Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+
+Tabulation threshold	8,120	
+The number of votes sufficient for a candidate to be elected. Half of votes cast for office + 1, disregarding fractions.
+
+Undervotes	4,377	
+Ballots where the voter did not rank any candidates for the office.
+
+See the ranked-choice voting tabulation below for more details.

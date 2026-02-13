@@ -1,0 +1,227 @@
+=== nov-6-2012-pass-report-oakland-school-director-dist-3.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+RICHARD FUENTES
+5561
+27.02%
+Write-In
+0
+0.00%
+JUMOKE HINTON HODGE
+9710
+47.18%
+BENJAMIN LANG
+5309
+25.80%
+Continuing Ballots
+20580
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6143
+Exhausted Ballots
+0
+Exhausted by Over Votes
+38
+Total Ballots
+26761
+Run Id: 236 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+RICHARD FUENTES
+5561
+27.02%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JUMOKE HINTON HODGE
+9710
+47.18%
+BENJAMIN LANG
+5309
+25.80%
+Continuing Ballots
+20580
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6143
+Exhausted Ballots
+0
+Exhausted by Over Votes
+38
+Total Ballots
+26761
+RICHARD FUENTES
+5561
+27.02%
+Write-In
+0
+0.00%
+JUMOKE HINTON HODGE
+9710
+47.18%
+BENJAMIN LANG
+5309
+25.80%
+Continuing Ballots
+20580
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6143
+Exhausted Ballots
+0
+Exhausted by Over Votes
+38
+Total Ballots
+26761
+Run Id: 236 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+
+Complete
+Load Type:
+Pass Number: 2
+BENJAMIN LANG
+5309
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+BENJAMIN LANG
+JUMOKE HINTON HODGE
+0
+2015
+BENJAMIN LANG
+RICHARD FUENTES
+0
+1925
+BENJAMIN LANG
+Over Votes
+9
+0
+BENJAMIN LANG
+Exhausted Ballots
+1360
+0
+Total
+1369
+3940
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+RICHARD FUENTES
+5561
+27.02%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JUMOKE HINTON HODGE
+9710
+47.18%
+BENJAMIN LANG
+5309
+25.80%
+Continuing Ballots
+20580
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6143
+Exhausted Ballots
+0
+Exhausted by Over Votes
+38
+Total Ballots
+26761
+Run Id: 236 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+RICHARD FUENTES
+7486
+38.97%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JUMOKE HINTON HODGE
+** WINNER **
+11725
+61.03%
+BENJAMIN LANG
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+19211
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6143
+Exhausted Ballots
+1360
+Exhausted by Over Votes
+47
+Total Ballots
+26761
+

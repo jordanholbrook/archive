@@ -1,0 +1,46 @@
+=== nov-8-2016-pass-report-councilmember-dist6.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+ISABELLE GASTON
+929
+12.45%
+Write-In
+0
+0.00%
+FRED DODSWORTH
+2175
+29.15%
+SUSAN WENGRAF
+** WINNER **
+4358
+58.40%
+Continuing Ballots
+7462
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1011
+Exhausted Ballots
+0
+Exhausted by Over Votes
+5
+Total Ballots
+8478
+Run Id: 107 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

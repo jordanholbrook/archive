@@ -1,0 +1,31 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 Park Board District 2 results
+Official Winner: Kale Severson
+November 7, 2017
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After one round of tabulation, Kale Severson was elected.
+
+Park Board District 2
+Candidate	Final round votes	Percentage
+Kale Severson	5,089	56.96%
+Mike Talley Tate	3,778	42.29%
+Undeclared Write-ins	67	0.75%
+ 
+
+Ballots cast summary
+Total votes cast	8,934	
+Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+
+Tabulation threshold	4,468	
+The number of votes sufficient for a candidate to be elected. Half of votes cast for office + 1, disregarding fractions.
+
+Undervotes	2,228	
+Ballots where the voter did not rank any candidates for the office.
+
+See the ranked-choice voting tabulation below for more details.
+
+ 

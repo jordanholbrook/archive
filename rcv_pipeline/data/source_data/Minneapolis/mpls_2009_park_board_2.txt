@@ -1,0 +1,22 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 Minneapolis Park Board District 2 results
+Official Winner: Jon Olson
+November 3, 2009
+
+Municipal Election
+
+ Park Board District 2
+Candidate	First ranked votes	Percent
+Jon Olson	2,874	56.35%
+Michael Guest	2,183	42.80%
+Write-ins	43	0.84%
+Ranked-choice voting tabulation was not necessary.  The maximum possible threshold was met and Jon Olson was elected.
+
+Ballots cast summary
+Total ballots cast	5,100	Total votes counted in the first round.
+Maximum possible threshold	2,551	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	844	Voter did not rank any candidates for the office. 
+Spoiled ballots	285	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

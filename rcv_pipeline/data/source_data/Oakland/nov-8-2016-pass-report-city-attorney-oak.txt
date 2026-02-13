@@ -1,0 +1,39 @@
+=== nov-8-2016-pass-report-city-attorney-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+0
+0.00%
+BARBARA J. PARKER
+** WINNER **
+128029
+100.00%
+Continuing Ballots
+128029
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+49454
+Exhausted Ballots
+0
+Exhausted by Over Votes
+148
+Total Ballots
+177631
+Run Id: 113 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Attorney - Oakland (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

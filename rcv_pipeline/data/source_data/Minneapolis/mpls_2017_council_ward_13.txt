@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 City Council Ward 13 election results
+Official Winner: Linea Palmisano
+November 7, 2017
+
+Municipal Election
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Linea Palmisano was elected.
+
+Council Member Ward 13
+Candidate	First choice votes	Percentage
+Linea Palmisano	9,404	83.19%
+Bob Reuer	1,832	16.21%
+Undeclared Write-ins	68	0.60%
+ 
+
+Ballots cast summary
+Total ballots cast	11,742	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	5,872	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

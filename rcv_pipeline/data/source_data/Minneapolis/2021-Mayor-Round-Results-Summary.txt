@@ -1,0 +1,152 @@
+=== 2021-Mayor-Round-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+143974
+Number to be elected:
+1
+Threshold:
+71988
+Undervotes:
+1363
+Round 2
+Round 2
+Defeated: A. Drissi, AJ Awed, B. Carney, 
+C. David, C. Zimmerman, C. Conner, D. 
+Nelson, K. Ward, L. Turner, M. Harcus, M. 
+Globus, M. Winter, N. Atkins, P. Johnson, 
+Perry, J., S. Nezhad, T. Benjegerdes, 
+UWI
+Defeated K. Knuth
+Elected: J. Frey
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Adam Drissi
+0
+0
+0
+0.0%
+AJ Awed
+6860
+-6860
+0
+0.0%
+Bob "Again" Carney Jr
+2788
+-2788
+0
+0.0%
+Christopher W David
+493
+-493
+0
+0.0%
+Christopher Robin "CRZ" 
+Zimmerman
+2
+-2
+0
+0.0%
+Clint Conner
+4309
+-4309
+0
+0.0%
+Doug Nelson 
+739
+-739
+0
+0.0%
+Jacob Frey 
+61620
+9049
+70669
+49.1%
+Kate Knuth
+26468
+28539
+55007
+38.2%
+Kevin "No Body" Ward
+282
+-282
+0
+0.0%
+Laverne Turner 
+4620
+-4620
+0
+0.0%
+Marcus Harcus
+1189
+-1189
+0
+0.0%
+Mark Globus
+1158
+-1158
+0
+0.0%
+Mike Winter
+642
+-642
+0
+0.0%
+Nate "Honey Badger" Atkins
+1179
+-1179
+0
+0.0%
+Paul E. Johnson
+243
+-243
+0
+0.0%
+Perry, Jerrell
+687
+-687
+0
+0.0%
+Sheila Nezhad
+30368
+-30368
+0
+0.0%
+Troy Benjegerdes
+184
+-184
+0
+0.0%
+Undeclared Write-ins
+143
+-143
+0
+0.0%
+Exhausted
+-
+18298
+18298
+12.7%
+143974
+BALANCED
+143974
+BALANCED
+BALANCED
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+2021 Minneapolis Municipal Election Results:
+Mayor
+Ranked Choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+

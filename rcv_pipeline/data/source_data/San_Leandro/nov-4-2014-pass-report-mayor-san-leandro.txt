@@ -1,0 +1,354 @@
+=== nov-4-2014-pass-report-mayor-san-leandro.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+DAN DILLMAN
+2246
+13.86%
+Write-In
+0
+0.00%
+GREGG DALY
+124
+0.77%
+DIANA SOUZA
+5950
+36.71%
+PAULINE RUSSO CUTTER
+7889
+48.67%
+Continuing Ballots
+16209
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+951
+Exhausted Ballots
+0
+Exhausted by Over Votes
+40
+Total Ballots
+17200
+Run Id: 214 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+DAN DILLMAN
+2246
+13.86%
+Write-In
+0
+0.00%
+GREGG DALY
+124
+0.77%
+DIANA SOUZA
+5950
+36.71%
+PAULINE RUSSO CUTTER
+7889
+48.67%
+Continuing Ballots
+16209
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+951
+Exhausted Ballots
+0
+Exhausted by Over Votes
+40
+Total Ballots
+17200
+Run Id: 214 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+DAN DILLMAN
+2246
+13.86%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GREGG DALY
+124
+0.77%
+DIANA SOUZA
+5950
+36.71%
+PAULINE RUSSO CUTTER
+7889
+48.67%
+Continuing Ballots
+16209
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+951
+Exhausted Ballots
+0
+Exhausted by Over Votes
+40
+Total Ballots
+17200
+
+Complete
+Load Type:
+Pass Number: 2
+GREGG DALY
+124
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+GREGG DALY
+DAN DILLMAN
+0
+65
+GREGG DALY
+DIANA SOUZA
+0
+9
+GREGG DALY
+PAULINE RUSSO CUTTER
+0
+26
+GREGG DALY
+Exhausted Ballots
+23
+0
+GREGG DALY
+Over Votes
+1
+0
+Total
+24
+100
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+DAN DILLMAN
+2246
+13.86%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GREGG DALY
+124
+0.77%
+DIANA SOUZA
+5950
+36.71%
+PAULINE RUSSO CUTTER
+7889
+48.67%
+Continuing Ballots
+16209
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+951
+Exhausted Ballots
+0
+Exhausted by Over Votes
+40
+Total Ballots
+17200
+Run Id: 214 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+DAN DILLMAN
+2311
+14.28%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GREGG DALY
+Eliminated in pass 2.
+0
+0.00%
+DIANA SOUZA
+5959
+36.82%
+PAULINE RUSSO CUTTER
+7915
+48.90%
+Continuing Ballots
+16185
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+951
+Exhausted Ballots
+23
+Exhausted by Over Votes
+41
+Total Ballots
+17200
+
+Complete
+Load Type:
+Pass Number: 3
+DAN DILLMAN
+2311
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+DAN DILLMAN
+DIANA SOUZA
+0
+607
+DAN DILLMAN
+PAULINE RUSSO CUTTER
+0
+886
+DAN DILLMAN
+Over Votes
+8
+0
+DAN DILLMAN
+Exhausted Ballots
+810
+0
+Total
+818
+1493
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+DAN DILLMAN
+2311
+14.28%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GREGG DALY
+Eliminated in pass 2.
+0
+0.00%
+DIANA SOUZA
+5959
+36.82%
+PAULINE RUSSO CUTTER
+7915
+48.90%
+Continuing Ballots
+16185
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+951
+Exhausted Ballots
+23
+Exhausted by Over Votes
+41
+Total Ballots
+17200
+Run Id: 214 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+DAN DILLMAN
+Eliminated in pass 3.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GREGG DALY
+Eliminated in pass 2.
+0
+0.00%
+DIANA SOUZA
+6566
+42.73%
+PAULINE RUSSO CUTTER
+** WINNER **
+8801
+57.27%
+Continuing Ballots
+15367
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+951
+Exhausted Ballots
+833
+Exhausted by Over Votes
+49
+Total Ballots
+17200
+

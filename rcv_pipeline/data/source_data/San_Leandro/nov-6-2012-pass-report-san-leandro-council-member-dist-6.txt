@@ -1,0 +1,43 @@
+=== nov-6-2012-pass-report-san-leandro-council-member-dist-6.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+JIM PROLA
+** WINNER **
+12894
+54.92%
+Write-In
+0
+0.00%
+HERMY B. ALMONTE
+10584
+45.08%
+Continuing Ballots
+23478
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5164
+Exhausted Ballots
+0
+Exhausted by Over Votes
+61
+Total Ballots
+28703
+Run Id: 241 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - San 
+Leandro (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

@@ -1,0 +1,31 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 32nd Council District
+Election Date:	2021/06/22
+Election results
+Felicia Singh won the DEM Council Member 32nd Council District Primary with 4,686 of the votes in the final round.
+Felicia Singh defeated Michael G. Scala, who received 4,248 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3
+Eliminated in this round	 	Write-ins	Kaled A. Alamarie; Helal A. Sheikh; Shaeleigh Severino; Bella A. Matias**
+Elected	 	 	Felicia Singh*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Felicia Singh	3,661	35.6%	38	3,699	36.3%	987	4,686	52.5%
+Michael G. Scala	3,590	35.0%	26	3,616	35.5%	632	4,248	47.5%
+Helal A. Sheikh	1,093	10.6%	7	1,100	10.8%	-XXX	
+Bella A. Matias	814	7.9%	3	817	8.0%	-XXX	
+Kaled A. Alamarie	692	6.7%	10	702	6.9%	-XXX	
+Shaeleigh Severino	258	2.5%	3	261	2.6%	-XXX	
+Write-ins	163	1.6%	-XXX		 
+Inactive ballots		 	76	76	 	1261	1,337	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

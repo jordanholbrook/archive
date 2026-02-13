@@ -1,0 +1,40 @@
+State: Utah
+link: https://rcvis.com/v/21g_er_m_u4
+
+
+
+{
+  "config" : {
+    "contest" : "Elk Ridge Mayor",
+    "date" : "2021-11-02",
+    "jurisdiction" : "",
+    "office" : "",
+    "threshold" : "637"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "GEORGE D. POTTER" : "263",
+      "GORDON REYNOLDS" : "487",
+      "ROBERT HADDOCK" : "559"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "GEORGE D. POTTER",
+      "transfers" : {
+        "GORDON REYNOLDS" : "58",
+        "ROBERT HADDOCK" : "169",
+        "exhausted" : "36"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "GORDON REYNOLDS" : "545",
+      "ROBERT HADDOCK" : "728"
+    },
+    "tallyResults" : [ {
+      "elected" : "ROBERT HADDOCK",
+      "transfers" : { }
+    } ]
+  } ]
+}

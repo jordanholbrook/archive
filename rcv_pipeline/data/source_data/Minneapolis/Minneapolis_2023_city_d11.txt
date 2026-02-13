@@ -1,0 +1,19 @@
+
+2023 City Council Ward 11 election results
+Official winner: Emily Koski
+
+
+November 7, 2023
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Emily Koski received enough first-choice votes to be elected and is the winner.
+Council Member Ward 11 Candidate 	First-choice votes
+Emily Koski 	5,259
+Gabrielle M. Prosser 	460
+Undeclared write-ins 	233
+
+ 
+Ballots cast summary Total ballots cast 	5,972 	Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold 	2,987 	The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

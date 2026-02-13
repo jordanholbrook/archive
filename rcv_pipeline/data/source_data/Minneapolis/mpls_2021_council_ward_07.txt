@@ -1,0 +1,27 @@
+ City of Minneapolis 
+
+ 2021 City Council Ward 7 election results
+Official winner: Lisa Goodman
+November 2, 2021
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. 
+
+Candidate Lisa Goodman received enough first-choice votes to be elected and is the winner.
+
+Council Member Ward 7
+Candidate	First-choice votes
+Lisa Goodman	7,206
+Nick Kor	3,066
+Teqen Zéa-Aida	833
+Joanna Diaz	477
+Write-in	57
+ 
+
+Ballots cast summary
+Total ballots cast	12,329	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	6,165	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

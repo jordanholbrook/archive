@@ -1,0 +1,619 @@
+=== nov-8-2016-pass-results-report-mayor.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+LAURIE CAPITELLI
+18995
+32.12%
+NAOMI D. PETE
+372
+0.63%
+BEN GOULD
+1744
+2.95%
+Write-In
+0
+0.00%
+GUY ''MIKE'' LEE
+954
+1.61%
+BERNT RAINER WAHL
+1673
+2.83%
+KRISS WORTHINGTON
+4746
+8.02%
+JESSE ARREGUÍN
+29039
+49.10%
+ZACHARY RUNNINGWOLF
+1621
+2.74%
+Continuing Ballots
+59144
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4399
+Exhausted Ballots
+0
+Exhausted by Over Votes
+201
+Total Ballots
+63744
+Run Id: 103 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+LAURIE CAPITELLI
+18995
+32.12%
+NAOMI D. PETE
+372
+0.63%
+BEN GOULD
+1744
+2.95%
+Write-In
+0
+0.00%
+GUY ''MIKE'' LEE
+954
+1.61%
+BERNT RAINER WAHL
+1673
+2.83%
+KRISS WORTHINGTON
+4746
+8.02%
+JESSE ARREGUÍN
+29039
+49.10%
+ZACHARY RUNNINGWOLF
+1621
+2.74%
+Continuing Ballots
+59144
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4399
+Exhausted Ballots
+0
+Exhausted by Over Votes
+201
+Total Ballots
+63744
+Run Id: 103 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+LAURIE CAPITELLI
+18995
+32.12%
+NAOMI D. PETE
+372
+0.63%
+BEN GOULD
+1744
+2.95%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+954
+1.61%
+BERNT RAINER WAHL
+1673
+2.83%
+KRISS WORTHINGTON
+4746
+8.02%
+JESSE ARREGUÍN
+29039
+49.10%
+ZACHARY RUNNINGWOLF
+1621
+2.74%
+Continuing Ballots
+59144
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4399
+Exhausted Ballots
+0
+Exhausted by Over Votes
+201
+Total Ballots
+63744
+
+Complete
+Load Type:
+Pass Number: 2
+NAOMI D. PETE
+372
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+LAURIE CAPITELLI
+18995
+32.12%
+NAOMI D. PETE
+372
+0.63%
+BEN GOULD
+1744
+2.95%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+954
+1.61%
+BERNT RAINER WAHL
+1673
+2.83%
+KRISS WORTHINGTON
+4746
+8.02%
+JESSE ARREGUÍN
+29039
+49.10%
+ZACHARY RUNNINGWOLF
+1621
+2.74%
+Continuing Ballots
+59144
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4399
+Exhausted Ballots
+0
+Exhausted by Over Votes
+201
+Total Ballots
+63744
+Run Id: 103 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+NAOMI D. PETE
+JESSE ARREGUÍN
+0
+41
+NAOMI D. PETE
+GUY ''MIKE'' LEE
+0
+34
+NAOMI D. PETE
+KRISS WORTHINGTON
+0
+46
+NAOMI D. PETE
+ZACHARY RUNNINGWOLF
+0
+39
+NAOMI D. PETE
+LAURIE CAPITELLI
+0
+63
+NAOMI D. PETE
+Over Votes
+2
+0
+NAOMI D. PETE
+Exhausted Ballots
+100
+0
+NAOMI D. PETE
+BERNT RAINER WAHL
+0
+21
+NAOMI D. PETE
+BEN GOULD
+0
+26
+Total
+102
+270
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+LAURIE CAPITELLI
+19058
+32.28%
+NAOMI D. PETE
+Eliminated in pass 2.
+0
+0.00%
+BEN GOULD
+1770
+3.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+988
+1.67%
+BERNT RAINER WAHL
+1694
+2.87%
+KRISS WORTHINGTON
+4792
+8.12%
+JESSE ARREGUÍN
+29080
+49.25%
+ZACHARY RUNNINGWOLF
+1660
+2.81%
+Continuing Ballots
+59042
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4399
+Exhausted Ballots
+100
+Exhausted by Over Votes
+203
+Total Ballots
+63744
+
+Complete
+Load Type:
+Pass Number: 3
+GUY ''MIKE'' LEE
+988
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+LAURIE CAPITELLI
+19058
+32.28%
+NAOMI D. PETE
+Eliminated in pass 2.
+0
+0.00%
+BEN GOULD
+1770
+3.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+988
+1.67%
+BERNT RAINER WAHL
+1694
+2.87%
+KRISS WORTHINGTON
+4792
+8.12%
+JESSE ARREGUÍN
+29080
+49.25%
+ZACHARY RUNNINGWOLF
+1660
+2.81%
+Continuing Ballots
+59042
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4399
+Exhausted Ballots
+100
+Exhausted by Over Votes
+203
+Total Ballots
+63744
+Run Id: 103 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+GUY ''MIKE'' LEE
+KRISS WORTHINGTON
+0
+102
+GUY ''MIKE'' LEE
+JESSE ARREGUÍN
+0
+189
+GUY ''MIKE'' LEE
+ZACHARY RUNNINGWOLF
+0
+203
+GUY ''MIKE'' LEE
+LAURIE CAPITELLI
+0
+118
+GUY ''MIKE'' LEE
+BERNT RAINER WAHL
+0
+68
+GUY ''MIKE'' LEE
+Exhausted Ballots
+178
+0
+GUY ''MIKE'' LEE
+Over Votes
+5
+0
+GUY ''MIKE'' LEE
+BEN GOULD
+0
+125
+Total
+183
+805
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+LAURIE CAPITELLI
+19176
+32.58%
+NAOMI D. PETE
+Eliminated in pass 2.
+0
+0.00%
+BEN GOULD
+1895
+3.22%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+Eliminated in pass 3.
+0
+0.00%
+BERNT RAINER WAHL
+1762
+2.99%
+KRISS WORTHINGTON
+4894
+8.31%
+JESSE ARREGUÍN
+29269
+49.73%
+ZACHARY RUNNINGWOLF
+1863
+3.17%
+Continuing Ballots
+58859
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4399
+Exhausted Ballots
+278
+Exhausted by Over Votes
+208
+Total Ballots
+63744
+
+Complete
+Load Type:
+Pass Number: 4
+BERNT RAINER WAHL
+1762
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+LAURIE CAPITELLI
+19176
+32.58%
+NAOMI D. PETE
+Eliminated in pass 2.
+0
+0.00%
+BEN GOULD
+1895
+3.22%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+Eliminated in pass 3.
+0
+0.00%
+BERNT RAINER WAHL
+1762
+2.99%
+KRISS WORTHINGTON
+4894
+8.31%
+JESSE ARREGUÍN
+29269
+49.73%
+ZACHARY RUNNINGWOLF
+1863
+3.17%
+Continuing Ballots
+58859
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4399
+Exhausted Ballots
+278
+Exhausted by Over Votes
+208
+Total Ballots
+63744
+Run Id: 103 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+BERNT RAINER WAHL
+KRISS WORTHINGTON
+0
+405
+BERNT RAINER WAHL
+JESSE ARREGUÍN
+0
+230
+BERNT RAINER WAHL
+ZACHARY RUNNINGWOLF
+0
+188
+BERNT RAINER WAHL
+LAURIE CAPITELLI
+0
+225
+BERNT RAINER WAHL
+Exhausted Ballots
+312
+0
+BERNT RAINER WAHL
+Over Votes
+2
+0
+BERNT RAINER WAHL
+BEN GOULD
+0
+400
+Total
+314
+1448
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+LAURIE CAPITELLI
+19401
+33.14%
+NAOMI D. PETE
+Eliminated in pass 2.
+0
+0.00%
+BEN GOULD
+2295
+3.92%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GUY ''MIKE'' LEE
+Eliminated in pass 3.
+0
+0.00%
+BERNT RAINER WAHL
+Eliminated in pass 4.
+0
+0.00%
+KRISS WORTHINGTON
+5299
+9.05%
+JESSE ARREGUÍN
+** WINNER **
+29499
+50.39%
+ZACHARY RUNNINGWOLF
+2051
+3.50%
+Continuing Ballots
+58545
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4399
+Exhausted Ballots
+590
+Exhausted by Over Votes
+210
+Total Ballots
+63744
+

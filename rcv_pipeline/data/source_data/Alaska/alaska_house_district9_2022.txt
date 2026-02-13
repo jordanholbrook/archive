@@ -1,0 +1,89 @@
+House District 9
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+09-105 Girdwood 714 2,030
+09-110 Indian 123 309
+09-115 South Anchorage No.
+1 1,103 2,890
+09-120 South Anchorage No.
+2 1,193 3,269
+09-125 South Anchorage No.
+3 1,075 2,849
+09-130 South Anchorage No.
+4 1,136 3,053
+09-135 South Anchorage No.
+5 483 1,359
+09-140 Stuckagain Heights 152 441
+09-145 Whittier 94 256
+District 9 - Absentee 2,571 0
+District 9 - Early Voting 1,445 0
+District 9 - Question 195 0
+State of Alaska - Total 10,284 16,456
+State - Total 10,284 16,456
+Precinct
+State
+State of Alaska
+09-105 Girdwood 09-110 Indian 09-115 South Anchorage No.
+1
+09-120 South Anchorage No.
+2
+09-125 South Anchorage No.
+3
+09-130 South Anchorage No.
+4
+09-135 South Anchorage No.
+5
+09-140 Stuckagain Heights 09-145 Whittier District 9 - Absentee District 9 - Early Voting District 9 - Question State of Alaska - Total State - Total Schaff, David L.
+(DEM)
+488 61 401 375 395 413 180 72 32 1,339 693 31 4,480 4,480 71.24% 51.69% 37.69% 32.67% 37.87% 37.48% 38.38% 47.68% 36.36% 54.14% 48.84% 50.82% 45.62% 45.62% Shaw, Laddie H.
+(REP)
+196 57 662 769 646 689 289 79 56 1,124 723 30 5,320 5,320 11/30/2022 2:05:35 PM
+28.61%
+48.31%
+62.22%
+66.99%
+61.94%
+62.52%
+61.62%
+52.32%
+63.64%
+45.45%
+50.95%
+49.18%
+54.17%
+54.17%
+
+Precinct
+State
+State of Alaska
+09-105 Girdwood 09-110 Indian 09-115 South Anchorage No.
+1
+09-120 South Anchorage No.
+2
+09-125 South Anchorage No.
+3
+09-130 South Anchorage No.
+4
+09-135 South Anchorage No.
+5
+09-140 Stuckagain Heights 09-145 Whittier District 9 - Absentee District 9 - Early Voting District 9 - Question State of Alaska - Total State - Total Write-in
+1 0.15% 0 0.00% 1 0.09% 4 0.35% 2 0.19% 0 0.00% 0 0.00% 0 0.00% 0 0.00% 10 0.40% 3 0.21% 0 0.00% 21 0.21% 21 0.21% 11/30/2022 2:05:35 PM
+Total Votes
+685
+118
+1,064
+1,148
+1,043
+1,102
+469
+151
+88
+2,473
+1,419
+61
+9,821
+9,821

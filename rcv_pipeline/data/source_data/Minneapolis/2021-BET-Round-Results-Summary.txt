@@ -1,0 +1,99 @@
+=== 2021-BET-Round-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+95625
+Number to be elected:
+2
+Threshold:
+31876
+Undervotes:
+49712
+Round 2
+Round 3
+Round 3
+Defeated: K. 
+Nikiforakis, UWI
+Elected: S. Brandt
+Distributed surplus
+Defeated: P. 
+Salica
+Elected: S. 
+Pree-Stinson
+First preference 
+votes
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+ Vote Change
+ (+ Added
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Kevin Nikiforakis 
+5815
+-5815.0000
+0.0000
+0.0000
+0.0000
+0.0%
+Pine Salica
+20786
+735.0000
+21521.0000
+2616.4788
+24137.4788
+25.2%
+Samantha "Sam" Pree-
+Stinson
+25597
+1194.0000
+26791.0000
+2703.6198
+29494.6198
+30.8%
+Steve Brandt 
+42672
+1668.0000
+44340.0000
+-12463.9740
+31876.0260
+33.3%
+Undeclared Write-ins
+755
+-755.0000
+0.0000
+0.0000
+0.0000
+0.0%
+Exhausted
+-
+2973.0000
+2973.0000
+7143.8754
+10116.8754
+10.6%
+95625
+BALANCED
+95625.0000
+BALANCED
+95625.0000
+BALANCED
+BALANCED
+BALANCED
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+Round 2
+2021 Minneapolis Municipal Election Results:
+Board of Estimate and Taxation
+Ranked Choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes, overvotes, defective, or spoiled ballots.
+Note: One-third of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank a first-choice candidate
+

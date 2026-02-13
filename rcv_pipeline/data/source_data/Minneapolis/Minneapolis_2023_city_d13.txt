@@ -1,0 +1,25 @@
+
+2023 City Council Ward 13 election results
+Official winner: Linea Palmisano
+
+
+November 7, 2023
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Linea Palmisano received enough first-choice votes to be elected and is the winner.
+Council Member Ward 13 Candidate 	First-choice votes
+Linea Palmisano 	6,563
+Kate Mortenson 	2,387
+Zach Metzger 	771
+Bob "Again" Carney Jr. 	224
+Undeclared write-ins 	69
+
+ 
+Ballots cast summary Total ballots cast 	10,028 	
+
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold 	5,015 	
+
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

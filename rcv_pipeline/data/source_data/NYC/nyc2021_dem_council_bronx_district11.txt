@@ -1,0 +1,32 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 11th Council District
+Election Date:	2021/06/22
+Election results
+Eric Dinowitz won the DEM Council Member 11th Council District Primary with 9,491 of the votes in the final round.
+Eric Dinowitz defeated Mino Lora, who received 5,994 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4	Round 5	Round 6
+Eliminated in this round	 	Write-ins	Carlton Berkley; Marcos Sierra**	Jessica Haller; Daniel Padernacht**		Abigail Martin
+Elected	 	 	 	 	Eric Dinowitz over 50%	Eric Dinowitz*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Eric Dinowitz	7,509	44.1%	4	7,513	44.2%	83	7,596	45.3%	720	8,316	51.0%		8,316	51.0%	1175	9,491	61.3%
+Mino Lora	4,373	25.7%	2	4,375	25.7%	118	4,493	26.8%	493	4,986	30.6%		4,986	30.6%	1008	5,994	38.7%
+Abigail Martin	2,387	14.0%	5	2,392	14.1%	121	2,513	15.0%	492	3,005	18.4%		3,005	18.4%	-XXX	
+Daniel Padernacht	1,057	6.2%		1,057	6.2%	45	1,102	6.6%	-XXX		 	 
+Jessica Haller	977	5.7%	7	984	5.8%	75	1,059	6.3%	-XXX		 	 
+Marcos Sierra	356	2.1%		356	2.1%	-XXX		 	 	 
+Carlton Berkley	313	1.8%	1	314	1.8%	-XXX		 	 	 
+Write-ins	36	0.2%	-XXX		 	 	 	 
+Inactive ballots		 	17	17	 	228	245	 	456	701	 		701	 	822	1,523	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

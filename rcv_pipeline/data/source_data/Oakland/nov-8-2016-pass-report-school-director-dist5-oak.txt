@@ -1,0 +1,358 @@
+=== nov-8-2016-pass-report-school-director-dist5-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+ROSIE TORRES
+4786
+35.97%
+HUBER TRENADO
+4941
+37.14%
+Write-In
+0
+0.00%
+MIKE HUTCHINSON
+2122
+15.95%
+MIKE HASSID
+1456
+10.94%
+Continuing Ballots
+13305
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2922
+Exhausted Ballots
+0
+Exhausted by Over Votes
+90
+Total Ballots
+16317
+Run Id: 116 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 5 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+ROSIE TORRES
+4786
+35.97%
+HUBER TRENADO
+4941
+37.14%
+Write-In
+0
+0.00%
+MIKE HUTCHINSON
+2122
+15.95%
+MIKE HASSID
+1456
+10.94%
+Continuing Ballots
+13305
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2922
+Exhausted Ballots
+0
+Exhausted by Over Votes
+90
+Total Ballots
+16317
+Run Id: 116 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 5 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+ROSIE TORRES
+4786
+35.97%
+HUBER TRENADO
+4941
+37.14%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MIKE HUTCHINSON
+2122
+15.95%
+MIKE HASSID
+1456
+10.94%
+Continuing Ballots
+13305
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2922
+Exhausted Ballots
+0
+Exhausted by Over Votes
+90
+Total Ballots
+16317
+
+Complete
+Load Type:
+Pass Number: 2
+MIKE HASSID
+1456
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+MIKE HASSID
+HUBER TRENADO
+0
+584
+MIKE HASSID
+MIKE HUTCHINSON
+0
+153
+MIKE HASSID
+ROSIE TORRES
+0
+364
+MIKE HASSID
+Exhausted Ballots
+351
+0
+MIKE HASSID
+Over Votes
+4
+0
+Total
+355
+1101
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+ROSIE TORRES
+4786
+35.97%
+HUBER TRENADO
+4941
+37.14%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MIKE HUTCHINSON
+2122
+15.95%
+MIKE HASSID
+1456
+10.94%
+Continuing Ballots
+13305
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2922
+Exhausted Ballots
+0
+Exhausted by Over Votes
+90
+Total Ballots
+16317
+Run Id: 116 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 5 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+ROSIE TORRES
+5150
+39.77%
+HUBER TRENADO
+5525
+42.66%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MIKE HUTCHINSON
+2275
+17.57%
+MIKE HASSID
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+12950
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2922
+Exhausted Ballots
+351
+Exhausted by Over Votes
+94
+Total Ballots
+16317
+
+Complete
+Load Type:
+Pass Number: 3
+MIKE HUTCHINSON
+2275
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+MIKE HUTCHINSON
+HUBER TRENADO
+0
+484
+MIKE HUTCHINSON
+ROSIE TORRES
+0
+1127
+MIKE HUTCHINSON
+Over Votes
+6
+0
+MIKE HUTCHINSON
+Exhausted Ballots
+658
+0
+Total
+664
+1611
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+ROSIE TORRES
+5150
+39.77%
+HUBER TRENADO
+5525
+42.66%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MIKE HUTCHINSON
+2275
+17.57%
+MIKE HASSID
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+12950
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2922
+Exhausted Ballots
+351
+Exhausted by Over Votes
+94
+Total Ballots
+16317
+Run Id: 116 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 5 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+ROSIE TORRES
+** WINNER **
+6277
+51.09%
+HUBER TRENADO
+6009
+48.91%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MIKE HUTCHINSON
+Eliminated in pass 3.
+0
+0.00%
+MIKE HASSID
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+12286
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2922
+Exhausted Ballots
+1009
+Exhausted by Over Votes
+100
+Total Ballots
+16317
+

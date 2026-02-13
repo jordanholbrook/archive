@@ -1,0 +1,39 @@
+=== nov-4-2014-pass-report-city-auditor-berkeley.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+0
+0.00%
+ANN-MARIE HOGAN
+** WINNER **
+27390
+100.00%
+Continuing Ballots
+27390
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11682
+Exhausted Ballots
+0
+Exhausted by Over Votes
+20
+Total Ballots
+39092
+Run Id: 205 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Auditor - Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

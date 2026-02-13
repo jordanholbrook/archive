@@ -1,0 +1,78 @@
+Textbox11	Textbox3	Textbox2	Textbox9	Textbox12	Textbox8																																						
+Election Summary Report	General Election	State of Alaska	8-Nov-22		"State of Alaska
+2022 GENERAL ELECTION
+Election Summary Report
+November 8, 2022
+OFFICIAL RESULTS"
+
+electorGroupId2	countingGroup1	ballots1	Textbox171	Textbox173	ballots2	ballots3	Textbox32	Textbox6																																			
+Total	Election Day	"167,836"	"167,836"	27.89%	"267,047"	"267,047"	"601,795"	44.38%																																			
+Total	Absentee	"54,433"	"54,433"	9.05%	"267,047"	"267,047"	"601,795"	44.38%																																			
+Total	Early Voting	"37,562"	"37,562"	6.24%	"267,047"	"267,047"	"601,795"	44.38%																																			
+Total	Question	"7,216"	"7,216"	1.20%	"267,047"	"267,047"	"601,795"	44.38%																																			
+Total	Remote	0	0	0.00%	"267,047"	"267,047"	"601,795"	44.38%
+
+
+Remote				0	"1,108"
+				Governor / Lieutenant Governor   	Precincts Reported: 401 of 401 (100.00%)																																						
+				Governor / Lieutenant Governor   		Election Day	"167,836"	"266,943 / 601,161 "	44.40%	"2,189"	"2,916"	134	274	"2,323"	"3,190"	0	0	0	0																								
+				Governor / Lieutenant Governor   		Absentee	"54,329"	"266,943 / 601,161 "	44.40%	321	"2,916"	83	274	404	"3,190"	0	0	0	0																								
+				Governor / Lieutenant Governor   		Early Voting	"37,562"	"266,943 / 601,161 "	44.40%	278	"2,916"	30	274	308	"3,190"	0	0	0	0																								
+				Governor / Lieutenant Governor   		Question	"7,216"	"266,943 / 601,161 "	44.40%	128	"2,916"	27	274	155	"3,190"	0	0	0	0																								
+				Governor / Lieutenant Governor   		Remote	0	"266,943 / 601,161 "	44.40%	0	"2,916"	0	274	0	"3,190"	0	0	0	0																								
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Election Day	"90,944"	"132,632"	50.29%	REP	"90,944"	"132,632"	50.29%					"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Absentee	"21,472"	"132,632"	50.29%	REP	"21,472"	"132,632"	50.29%					"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Early Voting	"16,558"	"132,632"	50.29%	REP	"16,558"	"132,632"	50.29%					"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Question	"3,658"	"132,632"	50.29%	REP	"3,658"	"132,632"	50.29%					"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Remote	0	"132,632"	50.29%	REP	0	"132,632"	50.29%					0	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Election Day	"90,944"	"132,632"	50.29%									"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Absentee	"21,472"	"132,632"	50.29%									"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Early Voting	"16,558"	"132,632"	50.29%									"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Question	"3,658"	"132,632"	50.29%									"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Dunleavy/Dahlstrom 	Party	REP	Remote	0	"132,632"	50.29%									0	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Election Day	"34,387"	"63,851"	24.21%	DEM	"34,387"	"63,851"	24.21%					"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Absentee	"17,674"	"63,851"	24.21%	DEM	"17,674"	"63,851"	24.21%					"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Early Voting	"10,272"	"63,851"	24.21%	DEM	"10,272"	"63,851"	24.21%					"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Question	"1,518"	"63,851"	24.21%	DEM	"1,518"	"63,851"	24.21%					"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Remote	0	"63,851"	24.21%	DEM	0	"63,851"	24.21%					0	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Election Day	"34,387"	"63,851"	24.21%									"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Absentee	"17,674"	"63,851"	24.21%									"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Early Voting	"10,272"	"63,851"	24.21%									"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Question	"1,518"	"63,851"	24.21%									"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Gara/Cook 	Party	DEM	Remote	0	"63,851"	24.21%									0	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Election Day	"8,227"	"11,817"	4.48%	REP	"8,227"	"11,817"	4.48%					"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Absentee	"1,837"	"11,817"	4.48%	REP	"1,837"	"11,817"	4.48%					"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Early Voting	"1,299"	"11,817"	4.48%	REP	"1,299"	"11,817"	4.48%					"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Question	454	"11,817"	4.48%	REP	454	"11,817"	4.48%					"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Remote	0	"11,817"	4.48%	REP	0	"11,817"	4.48%					0	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Election Day	"8,227"	"11,817"	4.48%									"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Absentee	"1,837"	"11,817"	4.48%									"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Early Voting	"1,299"	"11,817"	4.48%									"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Question	454	"11,817"	4.48%									"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Pierce/Grunwald 	Party	REP	Remote	0	"11,817"	4.48%									0	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Election Day	"31,691"	"54,668"	20.73%	NON	"31,691"	"54,668"	20.73%					"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Absentee	"12,607"	"54,668"	20.73%	NON	"12,607"	"54,668"	20.73%					"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Early Voting	"9,008"	"54,668"	20.73%	NON	"9,008"	"54,668"	20.73%					"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Question	"1,362"	"54,668"	20.73%	NON	"1,362"	"54,668"	20.73%					"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Remote	0	"54,668"	20.73%	NON	0	"54,668"	20.73%					0	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Election Day	"31,691"	"54,668"	20.73%									"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Absentee	"12,607"	"54,668"	20.73%									"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Early Voting	"9,008"	"54,668"	20.73%									"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Question	"1,362"	"54,668"	20.73%									"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Walker/Drygas 	Party	NON	Remote	0	"54,668"	20.73%									0	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Election Day	263	784	0.30%									"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Absentee	335	784	0.30%									"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Early Voting	117	784	0.30%									"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Question	69	784	0.30%									"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Remote	0	784	0.30%									0	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Election Day	263	784	0.30%					Write-in 	263	784	0.30%	"165,512"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Absentee	335	784	0.30%					Write-in 	335	784	0.30%	"53,925"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Early Voting	117	784	0.30%					Write-in 	117	784	0.30%	"37,254"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Question	69	784	0.30%					Write-in 	69	784	0.30%	"7,061"	"263,752"							
+				Governor / Lieutenant Governor   																Write-in 	Party		Remote	0	784	0.30%					Write-in 	0	784	0.30%	0	"263,752"							
+				Governor / Lieutenant Governor   																																		Election Day				263	784
+				Governor / Lieutenant Governor   																																		Absentee				335	784
+				Governor / Lieutenant Governor   																																		Early Voting				117	784
+				Governor / Lieutenant Governor   																																		Question				69	784
+				Governor / Lieutenant Governor   																																		Remote				0	784
+		

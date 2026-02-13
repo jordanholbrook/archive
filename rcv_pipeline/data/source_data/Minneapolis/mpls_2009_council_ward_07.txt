@@ -1,0 +1,23 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 7 election results
+Official Winner: Lisa Goodman
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 7
+Candidate	First ranked votes	Percent
+Lisa Goodman	2,997	68.24%
+Michael J. Katch	1,042	23.72%
+Jeffery Allen Wagner	321	7.31%
+Write-ins	32	0.73%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Lisa Goodman was elected.
+
+Ballots cast summary
+Total ballots cast	4,392	Total votes counted in the first round.
+Maximum possible threshold	2,197	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	140	Voter did not rank any candidates for the office.
+Spoiled ballots	184	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

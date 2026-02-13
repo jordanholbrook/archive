@@ -1,0 +1,14 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 7 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+RIGEL ROBINSON	691	100.00 %
+CONTINUING BALLOTS TOTAL	691	
+BLANKS	289	
+EXHAUSTED	0	
+OVERVOTES	0	
+REMAINDER POINTS	0	
+SUSPENDED	71	
+NON TRANSFERRABLE TOTAL	360	

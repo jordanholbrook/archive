@@ -1,0 +1,9 @@
+2009 Burlington, Vermont mayoral election
+
+Candidate(Party)	1st Rd	2nd Rd	Final
+Bob KISS(Progr)	2585(29%)	2981	4313 (wins)
+Kurt WRIGHT(Repub)	2951(33%)	3294	4061
+Andy MONTROLL(Dem)	2063(23%)	2554
+Dan SMITH(Indpt)	1306(15%)
+James SIMPSON(Green)	35 (0.4%)
+(Write-ins)	36 (0.4%)

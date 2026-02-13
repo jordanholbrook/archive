@@ -1,0 +1,35 @@
+2009 Minneapolis Municipal Election Results: Council Member Ward 4
+Ranked-choice Voting Tabulation Center Summary Statement
+
+Total votes cast for the office: 3299
+Note: Total votes counted in the first round. Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+
+Number to be elected: 1
+Threshold: 1650
+Note: Half of total votes cast for office + 1, disregarding fractions.
+
+Undervotes: 23
+Note: Voter did not rank any candidates for the office.
+
+Partially defective ballots:
+Note: Unable to determine voter's intent with respect to the office being counted.
+
+Totally defective ballots:
+Note: Unable to determine voter's intent for any office on the ballot.
+
+Spoiled ballots:
+Note: Ballot spoiled by voter at polls.
+
+Candidate           | Round 1 | Round 2 Change | Round 2 Total | Final Round %
+--------------------|---------|----------------|----------------|---------------
+Cermak              |   386   |       -386     |       0        | 0.00%
+Harcus              |   442   |       -442     |       0        | 0.00%
+Johnson             |  1546   |        194     |     1740       | 52.74%
+Parker              |   921   |        331     |     1252       | 37.95%
+David Lombard       |     1   |         -1     |       0        | 0.00%
+Nallie              |     1   |         -1     |       0        | 0.00%
+Rhonda Schaffer     |     1   |         -1     |       0        | 0.00%
+Thomas Selheim      |     1   |         -1     |       0        | 0.00%
+Exhausted           |         |        307     |      307       | 9.31%
+
+TOTAL               |  3299   |                |     3299       |

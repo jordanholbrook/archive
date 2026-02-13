@@ -1,0 +1,844 @@
+=== 20181127_d10.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+GLORIA BERRY
+966
+4.16%
+THEO ELLINGTON
+4820
+20.78%
+WRITE-IN NEO VEAVEA
+31
+0.13%
+WRITE-IN
+0
+0.00%
+SHAMANN WALTON
+9585
+41.33%
+ASALE CHANDLER
+802
+3.46%
+UZURI PEASE-GREENE
+1311
+5.65%
+TONY KELLY
+5679
+24.48%
+Continuing Ballots
+23194
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+0
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+Run Id: 147 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+GLORIA BERRY
+966
+4.16%
+THEO ELLINGTON
+4820
+20.78%
+WRITE-IN NEO VEAVEA
+31
+0.13%
+WRITE-IN
+0
+0.00%
+SHAMANN WALTON
+9585
+41.33%
+ASALE CHANDLER
+802
+3.46%
+UZURI PEASE-GREENE
+1311
+5.65%
+TONY KELLY
+5679
+24.48%
+Continuing Ballots
+23194
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+0
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+Run Id: 147 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GLORIA BERRY
+966
+4.16%
+THEO ELLINGTON
+4820
+20.78%
+WRITE-IN NEO VEAVEA
+31
+0.13%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9585
+41.33%
+ASALE CHANDLER
+802
+3.46%
+UZURI PEASE-GREENE
+1311
+5.65%
+TONY KELLY
+5679
+24.48%
+Continuing Ballots
+23194
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+0
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+
+Complete
+Load Type:
+Pass Number: 2
+WRITE-IN NEO VEAVEA
+31
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+WRITE-IN NEO VEAVEA
+THEO ELLINGTON
+0
+5
+WRITE-IN NEO VEAVEA
+TONY KELLY
+0
+8
+WRITE-IN NEO VEAVEA
+UZURI PEASE-GREENE
+0
+3
+WRITE-IN NEO VEAVEA
+SHAMANN WALTON
+0
+6
+WRITE-IN NEO VEAVEA
+Exhausted Ballots
+8
+0
+WRITE-IN NEO VEAVEA
+ASALE CHANDLER
+0
+1
+Total
+8
+23
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+GLORIA BERRY
+966
+4.16%
+THEO ELLINGTON
+4820
+20.78%
+WRITE-IN NEO VEAVEA
+31
+0.13%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9585
+41.33%
+ASALE CHANDLER
+802
+3.46%
+UZURI PEASE-GREENE
+1311
+5.65%
+TONY KELLY
+5679
+24.48%
+Continuing Ballots
+23194
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+0
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+Run Id: 147 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GLORIA BERRY
+966
+4.17%
+THEO ELLINGTON
+4825
+20.81%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9591
+41.37%
+ASALE CHANDLER
+803
+3.46%
+UZURI PEASE-GREENE
+1314
+5.67%
+TONY KELLY
+5687
+24.53%
+Continuing Ballots
+23186
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+8
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+
+Complete
+Load Type:
+Pass Number: 3
+ASALE CHANDLER
+803
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+GLORIA BERRY
+966
+4.17%
+THEO ELLINGTON
+4825
+20.81%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9591
+41.37%
+ASALE CHANDLER
+803
+3.46%
+UZURI PEASE-GREENE
+1314
+5.67%
+TONY KELLY
+5687
+24.53%
+Continuing Ballots
+23186
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+8
+Exhausted by Over Votes
+156
+Total Ballots
+26257
+Run Id: 147 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+ASALE CHANDLER
+THEO ELLINGTON
+0
+93
+ASALE CHANDLER
+SHAMANN WALTON
+0
+113
+ASALE CHANDLER
+UZURI PEASE-GREENE
+0
+102
+ASALE CHANDLER
+TONY KELLY
+0
+132
+ASALE CHANDLER
+Exhausted Ballots
+142
+0
+ASALE CHANDLER
+Over Votes
+3
+0
+ASALE CHANDLER
+GLORIA BERRY
+0
+218
+Total
+145
+658
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+GLORIA BERRY
+1184
+5.14%
+THEO ELLINGTON
+4918
+21.34%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9704
+42.12%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+1416
+6.15%
+TONY KELLY
+5819
+25.25%
+Continuing Ballots
+23041
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+150
+Exhausted by Over Votes
+159
+Total Ballots
+26257
+
+Complete
+Load Type:
+Pass Number: 4
+GLORIA BERRY
+1184
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+GLORIA BERRY
+THEO ELLINGTON
+0
+225
+GLORIA BERRY
+TONY KELLY
+0
+273
+GLORIA BERRY
+UZURI PEASE-GREENE
+0
+160
+GLORIA BERRY
+SHAMANN WALTON
+0
+241
+GLORIA BERRY
+Exhausted Ballots
+282
+0
+GLORIA BERRY
+Over Votes
+3
+0
+Total
+285
+899
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+GLORIA BERRY
+1184
+5.14%
+THEO ELLINGTON
+4918
+21.34%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9704
+42.12%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+1416
+6.15%
+TONY KELLY
+5819
+25.25%
+Continuing Ballots
+23041
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+150
+Exhausted by Over Votes
+159
+Total Ballots
+26257
+Run Id: 147 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GLORIA BERRY
+Eliminated in pass 4.
+0
+0.00%
+THEO ELLINGTON
+5143
+22.60%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9945
+43.70%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+1576
+6.93%
+TONY KELLY
+6092
+26.77%
+Continuing Ballots
+22756
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+432
+Exhausted by Over Votes
+162
+Total Ballots
+26257
+
+Complete
+Load Type:
+Pass Number: 5
+UZURI PEASE-GREENE
+1576
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+UZURI PEASE-GREENE
+SHAMANN WALTON
+0
+447
+UZURI PEASE-GREENE
+THEO ELLINGTON
+0
+244
+UZURI PEASE-GREENE
+TONY KELLY
+0
+448
+UZURI PEASE-GREENE
+Exhausted Ballots
+433
+0
+UZURI PEASE-GREENE
+Over Votes
+4
+0
+Total
+437
+1139
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+GLORIA BERRY
+Eliminated in pass 4.
+0
+0.00%
+THEO ELLINGTON
+5143
+22.60%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+9945
+43.70%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+1576
+6.93%
+TONY KELLY
+6092
+26.77%
+Continuing Ballots
+22756
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+432
+Exhausted by Over Votes
+162
+Total Ballots
+26257
+Run Id: 147 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GLORIA BERRY
+Eliminated in pass 4.
+0
+0.00%
+THEO ELLINGTON
+5387
+24.14%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+10392
+46.56%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+Eliminated in pass 5.
+0
+0.00%
+TONY KELLY
+6540
+29.30%
+Continuing Ballots
+22319
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+865
+Exhausted by Over Votes
+166
+Total Ballots
+26257
+
+Complete
+Load Type:
+Pass Number: 6
+THEO ELLINGTON
+5387
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+THEO ELLINGTON
+SHAMANN WALTON
+0
+2631
+THEO ELLINGTON
+TONY KELLY
+0
+1084
+THEO ELLINGTON
+Over Votes
+11
+0
+THEO ELLINGTON
+Exhausted Ballots
+1661
+0
+Total
+1672
+3715
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+GLORIA BERRY
+Eliminated in pass 4.
+0
+0.00%
+THEO ELLINGTON
+5387
+24.14%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+10392
+46.56%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+Eliminated in pass 5.
+0
+0.00%
+TONY KELLY
+6540
+29.30%
+Continuing Ballots
+22319
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2907
+Exhausted Ballots
+865
+Exhausted by Over Votes
+166
+Total Ballots
+26257
+Run Id: 147 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 10
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GLORIA BERRY
+Eliminated in pass 4.
+0
+0.00%
+THEO ELLINGTON
+Eliminated in pass 6.
+0
+0.00%
+WRITE-IN NEO VEAVEA
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHAMANN WALTON
+** WINNER **
+13023
+63.07%
+ASALE CHANDLER
+Eliminated in pass 3.
+0
+0.00%
+UZURI PEASE-GREENE
+Eliminated in pass 5.
+0
+0.00%
+TONY KELLY
+7624
+36.93%
+Continuing Ballots
+20647
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2907
+Exhausted Ballots
+2526
+Exhausted by Over Votes
+177
+Total Ballots
+26257
+

@@ -1,0 +1,46 @@
+=== nov-4-2014-pass-report-city-council-san-leandro-d3.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+LEE THOMAS
+** WINNER **
+7671
+54.04%
+Write-In
+0
+0.00%
+VICTOR AGUILAR
+4595
+32.37%
+ALLEN SCHOENFELD
+1928
+13.58%
+Continuing Ballots
+14194
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2978
+Exhausted Ballots
+0
+Exhausted by Over Votes
+28
+Total Ballots
+17200
+Run Id: 216 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - San 
+Leandro (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

@@ -1,0 +1,27 @@
+State of Maine Election Results
+Representative to Congress - District 2
+
+Election Name
+Election Date
+Office Title
+General Election
+November 8, 2022
+Rep. to Congress - District 2
+Round 1
+Round 2
+Candidate Names Votes Percentage Transfer Votes Percentage Transfer
+Bond, Tiffany 21655 06.84% -21655 0 00.00% 0
+Golden, Jared Forrest 153074 48.38% 12062 165136 53.05% 0
+Poliquin, Bruce 141260 44.65% 4882 146142 46.95% 0
+Write-in 393 00.12% -393 0 00.00% 0
+Ballot Exhausted
+By Overvotes 1020 68 1088 0
+By Undervotes 5376 3708 9084 0
+By Exhausted Choices 0 1328 1328 0
+Continuing Ballots 316382 0 311278 0
+TOTAL 322778 0 322778 0
+Winning threshold by round 158192 155640
+Generated: 11/16/2022 18:08
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot + Continuing Ballots
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1
+"*" symbol signifies elimination due to Tie Resolution.

@@ -1,0 +1,20 @@
+City of Takoma Park, Maryland Nov. 8, 2022 Election Report 
+City Council- Ward 6
+FINAL 2022 RESULTS TABLES
+
+Ward 6 - Round 1 of 2
+Candidate Votes Percent of Votes Transfer
+Agosse 100 15% -100
+Charles 57 9% -57
+Moore 222 34% +72
+Small 268 41% +45
+Write-in 5 1% -5
+Total Valid Votes 652
+Ballots Exhausted 45
+Winning Threshold by Round 327
+Ward 6 - Round 2 of 2
+Candidate Votes Percent of Votes Status
+Moore 294 48%
+Small 313 52% Elected
+Total Valid Votes 607
+Winning Threshold by Round 304

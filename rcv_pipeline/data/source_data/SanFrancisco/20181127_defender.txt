@@ -1,0 +1,39 @@
+=== 20181127_defender.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+WRITE-IN
+0
+0.00%
+JEFF ADACHI
+** WINNER **
+292864
+100.00%
+Continuing Ballots
+292864
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+75631
+Exhausted Ballots
+0
+Exhausted by Over Votes
+83
+Total Ballots
+368578
+Run Id: 142 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Public Defender
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+

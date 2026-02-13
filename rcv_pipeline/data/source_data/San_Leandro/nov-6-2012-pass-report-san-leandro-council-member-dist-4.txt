@@ -1,0 +1,358 @@
+=== nov-6-2012-pass-report-san-leandro-council-member-dist-4.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+DARLENE DAEVU
+4670
+20.23%
+BENNY LEE
+10283
+44.53%
+Write-In
+0
+0.00%
+CHRIS CROW
+5694
+24.66%
+JUSTIN HUTCHISON
+2443
+10.58%
+Continuing Ballots
+23090
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5527
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28703
+Run Id: 240 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - San 
+Leandro (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+DARLENE DAEVU
+4670
+20.23%
+BENNY LEE
+10283
+44.53%
+Write-In
+0
+0.00%
+CHRIS CROW
+5694
+24.66%
+JUSTIN HUTCHISON
+2443
+10.58%
+Continuing Ballots
+23090
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+5527
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28703
+Run Id: 240 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - San 
+Leandro (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+DARLENE DAEVU
+4670
+20.23%
+BENNY LEE
+10283
+44.53%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+CHRIS CROW
+5694
+24.66%
+JUSTIN HUTCHISON
+2443
+10.58%
+Continuing Ballots
+23090
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5527
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28703
+
+Complete
+Load Type:
+Pass Number: 2
+JUSTIN HUTCHISON
+2443
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+JUSTIN HUTCHISON
+BENNY LEE
+0
+516
+JUSTIN HUTCHISON
+CHRIS CROW
+0
+687
+JUSTIN HUTCHISON
+DARLENE DAEVU
+0
+652
+JUSTIN HUTCHISON
+Exhausted Ballots
+578
+0
+JUSTIN HUTCHISON
+Over Votes
+10
+0
+Total
+588
+1855
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+DARLENE DAEVU
+4670
+20.23%
+BENNY LEE
+10283
+44.53%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+CHRIS CROW
+5694
+24.66%
+JUSTIN HUTCHISON
+2443
+10.58%
+Continuing Ballots
+23090
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+5527
+Exhausted Ballots
+0
+Exhausted by Over Votes
+86
+Total Ballots
+28703
+Run Id: 240 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - San 
+Leandro (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+DARLENE DAEVU
+5322
+23.65%
+BENNY LEE
+10799
+47.99%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+CHRIS CROW
+6381
+28.36%
+JUSTIN HUTCHISON
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+22502
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5527
+Exhausted Ballots
+578
+Exhausted by Over Votes
+96
+Total Ballots
+28703
+
+Complete
+Load Type:
+Pass Number: 3
+DARLENE DAEVU
+5322
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+DARLENE DAEVU
+BENNY LEE
+0
+2146
+DARLENE DAEVU
+CHRIS CROW
+0
+1900
+DARLENE DAEVU
+Over Votes
+19
+0
+DARLENE DAEVU
+Exhausted Ballots
+1257
+0
+Total
+1276
+4046
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+DARLENE DAEVU
+5322
+23.65%
+BENNY LEE
+10799
+47.99%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+CHRIS CROW
+6381
+28.36%
+JUSTIN HUTCHISON
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+22502
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+5527
+Exhausted Ballots
+578
+Exhausted by Over Votes
+96
+Total Ballots
+28703
+Run Id: 240 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - San 
+Leandro (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+DARLENE DAEVU
+Eliminated in pass 3.
+0
+0.00%
+BENNY LEE
+** WINNER **
+12945
+60.99%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+CHRIS CROW
+8281
+39.01%
+JUSTIN HUTCHISON
+Eliminated in pass 2.
+0
+0.00%
+Continuing Ballots
+21226
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+5527
+Exhausted Ballots
+1835
+Exhausted by Over Votes
+115
+Total Ballots
+28703
+

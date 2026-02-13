@@ -1,0 +1,313 @@
+=== RCV-DA_2011.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+BILL FAZIO
+19252
+10.49%
+VU VUONG TRINH
+6596
+3.59%
+WRITE-IN
+0
+0.00%
+SHARMIN BOCK
+38005
+20.71%
+GEORGE GASCÓN
+76236
+41.55%
+DAVID ONEK
+43398
+23.65%
+Continuing Ballots
+183487
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+13196
+Exhausted Ballots
+0
+Exhausted by Over Votes
+559
+Total Ballots
+197242
+Run Id: 30 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+District Attorney
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/22/2011
+
+Complete
+Load Type:
+Pass Number: 1
+VU VUONG TRINH
+6596
+BILL FAZIO
+19252
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+BILL FAZIO
+19252
+10.49%
+VU VUONG TRINH
+6596
+3.59%
+WRITE-IN
+0
+0.00%
+SHARMIN BOCK
+38005
+20.71%
+GEORGE GASCÓN
+76236
+41.55%
+DAVID ONEK
+43398
+23.65%
+Continuing Ballots
+183487
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+13196
+Exhausted Ballots
+0
+Exhausted by Over Votes
+559
+Total Ballots
+197242
+Run Id: 30 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+District Attorney
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/22/2011
+
+VU VUONG TRINH
+SHARMIN BOCK
+0
+1911
+VU VUONG TRINH
+GEORGE GASCÓN
+0
+1514
+BILL FAZIO
+DAVID ONEK
+0
+2912
+BILL FAZIO
+GEORGE GASCÓN
+0
+6061
+BILL FAZIO
+SHARMIN BOCK
+0
+4395
+VU VUONG TRINH
+DAVID ONEK
+0
+1358
+BILL FAZIO
+Exhausted Ballots
+5848
+0
+VU VUONG TRINH
+Exhausted Ballots
+1804
+0
+BILL FAZIO
+Over Votes
+36
+0
+VU VUONG TRINH
+Over Votes
+9
+0
+Total
+7697
+18151
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+BILL FAZIO
+Eliminated in pass 1.
+0
+0.00%
+VU VUONG TRINH
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHARMIN BOCK
+44311
+25.21%
+GEORGE GASCÓN
+83811
+47.68%
+DAVID ONEK
+47668
+27.12%
+Continuing Ballots
+175790
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+13196
+Exhausted Ballots
+7652
+Exhausted by Over Votes
+604
+Total Ballots
+197242
+
+Complete
+Load Type:
+Pass Number: 2
+SHARMIN BOCK
+44311
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+SHARMIN BOCK
+DAVID ONEK
+0
+13088
+SHARMIN BOCK
+GEORGE GASCÓN
+0
+16434
+SHARMIN BOCK
+Over Votes
+78
+0
+SHARMIN BOCK
+Exhausted Ballots
+14711
+0
+Total
+14789
+29522
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+BILL FAZIO
+Eliminated in pass 1.
+0
+0.00%
+VU VUONG TRINH
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHARMIN BOCK
+44311
+25.21%
+GEORGE GASCÓN
+83811
+47.68%
+DAVID ONEK
+47668
+27.12%
+Continuing Ballots
+175790
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+13196
+Exhausted Ballots
+7652
+Exhausted by Over Votes
+604
+Total Ballots
+197242
+Run Id: 30 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+District Attorney
+The City and County of San Francisco
+SFC_20111108_E
+Election Date:
+Run Date:
+11/8/2011
+11/22/2011
+
+BILL FAZIO
+Eliminated in pass 1.
+0
+0.00%
+VU VUONG TRINH
+Eliminated in pass 1.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+SHARMIN BOCK
+Eliminated in pass 2.
+0
+0.00%
+GEORGE GASCÓN
+** WINNER **
+100245
+62.26%
+DAVID ONEK
+60756
+37.74%
+Continuing Ballots
+161001
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+13196
+Exhausted Ballots
+22363
+Exhausted by Over Votes
+682
+Total Ballots
+197242
+

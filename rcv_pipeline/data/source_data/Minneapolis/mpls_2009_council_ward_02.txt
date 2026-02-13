@@ -1,0 +1,22 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 2 election results
+Official Winner: Cam Gordon
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 2
+Candidate	First round votes	Percent
+Cam Gordon	2,260	84.05%
+Allen Aigbogun	408	15.17%
+Write-ins	21	0.77%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold met and Cam Gordon was elected.
+
+Ballots cast summary
+Total ballots cast	2,689	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	1,345	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	153	Voter did not rank any candidates for the office.
+Spoiled ballots	136	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

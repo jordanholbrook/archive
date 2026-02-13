@@ -1,0 +1,24 @@
+St. Louis Park Minnesota
+Nov. 2, 2021
+
+Council member Ward 4
+
+Round 1
+CANDIDATE	NUMBER OF VOTES	PERCENT OF VOTES
+Tim Brausen	667	93.68%
+Undeclared write-in	32	4.49%
+Overvote	1	0.14%
+Undervote	12	1.69%
+Total votes continuing	712	 
+Total votes cast for this office	712	 
+Totally blank	45	 
+Partially defective	0	 
+Exhausted ballots	0	 
+Total ballots cast in Ward 4	757	 
+Threshold =357
+
+Tim Brausen received the most votes (667), which was more than the threshold (357). Tim Brausen was declared the winner in a single round of counting. 
+
+*Threshold = [(Total votes cast)/(Seats to be elected + 1)] + 1
+
+The total votes cast for this office does not include totally blank or partially defective ballots as defined by City Code Sec. 10-4.

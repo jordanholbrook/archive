@@ -1,0 +1,358 @@
+=== nov-4-2014-pass-report-city-council-berkeley-dist8.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+JACQUELYN MCCORMICK
+837
+18.53%
+LORI DROSTE
+1318
+29.17%
+Write-In
+0
+0.00%
+GEORGE BEIER
+1198
+26.52%
+MIKE ALVAREZ COHEN
+1165
+25.79%
+Continuing Ballots
+4518
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+429
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+4964
+Run Id: 204 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 8 - 
+Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+JACQUELYN MCCORMICK
+837
+18.53%
+LORI DROSTE
+1318
+29.17%
+Write-In
+0
+0.00%
+GEORGE BEIER
+1198
+26.52%
+MIKE ALVAREZ COHEN
+1165
+25.79%
+Continuing Ballots
+4518
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+429
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+4964
+Run Id: 204 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 8 - 
+Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JACQUELYN MCCORMICK
+837
+18.53%
+LORI DROSTE
+1318
+29.17%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GEORGE BEIER
+1198
+26.52%
+MIKE ALVAREZ COHEN
+1165
+25.79%
+Continuing Ballots
+4518
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+429
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+4964
+
+Complete
+Load Type:
+Pass Number: 2
+JACQUELYN MCCORMICK
+837
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+JACQUELYN MCCORMICK
+GEORGE BEIER
+0
+275
+JACQUELYN MCCORMICK
+LORI DROSTE
+0
+296
+JACQUELYN MCCORMICK
+MIKE ALVAREZ COHEN
+0
+135
+JACQUELYN MCCORMICK
+Exhausted Ballots
+128
+0
+JACQUELYN MCCORMICK
+Over Votes
+3
+0
+Total
+131
+706
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+JACQUELYN MCCORMICK
+837
+18.53%
+LORI DROSTE
+1318
+29.17%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GEORGE BEIER
+1198
+26.52%
+MIKE ALVAREZ COHEN
+1165
+25.79%
+Continuing Ballots
+4518
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+429
+Exhausted Ballots
+0
+Exhausted by Over Votes
+17
+Total Ballots
+4964
+Run Id: 204 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 8 - 
+Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JACQUELYN MCCORMICK
+Eliminated in pass 2.
+0
+0.00%
+LORI DROSTE
+1614
+36.79%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GEORGE BEIER
+1473
+33.58%
+MIKE ALVAREZ COHEN
+1300
+29.63%
+Continuing Ballots
+4387
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+429
+Exhausted Ballots
+128
+Exhausted by Over Votes
+20
+Total Ballots
+4964
+
+Complete
+Load Type:
+Pass Number: 3
+MIKE ALVAREZ COHEN
+1300
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+MIKE ALVAREZ COHEN
+GEORGE BEIER
+0
+583
+MIKE ALVAREZ COHEN
+LORI DROSTE
+0
+458
+MIKE ALVAREZ COHEN
+Over Votes
+4
+0
+MIKE ALVAREZ COHEN
+Exhausted Ballots
+255
+0
+Total
+259
+1041
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+JACQUELYN MCCORMICK
+Eliminated in pass 2.
+0
+0.00%
+LORI DROSTE
+1614
+36.79%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GEORGE BEIER
+1473
+33.58%
+MIKE ALVAREZ COHEN
+1300
+29.63%
+Continuing Ballots
+4387
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+429
+Exhausted Ballots
+128
+Exhausted by Over Votes
+20
+Total Ballots
+4964
+Run Id: 204 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 8 - 
+Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JACQUELYN MCCORMICK
+Eliminated in pass 2.
+0
+0.00%
+LORI DROSTE
+** WINNER **
+2072
+50.19%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+GEORGE BEIER
+2056
+49.81%
+MIKE ALVAREZ COHEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+4128
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+429
+Exhausted Ballots
+383
+Exhausted by Over Votes
+24
+Total Ballots
+4964
+

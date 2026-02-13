@@ -1,0 +1,74 @@
+House District 5
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+05-800 Chiniak 38 142
+05-810 Flats 428 1,806
+05-815 Kodiak Island South 17 157
+05-820 Kodiak No. 1 510 2,030
+05-825 Kodiak No. 2 495 1,998
+05-830 Mission Road 1,161 3,630
+05-835 Old Harbor 27 125
+05-840 Ouzinkie 49 142
+05-845 Port Lions 53 178
+05-860 Cordova 515 2,053
+05-865 Seward-Lowell Point 559 1,895
+05-870 Tatitlek 17 134
+District 5 - Absentee 1,917 0
+District 5 - Early Voting 37 0
+District 5 - Question 166 0
+State of Alaska - Total 5,989 14,290
+State - Total 5,989 14,290
+Precinct
+State
+State of Alaska
+05-800 Chiniak 05-810 Flats 05-815 Kodiak Island South 05-820 Kodiak No. 1 05-825 Kodiak No. 2 05-830 Mission Road 05-835 Old Harbor 05-840 Ouzinkie 05-845 Port Lions 05-860 Cordova 05-865 Seward-Lowell Point 05-870 Tatitlek District 5 - Absentee District 5 - Early Voting District 5 - Question State of Alaska - Total State - Total Vincent, Benjamin
+T.
+(REP)
+9 25.00% 192 48.12% 4 28.57% 180 37.11% 202 44.01% 525 47.30% 9 34.62% 8 18.60% 17 33.33% 108 22.36% 268 60.36% 8 50.00% 502 29.41% 8 25.81% 31 43.06% 2,071 38.52% 2,071 38.52% 11/30/2022 2:04:41 PM
+Stutes, Louise B.
+(REP)
+27 75.00%
+205 51.38%
+10 71.43%
+304 62.68%
+257 55.99%
+585 52.70%
+17 65.38%
+35 81.40%
+34 66.67%
+375 77.64%
+173 38.96%
+8 50.00%
+1,182 69.24%
+23 74.19%
+41 56.94%
+3,276 60.94%
+3,276 60.94%
+
+Precinct
+State
+State of Alaska
+05-800 Chiniak 05-810 Flats 05-815 Kodiak Island South 05-820 Kodiak No. 1 05-825 Kodiak No. 2 05-830 Mission Road 05-835 Old Harbor 05-840 Ouzinkie 05-845 Port Lions 05-860 Cordova 05-865 Seward-Lowell Point 05-870 Tatitlek District 5 - Absentee District 5 - Early Voting District 5 - Question State of Alaska - Total State - Total Write-in
+0 0.00% 2 0.50% 0 0.00% 1 0.21% 0 0.00% 0 0.00% 0 0.00% 0 0.00% 0 0.00% 0 0.00% 3 0.68% 0 0.00% 23 1.35% 0 0.00% 0 0.00% 29 0.54% 29 0.54% 11/30/2022 2:04:41 PM
+Total Votes
+36
+399
+14
+485
+459
+1,110
+26
+43
+51
+483
+444
+16
+1,707
+31
+72
+5,376
+5,376

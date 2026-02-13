@@ -1,0 +1,696 @@
+=== november-2-2010-pass-report-san-leandro-mayor.pdf | City: San_Leandro ===
+
+Complete
+Load Type:
+Pass Number: 0
+SARA M. MESTAS
+925
+4.11%
+JOHN R. PALAU
+390
+1.73%
+LOU FILIPOVICH
+9
+0.04%
+Write-In
+64
+0.28%
+STEPHEN H. CASSIDY
+7908
+35.17%
+JOYCE RUTLEDGE STAROSCIAK
+5206
+23.15%
+ANTHONY B. ''TONY'' SANTOS
+7982
+35.50%
+Continuing Ballots
+22484
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+0
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+Run Id: 183 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+Complete
+Load Type:
+Pass Number: 1
+LOU FILIPOVICH
+9
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+LOU FILIPOVICH
+JOHN R. PALAU
+0
+4
+LOU FILIPOVICH
+STEPHEN H. CASSIDY
+0
+2
+LOU FILIPOVICH
+Exhausted Ballots
+3
+0
+Total
+3
+6
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+SARA M. MESTAS
+925
+4.11%
+JOHN R. PALAU
+390
+1.73%
+LOU FILIPOVICH
+9
+0.04%
+Write-In
+64
+0.28%
+STEPHEN H. CASSIDY
+7908
+35.17%
+JOYCE RUTLEDGE STAROSCIAK
+5206
+23.15%
+ANTHONY B. ''TONY'' SANTOS
+7982
+35.50%
+Continuing Ballots
+22484
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+955
+Exhausted Ballots
+0
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+Run Id: 183 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+SARA M. MESTAS
+925
+4.11%
+JOHN R. PALAU
+394
+1.75%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+64
+0.28%
+STEPHEN H. CASSIDY
+7910
+35.19%
+JOYCE RUTLEDGE STAROSCIAK
+5206
+23.16%
+ANTHONY B. ''TONY'' SANTOS
+7982
+35.51%
+Continuing Ballots
+22481
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+3
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+
+Complete
+Load Type:
+Pass Number: 2
+Write-In
+64
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+Write-In
+JOYCE RUTLEDGE 
+STAROSCIAK
+0
+2
+Write-In
+SARA M. MESTAS
+0
+1
+Write-In
+STEPHEN H. CASSIDY
+0
+3
+Write-In
+JOHN R. PALAU
+0
+2
+Write-In
+Exhausted Ballots
+51
+0
+Write-In
+ANTHONY B. ''TONY'' 
+SANTOS
+0
+5
+Total
+51
+13
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+SARA M. MESTAS
+925
+4.11%
+JOHN R. PALAU
+394
+1.75%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+64
+0.28%
+STEPHEN H. CASSIDY
+7910
+35.19%
+JOYCE RUTLEDGE STAROSCIAK
+5206
+23.16%
+ANTHONY B. ''TONY'' SANTOS
+7982
+35.51%
+Continuing Ballots
+22481
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+955
+Exhausted Ballots
+3
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+Run Id: 183 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+SARA M. MESTAS
+926
+4.13%
+JOHN R. PALAU
+396
+1.77%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+7913
+35.28%
+JOYCE RUTLEDGE STAROSCIAK
+5208
+23.22%
+ANTHONY B. ''TONY'' SANTOS
+7987
+35.61%
+Continuing Ballots
+22430
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+54
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+
+Complete
+Load Type:
+Pass Number: 3
+JOHN R. PALAU
+396
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+JOHN R. PALAU
+JOYCE RUTLEDGE 
+STAROSCIAK
+0
+51
+JOHN R. PALAU
+SARA M. MESTAS
+0
+109
+JOHN R. PALAU
+STEPHEN H. CASSIDY
+0
+84
+JOHN R. PALAU
+ANTHONY B. ''TONY'' 
+SANTOS
+0
+63
+JOHN R. PALAU
+Exhausted Ballots
+87
+0
+JOHN R. PALAU
+Over Votes
+2
+0
+Total
+89
+307
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+SARA M. MESTAS
+926
+4.13%
+JOHN R. PALAU
+396
+1.77%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+7913
+35.28%
+JOYCE RUTLEDGE STAROSCIAK
+5208
+23.22%
+ANTHONY B. ''TONY'' SANTOS
+7987
+35.61%
+Continuing Ballots
+22430
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+955
+Exhausted Ballots
+54
+Exhausted by Over Votes
+55
+Total Ballots
+23494
+Run Id: 183 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+SARA M. MESTAS
+1035
+4.63%
+JOHN R. PALAU
+Eliminated in pass 3.
+0
+0.00%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+7997
+35.80%
+JOYCE RUTLEDGE STAROSCIAK
+5259
+23.54%
+ANTHONY B. ''TONY'' SANTOS
+8050
+36.03%
+Continuing Ballots
+22341
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+141
+Exhausted by Over Votes
+57
+Total Ballots
+23494
+
+Complete
+Load Type:
+Pass Number: 4
+SARA M. MESTAS
+1035
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+SARA M. MESTAS
+ANTHONY B. ''TONY'' 
+SANTOS
+0
+238
+SARA M. MESTAS
+JOYCE RUTLEDGE 
+STAROSCIAK
+0
+259
+SARA M. MESTAS
+STEPHEN H. CASSIDY
+0
+303
+SARA M. MESTAS
+Exhausted Ballots
+233
+0
+SARA M. MESTAS
+Over Votes
+2
+0
+Total
+235
+800
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+SARA M. MESTAS
+1035
+4.63%
+JOHN R. PALAU
+Eliminated in pass 3.
+0
+0.00%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+7997
+35.80%
+JOYCE RUTLEDGE STAROSCIAK
+5259
+23.54%
+ANTHONY B. ''TONY'' SANTOS
+8050
+36.03%
+Continuing Ballots
+22341
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+955
+Exhausted Ballots
+141
+Exhausted by Over Votes
+57
+Total Ballots
+23494
+Run Id: 183 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+SARA M. MESTAS
+Eliminated in pass 4.
+0
+0.00%
+JOHN R. PALAU
+Eliminated in pass 3.
+0
+0.00%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+8300
+37.55%
+JOYCE RUTLEDGE STAROSCIAK
+5518
+24.96%
+ANTHONY B. ''TONY'' SANTOS
+8288
+37.49%
+Continuing Ballots
+22106
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+374
+Exhausted by Over Votes
+59
+Total Ballots
+23494
+
+Complete
+Load Type:
+Pass Number: 5
+JOYCE RUTLEDGE STAROSCIAK
+5518
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+JOYCE RUTLEDGE 
+STAROSCIAK
+ANTHONY B. ''TONY'' 
+SANTOS
+0
+1757
+JOYCE RUTLEDGE 
+STAROSCIAK
+STEPHEN H. CASSIDY
+0
+1977
+JOYCE RUTLEDGE 
+STAROSCIAK
+Over Votes
+24
+0
+JOYCE RUTLEDGE 
+STAROSCIAK
+Exhausted Ballots
+1760
+0
+Total
+1784
+3734
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+SARA M. MESTAS
+Eliminated in pass 4.
+0
+0.00%
+JOHN R. PALAU
+Eliminated in pass 3.
+0
+0.00%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+8300
+37.55%
+JOYCE RUTLEDGE STAROSCIAK
+5518
+24.96%
+ANTHONY B. ''TONY'' SANTOS
+8288
+37.49%
+Continuing Ballots
+22106
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+955
+Exhausted Ballots
+374
+Exhausted by Over Votes
+59
+Total Ballots
+23494
+Run Id: 183 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - San Leandro (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+SARA M. MESTAS
+Eliminated in pass 4.
+0
+0.00%
+JOHN R. PALAU
+Eliminated in pass 3.
+0
+0.00%
+LOU FILIPOVICH
+Eliminated in pass 1.
+0
+0.00%
+Write-In
+Eliminated in pass 2.
+0
+0.00%
+STEPHEN H. CASSIDY
+** WINNER **
+10277
+50.57%
+JOYCE RUTLEDGE STAROSCIAK
+Eliminated in pass 5.
+0
+0.00%
+ANTHONY B. ''TONY'' SANTOS
+10045
+49.43%
+Continuing Ballots
+20322
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+955
+Exhausted Ballots
+2134
+Exhausted by Over Votes
+83
+Total Ballots
+23494
+

@@ -1,0 +1,39 @@
+=== november-2-2010-pass-report-berkeley-city-auditor.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+Write-In
+717
+2.23%
+ANN-MARIE HOGAN
+** WINNER **
+31428
+97.77%
+Continuing Ballots
+32145
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+13819
+Exhausted Ballots
+0
+Exhausted by Over Votes
+22
+Total Ballots
+45986
+Run Id: 167 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+City Auditor - Berkeley (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

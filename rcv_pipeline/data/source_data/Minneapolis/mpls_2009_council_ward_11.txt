@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 11 election results
+Official Winner: John Quincy
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 11
+Candidate	First ranked votes	Percent
+John Quincy	2,551	63.62%
+Iverson	734	18.30%
+Alvarado	704	17.56%
+Write-ins	21	0.52%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and John Quincy was elected.
+
+Ballots cast summary
+Total ballots cast	4,010	Total votes counted in the first round.
+Maximum possible threshold	2,006	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	225	Voter did not rank any candidates for the office.
+Totally defective ballots	1	Unable to determine voter's intent for any office on the ballot.
+Spoiled ballots	156	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

@@ -1,0 +1,102 @@
+=== 2021-Council-Ward-2-Round-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+9527
+Number to be elected:
+1
+Threshold:
+4764
+Undervotes:
+272
+Round 2
+Round 3
+Round 3
+Defeated: G. Gaskin, 
+T. Anderson, UWI
+Defeated: C. 
+Gordon
+Defeated: Y. Arab
+Elected: R. Worlobah
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+ Vote Change
+ (+ Added
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Cam Gordon
+2508
+292
+2800
+-2800
+0
+0.0%
+Guy T Gaskin
+546
+-546
+0
+0
+0
+0.0%
+Robin Wonsley Worlobah 
+2763
+116
+2879
+1177
+4056
+42.6%
+Tom Anderson
+982
+-982
+0
+0
+0
+0.0%
+Yusra Arab
+2719
+517
+3236
+801
+4037
+42.4%
+Undeclared Write-ins
+9
+-9
+0
+0
+0
+0.0%
+Exhausted
+-
+612
+612
+822
+1434
+15.1%
+9527
+BALANCED
+9527
+BALANCED
+9527
+BALANCED
+BALANCED
+BALANCED
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+Round 2
+2021 Minneapolis Municipal Election Results:
+Council Member Ward 2
+Ranked Choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+

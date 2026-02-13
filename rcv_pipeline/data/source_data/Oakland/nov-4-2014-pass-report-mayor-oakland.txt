@@ -1,0 +1,3292 @@
+=== nov-4-2014-pass-report-mayor-oakland.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+JOE TUMAN
+12251
+12.02%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+464
+0.46%
+BRYAN PARKER
+7955
+7.81%
+Write-In
+0
+0.00%
+SAMMUEL WASHINGTON
+33
+0.03%
+LIBBY SCHAAF
+30041
+29.48%
+JEAN QUAN
+15808
+15.52%
+REBECCA KAPLAN
+14693
+14.42%
+JASON ANDERSON
+1550
+1.52%
+CHARLES R. WILLIAMS
+1052
+1.03%
+DAN SIEGEL
+13122
+12.88%
+SAIED KARAMOOZ
+264
+0.26%
+PAT MCCULLOUGH
+362
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101888
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+0
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+JOE TUMAN
+12251
+12.02%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+464
+0.46%
+BRYAN PARKER
+7955
+7.81%
+Write-In
+0
+0.00%
+SAMMUEL WASHINGTON
+33
+0.03%
+LIBBY SCHAAF
+30041
+29.48%
+JEAN QUAN
+15808
+15.52%
+REBECCA KAPLAN
+14693
+14.42%
+JASON ANDERSON
+1550
+1.52%
+CHARLES R. WILLIAMS
+1052
+1.03%
+DAN SIEGEL
+13122
+12.88%
+SAIED KARAMOOZ
+264
+0.26%
+PAT MCCULLOUGH
+362
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101888
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+0
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JOE TUMAN
+12251
+12.02%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+464
+0.46%
+BRYAN PARKER
+7955
+7.81%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+33
+0.03%
+LIBBY SCHAAF
+30041
+29.48%
+JEAN QUAN
+15808
+15.52%
+REBECCA KAPLAN
+14693
+14.42%
+JASON ANDERSON
+1550
+1.52%
+CHARLES R. WILLIAMS
+1052
+1.03%
+DAN SIEGEL
+13122
+12.88%
+SAIED KARAMOOZ
+264
+0.26%
+PAT MCCULLOUGH
+362
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101888
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+0
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 2
+SAMMUEL WASHINGTON
+33
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+JOE TUMAN
+12251
+12.02%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+464
+0.46%
+BRYAN PARKER
+7955
+7.81%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+33
+0.03%
+LIBBY SCHAAF
+30041
+29.48%
+JEAN QUAN
+15808
+15.52%
+REBECCA KAPLAN
+14693
+14.42%
+JASON ANDERSON
+1550
+1.52%
+CHARLES R. WILLIAMS
+1052
+1.03%
+DAN SIEGEL
+13122
+12.88%
+SAIED KARAMOOZ
+264
+0.26%
+PAT MCCULLOUGH
+362
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101888
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+0
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+SAMMUEL WASHINGTON
+PAT MCCULLOUGH
+0
+1
+SAMMUEL WASHINGTON
+JEAN QUAN
+0
+3
+SAMMUEL WASHINGTON
+PETER LIU
+0
+1
+SAMMUEL WASHINGTON
+SAIED KARAMOOZ
+0
+1
+SAMMUEL WASHINGTON
+REBECCA KAPLAN
+0
+4
+SAMMUEL WASHINGTON
+JASON ANDERSON
+0
+1
+SAMMUEL WASHINGTON
+BRYAN PARKER
+0
+3
+SAMMUEL WASHINGTON
+Exhausted Ballots
+15
+0
+SAMMUEL WASHINGTON
+DAN SIEGEL
+0
+3
+SAMMUEL WASHINGTON
+CHARLES R. WILLIAMS
+0
+1
+Total
+15
+18
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+
+JOE TUMAN
+12251
+12.03%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+465
+0.46%
+BRYAN PARKER
+7958
+7.81%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30041
+29.49%
+JEAN QUAN
+15811
+15.52%
+REBECCA KAPLAN
+14697
+14.43%
+JASON ANDERSON
+1551
+1.52%
+CHARLES R. WILLIAMS
+1053
+1.03%
+DAN SIEGEL
+13125
+12.88%
+SAIED KARAMOOZ
+265
+0.26%
+PAT MCCULLOUGH
+363
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101873
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+15
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 3
+SAIED KARAMOOZ
+265
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+JOE TUMAN
+12251
+12.03%
+KEN HOUSTON
+518
+0.51%
+NANCY SIDEBOTHAM
+267
+0.26%
+PETER LIU
+465
+0.46%
+BRYAN PARKER
+7958
+7.81%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30041
+29.49%
+JEAN QUAN
+15811
+15.52%
+REBECCA KAPLAN
+14697
+14.43%
+JASON ANDERSON
+1551
+1.52%
+CHARLES R. WILLIAMS
+1053
+1.03%
+DAN SIEGEL
+13125
+12.88%
+SAIED KARAMOOZ
+265
+0.26%
+PAT MCCULLOUGH
+363
+0.36%
+COURTNEY RUBY
+3115
+3.06%
+ERIC WILSON
+393
+0.39%
+Continuing Ballots
+101873
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+15
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+SAIED KARAMOOZ
+KEN HOUSTON
+0
+5
+SAIED KARAMOOZ
+LIBBY SCHAAF
+0
+28
+SAIED KARAMOOZ
+JEAN QUAN
+0
+16
+SAIED KARAMOOZ
+JOE TUMAN
+0
+16
+SAIED KARAMOOZ
+PETER LIU
+0
+14
+SAIED KARAMOOZ
+REBECCA KAPLAN
+0
+21
+SAIED KARAMOOZ
+NANCY SIDEBOTHAM
+0
+4
+SAIED KARAMOOZ
+PAT MCCULLOUGH
+0
+10
+SAIED KARAMOOZ
+CHARLES R. WILLIAMS
+0
+3
+SAIED KARAMOOZ
+BRYAN PARKER
+0
+8
+SAIED KARAMOOZ
+Exhausted Ballots
+31
+0
+SAIED KARAMOOZ
+COURTNEY RUBY
+0
+16
+SAIED KARAMOOZ
+JASON ANDERSON
+0
+25
+SAIED KARAMOOZ
+ERIC WILSON
+0
+6
+SAIED KARAMOOZ
+DAN SIEGEL
+0
+62
+Total
+31
+234
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+
+JOE TUMAN
+12267
+12.05%
+KEN HOUSTON
+523
+0.51%
+NANCY SIDEBOTHAM
+271
+0.27%
+PETER LIU
+479
+0.47%
+BRYAN PARKER
+7966
+7.82%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30069
+29.53%
+JEAN QUAN
+15827
+15.54%
+REBECCA KAPLAN
+14718
+14.45%
+JASON ANDERSON
+1576
+1.55%
+CHARLES R. WILLIAMS
+1056
+1.04%
+DAN SIEGEL
+13187
+12.95%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+373
+0.37%
+COURTNEY RUBY
+3131
+3.07%
+ERIC WILSON
+399
+0.39%
+Continuing Ballots
+101842
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+46
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 4
+NANCY SIDEBOTHAM
+271
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+JOE TUMAN
+12267
+12.05%
+KEN HOUSTON
+523
+0.51%
+NANCY SIDEBOTHAM
+271
+0.27%
+PETER LIU
+479
+0.47%
+BRYAN PARKER
+7966
+7.82%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30069
+29.53%
+JEAN QUAN
+15827
+15.54%
+REBECCA KAPLAN
+14718
+14.45%
+JASON ANDERSON
+1576
+1.55%
+CHARLES R. WILLIAMS
+1056
+1.04%
+DAN SIEGEL
+13187
+12.95%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+373
+0.37%
+COURTNEY RUBY
+3131
+3.07%
+ERIC WILSON
+399
+0.39%
+Continuing Ballots
+101842
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+46
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+NANCY SIDEBOTHAM
+KEN HOUSTON
+0
+13
+NANCY SIDEBOTHAM
+JOE TUMAN
+0
+14
+NANCY SIDEBOTHAM
+JEAN QUAN
+0
+19
+NANCY SIDEBOTHAM
+LIBBY SCHAAF
+0
+23
+NANCY SIDEBOTHAM
+REBECCA KAPLAN
+0
+40
+NANCY SIDEBOTHAM
+PETER LIU
+0
+9
+NANCY SIDEBOTHAM
+PAT MCCULLOUGH
+0
+10
+NANCY SIDEBOTHAM
+JASON ANDERSON
+0
+3
+NANCY SIDEBOTHAM
+CHARLES R. WILLIAMS
+0
+10
+NANCY SIDEBOTHAM
+BRYAN PARKER
+0
+19
+NANCY SIDEBOTHAM
+Exhausted Ballots
+46
+0
+NANCY SIDEBOTHAM
+ERIC WILSON
+0
+17
+NANCY SIDEBOTHAM
+DAN SIEGEL
+0
+16
+NANCY SIDEBOTHAM
+COURTNEY RUBY
+0
+32
+Total
+46
+225
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+
+JOE TUMAN
+12281
+12.06%
+KEN HOUSTON
+536
+0.53%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+488
+0.48%
+BRYAN PARKER
+7985
+7.84%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30092
+29.56%
+JEAN QUAN
+15846
+15.57%
+REBECCA KAPLAN
+14758
+14.50%
+JASON ANDERSON
+1579
+1.55%
+CHARLES R. WILLIAMS
+1066
+1.05%
+DAN SIEGEL
+13203
+12.97%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+383
+0.38%
+COURTNEY RUBY
+3163
+3.11%
+ERIC WILSON
+416
+0.41%
+Continuing Ballots
+101796
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+92
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 5
+PAT MCCULLOUGH
+383
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+JOE TUMAN
+12281
+12.06%
+KEN HOUSTON
+536
+0.53%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+488
+0.48%
+BRYAN PARKER
+7985
+7.84%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30092
+29.56%
+JEAN QUAN
+15846
+15.57%
+REBECCA KAPLAN
+14758
+14.50%
+JASON ANDERSON
+1579
+1.55%
+CHARLES R. WILLIAMS
+1066
+1.05%
+DAN SIEGEL
+13203
+12.97%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+383
+0.38%
+COURTNEY RUBY
+3163
+3.11%
+ERIC WILSON
+416
+0.41%
+Continuing Ballots
+101796
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+92
+Exhausted by Over Votes
+794
+Total Ballots
+104834
+Run Id: 206 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+PAT MCCULLOUGH
+JOE TUMAN
+0
+28
+PAT MCCULLOUGH
+JEAN QUAN
+0
+26
+PAT MCCULLOUGH
+JASON ANDERSON
+0
+23
+PAT MCCULLOUGH
+KEN HOUSTON
+0
+20
+PAT MCCULLOUGH
+REBECCA KAPLAN
+0
+46
+PAT MCCULLOUGH
+PETER LIU
+0
+20
+PAT MCCULLOUGH
+LIBBY SCHAAF
+0
+25
+PAT MCCULLOUGH
+ERIC WILSON
+0
+14
+PAT MCCULLOUGH
+BRYAN PARKER
+0
+35
+PAT MCCULLOUGH
+Over Votes
+1
+0
+PAT MCCULLOUGH
+Exhausted Ballots
+62
+0
+PAT MCCULLOUGH
+DAN SIEGEL
+0
+28
+PAT MCCULLOUGH
+COURTNEY RUBY
+0
+22
+PAT MCCULLOUGH
+CHARLES R. WILLIAMS
+0
+33
+Total
+63
+320
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+
+JOE TUMAN
+12309
+12.10%
+KEN HOUSTON
+556
+0.55%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+508
+0.50%
+BRYAN PARKER
+8020
+7.88%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30117
+29.60%
+JEAN QUAN
+15872
+15.60%
+REBECCA KAPLAN
+14804
+14.55%
+JASON ANDERSON
+1602
+1.57%
+CHARLES R. WILLIAMS
+1099
+1.08%
+DAN SIEGEL
+13231
+13.01%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3185
+3.13%
+ERIC WILSON
+430
+0.42%
+Continuing Ballots
+101733
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+154
+Exhausted by Over Votes
+795
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 6
+ERIC WILSON
+430
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+JOE TUMAN
+12309
+12.10%
+KEN HOUSTON
+556
+0.55%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+508
+0.50%
+BRYAN PARKER
+8020
+7.88%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30117
+29.60%
+JEAN QUAN
+15872
+15.60%
+REBECCA KAPLAN
+14804
+14.55%
+JASON ANDERSON
+1602
+1.57%
+CHARLES R. WILLIAMS
+1099
+1.08%
+DAN SIEGEL
+13231
+13.01%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3185
+3.13%
+ERIC WILSON
+430
+0.42%
+Continuing Ballots
+101733
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+154
+Exhausted by Over Votes
+795
+Total Ballots
+104834
+Run Id: 206 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+ERIC WILSON
+JOE TUMAN
+0
+27
+ERIC WILSON
+JEAN QUAN
+0
+34
+ERIC WILSON
+JASON ANDERSON
+0
+15
+ERIC WILSON
+KEN HOUSTON
+0
+21
+ERIC WILSON
+REBECCA KAPLAN
+0
+65
+ERIC WILSON
+PETER LIU
+0
+21
+ERIC WILSON
+LIBBY SCHAAF
+0
+16
+ERIC WILSON
+BRYAN PARKER
+0
+18
+ERIC WILSON
+Over Votes
+6
+0
+ERIC WILSON
+Exhausted Ballots
+72
+0
+ERIC WILSON
+DAN SIEGEL
+0
+70
+ERIC WILSON
+COURTNEY RUBY
+0
+19
+ERIC WILSON
+CHARLES R. WILLIAMS
+0
+46
+Total
+78
+352
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+
+JOE TUMAN
+12336
+12.14%
+KEN HOUSTON
+577
+0.57%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+529
+0.52%
+BRYAN PARKER
+8038
+7.91%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30133
+29.64%
+JEAN QUAN
+15906
+15.65%
+REBECCA KAPLAN
+14869
+14.63%
+JASON ANDERSON
+1617
+1.59%
+CHARLES R. WILLIAMS
+1145
+1.13%
+DAN SIEGEL
+13301
+13.08%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3204
+3.15%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101655
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+226
+Exhausted by Over Votes
+801
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 7
+PETER LIU
+529
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+JOE TUMAN
+12336
+12.14%
+KEN HOUSTON
+577
+0.57%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+529
+0.52%
+BRYAN PARKER
+8038
+7.91%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30133
+29.64%
+JEAN QUAN
+15906
+15.65%
+REBECCA KAPLAN
+14869
+14.63%
+JASON ANDERSON
+1617
+1.59%
+CHARLES R. WILLIAMS
+1145
+1.13%
+DAN SIEGEL
+13301
+13.08%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3204
+3.15%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101655
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+226
+Exhausted by Over Votes
+801
+Total Ballots
+104834
+Run Id: 206 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+PETER LIU
+JOE TUMAN
+0
+42
+PETER LIU
+JEAN QUAN
+0
+76
+PETER LIU
+JASON ANDERSON
+0
+6
+PETER LIU
+REBECCA KAPLAN
+0
+33
+PETER LIU
+LIBBY SCHAAF
+0
+40
+PETER LIU
+KEN HOUSTON
+0
+27
+PETER LIU
+DAN SIEGEL
+0
+52
+PETER LIU
+Over Votes
+3
+0
+PETER LIU
+Exhausted Ballots
+138
+0
+PETER LIU
+BRYAN PARKER
+0
+42
+PETER LIU
+COURTNEY RUBY
+0
+43
+PETER LIU
+CHARLES R. WILLIAMS
+0
+27
+Total
+141
+388
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+
+JOE TUMAN
+12378
+12.19%
+KEN HOUSTON
+604
+0.59%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8080
+7.96%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30173
+29.72%
+JEAN QUAN
+15982
+15.74%
+REBECCA KAPLAN
+14902
+14.68%
+JASON ANDERSON
+1623
+1.60%
+CHARLES R. WILLIAMS
+1172
+1.15%
+DAN SIEGEL
+13353
+13.15%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3247
+3.20%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101514
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+364
+Exhausted by Over Votes
+804
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 8
+KEN HOUSTON
+604
+Candidate
+Votes
+Eliminated Candidates - Pass
+8
+JOE TUMAN
+12378
+12.19%
+KEN HOUSTON
+604
+0.59%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8080
+7.96%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30173
+29.72%
+JEAN QUAN
+15982
+15.74%
+REBECCA KAPLAN
+14902
+14.68%
+JASON ANDERSON
+1623
+1.60%
+CHARLES R. WILLIAMS
+1172
+1.15%
+DAN SIEGEL
+13353
+13.15%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3247
+3.20%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101514
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+364
+Exhausted by Over Votes
+804
+Total Ballots
+104834
+Run Id: 206 - Pass 8
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+KEN HOUSTON
+JEAN QUAN
+0
+44
+KEN HOUSTON
+JASON ANDERSON
+0
+27
+KEN HOUSTON
+DAN SIEGEL
+0
+52
+KEN HOUSTON
+REBECCA KAPLAN
+0
+119
+KEN HOUSTON
+LIBBY SCHAAF
+0
+39
+KEN HOUSTON
+JOE TUMAN
+0
+42
+KEN HOUSTON
+Over Votes
+3
+0
+KEN HOUSTON
+Exhausted Ballots
+171
+0
+KEN HOUSTON
+BRYAN PARKER
+0
+62
+KEN HOUSTON
+COURTNEY RUBY
+0
+17
+KEN HOUSTON
+CHARLES R. WILLIAMS
+0
+28
+Total
+174
+430
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+8
+
+JOE TUMAN
+12420
+12.26%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8142
+8.03%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30212
+29.81%
+JEAN QUAN
+16026
+15.81%
+REBECCA KAPLAN
+15021
+14.82%
+JASON ANDERSON
+1650
+1.63%
+CHARLES R. WILLIAMS
+1200
+1.18%
+DAN SIEGEL
+13405
+13.23%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3264
+3.22%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101340
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+535
+Exhausted by Over Votes
+807
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 9
+CHARLES R. WILLIAMS
+1200
+Candidate
+Votes
+Eliminated Candidates - Pass
+9
+JOE TUMAN
+12420
+12.26%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8142
+8.03%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30212
+29.81%
+JEAN QUAN
+16026
+15.81%
+REBECCA KAPLAN
+15021
+14.82%
+JASON ANDERSON
+1650
+1.63%
+CHARLES R. WILLIAMS
+1200
+1.18%
+DAN SIEGEL
+13405
+13.23%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3264
+3.22%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+101340
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+535
+Exhausted by Over Votes
+807
+Total Ballots
+104834
+Run Id: 206 - Pass 9
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+CHARLES R. WILLIAMS
+JEAN QUAN
+0
+112
+CHARLES R. WILLIAMS
+JASON ANDERSON
+0
+91
+CHARLES R. WILLIAMS
+JOE TUMAN
+0
+67
+CHARLES R. WILLIAMS
+REBECCA KAPLAN
+0
+164
+CHARLES R. WILLIAMS
+LIBBY SCHAAF
+0
+44
+CHARLES R. WILLIAMS
+DAN SIEGEL
+0
+193
+CHARLES R. WILLIAMS
+Over Votes
+10
+0
+CHARLES R. WILLIAMS
+Exhausted Ballots
+380
+0
+CHARLES R. WILLIAMS
+COURTNEY RUBY
+0
+56
+CHARLES R. WILLIAMS
+BRYAN PARKER
+0
+83
+Total
+390
+810
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+9
+
+JOE TUMAN
+12487
+12.37%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8225
+8.15%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30256
+29.97%
+JEAN QUAN
+16138
+15.99%
+REBECCA KAPLAN
+15185
+15.04%
+JASON ANDERSON
+1741
+1.72%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+13598
+13.47%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3320
+3.29%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100950
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+915
+Exhausted by Over Votes
+817
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 10
+JASON ANDERSON
+1741
+Candidate
+Votes
+Eliminated Candidates - Pass
+10
+JOE TUMAN
+12487
+12.37%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8225
+8.15%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30256
+29.97%
+JEAN QUAN
+16138
+15.99%
+REBECCA KAPLAN
+15185
+15.04%
+JASON ANDERSON
+1741
+1.72%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+13598
+13.47%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3320
+3.29%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100950
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+915
+Exhausted by Over Votes
+817
+Total Ballots
+104834
+Run Id: 206 - Pass 10
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JASON ANDERSON
+JEAN QUAN
+0
+79
+JASON ANDERSON
+DAN SIEGEL
+0
+965
+JASON ANDERSON
+JOE TUMAN
+0
+52
+JASON ANDERSON
+REBECCA KAPLAN
+0
+194
+JASON ANDERSON
+LIBBY SCHAAF
+0
+104
+JASON ANDERSON
+Over Votes
+1
+0
+JASON ANDERSON
+Exhausted Ballots
+248
+0
+JASON ANDERSON
+COURTNEY RUBY
+0
+44
+JASON ANDERSON
+BRYAN PARKER
+0
+54
+Total
+249
+1492
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+10
+
+JOE TUMAN
+12539
+12.45%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8279
+8.22%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30360
+30.15%
+JEAN QUAN
+16217
+16.10%
+REBECCA KAPLAN
+15379
+15.27%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+14563
+14.46%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3364
+3.34%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100701
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+1163
+Exhausted by Over Votes
+818
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 11
+COURTNEY RUBY
+3364
+Candidate
+Votes
+Eliminated Candidates - Pass
+11
+JOE TUMAN
+12539
+12.45%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8279
+8.22%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+30360
+30.15%
+JEAN QUAN
+16217
+16.10%
+REBECCA KAPLAN
+15379
+15.27%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+14563
+14.46%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+3364
+3.34%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100701
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+1163
+Exhausted by Over Votes
+818
+Total Ballots
+104834
+Run Id: 206 - Pass 11
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+COURTNEY RUBY
+JOE TUMAN
+0
+801
+COURTNEY RUBY
+JEAN QUAN
+0
+198
+COURTNEY RUBY
+REBECCA KAPLAN
+0
+320
+COURTNEY RUBY
+LIBBY SCHAAF
+0
+953
+COURTNEY RUBY
+DAN SIEGEL
+0
+268
+COURTNEY RUBY
+Exhausted Ballots
+542
+0
+COURTNEY RUBY
+Over Votes
+10
+0
+COURTNEY RUBY
+BRYAN PARKER
+0
+272
+Total
+552
+2812
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+11
+
+JOE TUMAN
+13340
+13.32%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8551
+8.54%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+31313
+31.27%
+JEAN QUAN
+16415
+16.39%
+REBECCA KAPLAN
+15699
+15.68%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+14831
+14.81%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100149
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+1705
+Exhausted by Over Votes
+828
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 12
+BRYAN PARKER
+8551
+Candidate
+Votes
+Eliminated Candidates - Pass
+12
+JOE TUMAN
+13340
+13.32%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+8551
+8.54%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+31313
+31.27%
+JEAN QUAN
+16415
+16.39%
+REBECCA KAPLAN
+15699
+15.68%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+14831
+14.81%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+100149
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+1705
+Exhausted by Over Votes
+828
+Total Ballots
+104834
+Run Id: 206 - Pass 12
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+BRYAN PARKER
+JOE TUMAN
+0
+1533
+BRYAN PARKER
+JEAN QUAN
+0
+741
+BRYAN PARKER
+REBECCA KAPLAN
+0
+1324
+BRYAN PARKER
+LIBBY SCHAAF
+0
+1867
+BRYAN PARKER
+Exhausted Ballots
+2065
+0
+BRYAN PARKER
+Over Votes
+34
+0
+BRYAN PARKER
+DAN SIEGEL
+0
+987
+Total
+2099
+6452
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+12
+JOE TUMAN
+14873
+15.17%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+33180
+33.84%
+JEAN QUAN
+17156
+17.50%
+REBECCA KAPLAN
+17023
+17.36%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+15818
+16.13%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+98050
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+3770
+Exhausted by Over Votes
+862
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 13
+JOE TUMAN
+14873
+Candidate
+Votes
+Eliminated Candidates - Pass
+13
+JOE TUMAN
+14873
+15.17%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+33180
+33.84%
+JEAN QUAN
+17156
+17.50%
+REBECCA KAPLAN
+17023
+17.36%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+15818
+16.13%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+98050
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+3770
+Exhausted by Over Votes
+862
+Total Ballots
+104834
+Run Id: 206 - Pass 13
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JOE TUMAN
+JEAN QUAN
+0
+893
+JOE TUMAN
+LIBBY SCHAAF
+0
+6761
+JOE TUMAN
+REBECCA KAPLAN
+0
+1639
+JOE TUMAN
+DAN SIEGEL
+0
+1584
+JOE TUMAN
+Exhausted Ballots
+3953
+0
+JOE TUMAN
+Over Votes
+43
+0
+Total
+3996
+10877
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+13
+JOE TUMAN
+Eliminated in pass 13.
+0
+0.00%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+39941
+42.47%
+JEAN QUAN
+18049
+19.19%
+REBECCA KAPLAN
+18662
+19.84%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+17402
+18.50%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+94054
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+7723
+Exhausted by Over Votes
+905
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 14
+DAN SIEGEL
+17402
+Candidate
+Votes
+Eliminated Candidates - Pass
+14
+JOE TUMAN
+Eliminated in pass 13.
+0
+0.00%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+39941
+42.47%
+JEAN QUAN
+18049
+19.19%
+REBECCA KAPLAN
+18662
+19.84%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+17402
+18.50%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+94054
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+7723
+Exhausted by Over Votes
+905
+Total Ballots
+104834
+Run Id: 206 - Pass 14
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+DAN SIEGEL
+JEAN QUAN
+0
+2476
+DAN SIEGEL
+LIBBY SCHAAF
+0
+3877
+DAN SIEGEL
+REBECCA KAPLAN
+0
+4679
+DAN SIEGEL
+Exhausted Ballots
+6318
+0
+DAN SIEGEL
+Over Votes
+52
+0
+Total
+6370
+11032
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+14
+JOE TUMAN
+Eliminated in pass 13.
+0
+0.00%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+43818
+49.97%
+JEAN QUAN
+20525
+23.41%
+REBECCA KAPLAN
+23341
+26.62%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+Eliminated in pass 14.
+0
+0.00%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+87684
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+14041
+Exhausted by Over Votes
+957
+Total Ballots
+104834
+
+Complete
+Load Type:
+Pass Number: 15
+JEAN QUAN
+20525
+Candidate
+Votes
+Eliminated Candidates - Pass
+15
+JOE TUMAN
+Eliminated in pass 13.
+0
+0.00%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+43818
+49.97%
+JEAN QUAN
+20525
+23.41%
+REBECCA KAPLAN
+23341
+26.62%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+Eliminated in pass 14.
+0
+0.00%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+87684
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2152
+Exhausted Ballots
+14041
+Exhausted by Over Votes
+957
+Total Ballots
+104834
+Run Id: 206 - Pass 15
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Mayor - Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+JEAN QUAN
+LIBBY SCHAAF
+0
+4988
+JEAN QUAN
+REBECCA KAPLAN
+0
+5080
+JEAN QUAN
+Over Votes
+93
+0
+JEAN QUAN
+Exhausted Ballots
+10364
+0
+Total
+10457
+10068
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+15
+JOE TUMAN
+Eliminated in pass 13.
+0
+0.00%
+KEN HOUSTON
+Eliminated in pass 8.
+0
+0.00%
+NANCY SIDEBOTHAM
+Eliminated in pass 4.
+0
+0.00%
+PETER LIU
+Eliminated in pass 7.
+0
+0.00%
+BRYAN PARKER
+Eliminated in pass 12.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+SAMMUEL WASHINGTON
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+** WINNER **
+48806
+63.20%
+JEAN QUAN
+Eliminated in pass 15.
+0
+0.00%
+REBECCA KAPLAN
+28421
+36.80%
+JASON ANDERSON
+Eliminated in pass 10.
+0
+0.00%
+CHARLES R. WILLIAMS
+Eliminated in pass 9.
+0
+0.00%
+DAN SIEGEL
+Eliminated in pass 14.
+0
+0.00%
+SAIED KARAMOOZ
+Eliminated in pass 3.
+0
+0.00%
+PAT MCCULLOUGH
+Eliminated in pass 5.
+0
+0.00%
+COURTNEY RUBY
+Eliminated in pass 11.
+0
+0.00%
+ERIC WILSON
+Eliminated in pass 6.
+0
+0.00%
+Continuing Ballots
+77227
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2152
+Exhausted Ballots
+24405
+Exhausted by Over Votes
+1050
+Total Ballots
+104834
+

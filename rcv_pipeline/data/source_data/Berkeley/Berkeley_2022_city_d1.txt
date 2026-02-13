@@ -1,0 +1,47 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 1 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+ELISA MIKITEN	2750	41.51 %
+TAMAR MICHAI FREEMAN	586	8.85 %
+RASHI KESARWANI	3289	49.65 %
+CONTINUING BALLOTS TOTAL	6625	
+BLANKS	538	
+EXHAUSTED	0	
+OVERVOTES	29	
+REMAINDER POINTS	0	
+SUSPENDED	32	
+NON TRANSFERRABLE TOTAL	599	
+
+TAMAR MICHAI FREEMAN is eliminated because the candidate had the least amount of votes.
+
+TAMAR MICHAI FREEMAN is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate TAMAR MICHAI FREEMAN. 595 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+TAMAR MICHAI FREEMAN	ELISA MIKITEN	315	1	315
+TAMAR MICHAI FREEMAN	RASHI KESARWANI	160	1	160
+TAMAR MICHAI FREEMAN	EXHAUSTED	116	1	116
+TAMAR MICHAI FREEMAN	OVERVOTES	4	1	4
+Elimination transfer for candidate Suspended. 32 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+SUSPENDED	ELISA MIKITEN	12	1	12
+SUSPENDED	TAMAR MICHAI FREEMAN	9	1	9
+SUSPENDED	RASHI KESARWANI	8	1	8
+SUSPENDED	OVERVOTES	3	1	3
+
+-------------------------------------------------------
+
+
+Round 2
+
+Candidate	Votes	Percentage
+ELISA MIKITEN	3077	47.09 %
+TAMAR MICHAI FREEMAN	0	0.00 %
+RASHI KESARWANI	3457	52.91 %
+CONTINUING BALLOTS TOTAL	6534	
+BLANKS	538	
+EXHAUSTED	116	
+OVERVOTES	36	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	690	

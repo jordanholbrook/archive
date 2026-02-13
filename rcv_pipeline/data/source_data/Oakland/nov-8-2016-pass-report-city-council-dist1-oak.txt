@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-city-council-dist1-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+DAN KALB
+** WINNER **
+25102
+80.92%
+Write-In
+0
+0.00%
+KEVIN M. CORBETT
+5917
+19.08%
+Continuing Ballots
+31019
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6098
+Exhausted Ballots
+0
+Exhausted by Over Votes
+22
+Total Ballots
+37139
+Run Id: 109 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 1 - 
+Oakland (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

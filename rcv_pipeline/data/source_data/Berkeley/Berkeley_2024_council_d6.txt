@@ -1,0 +1,14 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 6 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+BRENT BLACKABY	4416	60.02 %
+ANDY KATZ	2942	39.98 %
+CONTINUING BALLOTS TOTAL	7358	
+BLANKS	1163	
+EXHAUSTED	0	
+OVERVOTES	15	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	1178	

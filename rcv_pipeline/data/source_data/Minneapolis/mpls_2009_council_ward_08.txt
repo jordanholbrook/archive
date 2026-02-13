@@ -1,0 +1,25 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 8 election results
+Official Winner: Elizabeth Glidden
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 8
+Candidate	First ranked votes	Percent
+Elizabeth Glidden	2,291	74.00%
+Jeanine Estime	470	15.18%
+David Regan	174	5.62%
+Gregory McDonald	115	3.60%
+Michael Cavlan	43	1.39%
+Write-ins	3	0.10%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Elizabeth Glidden was elected.
+
+Ballots cast summary
+Total ballots cast	3,096	Total votes counted in the first round.
+Maximum possible threshold	1,549	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	143	Voter did not rank any candidates for the office.
+Spoiled ballots	131	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

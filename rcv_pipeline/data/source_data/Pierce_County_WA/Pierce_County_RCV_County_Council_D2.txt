@@ -1,0 +1,18 @@
+Ranked Choice Voting Results Table
+Pierce County Washington
+November 4, 2008 General Election - Official Results
+
+Contest: County Council - District No. 2
+Load Type: Complete
+Round 1 Round 2
+Al Rose Votes % Transfer Votes % Transfer
+12317 30.79% +4747 17064 44.74% 0
+Carolyn Merrival 7651 19.13% -7651 0 0.00% 0
+Joyce McDonald 19967 49.92% +1111 21078 55.26% 0
+Write-In 65 0.16% -65 0 0.00% 0
+Exhausted by Over Votes 31 +2 33 0
+Under Votes 3630 0 3630 0
+Exhausted Ballots 0 +1856 1856 0
+Continuing Ballots 40000 100.00% 38142 100.00%
+TOTAL 43661 0 43661 0
+REMARKS *Tie resolved in accordance with election law.

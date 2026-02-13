@@ -1,0 +1,506 @@
+=== nov-8-2016-pass-report-school-director-dist3-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+JUMOKE HINTON HODGE
+8905
+39.84%
+Write-In
+0
+0.00%
+MISTY CROSS
+39
+0.17%
+KHARYSHI ''MS. K'' WIGINTON
+7400
+33.11%
+LUCKY NARAIN
+1616
+7.23%
+BENJAMIN LANG
+4391
+19.65%
+Continuing Ballots
+22351
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6478
+Exhausted Ballots
+0
+Exhausted by Over Votes
+107
+Total Ballots
+28936
+Run Id: 115 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+JUMOKE HINTON HODGE
+8905
+39.84%
+Write-In
+0
+0.00%
+MISTY CROSS
+39
+0.17%
+KHARYSHI ''MS. K'' WIGINTON
+7400
+33.11%
+LUCKY NARAIN
+1616
+7.23%
+BENJAMIN LANG
+4391
+19.65%
+Continuing Ballots
+22351
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6478
+Exhausted Ballots
+0
+Exhausted by Over Votes
+107
+Total Ballots
+28936
+Run Id: 115 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+JUMOKE HINTON HODGE
+8905
+39.84%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+39
+0.17%
+KHARYSHI ''MS. K'' WIGINTON
+7400
+33.11%
+LUCKY NARAIN
+1616
+7.23%
+BENJAMIN LANG
+4391
+19.65%
+Continuing Ballots
+22351
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6478
+Exhausted Ballots
+0
+Exhausted by Over Votes
+107
+Total Ballots
+28936
+
+Complete
+Load Type:
+Pass Number: 2
+MISTY CROSS
+39
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+MISTY CROSS
+BENJAMIN LANG
+0
+2
+MISTY CROSS
+JUMOKE HINTON HODGE
+0
+6
+MISTY CROSS
+KHARYSHI ''MS. K'' 
+WIGINTON
+0
+7
+MISTY CROSS
+Exhausted Ballots
+23
+0
+MISTY CROSS
+Over Votes
+1
+0
+Total
+24
+15
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+JUMOKE HINTON HODGE
+8905
+39.84%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+39
+0.17%
+KHARYSHI ''MS. K'' WIGINTON
+7400
+33.11%
+LUCKY NARAIN
+1616
+7.23%
+BENJAMIN LANG
+4391
+19.65%
+Continuing Ballots
+22351
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6478
+Exhausted Ballots
+0
+Exhausted by Over Votes
+107
+Total Ballots
+28936
+Run Id: 115 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+JUMOKE HINTON HODGE
+8911
+39.91%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+Eliminated in pass 2.
+0
+0.00%
+KHARYSHI ''MS. K'' WIGINTON
+7407
+33.18%
+LUCKY NARAIN
+1616
+7.24%
+BENJAMIN LANG
+4393
+19.68%
+Continuing Ballots
+22327
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6478
+Exhausted Ballots
+23
+Exhausted by Over Votes
+108
+Total Ballots
+28936
+
+Complete
+Load Type:
+Pass Number: 3
+LUCKY NARAIN
+1616
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+LUCKY NARAIN
+BENJAMIN LANG
+0
+584
+LUCKY NARAIN
+JUMOKE HINTON HODGE
+0
+317
+LUCKY NARAIN
+KHARYSHI ''MS. K'' 
+WIGINTON
+0
+282
+LUCKY NARAIN
+Exhausted Ballots
+430
+0
+LUCKY NARAIN
+Over Votes
+3
+0
+Total
+433
+1183
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+JUMOKE HINTON HODGE
+8911
+39.91%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+Eliminated in pass 2.
+0
+0.00%
+KHARYSHI ''MS. K'' WIGINTON
+7407
+33.18%
+LUCKY NARAIN
+1616
+7.24%
+BENJAMIN LANG
+4393
+19.68%
+Continuing Ballots
+22327
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6478
+Exhausted Ballots
+23
+Exhausted by Over Votes
+108
+Total Ballots
+28936
+Run Id: 115 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+JUMOKE HINTON HODGE
+9228
+42.15%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+Eliminated in pass 2.
+0
+0.00%
+KHARYSHI ''MS. K'' WIGINTON
+7689
+35.12%
+LUCKY NARAIN
+Eliminated in pass 3.
+0
+0.00%
+BENJAMIN LANG
+4977
+22.73%
+Continuing Ballots
+21894
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6478
+Exhausted Ballots
+453
+Exhausted by Over Votes
+111
+Total Ballots
+28936
+
+Complete
+Load Type:
+Pass Number: 4
+BENJAMIN LANG
+4977
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+BENJAMIN LANG
+JUMOKE HINTON HODGE
+0
+1568
+BENJAMIN LANG
+KHARYSHI ''MS. K'' 
+WIGINTON
+0
+2121
+BENJAMIN LANG
+Over Votes
+14
+0
+BENJAMIN LANG
+Exhausted Ballots
+1274
+0
+Total
+1288
+3689
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+JUMOKE HINTON HODGE
+9228
+42.15%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+Eliminated in pass 2.
+0
+0.00%
+KHARYSHI ''MS. K'' WIGINTON
+7689
+35.12%
+LUCKY NARAIN
+Eliminated in pass 3.
+0
+0.00%
+BENJAMIN LANG
+4977
+22.73%
+Continuing Ballots
+21894
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+6478
+Exhausted Ballots
+453
+Exhausted by Over Votes
+111
+Total Ballots
+28936
+Run Id: 115 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 3 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+
+JUMOKE HINTON HODGE
+** WINNER **
+10796
+52.39%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MISTY CROSS
+Eliminated in pass 2.
+0
+0.00%
+KHARYSHI ''MS. K'' WIGINTON
+9810
+47.61%
+LUCKY NARAIN
+Eliminated in pass 3.
+0
+0.00%
+BENJAMIN LANG
+Eliminated in pass 4.
+0
+0.00%
+Continuing Ballots
+20606
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+6478
+Exhausted Ballots
+1727
+Exhausted by Over Votes
+125
+Total Ballots
+28936
+

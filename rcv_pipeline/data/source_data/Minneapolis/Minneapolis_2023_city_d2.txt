@@ -1,0 +1,21 @@
+
+2023 City Council Ward 2 election results
+Official winner: Robin Wonsley
+
+
+ovember 7, 2023
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate Robin Wonsley received enough first-choice votes to be elected and is the winner. 
+Council Member Ward 2 Candidate 	First-choice votes
+Robin Wonsley 	1,381
+Michael Baskins 	484
+Undeclared write-ins 	177
+
+ 
+Ballots cast summary Total ballots cast 	2,075 	Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold 	1,038 	
+
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

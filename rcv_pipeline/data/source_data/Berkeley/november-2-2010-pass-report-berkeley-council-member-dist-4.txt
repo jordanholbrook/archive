@@ -1,0 +1,42 @@
+=== november-2-2010-pass-report-berkeley-council-member-dist-4.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+JIM NOVOSEL
+1496
+31.44%
+JESSE ARREGUIN
+** WINNER **
+2544
+53.46%
+Write-In
+25
+0.53%
+BERNT RAINER WAHL
+508
+10.67%
+ERIC PANZER
+186
+3.91%
+Continuing Ballots
+4759
+Candidate
+Votes
+% Vote
+Final State
+Error: Subreport could not be shown.
+Run Id: 163 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Berkeley (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+

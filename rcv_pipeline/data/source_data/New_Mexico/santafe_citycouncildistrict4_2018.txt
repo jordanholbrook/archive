@@ -1,0 +1,42 @@
+Election Summary Report
+City of Santa Fe
+UNOFFICIAL RESULTS
+March 06, 2018
+General Election
+COUNCILOR DISTRICT 4
+
+City of Santa Fe
+Round 1
+Threshold: 2,450
+Candidate Votes Percentage
+Eric John Holmes 1,305 26.64%
+Greg Scargall 1,473 30.07%
+JoAnne Vigil Coppler 2,121 43.29%
+Continuing Ballots Total 4,899
+Blanks 173
+Exhausted 0
+Overvotes 8
+Remainder Points 0
+Non Transferable Total 181
+Eric John Holmes is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Eric John Holmes.
+1305 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Fraction Votes
+Eric John Holmes Greg Scargall 505 1 505
+Eric John Holmes JoAnne Vigil Coppler 444 1 444
+Eric John Holmes Exhausted 352 1 352
+Eric John Holmes Overvotes 4 1 4
+Round 2
+Threshold: 2,272
+Candidate Votes Percentage
+Eric John Holmes 0 0.00%
+Greg Scargall 1,978 43.54%
+JoAnne Vigil Coppler 2,565 56.46%
+Continuing Ballots Total 4,543
+Blanks 173
+Exhausted 352
+Overvotes 12
+Remainder Points 0
+Non Transferable Total 537
+Greg Scargall is eliminated because the candidate was not elected in the last round.
+JoAnne Vigil Coppler is elected because the candidate reached the threshold value.

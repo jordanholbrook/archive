@@ -1,0 +1,75 @@
+=== 2017-Ward-1-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+8734
+Number to be elected:
+1
+Threshold:
+4368
+Undervotes:
+130
+Round 2
+Round 3
+Defeated: Hayden, 
+undeclared write-ins
+Elected: Reich; 
+Defeated: Pessenda
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+no vote transfer in 
+this round
+May not sum to 
+100% due to 
+rounding
+Jillia Pessenda
+3846
+266
+4112
+-
+47.08%
+John Hayden
+853
+-853
+0
+-
+0.00%
+Kevin Reich
+4015
+281
+4296
+-
+49.19%
+Undeclared Write-ins
+20
+-20
+0
+-
+0.00%
+Exhausted
+-
+326
+326
+-
+3.73%
+8734
+BALANCED
+8734
+BALANCED
+BALANCED
+Final Round 
+Percentage
+Round 1
+Round 2
+2017 Minneapolis Municipal Election Results: Ward 1 Council
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+TOTAL
+Candidate
+

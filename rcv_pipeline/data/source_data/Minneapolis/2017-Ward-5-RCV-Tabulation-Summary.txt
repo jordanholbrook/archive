@@ -1,0 +1,75 @@
+=== 2017-Ward-5-RCV-Tabulation-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+4216
+Number to be elected:
+1
+Threshold:
+2109
+Undervotes:
+62.0000
+Round 2
+Williams, Cathy Spann
+First preference 
+votes
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Blong Yang
+1617
+152
+1769
+41.96%
+Cathy Spann
+159
+-159
+0
+Jeremiah Ellison
+1987
+326
+2313
+54.86%
+Raeisha (RA) Williams
+445
+-445
+0
+Undeclared Write-ins
+8
+-8
+0
+Exhausted
+-
+134
+134
+3.18%
+4216
+BALANCED
+4216
+BALANCED
+BALANCED
+Partially defective ballots:
+0
+Totally defective ballots:
+0
+Spoiled ballots:
+0
+Note: Unable to determine voter's intent for any office on the ballot.
+2017 Minneapolis Municipal Election Results: Ward 5 Council
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Voters who spoil a ballot are allowed to obtain a replacement ballot.
+Note: Unable to determine voter's intent with respect to the office being counted.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+Round 2
+

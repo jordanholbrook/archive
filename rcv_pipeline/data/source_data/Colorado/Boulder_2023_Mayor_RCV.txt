@@ -1,0 +1,21 @@
+City of Boulder, Colorado
+
+Mayoral Candidates - Ranked Choice Voting Results Report
+
+Office: Mayor
+11/16/2023 14:26:33
+Round 1 Round 2
+Candidate
+Votes Percentage Transfer
+(Elimination) Votes Percentage Transfer
+Aaron Brockett 11,504 34.97% 5,319 16,823 51.90% 0
+Nicole Speer 6,369 19.36% -6,369 0 0.00% 0
+Bob Yates 14,271 43.39% 1,321 15,592 48.10% 0
+Paul Tweedlie 749 2.28% -749 0 0.00% 0
+Continuing Ballots Total 32,893 32,415
+Blanks 1,315 0 1,315 0
+Exhausted 0 475 475 0
+Overvotes 41 3 44 0
+Non Transferable Total 1,356 1,834
+Threshold 16,447 16,208
+* Tie resolved in accordance with election law.

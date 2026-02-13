@@ -1,0 +1,26 @@
+State of Maine Election Results
+
+State Representative - District 90 - Democratic 
+
+Report Name	Summary Report						
+							
+Election Name	Maine Democratic Primary 8/3/20						
+Election Date	July 14, 2020						
+Office Title	State Rep. 90						
+							
+	Round 1			Round 2			
+Candidate Names	Votes	Percentage	Transfer	Votes	Percentage	Transfer	
+Crafts, Lydia V.	1010	49.90%	133	1143	57.70%	0	
+Levesque, David J.	273	13.49%	-273	0	00.00%	0	
+Pieh, Wendy	741	36.61%	97	838	42.30%	0	
+Ballot Exhausted							
+   By Overvotes	5		3	8		0	
+   By Undervotes	54		40	94		0	
+   By Exhausted Choices	0		0	0		0	
+Continuing Ballots	2024		0	1981		0	
+TOTAL	2083		0	2083		0	
+Winning threshold by round	1013			991			
+Generated: 08/03/2020 16:44							
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots							
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1							
+"*" symbol signifies elimination due to Tie Resolution.							

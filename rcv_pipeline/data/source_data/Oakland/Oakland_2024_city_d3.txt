@@ -1,0 +1,124 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 3 - Oakland (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+BABA AFOLABI	1633	7.85 %
+CARROLL FIFE	9957	47.89 %
+MICHELLE D. HAILEY	1480	7.12 %
+WARREN MITCHELL LOGAN	6262	30.12 %
+SHAN M. HIRSCH	627	3.02 %
+MERON SEMEDAR	834	4.01 %
+CONTINUING BALLOTS TOTAL	20793	
+BLANKS	3424	
+EXHAUSTED	0	
+OVERVOTES	380	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	3804	
+
+SHAN M. HIRSCH is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate SHAN M. HIRSCH. 627 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+SHAN M. HIRSCH	BABA AFOLABI	66	1	66
+SHAN M. HIRSCH	CARROLL FIFE	59	1	59
+SHAN M. HIRSCH	MICHELLE D. HAILEY	134	1	134
+SHAN M. HIRSCH	WARREN MITCHELL LOGAN	102	1	102
+SHAN M. HIRSCH	MERON SEMEDAR	75	1	75
+SHAN M. HIRSCH	EXHAUSTED	172	1	172
+SHAN M. HIRSCH	OVERVOTES	19	1	19
+
+-------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+BABA AFOLABI	1699	8.25 %
+CARROLL FIFE	10016	48.62 %
+MICHELLE D. HAILEY	1614	7.83 %
+WARREN MITCHELL LOGAN	6364	30.89 %
+SHAN M. HIRSCH	0	0.00 %
+MERON SEMEDAR	909	4.41 %
+CONTINUING BALLOTS TOTAL	20602	
+BLANKS	3424	
+EXHAUSTED	172	
+OVERVOTES	399	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	3995	
+
+MERON SEMEDAR is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MERON SEMEDAR. 909 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+MERON SEMEDAR	BABA AFOLABI	128	1	128
+MERON SEMEDAR	CARROLL FIFE	156	1	156
+MERON SEMEDAR	MICHELLE D. HAILEY	163	1	163
+MERON SEMEDAR	WARREN MITCHELL LOGAN	306	1	306
+MERON SEMEDAR	EXHAUSTED	135	1	135
+MERON SEMEDAR	OVERVOTES	21	1	21
+
+---------------------------------------------------
+
+Round 3
+
+Candidate	Votes	Percentage
+BABA AFOLABI	1827	8.94 %
+CARROLL FIFE	10172	49.75 %
+MICHELLE D. HAILEY	1777	8.69 %
+WARREN MITCHELL LOGAN	6670	32.62 %
+SHAN M. HIRSCH	0	0.00 %
+MERON SEMEDAR	0	0.00 %
+CONTINUING BALLOTS TOTAL	20446	
+BLANKS	3424	
+EXHAUSTED	307	
+OVERVOTES	420	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	4151	
+
+MICHELLE D. HAILEY is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MICHELLE D. HAILEY. 1777 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+MICHELLE D. HAILEY	BABA AFOLABI	291	1	291
+MICHELLE D. HAILEY	CARROLL FIFE	471	1	471
+MICHELLE D. HAILEY	WARREN MITCHELL LOGAN	608	1	608
+MICHELLE D. HAILEY	EXHAUSTED	355	1	355
+MICHELLE D. HAILEY	OVERVOTES	52	1	52
+
+-------------------------------------------------------
+
+Round 4
+
+Candidate	Votes	Percentage
+BABA AFOLABI	2118	10.57 %
+CARROLL FIFE	10643	53.11 %
+MICHELLE D. HAILEY	0	0.00 %
+WARREN MITCHELL LOGAN	7278	36.32 %
+SHAN M. HIRSCH	0	0.00 %
+MERON SEMEDAR	0	0.00 %
+CONTINUING BALLOTS TOTAL	20039	
+BLANKS	3424	
+EXHAUSTED	662	
+OVERVOTES	472	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	4558	
+
+BABA AFOLABI is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate BABA AFOLABI. 2118 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+BABA AFOLABI	CARROLL FIFE	794	1	794
+BABA AFOLABI	WARREN MITCHELL LOGAN	791	1	791
+BABA AFOLABI	EXHAUSTED	471	1	471
+BABA AFOLABI	OVERVOTES	62	1	62
+
+------------------------------------------------------
+
+Round 5
+
+Candidate	Votes	Percentage
+BABA AFOLABI	0	0.00 %
+CARROLL FIFE	11437	58.63 %
+MICHELLE D. HAILEY	0	0.00 %
+WARREN MITCHELL LOGAN	8069	41.37 %
+SHAN M. HIRSCH	0	0.00 %
+MERON SEMEDAR	0	0.00 %
+CONTINUING BALLOTS TOTAL	19506	
+BLANKS	3424	
+EXHAUSTED	1133	
+OVERVOTES	534	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	5091

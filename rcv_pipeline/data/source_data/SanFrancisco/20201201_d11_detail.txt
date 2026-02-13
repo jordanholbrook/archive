@@ -1,0 +1,198 @@
+=== 20201201_d11_detail.pdf | City: San_Francisco ===
+
+RCV Detail Report
+City and County of San Francisco
+November 3, 2020, Consolidated General Election
+BOARD OF SUPERVISORS DISTRICT 11
+Official results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+12/1/2020 8:58:25 AM
+Tabulation Options
+RCV method
+IRV
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Votes to include in threshold calculation 
+Continuing ballots per round
+Fixed precision decimals
+0
+Use previous tie break decision
+False
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Pause after round
+False
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Assign skipped rankings to the set of 
+exhausted ballots
+False
+Use first round suspension
+False
+Include disabled candidate rankings in 
+overvote
+False
+Ties are resolved in accordance with election law.
+12/01/2020 09:15:26
+Page: 1 / 3
+
+San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+JOHN AVALOS
+13,412
+42.78%
+AHSHA SAFAI
+15,135
+48.28%
+MARCELO COLUSSI
+2,788
+8.89%
+JASON CHUYUAN ZENG
+15
+0.05%
+Continuing Ballots Total
+31,350
+Blanks
+2,795
+Exhausted
+0
+Overvotes
+117
+Remainder Points
+0
+Non Transferable Total
+2,912
+JASON CHUYUAN ZENG is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate JASON CHUYUAN ZENG.
+15 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+JASON CHUYUAN ZENG
+JOHN AVALOS
+1
+1
+1
+JASON CHUYUAN ZENG
+AHSHA SAFAI
+7
+1
+7
+JASON CHUYUAN ZENG
+MARCELO COLUSSI
+6
+1
+6
+JASON CHUYUAN ZENG
+Exhausted
+1
+1
+1
+Round 2
+Candidate
+Votes
+Percentage
+JOHN AVALOS
+13,413
+42.79%
+AHSHA SAFAI
+15,142
+48.30%
+MARCELO COLUSSI
+2,794
+8.91%
+JASON CHUYUAN ZENG
+0
+0.00%
+Continuing Ballots Total
+31,349
+Blanks
+2,795
+Exhausted
+1
+Overvotes
+117
+Remainder Points
+0
+Non Transferable Total
+2,913
+MARCELO COLUSSI is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MARCELO COLUSSI.
+2794 ballots have been transferred in the following manner:
+Transferred from
+Transferred to
+Ballots
+Fraction
+Votes
+MARCELO COLUSSI
+JOHN AVALOS
+1057
+1
+1,057
+MARCELO COLUSSI
+AHSHA SAFAI
+1225
+1
+1,225
+MARCELO COLUSSI
+Exhausted
+502
+1
+502
+MARCELO COLUSSI
+Overvotes
+10
+1
+10
+12/01/2020 09:15:26
+Page: 2 / 3
+
+Round 3
+Candidate
+Votes
+Percentage
+JOHN AVALOS
+14,470
+46.92%
+AHSHA SAFAI
+16,367
+53.08%
+MARCELO COLUSSI
+0
+0.00%
+JASON CHUYUAN ZENG
+0
+0.00%
+Continuing Ballots Total
+30,837
+Blanks
+2,795
+Exhausted
+503
+Overvotes
+127
+Remainder Points
+0
+Non Transferable Total
+3,425
+JOHN AVALOS is eliminated because the candidate was not elected in the last round.
+AHSHA SAFAI is elected because all other candidates have been eliminated.
+12/01/2020 09:15:26
+Page: 3 / 3
+

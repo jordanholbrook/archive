@@ -1,0 +1,25 @@
+Department of the Secretary of State 
+State of Maine
+
+Report Name	Summary Report						
+							
+Election Name	Maine Democratic Primary 8/3/20						
+Election Date	July 14, 2020						
+Office Title	State Rep. 47						
+							
+	Round 1			Round 2			
+Candidate Names	Votes	Percentage	Transfer	Votes	Percentage	Transfer	
+Abbott, Heather	892	35.78%	247	1139	47.20%	0	
+Bell, Arthur L.	978	39.23%	296	1274	52.80%	0	
+Fromuth, Peter J.	623	24.99%	-623	0	00.00%	0	
+Ballot Exhausted							
+   By Overvotes	5		2	7		0	
+   By Undervotes	126		78	204		0	
+   By Exhausted Choices	0		0	0		0	
+Continuing Ballots	2493		0	2413		0	
+TOTAL	2624		0	2624		0	
+Winning threshold by round	1247			1207			
+Generated: 08/03/2020 16:39							
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots							
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1							
+"*" symbol signifies elimination due to Tie Resolution.							

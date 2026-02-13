@@ -1,0 +1,52 @@
+==================================================
+2017 Minneapolis Municipal Election Results
+Ward 6 - City Council
+==================================================
+
+Total votes cast for the office: 7234
+Number to be elected: 1
+Majority Threshold: 3618 votes
+Undervotes: 163
+Spoiled/Defective Ballots: Not reported
+
+--------------------------------------------------
+CANDIDATES:
+- Abdi Warsame
+- Mohamud Noor
+- Fadumo Yusuf
+- Tiffini Forslund
+- Undeclared Write-ins
+
+==================================================
+ROUND 1 TOTALS
+(Initial count based on first-choice rankings)
+--------------------------------------------------
+Warsame       : 3629
+Noor          : 3390
+Yusuf         : 183
+Forslund      : 6
+Write-ins     : 26
+Exhausted     : 0
+
+ROUND 1 TOTAL: 7234 votes
+
+==================================================
+FINAL ROUND SUMMARY
+(No vote transfers occurred — winner declared based on Round 1)
+--------------------------------------------------
+Elected       : Abdi Warsame (3629 votes, 50.17%)
+Defeated      : Mohamud Noor (3390 votes, 46.86%)
+Others        : Eliminated after Round 1
+- Yusuf       : 183 votes (2.53%)
+- Forslund    : 6 votes (0.08%)
+- Write-ins   : 26 votes (0.36%)
+Exhausted     : 0 votes (0.00%)
+
+Note:
+- Only one round of vote counting occurred.
+- The official report includes a "Round 2" label but no vote transfers happened.
+- Final results reflect first-choice preferences only.
+
+==================================================
+END OF REPORT
+==================================================

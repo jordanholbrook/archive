@@ -1,0 +1,24 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 10 election results
+Official Winner: Meg Tuthill
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 10
+Candidate	First ranked votes	Percent
+Meg Tuthill	2,405	72.24%
+Kim Vlaisavljevich	339	10.18%
+Matthew Dowgwillo	292	8.77%
+Dan Alvin	287	8.62%
+Write-ins	6	0.18%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Meg Tuthill was elected.
+
+Ballots cast summary
+Total ballots cast	3,329	Total votes counted in the first round.
+Maximum possible threshold	1,665	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	102	Voter did not rank any candidates for the office.
+Spoiled ballots	147	Ballot spoiled by voter at poll.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

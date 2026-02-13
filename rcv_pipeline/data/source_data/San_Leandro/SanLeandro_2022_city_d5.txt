@@ -1,0 +1,15 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 5 - San Leandro (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+XOUHOA BOWEN	9373	50.09 %
+MONIQUE TATE	9341	49.91 %
+CONTINUING BALLOTS TOTAL	18714	
+BLANKS	4025	
+EXHAUSTED	0	
+OVERVOTES	70	
+REMAINDER POINTS	0	
+SUSPENDED	422	
+NON TRANSFERRABLE TOTAL	4517	

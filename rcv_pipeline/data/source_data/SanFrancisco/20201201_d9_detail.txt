@@ -1,0 +1,77 @@
+=== 20201201_d9_detail.pdf | City: San_Francisco ===
+
+RCV Detail Report
+City and County of San Francisco
+November 3, 2020, Consolidated General Election
+BOARD OF SUPERVISORS DISTRICT 9
+Official results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+12/1/2020 8:58:02 AM
+Tabulation Options
+RCV method
+IRV
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Votes to include in threshold calculation 
+Continuing ballots per round
+Fixed precision decimals
+0
+Use previous tie break decision
+False
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Pause after round
+False
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Assign skipped rankings to the set of 
+exhausted ballots
+False
+Use first round suspension
+False
+Include disabled candidate rankings in 
+overvote
+False
+Ties are resolved in accordance with election law.
+12/01/2020 09:14:18
+Page: 1 / 2
+
+San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+HILLARY RONEN
+29,212
+99.78%
+BUD RYERSON
+63
+0.22%
+Continuing Ballots Total
+29,275
+Blanks
+7,692
+Exhausted
+0
+Overvotes
+2
+Remainder Points
+0
+Non Transferable Total
+7,694
+HILLARY RONEN is elected because all other candidates have been eliminated.
+BUD RYERSON is eliminated because the candidate was not elected in the last round.
+12/01/2020 09:14:18
+Page: 2 / 2
+

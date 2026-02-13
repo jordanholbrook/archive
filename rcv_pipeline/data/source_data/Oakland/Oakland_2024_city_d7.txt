@@ -1,0 +1,65 @@
+Ranked Choice Voting Results: General Election - November 05, 2024
+Member, City Council, District 7 - Oakland (RCV)
+
+
+Round 1
+
+Candidate	Votes	Percentage
+MERIKA GOOLSBY	2149	15.99 %
+KEN HOUSTON	4531	33.72 %
+IRIS MERRIOUNS	4192	31.19 %
+MARCIE HODGE	2567	19.10 %
+CONTINUING BALLOTS TOTAL	13439	
+BLANKS	2037	
+EXHAUSTED	0	
+OVERVOTES	400	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	2437	
+
+MERIKA GOOLSBY is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MERIKA GOOLSBY. 2149 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+MERIKA GOOLSBY	KEN HOUSTON	651	1	651
+MERIKA GOOLSBY	IRIS MERRIOUNS	517	1	517
+MERIKA GOOLSBY	MARCIE HODGE	461	1	461
+MERIKA GOOLSBY	EXHAUSTED	478	1	478
+MERIKA GOOLSBY	OVERVOTES	42	1	42
+
+--------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+MERIKA GOOLSBY	0	0.00 %
+KEN HOUSTON	5182	40.11 %
+IRIS MERRIOUNS	4709	36.45 %
+MARCIE HODGE	3028	23.44 %
+CONTINUING BALLOTS TOTAL	12919	
+BLANKS	2037	
+EXHAUSTED	478	
+OVERVOTES	442	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	2957	
+
+MARCIE HODGE is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate MARCIE HODGE. 3028 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+MARCIE HODGE	KEN HOUSTON	1121	1	1121
+MARCIE HODGE	IRIS MERRIOUNS	1094	1	1094
+MARCIE HODGE	EXHAUSTED	757	1	757
+MARCIE HODGE	OVERVOTES	56	1	56
+
+--------------------------------------------------
+
+Round 3
+
+
+Candidate	Votes	Percentage
+MERIKA GOOLSBY	0	0.00 %
+KEN HOUSTON	6303	52.07 %
+IRIS MERRIOUNS	5803	47.93 %
+MARCIE HODGE	0	0.00 %
+CONTINUING BALLOTS TOTAL	12106	
+BLANKS	2037	
+EXHAUSTED	1235	
+OVERVOTES	498	
+REMAINDER POINTS	0	
+NON TRANSFERRABLE TOTAL	3770

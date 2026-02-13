@@ -1,0 +1,98 @@
+House District 17
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+17-505 Downtown
+Anchorage No. 1 372 1,816
+17-510 Downtown
+Anchorage No. 2 538 1,799
+17-515 Downtown
+Anchorage No. 3 363 1,025
+17-520 Downtown
+Anchorage No. 4 615 3,060
+17-525 Downtown
+Anchorage No. 5 423 2,888
+17-530 Downtown
+Anchorage No. 6 297 1,932
+17-535 Downtown
+Anchorage No. 7 396 2,784
+District 17 - Absentee 1,677 0
+District 17 - Early Voting 1,551 0
+District 17 - Question 233 0
+State of Alaska - Total 6,465 15,304
+State - Total 6,465 15,304
+
+Precinct
+Fields, William Z.
+"Zack"
+(DEM)
+State
+State of Alaska
+17-505 Downtown
+Anchorage No. 1
+192 17-510 Downtown
+Anchorage No. 2
+286 17-515 Downtown
+Anchorage No. 3
+206 17-520 Downtown
+Anchorage No. 4
+261 17-525 Downtown
+Anchorage No. 5
+205 17-530 Downtown
+Anchorage No. 6
+141 17-535 Downtown
+Anchorage No. 7
+192 District 17 - Absentee 788 District 17 - Early Voting 710 District 17 - Question 34 State of Alaska - Total 3,015 State - Total 3,015 60.19% 59.21% 65.61% 50.58% 59.59% 55.95% 59.44% 55.57% 51.60% 52.31% 55.73% 55.73% Drummond,
+Harriet A.
+117 182 99 242 130 105 122 603 630 28 2,258 2,258 11/30/2022 2:07:46 PM
+(DEM)
+36.68%
+37.68%
+31.53%
+46.90%
+37.79%
+41.67%
+37.77%
+42.52%
+45.78%
+43.08%
+41.74%
+41.74%
+
+
+Precinct
+Write-in
+State
+State of Alaska
+17-505 Downtown
+Anchorage No. 1
+10 3.13% 17-510 Downtown
+Anchorage No. 2
+15 3.11% 17-515 Downtown
+Anchorage No. 3
+9 2.87% 17-520 Downtown
+Anchorage No. 4
+13 2.52% 17-525 Downtown
+Anchorage No. 5
+9 2.62% 17-530 Downtown
+Anchorage No. 6
+6 2.38% 17-535 Downtown
+Anchorage No. 7
+9 2.79% District 17 - Absentee 27 1.90% District 17 - Early Voting 36 2.62% District 17 - Question 3 4.62% State of Alaska - Total 137 2.53% State - Total 137 2.53% 11/30/2022 2:07:46 PM
+Total Votes
+319
+483
+314
+516
+344
+252
+323
+1,418
+1,376
+65
+5,410
+5,410
+

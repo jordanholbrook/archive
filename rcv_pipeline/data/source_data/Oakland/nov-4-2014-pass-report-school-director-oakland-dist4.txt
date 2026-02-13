@@ -1,0 +1,358 @@
+=== nov-4-2014-pass-report-school-director-oakland-dist4.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+SALEEM SHAKIR-GILMORE
+3311
+20.54%
+CHERI SPIGNER
+1310
+8.13%
+Write-In
+0
+0.00%
+NINA SENN
+6183
+38.36%
+KARL DEBRO
+5316
+32.98%
+Continuing Ballots
+16120
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3866
+Exhausted Ballots
+0
+Exhausted by Over Votes
+32
+Total Ballots
+20018
+Run Id: 212 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 4 - Oakland 
+(RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+SALEEM SHAKIR-GILMORE
+3311
+20.54%
+CHERI SPIGNER
+1310
+8.13%
+Write-In
+0
+0.00%
+NINA SENN
+6183
+38.36%
+KARL DEBRO
+5316
+32.98%
+Continuing Ballots
+16120
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3866
+Exhausted Ballots
+0
+Exhausted by Over Votes
+32
+Total Ballots
+20018
+Run Id: 212 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 4 - Oakland 
+(RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+SALEEM SHAKIR-GILMORE
+3311
+20.54%
+CHERI SPIGNER
+1310
+8.13%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NINA SENN
+6183
+38.36%
+KARL DEBRO
+5316
+32.98%
+Continuing Ballots
+16120
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3866
+Exhausted Ballots
+0
+Exhausted by Over Votes
+32
+Total Ballots
+20018
+
+Complete
+Load Type:
+Pass Number: 2
+CHERI SPIGNER
+1310
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+CHERI SPIGNER
+KARL DEBRO
+0
+333
+CHERI SPIGNER
+NINA SENN
+0
+354
+CHERI SPIGNER
+SALEEM SHAKIR-GILMORE
+0
+246
+CHERI SPIGNER
+Exhausted Ballots
+375
+0
+CHERI SPIGNER
+Over Votes
+2
+0
+Total
+377
+933
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+SALEEM SHAKIR-GILMORE
+3311
+20.54%
+CHERI SPIGNER
+1310
+8.13%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NINA SENN
+6183
+38.36%
+KARL DEBRO
+5316
+32.98%
+Continuing Ballots
+16120
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3866
+Exhausted Ballots
+0
+Exhausted by Over Votes
+32
+Total Ballots
+20018
+Run Id: 212 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 4 - Oakland 
+(RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+SALEEM SHAKIR-GILMORE
+3557
+22.59%
+CHERI SPIGNER
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NINA SENN
+6537
+41.52%
+KARL DEBRO
+5649
+35.88%
+Continuing Ballots
+15743
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3866
+Exhausted Ballots
+375
+Exhausted by Over Votes
+34
+Total Ballots
+20018
+
+Complete
+Load Type:
+Pass Number: 3
+SALEEM SHAKIR-GILMORE
+3557
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+SALEEM SHAKIR-GILMORE
+KARL DEBRO
+0
+1435
+SALEEM SHAKIR-GILMORE
+NINA SENN
+0
+1265
+SALEEM SHAKIR-GILMORE
+Over Votes
+7
+0
+SALEEM SHAKIR-GILMORE
+Exhausted Ballots
+850
+0
+Total
+857
+2700
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+SALEEM SHAKIR-GILMORE
+3557
+22.59%
+CHERI SPIGNER
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NINA SENN
+6537
+41.52%
+KARL DEBRO
+5649
+35.88%
+Continuing Ballots
+15743
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3866
+Exhausted Ballots
+375
+Exhausted by Over Votes
+34
+Total Ballots
+20018
+Run Id: 212 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 4 - Oakland 
+(RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+SALEEM SHAKIR-GILMORE
+Eliminated in pass 3.
+0
+0.00%
+CHERI SPIGNER
+Eliminated in pass 2.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+NINA SENN
+** WINNER **
+7802
+52.41%
+KARL DEBRO
+7084
+47.59%
+Continuing Ballots
+14886
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3866
+Exhausted Ballots
+1225
+Exhausted by Over Votes
+41
+Total Ballots
+20018
+

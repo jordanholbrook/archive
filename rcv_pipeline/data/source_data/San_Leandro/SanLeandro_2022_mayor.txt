@@ -1,0 +1,74 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Mayor - San Leandro (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+BRYAN AZEVEDO	7875	37.24 %
+CHRISTOPHER BAMMER	533	2.52 %
+LEE THOMAS	4933	23.33 %
+JUAN GONZALEZ, III	7805	36.91 %
+CONTINUING BALLOTS TOTAL	21146	
+BLANKS	1648	
+EXHAUSTED	0	
+OVERVOTES	201	
+REMAINDER POINTS	0	
+SUSPENDED	236	
+NON TRANSFERRABLE TOTAL	2085	
+
+CHRISTOPHER BAMMER is eliminated because the candidate had the least amount of votes.
+
+CHRISTOPHER BAMMER is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate CHRISTOPHER BAMMER. 551 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+CHRISTOPHER BAMMER	BRYAN AZEVEDO	149	1	149
+CHRISTOPHER BAMMER	LEE THOMAS	154	1	154
+CHRISTOPHER BAMMER	JUAN GONZALEZ, III	88	1	88
+CHRISTOPHER BAMMER	EXHAUSTED	151	1	151
+CHRISTOPHER BAMMER	OVERVOTES	9	1	9
+Elimination transfer for candidate Suspended. 236 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+SUSPENDED	BRYAN AZEVEDO	104	1	104
+SUSPENDED	CHRISTOPHER BAMMER	18	1	18
+SUSPENDED	LEE THOMAS	41	1	41
+SUSPENDED	JUAN GONZALEZ, III	42	1	42
+SUSPENDED	OVERVOTES	31	1	31
+
+----------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+BRYAN AZEVEDO	8128	38.36 %
+CHRISTOPHER BAMMER	0	0.00 %
+LEE THOMAS	5128	24.20 %
+JUAN GONZALEZ, III	7935	37.45 %
+CONTINUING BALLOTS TOTAL	21191	
+BLANKS	1648	
+EXHAUSTED	151	
+OVERVOTES	241	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	2040	
+
+LEE THOMAS is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate LEE THOMAS. 5128 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+LEE THOMAS	BRYAN AZEVEDO	1764	1	1764
+LEE THOMAS	JUAN GONZALEZ, III	2253	1	2253
+LEE THOMAS	EXHAUSTED	1062	1	1062
+LEE THOMAS	OVERVOTES	49	1	49
+
+-----------------------------------------------------
+
+Round 3
+
+Candidate	Votes	Percentage
+BRYAN AZEVEDO	9892	49.26 %
+CHRISTOPHER BAMMER	0	0.00 %
+LEE THOMAS	0	0.00 %
+JUAN GONZALEZ, III	10188	50.74 %
+CONTINUING BALLOTS TOTAL	20080	
+BLANKS	1648	
+EXHAUSTED	1213	
+OVERVOTES	290	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	3151	

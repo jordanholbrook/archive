@@ -1,0 +1,46 @@
+=== nov-4-2014-pass-report-city-council-berkeley-dist1.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+MERRILIE MITCHELL
+256
+4.60%
+Write-In
+0
+0.00%
+LINDA MAIO
+** WINNER **
+3038
+54.60%
+ALEJANDRO SOTO-VIGIL
+2270
+40.80%
+Continuing Ballots
+5564
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+530
+Exhausted Ballots
+0
+Exhausted by Over Votes
+15
+Total Ballots
+6109
+Run Id: 201 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 1 - 
+Berkeley (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

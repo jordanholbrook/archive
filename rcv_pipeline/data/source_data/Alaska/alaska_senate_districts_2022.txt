@@ -1,0 +1,156 @@
+Senate District S
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+37-700 Akutan 48 554
+37-702 Aleknagik 51 160
+37-704 Aleutians No. 1 20 170
+37-706 Aleutians No. 2 433 1,858
+37-707 Aniak 96 336
+37-708 Chignik 10 228
+37-709 Chuathbaluk 21 53
+37-710 Clark's Point 12 44
+37-712 Cold Bay 14 78
+37-713 Crooked Creek 12 71
+37-714 Dillingham 577 1,765
+37-716 Egegik 5 101
+37-718 Ekwok 34 72
+37-719 Goodnews Bay 49 205
+37-720 King Cove 112 362
+37-722 King Salmon 101 367
+37-724 Koliganek 57 110
+37-726 Lake Iliamna No. 1 100 219
+37-728 Lake Iliamna No. 2 60 164
+37-730 Levelock 15 44
+37-731 Lower Kalskag 51 179
+37-732 Manokotak 80 341
+37-734 Naknek 132 424
+37-736 New Stuyahok 148 307
+37-738 Nondalton 40 291
+37-740 Pedro Bay 8 32
+37-742 Port Heiden 23 68
+37-744 Sand Point 97 445
+Precinct
+State
+State of Alaska
+37-700 Akutan 37-702 Aleknagik 37-704 Aleutians No. 1 37-706 Aleutians No. 2 37-707 Aniak 37-708 Chignik 37-709 Chuathbaluk 37-710 Clark's Point 37-712 Cold Bay 37-713 Crooked Creek 37-714 Dillingham 37-716 Egegik 37-718 Ekwok 37-719 Goodnews Bay 37-720 King Cove 37-722 King Salmon 37-724 Koliganek 37-726 Lake Iliamna No. 1 37-728 Lake Iliamna No. 2 37-730 Levelock 37-731 Lower Kalskag 37-732 Manokotak 37-734 Naknek 37-736 New Stuyahok 37-738 Nondalton 37-740 Pedro Bay 37-742 Port Heiden 37-744 Sand Point Hoffman, Lyman F.
+(DEM)
+26 70.27% 37 78.72% 10 55.56% 218 55.75% 61 64.89% 4 40.00% 11 55.00% 11 100.00% 5 50.00% 11 91.67% 342 63.93% 3 60.00% 16 55.17% 34 69.39% 57 55.34% 52 53.61% 47 87.04% 53 56.99% 31 55.36% 13 92.86% 40 80.00% 62 81.58% 75 60.98% 120 87.59% 26 66.67% 4 57.14% 10 52.63% 53 58.89% 11/30/2022 2:12:13 PM
+Keppel, Willy
+(VET)
+11 29.73%
+10 21.28%
+8 44.44%
+173 44.25%
+33 35.11%
+6 60.00%
+9 45.00%
+0 0.00%
+5 50.00%
+1 8.33%
+191 35.70%
+2 40.00%
+13 44.83%
+15 30.61%
+46 44.66%
+45 46.39%
+7 12.96%
+38 40.86%
+25 44.64%
+1 7.14%
+10 20.00%
+14 18.42%
+48 39.02%
+17 12.41%
+13 33.33%
+3 42.86%
+9 47.37%
+37 41.11%
+
+Precinct
+State
+State of Alaska
+37-700 Akutan 37-702 Aleknagik 37-704 Aleutians No. 1 37-706 Aleutians No. 2 37-707 Aniak 37-708 Chignik 37-709 Chuathbaluk 37-710 Clark's Point 37-712 Cold Bay 37-713 Crooked Creek 37-714 Dillingham 37-716 Egegik 37-718 Ekwok 37-719 Goodnews Bay 37-720 King Cove 37-722 King Salmon 37-724 Koliganek 37-726 Lake Iliamna No. 1 37-728 Lake Iliamna No. 2 37-730 Levelock 37-731 Lower Kalskag 37-732 Manokotak 37-734 Naknek 37-736 New Stuyahok 37-738 Nondalton 37-740 Pedro Bay 37-742 Port Heiden 37-744 Sand Point Write-in
+11/30/2022 2:12:13 PM
+Total Votes
+0 0.00% 37
+0 0.00% 47
+0 0.00% 18
+0 0.00% 391
+0 0.00% 94
+0 0.00% 10
+0 0.00% 20
+0 0.00% 11
+0 0.00% 10
+0 0.00% 12
+2 0.37% 535
+0 0.00% 5
+0 0.00% 29
+0 0.00% 49
+0 0.00% 103
+0 0.00% 97
+0 0.00% 54
+2 2.15% 93
+0 0.00% 56
+0 0.00% 14
+0 0.00% 50
+0 0.00% 76
+0 0.00% 123
+0 0.00% 137
+0 0.00% 39
+0 0.00% 7
+0 0.00% 19
+0 0.00% 90
+Precinct
+Times Cast
+Registered
+Voters
+37-746 Sleetmute 26 113
+37-748 South Naknek 19 52
+37-750 St. George Island 9 41
+37-752 St. Paul Island 97 271
+37-754 Togiak 128 614
+37-756 Tyonek 25 390
+37-758 Upper Kalskag 49 137
+District 37 - Absentee 759 0
+District 37 - Early Voting 73 0
+District 37 - Question 89 0
+State of Alaska - Total 3,680 10,666
+State - Total 3,680 10,666
+Precinct
+Hoffman, Lyman F.
+(DEM)
+37-746 Sleetmute 15 62.50% 37-748 South Naknek 16 84.21% 37-750 St. George Island 8 88.89% 37-752 St. Paul Island 69 78.41% 37-754 Togiak 99 78.57% 37-756 Tyonek 14 66.67% 37-758 Upper Kalskag 31 65.96% District 37 - Absentee 434 64.68% District 37 - Early Voting 45 65.22% District 37 - Question 20 64.52% State of Alaska - Total 2,183 65.54% State - Total 2,183 65.54% 11/30/2022 2:12:13 PM
+Keppel, Willy
+(VET)
+7 29.17%
+3 15.79%
+0 0.00%
+19 21.59%
+27 21.43%
+7 33.33%
+16 34.04%
+235 35.02%
+24 34.78%
+11 35.48%
+1,139 34.19%
+1,139 34.19%
+Precinct
+Write-in
+37-746 Sleetmute 37-748 South Naknek 37-750 St. George Island 37-752 St. Paul Island 37-754 Togiak 37-756 Tyonek 37-758 Upper Kalskag District 37 - Absentee District 37 - Early Voting District 37 - Question State of Alaska - Total State - Total 11/30/2022 2:12:13 PM
+Total Votes
+2 8.33% 24
+0 0.00% 19
+1 11.11% 9
+0 0.00% 88
+0 0.00% 126
+0 0.00% 21
+0 0.00% 47
+2 0.30% 671
+0 0.00% 69
+0 0.00% 31
+9 0.27% 3,331
+9 0.27% 3,331

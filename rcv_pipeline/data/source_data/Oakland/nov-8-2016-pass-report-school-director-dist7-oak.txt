@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-school-director-dist7-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+CHRIS JACKSON
+4965
+33.26%
+Write-In
+0
+0.00%
+JAMES HARRIS
+** WINNER **
+9965
+66.74%
+Continuing Ballots
+14930
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2468
+Exhausted Ballots
+0
+Exhausted by Over Votes
+71
+Total Ballots
+17469
+Run Id: 117 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 7 - Oakland 
+(RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

@@ -1,0 +1,24 @@
+City of Minneapolis
+
+2017 City Council Ward 2 election results
+Official Winner: Cam Gordon
+November 7, 2017
+
+Municipal Election
+
+ 
+
+Voters were asked to rank up to 3 different candidates. Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Cam Gordon was elected.
+
+Council Member Ward 2
+Candidate	First choice votes	Percentage
+Cam Gordon	5,912	97.27%
+Undeclared Write-ins	166	2.73%
+ 
+
+Ballots cast summary
+Total ballots cast	7,034	
+Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+
+Maximum possible threshold	3,518	
+The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

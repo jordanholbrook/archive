@@ -1,0 +1,81 @@
+RCV Detailed Report
+General Election
+State of Alaska
+November 08, 2022
+House District 28
+Official results
+Number of positions to elect is 1.
+Tabulation status: All Positions Filled
+Tabulation time: 11/30/2022 1:45:28 PM
+Tabulation Options
+RCV method IRV
+Exclude unresolved write-ins True
+Declare winners by threshold False
+Uses precincts True
+Previous rounds evaluation method None
+Elimination type Single
+Fixed precision decimals 0
+Perform elimination transfer in last round True
+Skip overvoted rankings False
+Votes to include in threshold calculation Continuing ballots per round
+Use first round suspension False
+Handling skip rankings Exhausted on Two or More Ranks Skipped
+State of Alaska
+Round 1
+11/30/2022 14:14:07
+Candidate Votes Percentage
+Allen, Rachel M. 1,287 21.66%
+Sumner, Jesse M. 2,217 37.31%
+Wright, Jessica 863 14.52%
+Menard, Steve 1,575 26.51%
+Continuing Ballots Total 5,942
+Blanks 1,143
+Exhausted 0
+Overvotes 13
+Remainder Points 0
+Non Transferable Total 1,156
+Wright, Jessica is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Wright, Jessica.
+863 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Votes
+Wright, Jessica Allen, Rachel M. 204 204
+Wright, Jessica Sumner, Jesse M. 201 201
+Wright, Jessica Menard, Steve 146 146
+Wright, Jessica Exhausted 311 311
+Wright, Jessica Overvotes 1 1
+Round 2
+Candidate Votes Percentage
+Allen, Rachel M. 1,491 26.48%
+Sumner, Jesse M. 2,418 42.95%
+Wright, Jessica 0 0.00%
+Menard, Steve 1,721 30.57%
+Continuing Ballots Total 5,630
+Blanks 1,143
+Exhausted 311
+Overvotes 14
+Remainder Points 0
+Non Transferable Total 1,468
+Allen, Rachel M. is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate Allen, Rachel M..
+1491 ballots have been transferred in the following manner:
+Transferred from Transferred to Ballots Votes
+Allen, Rachel M. Sumner, Jesse M. 702 702
+Allen, Rachel M. Menard, Steve 215 215
+Allen, Rachel M. Exhausted 573 573
+Allen, Rachel M. Overvotes 1 1
+Page: 3 / 3
+Round 3
+11/30/2022 14:14:07
+Candidate Votes Percentage
+Allen, Rachel M. 0 0.00%
+Sumner, Jesse M. 3,120 61.71%
+Wright, Jessica 0 0.00%
+Menard, Steve 1,936 38.29%
+Continuing Ballots Total 5,056
+Blanks 1,143
+Exhausted 884
+Overvotes 15
+Remainder Points 0
+Non Transferable Total 2,042
+Sumner, Jesse M. is elected because all other candidates have been eliminated.
+Menard, Steve is eliminated because the candidate was not elected in the last round.

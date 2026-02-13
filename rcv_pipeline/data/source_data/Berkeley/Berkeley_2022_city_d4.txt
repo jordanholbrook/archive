@@ -1,0 +1,14 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 4 - Berkeley (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+KATE HARRISON	3049	100.00 %
+CONTINUING BALLOTS TOTAL	3049	
+BLANKS	1105	
+EXHAUSTED	0	
+OVERVOTES	2	
+REMAINDER POINTS	0	
+SUSPENDED	171	
+NON TRANSFERRABLE TOTAL	1278	

@@ -1,0 +1,503 @@
+=== nov-4-2014-pass-report-city-council-oakland-dist6.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+MICHAEL V. JOHNSON
+1943
+17.41%
+Write-In
+0
+0.00%
+VICENTE CRUZ
+82
+0.73%
+JAMES MOORE
+1011
+9.06%
+DESLEY BROOKS
+4772
+42.75%
+SHEREDA F. NOSAKHARE
+3354
+30.05%
+Continuing Ballots
+11162
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1178
+Exhausted Ballots
+0
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+Run Id: 209 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+MICHAEL V. JOHNSON
+1943
+17.41%
+Write-In
+0
+0.00%
+VICENTE CRUZ
+82
+0.73%
+JAMES MOORE
+1011
+9.06%
+DESLEY BROOKS
+4772
+42.75%
+SHEREDA F. NOSAKHARE
+3354
+30.05%
+Continuing Ballots
+11162
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1178
+Exhausted Ballots
+0
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+Run Id: 209 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+MICHAEL V. JOHNSON
+1943
+17.41%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+82
+0.73%
+JAMES MOORE
+1011
+9.06%
+DESLEY BROOKS
+4772
+42.75%
+SHEREDA F. NOSAKHARE
+3354
+30.05%
+Continuing Ballots
+11162
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1178
+Exhausted Ballots
+0
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+
+Complete
+Load Type:
+Pass Number: 2
+VICENTE CRUZ
+82
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+VICENTE CRUZ
+JAMES MOORE
+0
+2
+VICENTE CRUZ
+MICHAEL V. JOHNSON
+0
+1
+VICENTE CRUZ
+SHEREDA F. NOSAKHARE
+0
+37
+VICENTE CRUZ
+Exhausted Ballots
+21
+0
+VICENTE CRUZ
+DESLEY BROOKS
+0
+21
+Total
+21
+61
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+MICHAEL V. JOHNSON
+1943
+17.41%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+82
+0.73%
+JAMES MOORE
+1011
+9.06%
+DESLEY BROOKS
+4772
+42.75%
+SHEREDA F. NOSAKHARE
+3354
+30.05%
+Continuing Ballots
+11162
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1178
+Exhausted Ballots
+0
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+Run Id: 209 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+MICHAEL V. JOHNSON
+1944
+17.45%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+Eliminated in pass 2.
+0
+0.00%
+JAMES MOORE
+1013
+9.09%
+DESLEY BROOKS
+4793
+43.02%
+SHEREDA F. NOSAKHARE
+3391
+30.44%
+Continuing Ballots
+11141
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1178
+Exhausted Ballots
+21
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+
+Complete
+Load Type:
+Pass Number: 3
+JAMES MOORE
+1013
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+JAMES MOORE
+DESLEY BROOKS
+0
+166
+JAMES MOORE
+MICHAEL V. JOHNSON
+0
+299
+JAMES MOORE
+SHEREDA F. NOSAKHARE
+0
+313
+JAMES MOORE
+Exhausted Ballots
+230
+0
+JAMES MOORE
+Over Votes
+5
+0
+Total
+235
+778
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+MICHAEL V. JOHNSON
+1944
+17.45%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+Eliminated in pass 2.
+0
+0.00%
+JAMES MOORE
+1013
+9.09%
+DESLEY BROOKS
+4793
+43.02%
+SHEREDA F. NOSAKHARE
+3391
+30.44%
+Continuing Ballots
+11141
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1178
+Exhausted Ballots
+21
+Exhausted by Over Votes
+43
+Total Ballots
+12383
+Run Id: 209 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+MICHAEL V. JOHNSON
+2243
+20.57%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+Eliminated in pass 2.
+0
+0.00%
+JAMES MOORE
+Eliminated in pass 3.
+0
+0.00%
+DESLEY BROOKS
+4959
+45.47%
+SHEREDA F. NOSAKHARE
+3704
+33.96%
+Continuing Ballots
+10906
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1178
+Exhausted Ballots
+251
+Exhausted by Over Votes
+48
+Total Ballots
+12383
+
+Complete
+Load Type:
+Pass Number: 4
+MICHAEL V. JOHNSON
+2243
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+MICHAEL V. JOHNSON
+DESLEY BROOKS
+0
+471
+MICHAEL V. JOHNSON
+SHEREDA F. NOSAKHARE
+0
+1242
+MICHAEL V. JOHNSON
+Over Votes
+7
+0
+MICHAEL V. JOHNSON
+Exhausted Ballots
+523
+0
+Total
+530
+1713
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+MICHAEL V. JOHNSON
+2243
+20.57%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+Eliminated in pass 2.
+0
+0.00%
+JAMES MOORE
+Eliminated in pass 3.
+0
+0.00%
+DESLEY BROOKS
+4959
+45.47%
+SHEREDA F. NOSAKHARE
+3704
+33.96%
+Continuing Ballots
+10906
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+1178
+Exhausted Ballots
+251
+Exhausted by Over Votes
+48
+Total Ballots
+12383
+Run Id: 209 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 6 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+
+MICHAEL V. JOHNSON
+Eliminated in pass 4.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+VICENTE CRUZ
+Eliminated in pass 2.
+0
+0.00%
+JAMES MOORE
+Eliminated in pass 3.
+0
+0.00%
+DESLEY BROOKS
+** WINNER **
+5430
+52.33%
+SHEREDA F. NOSAKHARE
+4946
+47.67%
+Continuing Ballots
+10376
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1178
+Exhausted Ballots
+774
+Exhausted by Over Votes
+55
+Total Ballots
+12383
+

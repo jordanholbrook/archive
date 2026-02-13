@@ -1,0 +1,25 @@
+State: Utah
+link: https://rcvis.com/v/21g_sp_m_u4
+
+
+{
+  "config" : {
+    "contest" : "Springville Mayor",
+    "date" : "2021-11-02",
+    "jurisdiction" : "",
+    "office" : "",
+    "threshold" : "3054"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "MATT PACKARD" : "4670",
+      "MATTHEW NORMAN BRADLEY" : "690",
+      "RYAN MILLER" : "747"
+    },
+    "tallyResults" : [ {
+      "elected" : "MATT PACKARD",
+      "transfers" : { }
+    } ]
+  } ]
+}

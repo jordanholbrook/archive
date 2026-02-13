@@ -1,0 +1,22 @@
+City of Minneapolis
+2021 City Council Ward 4 election results
+Official winner: LaTrisha Vetaw
+November 2, 2021
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates.
+
+Candidate LaTrisha Vetaw received enough first-choice votes to be elected and is the winner.
+
+Council Member Ward 4
+Candidate	First-choice votes
+LaTrisha Vetaw	4,391
+Phillipe M. Cunningham	2,196
+Leslie Davis	635
+Write-in	20
+ 
+
+Ballots cast summary
+Total ballots cast	7,500 	Total number of voters in the election. Includes undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	3,751 	The number of votes sufficient for a candidate to be elected based only on each ballot’s first-choice ranking. Half of total ballots cast for office + 1, disregarding fractions.

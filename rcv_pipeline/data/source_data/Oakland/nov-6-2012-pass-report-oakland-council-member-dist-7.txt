@@ -1,0 +1,46 @@
+=== nov-6-2012-pass-report-oakland-council-member-dist-7.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+BEVERLY WILLIAMS
+1507
+10.06%
+Write-In
+0
+0.00%
+SHERYL WALTON
+4742
+31.65%
+LARRY E. REID
+** WINNER **
+8733
+58.29%
+Continuing Ballots
+14982
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1993
+Exhausted Ballots
+0
+Exhausted by Over Votes
+39
+Total Ballots
+17014
+Run Id: 233 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 7 - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

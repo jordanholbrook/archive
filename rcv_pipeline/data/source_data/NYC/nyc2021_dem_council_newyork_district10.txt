@@ -1,0 +1,33 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 10th Council District
+Election Date:	2021/06/22
+Election results
+Carmen N. De La Rosa won the DEM Council Member 10th Council District Primary with 10,318 of the votes in the final round.
+Carmen N. De La Rosa defeated Johanna Garcia, who received 6,949 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3	Round 4
+Eliminated in this round	 	Write-ins	James E. Behr; Josue Perez; Thomas A. Leon; Tirso S. Pina; Francesca M. Castellanos**	Angela Fernandez
+Elected	 	 	 	Carmen N. De La Rosa*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Carmen N. De La Rosa	7,910	40.4%	6	7,916	40.5%	697	8,613	46.7%	1705	10,318	59.8%
+Johanna Garcia	5,417	27.7%	10	5,427	27.8%	411	5,838	31.6%	1111	6,949	40.2%
+Angela Fernandez	3,292	16.8%	6	3,298	16.9%	699	3,997	21.7%	-XXX	
+James E. Behr	725	3.7%	4	729	3.7%	-XXX		 
+Francesca M. Castellanos	660	3.4%	3	663	3.4%	-XXX		 
+Thomas A. Leon	599	3.1%	1	600	3.1%	-XXX		 
+Josue Perez	590	3.0%		590	3.0%	-XXX		 
+Tirso S. Pina	330	1.7%	1	331	1.7%	-XXX		 
+Write-ins	60	0.3%	-XXX		 	 
+Inactive ballots		 	29	29	 	1106	1,135	 	1181	2,316	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

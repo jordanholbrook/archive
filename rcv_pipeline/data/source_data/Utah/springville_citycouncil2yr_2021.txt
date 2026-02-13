@@ -1,0 +1,38 @@
+State: Utah
+link: https://rcvis.com/v/21g_sp_cc2y_u4
+
+{
+  "config" : {
+    "contest" : "Springville City Council (2 Year)",
+    "date" : "2021-11-02",
+    "jurisdiction" : "",
+    "office" : "",
+    "threshold" : "2982"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "CHRIS SORENSEN" : "2853",
+      "KELLY JENSEN" : "706",
+      "LYLE WERT" : "2481"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "KELLY JENSEN",
+      "transfers" : {
+        "CHRIS SORENSEN" : "402",
+        "LYLE WERT" : "226",
+        "exhausted" : "78"
+      }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "CHRIS SORENSEN" : "3255",
+      "LYLE WERT" : "2707"
+    },
+    "tallyResults" : [ {
+      "elected" : "CHRIS SORENSEN",
+      "transfers" : { }
+    } ]
+  } ]
+}

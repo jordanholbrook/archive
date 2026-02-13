@@ -1,0 +1,1054 @@
+=== 20181127_d4.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+GORDON MAR
+10314
+36.29%
+TREVOR MCNEIL
+3490
+12.28%
+MIKE MURPHY
+1182
+4.16%
+WRITE-IN
+0
+0.00%
+LOU ANN BASSAN
+2183
+7.68%
+ADAM KIM
+515
+1.81%
+JESSICA HO
+7444
+26.19%
+ARTHUR TOM
+2441
+8.59%
+TUAN NGUYEN
+853
+3.00%
+Continuing Ballots
+28422
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+0
+Exhausted by Over Votes
+176
+Total Ballots
+31412
+Run Id: 144 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+GORDON MAR
+10314
+36.29%
+TREVOR MCNEIL
+3490
+12.28%
+MIKE MURPHY
+1182
+4.16%
+WRITE-IN
+0
+0.00%
+LOU ANN BASSAN
+2183
+7.68%
+ADAM KIM
+515
+1.81%
+JESSICA HO
+7444
+26.19%
+ARTHUR TOM
+2441
+8.59%
+TUAN NGUYEN
+853
+3.00%
+Continuing Ballots
+28422
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+0
+Exhausted by Over Votes
+176
+Total Ballots
+31412
+Run Id: 144 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GORDON MAR
+10314
+36.29%
+TREVOR MCNEIL
+3490
+12.28%
+MIKE MURPHY
+1182
+4.16%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2183
+7.68%
+ADAM KIM
+515
+1.81%
+JESSICA HO
+7444
+26.19%
+ARTHUR TOM
+2441
+8.59%
+TUAN NGUYEN
+853
+3.00%
+Continuing Ballots
+28422
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+0
+Exhausted by Over Votes
+176
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 2
+ADAM KIM
+515
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+GORDON MAR
+10314
+36.29%
+TREVOR MCNEIL
+3490
+12.28%
+MIKE MURPHY
+1182
+4.16%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2183
+7.68%
+ADAM KIM
+515
+1.81%
+JESSICA HO
+7444
+26.19%
+ARTHUR TOM
+2441
+8.59%
+TUAN NGUYEN
+853
+3.00%
+Continuing Ballots
+28422
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+0
+Exhausted by Over Votes
+176
+Total Ballots
+31412
+Run Id: 144 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+ADAM KIM
+LOU ANN BASSAN
+0
+37
+ADAM KIM
+JESSICA HO
+0
+112
+ADAM KIM
+MIKE MURPHY
+0
+51
+ADAM KIM
+TUAN NGUYEN
+0
+45
+ADAM KIM
+TREVOR MCNEIL
+0
+57
+ADAM KIM
+Over Votes
+1
+0
+ADAM KIM
+Exhausted Ballots
+66
+0
+ADAM KIM
+GORDON MAR
+0
+74
+ADAM KIM
+ARTHUR TOM
+0
+72
+Total
+67
+448
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+GORDON MAR
+10388
+36.64%
+TREVOR MCNEIL
+3547
+12.51%
+MIKE MURPHY
+1233
+4.35%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2220
+7.83%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7556
+26.65%
+ARTHUR TOM
+2513
+8.86%
+TUAN NGUYEN
+898
+3.17%
+Continuing Ballots
+28355
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+66
+Exhausted by Over Votes
+177
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 3
+TUAN NGUYEN
+898
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+GORDON MAR
+10388
+36.64%
+TREVOR MCNEIL
+3547
+12.51%
+MIKE MURPHY
+1233
+4.35%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2220
+7.83%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7556
+26.65%
+ARTHUR TOM
+2513
+8.86%
+TUAN NGUYEN
+898
+3.17%
+Continuing Ballots
+28355
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+66
+Exhausted by Over Votes
+177
+Total Ballots
+31412
+Run Id: 144 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+TUAN NGUYEN
+LOU ANN BASSAN
+0
+61
+TUAN NGUYEN
+JESSICA HO
+0
+172
+TUAN NGUYEN
+TREVOR MCNEIL
+0
+136
+TUAN NGUYEN
+MIKE MURPHY
+0
+57
+TUAN NGUYEN
+GORDON MAR
+0
+187
+TUAN NGUYEN
+Exhausted Ballots
+174
+0
+TUAN NGUYEN
+Over Votes
+4
+0
+TUAN NGUYEN
+ARTHUR TOM
+0
+107
+Total
+178
+720
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+GORDON MAR
+10575
+37.53%
+TREVOR MCNEIL
+3683
+13.07%
+MIKE MURPHY
+1290
+4.58%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2281
+8.10%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7728
+27.43%
+ARTHUR TOM
+2620
+9.30%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+28177
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+240
+Exhausted by Over Votes
+181
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 4
+MIKE MURPHY
+1290
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+GORDON MAR
+10575
+37.53%
+TREVOR MCNEIL
+3683
+13.07%
+MIKE MURPHY
+1290
+4.58%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2281
+8.10%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7728
+27.43%
+ARTHUR TOM
+2620
+9.30%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+28177
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+240
+Exhausted by Over Votes
+181
+Total Ballots
+31412
+Run Id: 144 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+MIKE MURPHY
+JESSICA HO
+0
+130
+MIKE MURPHY
+GORDON MAR
+0
+258
+MIKE MURPHY
+TREVOR MCNEIL
+0
+304
+MIKE MURPHY
+LOU ANN BASSAN
+0
+186
+MIKE MURPHY
+Exhausted Ballots
+290
+0
+MIKE MURPHY
+Over Votes
+2
+0
+MIKE MURPHY
+ARTHUR TOM
+0
+120
+Total
+292
+998
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+GORDON MAR
+10833
+38.85%
+TREVOR MCNEIL
+3987
+14.30%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2467
+8.85%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7858
+28.18%
+ARTHUR TOM
+2740
+9.83%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+27885
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+530
+Exhausted by Over Votes
+183
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 5
+LOU ANN BASSAN
+2467
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+GORDON MAR
+10833
+38.85%
+TREVOR MCNEIL
+3987
+14.30%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+2467
+8.85%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+7858
+28.18%
+ARTHUR TOM
+2740
+9.83%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+27885
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+530
+Exhausted by Over Votes
+183
+Total Ballots
+31412
+Run Id: 144 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+LOU ANN BASSAN
+GORDON MAR
+0
+305
+LOU ANN BASSAN
+JESSICA HO
+0
+448
+LOU ANN BASSAN
+TREVOR MCNEIL
+0
+483
+LOU ANN BASSAN
+ARTHUR TOM
+0
+447
+LOU ANN BASSAN
+Exhausted Ballots
+781
+0
+LOU ANN BASSAN
+Over Votes
+3
+0
+Total
+784
+1683
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+GORDON MAR
+11138
+41.10%
+TREVOR MCNEIL
+4470
+16.49%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+Eliminated in pass 5.
+0
+0.00%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+8306
+30.65%
+ARTHUR TOM
+3187
+11.76%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+27101
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+1311
+Exhausted by Over Votes
+186
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 6
+ARTHUR TOM
+3187
+Candidate
+Votes
+Eliminated Candidates - Pass
+6
+ARTHUR TOM
+GORDON MAR
+0
+665
+ARTHUR TOM
+JESSICA HO
+0
+707
+ARTHUR TOM
+TREVOR MCNEIL
+0
+585
+ARTHUR TOM
+Exhausted Ballots
+1227
+0
+ARTHUR TOM
+Over Votes
+3
+0
+Total
+1230
+1957
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+6
+GORDON MAR
+11138
+41.10%
+TREVOR MCNEIL
+4470
+16.49%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+Eliminated in pass 5.
+0
+0.00%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+8306
+30.65%
+ARTHUR TOM
+3187
+11.76%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+27101
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+1311
+Exhausted by Over Votes
+186
+Total Ballots
+31412
+Run Id: 144 - Pass 6
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GORDON MAR
+11803
+45.62%
+TREVOR MCNEIL
+5055
+19.54%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+Eliminated in pass 5.
+0
+0.00%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+9013
+34.84%
+ARTHUR TOM
+Eliminated in pass 6.
+0
+0.00%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+25871
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+2538
+Exhausted by Over Votes
+189
+Total Ballots
+31412
+
+Complete
+Load Type:
+Pass Number: 7
+TREVOR MCNEIL
+5055
+Candidate
+Votes
+Eliminated Candidates - Pass
+7
+TREVOR MCNEIL
+GORDON MAR
+0
+1452
+TREVOR MCNEIL
+JESSICA HO
+0
+1052
+TREVOR MCNEIL
+Over Votes
+11
+0
+TREVOR MCNEIL
+Exhausted Ballots
+2540
+0
+Total
+2551
+2504
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+7
+GORDON MAR
+11803
+45.62%
+TREVOR MCNEIL
+5055
+19.54%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+Eliminated in pass 5.
+0
+0.00%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+9013
+34.84%
+ARTHUR TOM
+Eliminated in pass 6.
+0
+0.00%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+25871
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2814
+Exhausted Ballots
+2538
+Exhausted by Over Votes
+189
+Total Ballots
+31412
+Run Id: 144 - Pass 7
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 4
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+GORDON MAR
+** WINNER **
+13255
+56.84%
+TREVOR MCNEIL
+Eliminated in pass 7.
+0
+0.00%
+MIKE MURPHY
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+LOU ANN BASSAN
+Eliminated in pass 5.
+0
+0.00%
+ADAM KIM
+Eliminated in pass 2.
+0
+0.00%
+JESSICA HO
+10065
+43.16%
+ARTHUR TOM
+Eliminated in pass 6.
+0
+0.00%
+TUAN NGUYEN
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+23320
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2814
+Exhausted Ballots
+5078
+Exhausted by Over Votes
+200
+Total Ballots
+31412
+

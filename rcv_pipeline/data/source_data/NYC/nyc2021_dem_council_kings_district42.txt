@@ -1,0 +1,29 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 42nd Council District
+Election Date:	2021/06/22
+Election results
+Charles Barron won the DEM Council Member 42nd Council District Primary with 7,979 of the votes in the final round.
+Charles Barron defeated Nikki Lucas, who received 6,868 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3
+Eliminated in this round	 	Write-ins	Wilfredo Florentino; Gena M. Watson**
+Elected	 	 	Charles Barron*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Charles Barron	7,431	47.5%	27	7,458	47.9%	521	7,979	53.7%
+Nikki Lucas	5,720	36.6%	23	5,743	36.9%	1125	6,868	46.3%
+Wilfredo Florentino	1,582	10.1%	9	1,591	10.2%	-XXX	
+Gena M. Watson	779	5.0%	9	788	5.1%	-XXX	
+Write-ins	124	0.8%	-XXX		 
+Inactive ballots		 	56	56	 	733	789	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

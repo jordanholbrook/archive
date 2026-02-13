@@ -1,0 +1,69 @@
+House District 1
+Precinct
+State
+State of Alaska
+01-600 Ketchikan No. 1 01-610 Ketchikan No. 2 01-620 Ketchikan No. 3 01-640 North Tongass No. 1 01-650 North Tongass No. 2 01-660 Saxman 01-670 South Tongass 01-675 Coffman Cove 01-680 Metlakatla 01-690 Wrangell District 1 - Absentee District 1 - Early Voting District 1 - Question State of Alaska - Total State - Total Times Cast
+Registered
+Voters
+499 2,358
+739 2,574
+542 1,823
+378 1,106
+742 1,889
+114 305
+649 2,004
+87 311
+407 1,063
+685 1,976
+1,748 0
+14 0
+284 0
+6,888 15,409
+6,888 15,409
+
+Precinct
+State
+State of Alaska
+01-600 Ketchikan No. 1 01-610 Ketchikan No. 2 01-620 Ketchikan No. 3 01-640 North Tongass No. 1 01-650 North Tongass No. 2 01-660 Saxman 01-670 South Tongass 01-675 Coffman Cove 01-680 Metlakatla 01-690 Wrangell District 1 - Absentee District 1 - Early Voting District 1 - Question State of Alaska - Total State - Total Ortiz, Daniel H.
+"Dan"
+(NON)
+280 57.38% 430 59.23% 257 48.58% 143 38.96% 279 38.22% 67 59.82% 293 45.64% 26 33.33% 304 76.77% 309 45.91% 1,003 58.65% 10 76.92% 112 47.66% 3,513 52.44% 3,513 52.44% 11/30/2022 2:03:51 PM
+Bynum, Jeremy T.
+(REP)
+208 42.62%
+296 40.77%
+270 51.04%
+224 61.04%
+449 61.51%
+45 40.18%
+348 54.21%
+52 66.67%
+92 23.23%
+364 54.09%
+697 40.76%
+3 23.08%
+122 51.91%
+3,170 47.32%
+3,170 47.32%
+
+Precinct
+State
+State of Alaska
+01-600 Ketchikan No. 1 01-610 Ketchikan No. 2 01-620 Ketchikan No. 3 01-640 North Tongass No. 1 01-650 North Tongass No. 2 01-660 Saxman 01-670 South Tongass 01-675 Coffman Cove 01-680 Metlakatla 01-690 Wrangell District 1 - Absentee District 1 - Early Voting District 1 - Question State of Alaska - Total State - Total Write-in
+0 0.00% 0 0.00% 2 0.38% 0 0.00% 2 0.27% 0 0.00% 1 0.16% 0 0.00% 0 0.00% 0 0.00% 10 0.58% 0 0.00% 1 0.43% 16 0.24% 16 0.24% 11/30/2022 2:03:51 PM
+Total Votes
+488
+726
+529
+367
+730
+112
+642
+78
+396
+673
+1,710
+13
+235
+6,699
+6,699

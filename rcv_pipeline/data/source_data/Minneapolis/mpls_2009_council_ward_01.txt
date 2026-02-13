@@ -1,0 +1,25 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2009 City Council Ward 1 election results
+Official Winner: Kevin Reich
+November 3, 2009
+
+Municipal Election
+
+Council Member Ward 1
+Candidate	First ranked votes	Percent
+Kevin Reich	1,997	50.31%
+Larry Ranallo	941	23.71%
+Susan Howitz Hanna	535	13.48%
+Thomas Alessi	340	8.57%
+Mark Fox	153	3.85%
+Write-ins	3	0.08%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold met and Kevin Reich was elected.
+
+Ballots cast summary
+Total ballots cast	3,969	Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+Maximum possible threshold	1,985	Half of total votes cast for office + 1, disregarding fractions.
+Undervotes	47	Voter did not rank any candidates for the office.
+Spoiled ballots	148	Ballot spoiled by voter at polls.
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot. The official candidates last names were abbreviated to three letters. Write-ins appear as written.  Choices left blank appear as XXX.

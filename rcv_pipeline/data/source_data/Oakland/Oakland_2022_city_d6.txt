@@ -1,0 +1,75 @@
+Ranked Choice Voting Results: General Election - 11/08/2022
+Member, City Council, Dist. 6 - Oakland (RCV)
+
+Round 1
+
+Candidate	Votes	Percentage
+KEVIN JENKINS	10386	71.26 %
+KENNY SESSION	1013	6.95 %
+NANCY SIDEBOTHAM	1533	10.52 %
+YAKPASUA MICHAEL GBAGBA ZAZABOI	1642	11.27 %
+CONTINUING BALLOTS TOTAL	14574	
+BLANKS	2015	
+EXHAUSTED	0	
+OVERVOTES	115	
+REMAINDER POINTS	0	
+SUSPENDED	199	
+NON TRANSFERRABLE TOTAL	2329	
+
+KENNY SESSION is eliminated because the candidate had the least amount of votes.
+
+KENNY SESSION is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate KENNY SESSION. 1031 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+KENNY SESSION	KEVIN JENKINS	488	1	488
+KENNY SESSION	NANCY SIDEBOTHAM	183	1	183
+KENNY SESSION	YAKPASUA MICHAEL GBAGBA ZAZABOI	92	1	92
+KENNY SESSION	EXHAUSTED	252	1	252
+KENNY SESSION	OVERVOTES	16	1	16
+Elimination transfer for candidate Suspended. 199 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+SUSPENDED	KEVIN JENKINS	98	1	98
+SUSPENDED	KENNY SESSION	18	1	18
+SUSPENDED	NANCY SIDEBOTHAM	26	1	26
+SUSPENDED	YAKPASUA MICHAEL GBAGBA ZAZABOI	32	1	32
+SUSPENDED	OVERVOTES	25	1	25
+
+-----------------------------------------------------
+
+Round 2
+
+Candidate	Votes	Percentage
+KEVIN JENKINS	10972	75.77 %
+KENNY SESSION	0	0.00 %
+NANCY SIDEBOTHAM	1742	12.03 %
+YAKPASUA MICHAEL GBAGBA ZAZABOI	1766	12.20 %
+CONTINUING BALLOTS TOTAL	14480	
+BLANKS	2015	
+EXHAUSTED	252	
+OVERVOTES	156	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	2423	
+
+NANCY SIDEBOTHAM is eliminated because the candidate had the least amount of votes.
+Elimination transfer for candidate NANCY SIDEBOTHAM. 1742 ballots have been transferred in the following manner:Transferred From	Transferred to	Ballots	Fraction	Votes
+NANCY SIDEBOTHAM	KEVIN JENKINS	768	1	768
+NANCY SIDEBOTHAM	YAKPASUA MICHAEL GBAGBA ZAZABOI	436	1	436
+NANCY SIDEBOTHAM	EXHAUSTED	513	1	513
+NANCY SIDEBOTHAM	OVERVOTES	25	1	25
+
+-----------------------------------------------------
+
+
+Round 3
+
+Candidate	Votes	Percentage
+KEVIN JENKINS	11740	84.21 %
+KENNY SESSION	0	0.00 %
+NANCY SIDEBOTHAM	0	0.00 %
+YAKPASUA MICHAEL GBAGBA ZAZABOI	2202	15.79 %
+CONTINUING BALLOTS TOTAL	13942	
+BLANKS	2015	
+EXHAUSTED	765	
+OVERVOTES	181	
+REMAINDER POINTS	0	
+SUSPENDED	0	
+NON TRANSFERRABLE TOTAL	2961	

@@ -1,0 +1,46 @@
+=== nov-4-2014-pass-report-city-council-oakland-dist4.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+PAUL LIM
+1011
+5.71%
+Write-In
+0
+0.00%
+JILL BROADHURST
+5335
+30.13%
+ANNIE CAMPBELL WASHINGTON
+** WINNER **
+11358
+64.15%
+Continuing Ballots
+17704
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2294
+Exhausted Ballots
+0
+Exhausted by Over Votes
+20
+Total Ballots
+20018
+Run Id: 208 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20141104_E
+Election Date:
+Run Date:
+11/4/2014
+11/12/2014
+

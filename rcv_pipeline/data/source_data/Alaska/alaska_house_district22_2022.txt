@@ -1,0 +1,70 @@
+House District 22
+Precinct
+Times Cast
+Registered
+Voters
+State
+State of Alaska
+22-750 Northeast Anchorage
+No. 1 704 3,802
+22-755 Northeast Anchorage
+No. 2 649 3,976
+22-760 Northeast Anchorage
+No. 3 801 4,048
+22-765 Northeast Anchorage
+No. 4 474 2,909
+District 22 - Absentee 782 0
+District 22 - Early Voting 444 0
+District 22 - Question 110 0
+State of Alaska - Total 3,964 14,735
+State - Total 3,964 14,735
+
+Precinct
+State
+State of Alaska
+22-750 Northeast Anchorage
+No. 1
+22-755 Northeast Anchorage
+No. 2
+22-760 Northeast Anchorage
+No. 3
+22-765 Northeast Anchorage
+No. 4
+District 22 - Absentee District 22 - Early Voting District 22 - Question State of Alaska - Total State - Total Wright, Stanley A.
+(REP)
+367 360 426 235 301 202 24 1,915 1,915 53.34% 56.87% 54.27% 51.20% 41.06% 46.33% 63.16% 50.77% 50.77% Eischeid, Ted J.
+(DEM)
+320 268 357 222 428 234 14 1,843 1,843 11/30/2022 2:08:59 PM
+46.51%
+42.34%
+45.48%
+48.37%
+58.39%
+53.67%
+36.84%
+48.86%
+48.86%
+
+Precinct
+State
+State of Alaska
+22-750 Northeast Anchorage
+No. 1
+22-755 Northeast Anchorage
+No. 2
+22-760 Northeast Anchorage
+No. 3
+22-765 Northeast Anchorage
+No. 4
+District 22 - Absentee District 22 - Early Voting District 22 - Question State of Alaska - Total State - Total Write-in
+1 0.15% 5 0.79% 2 0.25% 2 0.44% 4 0.55% 0 0.00% 0 0.00% 14 0.37% 14 0.37% 11/30/2022 2:08:59 PM
+Total Votes
+688
+633
+785
+459
+733
+436
+38
+3,772
+3,772

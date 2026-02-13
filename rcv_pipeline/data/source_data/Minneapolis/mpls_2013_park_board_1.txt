@@ -1,0 +1,21 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2013 Minneapolis Park Board District 1 results
+Official Winner: Liz Wielinski
+November 5, 2013
+
+Municipal Election
+
+ Park Board District 1
+Candidate	First ranked votes	Percent
+Liz Wielinski	7,686	97.46%
+Write-ins	200	2.54%
+Ranked-choice voting tabulation was not necessary. The maximum possible threshold was met and Liz Wielinski was elected.
+
+Ballots cast summary
+Total ballots cast	11,532	Total votes counted in the first round.
+Maximum possible threshold	5,767	Half of total votes cast for office + 1, disregarding fractions.
+Overvotes	1	Voter voted for more candidates than allowed. 
+Undervotes	3,645	Voter did not rank any candidates for the office. 
+A cast vote record (CVR) is a document automatically created by the voting system. It contains information from each ballot.

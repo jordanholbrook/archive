@@ -1,0 +1,29 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Council Member 47th Council District
+Election Date:	2021/06/22
+Election results
+Ari Kagan won the DEM Council Member 47th Council District Primary with 4,018 of the votes in the final round.
+Ari Kagan defeated Steven D. Patzer, who received 3,194 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3
+Eliminated in this round	 	Write-ins	Joseph Packer; Alec Brook-Krasny**
+Elected	 	 	Ari Kagan*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Ari Kagan	3,493	43.5%	5	3,498	43.7%	520	4,018	55.7%
+Steven D. Patzer	2,676	33.3%	6	2,682	33.5%	512	3,194	44.3%
+Joseph Packer	1,069	13.3%	2	1,071	13.4%	-XXX	
+Alec Brook-Krasny	752	9.4%	7	759	9.5%	-XXX	
+Write-ins	39	0.5%	-XXX		 
+Inactive ballots		 	19	19	 	798	817	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

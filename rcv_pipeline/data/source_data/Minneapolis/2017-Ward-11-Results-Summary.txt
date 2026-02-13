@@ -1,0 +1,76 @@
+=== 2017-Ward-11-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+9160
+Number to be elected:
+1
+Threshold:
+4581
+Undervotes:
+432
+Round 2
+Round 3
+Defeated: Mauter, 
+undeclared write-ins
+Elected: Schroeder; 
+Defeated: Quincy
+First preference 
+votes
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+no vote transfer in this 
+round
+May not sum to 
+100% due to 
+rounding
+Erica Mauter
+2696
+-2696
+0
+-
+0.00%
+Jeremy Schroeder
+3230
+1527
+4757
+-
+51.93%
+John Quincy
+3200
+781
+3981
+-
+43.46%
+Undeclared Write-ins
+34
+-34
+0
+-
+0.00%
+Exhausted
+-
+422
+422
+-
+4.61%
+9160
+BALANCED
+9160
+BALANCED
+BALANCED
+Round 1
+Round 2
+2017 Minneapolis Municipal Election Results: Ward 11 Council
+Ranked-choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+Final Round 
+Percentage
+TOTAL
+Candidate
+

@@ -1,0 +1,77 @@
+=== d8_detail.pdf | City: San_Francisco ===
+
+Final RCV Detail Report
+City and County of San Francisco
+November 8, 2022, Consolidated General Election
+BOARD OF SUPERVISORS DISTRICT 8
+Unofficial results
+Number of positions to elect is 1.
+Tabulation status:
+All Positions Filled
+Tabulation time:
+12/1/2022 10:43:27 AM
+Tabulation Options
+RCV method
+IRV
+Previous rounds evaluation method
+None
+Elimination type
+Single
+Votes to include in threshold calculation 
+Continuing ballots per round
+Fixed precision decimals
+0
+Use previous tie break decision
+True
+Exclude unresolved write-ins
+True
+Declare winners by threshold
+False
+Uses precincts
+True
+Pause after round
+False
+Perform elimination transfer in last round
+False
+Skip overvoted rankings
+False
+Assign skipped rankings to the set of 
+exhausted ballots
+False
+Use first round suspension
+False
+Include disabled candidate rankings in 
+overvote
+False
+Ties are resolved in accordance with election law.
+12/01/2022 11:00:14
+Page: 1 / 2
+
+San Francisco
+Round 1
+Candidate
+Votes
+Percentage
+KATE STOIA
+7,975
+22.55%
+RAFAEL MANDELMAN
+27,395
+77.45%
+Continuing Ballots Total
+35,370
+Blanks
+6,852
+Exhausted
+0
+Overvotes
+36
+Remainder Points
+0
+Non Transferable Total
+6,888
+KATE STOIA is eliminated because the candidate was not elected in the last round.
+RAFAEL MANDELMAN is elected because all other candidates have been eliminated.
+12/01/2022 11:00:14
+Page: 2 / 2
+

@@ -1,0 +1,43 @@
+=== nov-6-2012-pass-report-oakland-school-director-dist-7.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+ALICE A. SPEARMAN
+5977
+42.74%
+Write-In
+0
+0.00%
+JAMES HARRIS
+** WINNER **
+8008
+57.26%
+Continuing Ballots
+13985
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2420
+Exhausted Ballots
+0
+Exhausted by Over Votes
+35
+Total Ballots
+16440
+Run Id: 238 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+School Director, District 7 - Oakland 
+(RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+

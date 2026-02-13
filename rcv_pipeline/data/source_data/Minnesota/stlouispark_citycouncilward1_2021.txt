@@ -1,0 +1,24 @@
+St. Louis Park Minnesota
+Nov. 2, 2021
+
+Council member Ward 1
+
+Round 1
+CANDIDATE	NUMBER OF VOTES	PERCENT OF VOTES
+Margaret Rog	818	91.40%
+Undeclared write-in (UWI)	70	7.82%
+Overvote	0	0.00%
+Undervote	7	0.78%
+Total votes continuing	895	 
+Total votes cast for this office	895	 
+Totally blank	37	 
+Partially defective	1	 
+Exhausted ballots	0	 
+Total ballots cast in Ward 1	933	 
+Threshold = 448
+
+Margaret Rog received the most votes (818), which was more than the threshold (448). Margaret Rog was declared the winner in a single round of counting. 
+
+*Threshold = [(Total votes cast)/(Seats to be elected + 1)] + 1
+
+The total votes cast for this office does not include totally blank or partially defective ballots as defined by City Code Sec. 10-4.

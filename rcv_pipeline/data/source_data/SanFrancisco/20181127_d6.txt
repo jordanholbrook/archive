@@ -1,0 +1,223 @@
+=== 20181127_d6.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+SONJA TRAUSS
+4775
+18.85%
+WRITE-IN
+0
+0.00%
+MATT HANEY
+14288
+56.41%
+CHRISTINE JOHNSON
+6267
+24.74%
+Continuing Ballots
+25330
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3467
+Exhausted Ballots
+0
+Exhausted by Over Votes
+75
+Total Ballots
+28872
+Run Id: 145 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+SONJA TRAUSS
+4775
+18.85%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT HANEY
+14288
+56.41%
+CHRISTINE JOHNSON
+6267
+24.74%
+Continuing Ballots
+25330
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3467
+Exhausted Ballots
+0
+Exhausted by Over Votes
+75
+Total Ballots
+28872
+SONJA TRAUSS
+4775
+18.85%
+WRITE-IN
+0
+0.00%
+MATT HANEY
+14288
+56.41%
+CHRISTINE JOHNSON
+6267
+24.74%
+Continuing Ballots
+25330
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3467
+Exhausted Ballots
+0
+Exhausted by Over Votes
+75
+Total Ballots
+28872
+Run Id: 145 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+Complete
+Load Type:
+Pass Number: 2
+SONJA TRAUSS
+4775
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+SONJA TRAUSS
+CHRISTINE JOHNSON
+0
+2804
+SONJA TRAUSS
+MATT HANEY
+0
+1239
+SONJA TRAUSS
+Over Votes
+2
+0
+SONJA TRAUSS
+Exhausted Ballots
+730
+0
+Total
+732
+4043
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+SONJA TRAUSS
+4775
+18.85%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT HANEY
+14288
+56.41%
+CHRISTINE JOHNSON
+6267
+24.74%
+Continuing Ballots
+25330
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+3467
+Exhausted Ballots
+0
+Exhausted by Over Votes
+75
+Total Ballots
+28872
+Run Id: 145 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 6
+The City and County of San Francisco
+SFC_20181106_E
+Election Date:
+Run Date:
+11/6/2018
+11/27/2018
+
+SONJA TRAUSS
+Eliminated in pass 2.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MATT HANEY
+** WINNER **
+15527
+63.12%
+CHRISTINE JOHNSON
+9071
+36.88%
+Continuing Ballots
+24598
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+3467
+Exhausted Ballots
+730
+Exhausted by Over Votes
+77
+Total Ballots
+28872
+

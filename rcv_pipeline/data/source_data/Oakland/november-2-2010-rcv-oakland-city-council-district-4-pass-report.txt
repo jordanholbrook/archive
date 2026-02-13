@@ -1,0 +1,764 @@
+=== november-2-2010-rcv-oakland-city-council-district-4-pass-report.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+DANIEL SWAFFORD
+2348
+11.18%
+CLINTON KILLIAN
+1138
+5.42%
+Write-In
+69
+0.33%
+JASON GILLEN
+530
+2.52%
+LIBBY SCHAAF
+8756
+41.71%
+JILL BROADHURST
+4807
+22.90%
+RALPH KANZ
+883
+4.21%
+MELANIE SHELBY
+2463
+11.73%
+Continuing Ballots
+20994
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+0
+Exhausted by Over Votes
+46
+Total Ballots
+23884
+Run Id: 175 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+69
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+DANIEL SWAFFORD
+2348
+11.18%
+CLINTON KILLIAN
+1138
+5.42%
+Write-In
+69
+0.33%
+JASON GILLEN
+530
+2.52%
+LIBBY SCHAAF
+8756
+41.71%
+JILL BROADHURST
+4807
+22.90%
+RALPH KANZ
+883
+4.21%
+MELANIE SHELBY
+2463
+11.73%
+Continuing Ballots
+20994
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2844
+Exhausted Ballots
+0
+Exhausted by Over Votes
+46
+Total Ballots
+23884
+Run Id: 175 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+Write-In
+LIBBY SCHAAF
+0
+2
+Write-In
+JILL BROADHURST
+0
+2
+Write-In
+RALPH KANZ
+0
+2
+Write-In
+MELANIE SHELBY
+0
+3
+Write-In
+JASON GILLEN
+0
+1
+Write-In
+Exhausted Ballots
+51
+0
+Write-In
+CLINTON KILLIAN
+0
+5
+Write-In
+DANIEL SWAFFORD
+0
+3
+Total
+51
+18
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+1
+DANIEL SWAFFORD
+2351
+11.23%
+CLINTON KILLIAN
+1143
+5.46%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+531
+2.54%
+LIBBY SCHAAF
+8758
+41.82%
+JILL BROADHURST
+4809
+22.96%
+RALPH KANZ
+885
+4.23%
+MELANIE SHELBY
+2466
+11.77%
+Continuing Ballots
+20943
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+51
+Exhausted by Over Votes
+46
+Total Ballots
+23884
+
+Complete
+Load Type:
+Pass Number: 2
+JASON GILLEN
+531
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+DANIEL SWAFFORD
+2351
+11.23%
+CLINTON KILLIAN
+1143
+5.46%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+531
+2.54%
+LIBBY SCHAAF
+8758
+41.82%
+JILL BROADHURST
+4809
+22.96%
+RALPH KANZ
+885
+4.23%
+MELANIE SHELBY
+2466
+11.77%
+Continuing Ballots
+20943
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2844
+Exhausted Ballots
+51
+Exhausted by Over Votes
+46
+Total Ballots
+23884
+Run Id: 175 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+JASON GILLEN
+LIBBY SCHAAF
+0
+77
+JASON GILLEN
+JILL BROADHURST
+0
+69
+JASON GILLEN
+RALPH KANZ
+0
+51
+JASON GILLEN
+MELANIE SHELBY
+0
+86
+JASON GILLEN
+DANIEL SWAFFORD
+0
+93
+JASON GILLEN
+Exhausted Ballots
+94
+0
+JASON GILLEN
+Over Votes
+1
+0
+JASON GILLEN
+CLINTON KILLIAN
+0
+60
+Total
+95
+436
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+DANIEL SWAFFORD
+2444
+11.72%
+CLINTON KILLIAN
+1203
+5.77%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+8835
+42.38%
+JILL BROADHURST
+4878
+23.40%
+RALPH KANZ
+936
+4.49%
+MELANIE SHELBY
+2552
+12.24%
+Continuing Ballots
+20848
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+145
+Exhausted by Over Votes
+47
+Total Ballots
+23884
+
+Complete
+Load Type:
+Pass Number: 3
+RALPH KANZ
+936
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+DANIEL SWAFFORD
+2444
+11.72%
+CLINTON KILLIAN
+1203
+5.77%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+8835
+42.38%
+JILL BROADHURST
+4878
+23.40%
+RALPH KANZ
+936
+4.49%
+MELANIE SHELBY
+2552
+12.24%
+Continuing Ballots
+20848
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2844
+Exhausted Ballots
+145
+Exhausted by Over Votes
+47
+Total Ballots
+23884
+Run Id: 175 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+RALPH KANZ
+JILL BROADHURST
+0
+184
+RALPH KANZ
+DANIEL SWAFFORD
+0
+297
+RALPH KANZ
+MELANIE SHELBY
+0
+100
+RALPH KANZ
+LIBBY SCHAAF
+0
+166
+RALPH KANZ
+Exhausted Ballots
+117
+0
+RALPH KANZ
+Over Votes
+2
+0
+RALPH KANZ
+CLINTON KILLIAN
+0
+70
+Total
+119
+817
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+DANIEL SWAFFORD
+2741
+13.22%
+CLINTON KILLIAN
+1273
+6.14%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+9001
+43.42%
+JILL BROADHURST
+5062
+24.42%
+RALPH KANZ
+Eliminated in pass 3.
+0
+0.00%
+MELANIE SHELBY
+2652
+12.79%
+Continuing Ballots
+20729
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+262
+Exhausted by Over Votes
+49
+Total Ballots
+23884
+
+Complete
+Load Type:
+Pass Number: 4
+CLINTON KILLIAN
+1273
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+DANIEL SWAFFORD
+2741
+13.22%
+CLINTON KILLIAN
+1273
+6.14%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+9001
+43.42%
+JILL BROADHURST
+5062
+24.42%
+RALPH KANZ
+Eliminated in pass 3.
+0
+0.00%
+MELANIE SHELBY
+2652
+12.79%
+Continuing Ballots
+20729
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2844
+Exhausted Ballots
+262
+Exhausted by Over Votes
+49
+Total Ballots
+23884
+Run Id: 175 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+CLINTON KILLIAN
+JILL BROADHURST
+0
+224
+CLINTON KILLIAN
+LIBBY SCHAAF
+0
+248
+CLINTON KILLIAN
+MELANIE SHELBY
+0
+365
+CLINTON KILLIAN
+DANIEL SWAFFORD
+0
+145
+CLINTON KILLIAN
+Exhausted Ballots
+287
+0
+CLINTON KILLIAN
+Over Votes
+4
+0
+Total
+291
+982
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+DANIEL SWAFFORD
+2886
+14.12%
+CLINTON KILLIAN
+Eliminated in pass 4.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+9249
+45.25%
+JILL BROADHURST
+5286
+25.86%
+RALPH KANZ
+Eliminated in pass 3.
+0
+0.00%
+MELANIE SHELBY
+3017
+14.76%
+Continuing Ballots
+20438
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+549
+Exhausted by Over Votes
+53
+Total Ballots
+23884
+
+Complete
+Load Type:
+Pass Number: 5
+DANIEL SWAFFORD
+2886
+Candidate
+Votes
+Eliminated Candidates - Pass
+5
+DANIEL SWAFFORD
+JILL BROADHURST
+0
+542
+DANIEL SWAFFORD
+LIBBY SCHAAF
+0
+1190
+DANIEL SWAFFORD
+MELANIE SHELBY
+0
+387
+DANIEL SWAFFORD
+Exhausted Ballots
+760
+0
+DANIEL SWAFFORD
+Over Votes
+7
+0
+Total
+767
+2119
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+5
+DANIEL SWAFFORD
+2886
+14.12%
+CLINTON KILLIAN
+Eliminated in pass 4.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+9249
+45.25%
+JILL BROADHURST
+5286
+25.86%
+RALPH KANZ
+Eliminated in pass 3.
+0
+0.00%
+MELANIE SHELBY
+3017
+14.76%
+Continuing Ballots
+20438
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+2844
+Exhausted Ballots
+549
+Exhausted by Over Votes
+53
+Total Ballots
+23884
+Run Id: 175 - Pass 5
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, District 4 - 
+Oakland (RCV)
+Alameda County
+ALA_20101102_E
+Election Date:
+Run Date:
+11/2/2010
+11/19/2010
+
+DANIEL SWAFFORD
+Eliminated in pass 5.
+0
+0.00%
+CLINTON KILLIAN
+Eliminated in pass 4.
+0
+0.00%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+JASON GILLEN
+Eliminated in pass 2.
+0
+0.00%
+LIBBY SCHAAF
+** WINNER **
+10439
+53.07%
+JILL BROADHURST
+5828
+29.63%
+RALPH KANZ
+Eliminated in pass 3.
+0
+0.00%
+MELANIE SHELBY
+3404
+17.30%
+Continuing Ballots
+19671
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2844
+Exhausted Ballots
+1309
+Exhausted by Over Votes
+60
+Total Ballots
+23884
+

@@ -1,0 +1,43 @@
+=== nov-8-2016-pass-report-city-council-dist5-oak.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+NOEL GALLO
+** WINNER **
+7838
+56.43%
+Write-In
+0
+0.00%
+VIOLA GONZALES
+6053
+43.57%
+Continuing Ballots
+13891
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+2378
+Exhausted Ballots
+0
+Exhausted by Over Votes
+48
+Total Ballots
+16317
+Run Id: 111 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 5 - 
+Oakland (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

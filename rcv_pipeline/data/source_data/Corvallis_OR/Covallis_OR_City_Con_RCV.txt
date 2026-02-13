@@ -1,0 +1,82 @@
+=== Covallis_OR_City_Con_RCV.pdf | City: Corvallis_Oregon ===
+
+Report Name
+Election Name
+Election Date
+Office Title
+Candidate Names
+Votes
+Percentage
+Transfer
+Votes
+Percentage
+Transfer
+Cliff Feldman
+542
+22.33%
+-542
+0
+00.00%
+0
+Nyssa Towsley
+806
+33.21%
+187
+993
+42.51%
+0
+Tony Cadena
+1064
+43.84%
+279
+1343
+57.49%
+0
+Write-in
+15
+00.62%
+-15
+0
+00.00%
+0
+ By Overvotes
+3
+3
+6
+0
+ By Undervotes
+499
+86
+585
+0
+ By Exhausted Choices
+0
+2
+2
+0
+Continuing Ballots
+2427
+0
+2336
+0
+TOTAL
+2929
+0
+2929
+0
+Winning threshold by round
+1214
+1169
+Generated: 11/30/2022 19:19
+Round 1
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1
+"*" symbol signifies elimination due to Tie Resolution.
+Round 2
+Ballot Exhausted
+Summary Report
+General Election
+November 8, 2022
+Corvallis Council Ward 9
+Benton County Elections, Oregon - General Election November 8, 2022 - Page 2 of 2
+

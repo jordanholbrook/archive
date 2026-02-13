@@ -1,0 +1,57 @@
+House District 20
+Precinct
+State
+State of Alaska
+20-650 University No. 1 20-655 University No. 2 20-660 University No. 3 20-665 University No. 4 20-670 University No. 5 District 20 - Absentee District 20 - Early Voting District 20 - Question State of Alaska - Total State - Total Times Cast
+Registered
+Voters
+215 1,032
+702 3,922
+804 3,011
+365 1,584
+1,233 4,668
+1,252 0
+686 0
+212 0
+5,469 14,217
+5,469 14,217
+
+Precinct
+Harary, Jordan I.
+(REP)
+State
+State of Alaska
+20-650 University No. 1 37 18.69% 20-655 University No. 2 128 19.60% 20-660 University No. 3 137 18.27% 20-665 University No. 4 55 16.08% 20-670 University No. 5 214 18.59% District 20 - Absentee 91 7.80% District 20 - Early Voting 78 11.91% District 20 - Question 2 6.90% State of Alaska - Total 742 15.01% State - Total 742 15.01% Gray, Andrew T.
+(DEM)
+100 311 401 187 507 751 407 19 2,683 2,683 11/30/2022 2:08:29 PM
+50.51%
+47.63%
+53.47%
+54.68%
+44.05%
+64.41%
+62.14%
+65.52%
+54.27%
+54.27%
+
+Precinct
+Kohlhaas, Scott A.
+(LIB)
+State
+State of Alaska
+20-650 University No. 1 9 4.55% 20-655 University No. 2 51 7.81% 20-660 University No. 3 26 3.47% 20-665 University No. 4 13 3.80% 20-670 University No. 5 48 4.17% District 20 - Absentee 33 2.83% District 20 - Early Voting 28 4.27% District 20 - Question 4 13.79% State of Alaska - Total 212 4.29% State - Total 212 4.29% Bauer, Paul A.
+(REP)
+52 26.26% 160 24.50% 186 24.80% 87 25.44% 380 33.01% 275 23.58% 133 20.31% 4 13.79% 1,277 25.83% 1,277 25.83% Write-in
+0 0.00% 3 0.46% 0 0.00% 0 0.00% 2 0.17% 16 1.37% 9 1.37% 0 0.00% 30 0.61% 30 0.61% 11/30/2022 2:08:29 PM
+Total Votes
+198
+653
+750
+342
+1,151
+1,166
+655
+29
+4,944
+4,944

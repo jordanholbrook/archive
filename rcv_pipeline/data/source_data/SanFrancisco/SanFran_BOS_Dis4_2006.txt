@@ -1,0 +1,29 @@
+
+ELECTION SUMMARY           SAN FRANCISCO               OFFICIAL RESULTS
+                                           CONSOL GENERAL ELECTION
+                                           NOVEMBER 7, 2006
+                RUN DATE:12/05/06 11:10 AM
+                
+OFFICIAL RESULTS
+RUN DATE: 12/05/06 11:43 AM
+
+MEMBER, BOARD OF SUPERVISORS DIST. 4	Pass 1	Pass 2	Pass 3	Pass 4		Pre-RCV Count	Pre-RCV Diff.
+RON DUDUM	5,134	5,521	6,305	7,587		5,072	62
+ED JEW (Winner 52.507%)	5,184	5,441	6,455	8,388		5,125	59
+JAYNRY MAK	4,569	5,012	5,851*			4,504	65
+DOUG CHAN	3,236	3,414*				3,192	44
+HOUSTON ZHENG	234*					225	9
+DAVID FERGUSON	1,455*					1,419	36
+WRITE-IN	2*					2	0
+Eligible Ballots	19,814	19,388	18,611	15,975	Undervotes	2,253	
+Exhausted Ballots	2,171	2,597	3,374	6,010	Overvotes	193	
+Total Ballots	21,985	21,985	21,985	21,985	Total	21,985	
+To understand the difference between the Pre-RCV and RCV vote totals:
+A number of undervotes reported were, in fact, advanceable ballots (Difference column)
+The RCV algorithm advances those ballots and sums them in Pass1.
+The candidate(s) with the lowest vote total is selected for elimination (indicated with an asterisk * )
+Ballot Definitions:
+The number of Eligible Ballots (for Pass 1) is the number of ballots with a mark for a candidate in the 1st choice, plus those whose marks were advanced.
+The number of Exhausted Ballots is the number of undervotes minus the number of advanced ballots, plus the number of overvotes (invalid votes for multiple candidates).
+The number of Total Ballots is all cards, marked in any way, or blank.
+

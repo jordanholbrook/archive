@@ -1,0 +1,30 @@
+
+	
+BOARD OF ELECTIONS IN THE CITY OF NEW YORK
+2021 PRIMARY
+OFFICIAL RANKED CHOICE ROUNDS
+We certify this statement to be correct, and have caused the same to be attested by signtures of the members of the board or a majority thereof on:
+ 	 	Date:	July 20, 2021	 
+Secretary		Chairman	Chief Clerk / Deputy Chief Clerk
+Canvassing Board		Canvassing Board	Chief Clerk / Deputy Chief Clerk
+Contest:	DEM Borough President Bronx
+Election Date:	2021/06/22
+Election results
+Vanessa L. Gibson won the DEM Borough President Bronx Primary with 49,401 of the votes in the final round.
+Vanessa L. Gibson defeated Fernando Cabrera, who received 42,957 of final votes.
+How the votes were counted - round by round
+ 	Round 1	Round 2	Round 3
+Eliminated in this round	 	Write-ins	Luis R. Sepulveda; Sammy Ravelo; Nathalia Fernandez**
+Elected	 	 	Vanessa L. Gibson*
+Votes in this round	# votes	% of vote	votes transfered	# votes	% of vote	votes transfered	# votes	% of vote
+Vanessa L. Gibson	40,097	39.5%	51	40,148	39.7%	9253	49,401	53.5%
+Fernando Cabrera	34,022	33.5%	108	34,130	33.7%	8827	42,957	46.5%
+Nathalia Fernandez	14,397	14.2%	104	14,501	14.3%	-XXX	
+Luis R. Sepulveda	10,407	10.3%	37	10,444	10.3%	-XXX	
+Sammy Ravelo	1,958	1.9%	13	1,971	1.9%	-XXX	
+Write-ins	582	0.6%	-XXX		 
+Inactive ballots		 	269	269	 	8836	9,105	 
+*The winning candidate is the candidate in the round with final 2 candidates who has the most votes.
+**Two or more candidates with the lowest number of votes can be eliminated in a single round if their total number of votes is less than
+the votes for the candidate immediately ahead of them. This means that, if all next choices went to one of them, they would still trail
+the next higher candidate, and the outcome will be the same whether they are eliminated one by one, or at the same time.

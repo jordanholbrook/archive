@@ -1,0 +1,73 @@
+=== 2021-Council-Ward-3-Round-Results-Summary.pdf | City: Minneapolis ===
+
+Total votes cast
+for the office:
+13353
+Number to be elected:
+1
+Threshold:
+6677
+Undervotes:
+1085
+Round 2
+Round 2
+Defeated: H. 
+Hennessey, M. 
+Moorhead, and UWI
+Defeated: S. Fletcher
+ Elected: M. Rainville
+Grand Total
+ Vote Change
+ (+ Added, 
+- Subtracted)
+Grand Total
+May not sum to 100% 
+due to rounding
+Hope Hennessey
+888
+-888
+0
+0.0%
+Merv Moorhead
+1165
+-1165
+0
+0.0%
+Michael Rainville
+6027
+880
+6907
+51.7%
+Steve Fletcher
+5229
+429
+5658
+42.4%
+Undeclared Write-ins
+44
+-44
+0
+0.0%
+Exhausted
+-
+788
+788
+5.9%
+13353
+BALANCED
+13353
+BALANCED
+BALANCED
+Final Round 
+Percentage
+TOTAL
+Candidate
+Round 1
+2021 Minneapolis Municipal Election Results:
+Council Member Ward 3
+Ranked Choice Voting Tabulation Center Summary Statement
+Note: Total votes counted in the first round.
+Does not include undervotes or partially defective, totally defective, or spoiled ballots.
+Note: Half of total votes cast for office + 1, disregarding fractions.
+Note: Voter did not rank any candidates for the office.
+

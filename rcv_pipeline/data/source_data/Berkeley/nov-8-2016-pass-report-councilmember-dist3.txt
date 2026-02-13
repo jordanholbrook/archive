@@ -1,0 +1,49 @@
+=== nov-8-2016-pass-report-councilmember-dist3.pdf | City: Berkeley ===
+
+Complete
+Load Type:
+Pass Number: 0
+DEBORAH MATTHEWS
+1482
+20.82%
+BEN BARTLETT
+** WINNER **
+4060
+57.04%
+Write-In
+0
+0.00%
+MARK A. COPLAN
+1443
+20.27%
+AL G. MURRAY
+133
+1.87%
+Continuing Ballots
+7118
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+1143
+Exhausted Ballots
+0
+Exhausted by Over Votes
+15
+Total Ballots
+8276
+Run Id: 105 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, Dist. 3 - 
+Berkeley (RCV)
+Alameda County
+ALA_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+11/18/2016
+

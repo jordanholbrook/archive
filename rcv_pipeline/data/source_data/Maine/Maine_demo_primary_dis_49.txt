@@ -1,0 +1,28 @@
+
+State of Maine Election Results
+
+State Representative - District 49 - Democratic 
+
+
+Report Name	Summary Report						
+							
+Election Name	Maine Democratic Primary						
+Election Date	July 14, 2020						
+Office Title	State Rep. 49						
+							
+	Round 1			Round 2			
+Candidate Names	Votes	Percentage	Transfer	Votes	Percentage	Transfer	
+Arford, Poppy	899	41.45%	290	1189	57.30%	0	
+Perreault, Corinne Ann	613	28.26%	-613	0	00.00%	0	
+Wilson, Katherine E.	657	30.29%	229	886	42.70%	0	
+Ballot Exhausted							
+   By Overvotes	3		1	4		0	
+   By Undervotes	186		92	278		0	
+   By Exhausted Choices	0		1	1		0	
+Continuing Ballots	2169		0	2075		0	
+TOTAL	2358		0	2358		0	
+Winning threshold by round	1085			1038			
+Generated: 07/21/2020 10:34							
+Total = Ballot Exhausted by Overvotes + Ballot Exhausted by Undervotes + Exhausted Ballot  + Continuing Ballots							
+Winning Threshold = [Continuing ballots/(Vote for [number] +1)] + 1							
+"*" symbol signifies elimination due to Tie Resolution.							

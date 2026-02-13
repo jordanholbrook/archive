@@ -1,0 +1,27 @@
+Minneapolis Municipal Election Results
+Ranked-choice Voting Tabulation Center Summary Statement
+
+2017 Park Board District 4 results
+Official Winner: Jono Cowgill
+November 7, 2017
+
+Municipal Election
+
+This was a ranked-choice voting (RCV) race. Voters were asked to rank up to 3 different candidates. After one round of tabulation, Jono Cowgill was elected.
+
+Park Board District 4
+Candidate	Final round votes	Percent
+Jono Cowgill	6,794	50.28%
+Tom Nordyke	6,615	48.95%
+Undeclared Write-ins	104	0.77%
+ 
+
+Ballots cast summary
+Total votes cast	13,513	
+Total votes counted in the first round. Does not include undervotes, overvotes, defective, or spoiled ballots.
+
+Tabulation threshold	6,757	
+The number of votes sufficient for a candidate to be elected. Half of votes cast for office + 1, disregarding fractions.
+
+Undervotes	4,654	Ballots where the voter did not rank any candidates for the office.
+See the ranked-choice voting tabulation below for more details.

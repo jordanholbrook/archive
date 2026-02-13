@@ -1,0 +1,502 @@
+=== 20161206_d7.pdf | City: San_Francisco ===
+
+Complete
+Load Type:
+Pass Number: 0
+NORMAN YEE
+14179
+40.20%
+BEN MATRANGA
+6498
+18.42%
+WRITE-IN
+0
+0.00%
+MIKE YOUNG
+2004
+5.68%
+JOEL ENGARDIO
+7645
+21.67%
+JOHN FARRELL
+4948
+14.03%
+Continuing Ballots
+35274
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4084
+Exhausted Ballots
+0
+Exhausted by Over Votes
+128
+Total Ballots
+39486
+Run Id: 139 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+Complete
+Load Type:
+Pass Number: 1
+WRITE-IN
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+NORMAN YEE
+14179
+40.20%
+BEN MATRANGA
+6498
+18.42%
+WRITE-IN
+0
+0.00%
+MIKE YOUNG
+2004
+5.68%
+JOEL ENGARDIO
+7645
+21.67%
+JOHN FARRELL
+4948
+14.03%
+Continuing Ballots
+35274
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4084
+Exhausted Ballots
+0
+Exhausted by Over Votes
+128
+Total Ballots
+39486
+Run Id: 139 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+NORMAN YEE
+14179
+40.20%
+BEN MATRANGA
+6498
+18.42%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+2004
+5.68%
+JOEL ENGARDIO
+7645
+21.67%
+JOHN FARRELL
+4948
+14.03%
+Continuing Ballots
+35274
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4084
+Exhausted Ballots
+0
+Exhausted by Over Votes
+128
+Total Ballots
+39486
+
+Complete
+Load Type:
+Pass Number: 2
+MIKE YOUNG
+2004
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+MIKE YOUNG
+JOEL ENGARDIO
+0
+331
+MIKE YOUNG
+JOHN FARRELL
+0
+608
+MIKE YOUNG
+NORMAN YEE
+0
+493
+MIKE YOUNG
+BEN MATRANGA
+0
+335
+MIKE YOUNG
+Exhausted Ballots
+235
+0
+MIKE YOUNG
+Over Votes
+2
+0
+Total
+237
+1767
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+NORMAN YEE
+14179
+40.20%
+BEN MATRANGA
+6498
+18.42%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+2004
+5.68%
+JOEL ENGARDIO
+7645
+21.67%
+JOHN FARRELL
+4948
+14.03%
+Continuing Ballots
+35274
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4084
+Exhausted Ballots
+0
+Exhausted by Over Votes
+128
+Total Ballots
+39486
+Run Id: 139 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+NORMAN YEE
+14672
+41.88%
+BEN MATRANGA
+6833
+19.50%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+Eliminated in pass 2.
+0
+0.00%
+JOEL ENGARDIO
+7976
+22.76%
+JOHN FARRELL
+5556
+15.86%
+Continuing Ballots
+35037
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4084
+Exhausted Ballots
+235
+Exhausted by Over Votes
+130
+Total Ballots
+39486
+
+Complete
+Load Type:
+Pass Number: 3
+JOHN FARRELL
+5556
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+JOHN FARRELL
+BEN MATRANGA
+0
+1834
+JOHN FARRELL
+JOEL ENGARDIO
+0
+1624
+JOHN FARRELL
+NORMAN YEE
+0
+1124
+JOHN FARRELL
+Exhausted Ballots
+963
+0
+JOHN FARRELL
+Over Votes
+11
+0
+Total
+974
+4582
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+NORMAN YEE
+14672
+41.88%
+BEN MATRANGA
+6833
+19.50%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+Eliminated in pass 2.
+0
+0.00%
+JOEL ENGARDIO
+7976
+22.76%
+JOHN FARRELL
+5556
+15.86%
+Continuing Ballots
+35037
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4084
+Exhausted Ballots
+235
+Exhausted by Over Votes
+130
+Total Ballots
+39486
+Run Id: 139 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+NORMAN YEE
+15796
+46.37%
+BEN MATRANGA
+8667
+25.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+Eliminated in pass 2.
+0
+0.00%
+JOEL ENGARDIO
+9600
+28.18%
+JOHN FARRELL
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+34063
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4084
+Exhausted Ballots
+1198
+Exhausted by Over Votes
+141
+Total Ballots
+39486
+
+Complete
+Load Type:
+Pass Number: 4
+BEN MATRANGA
+8667
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+BEN MATRANGA
+JOEL ENGARDIO
+0
+3215
+BEN MATRANGA
+NORMAN YEE
+0
+1896
+BEN MATRANGA
+Over Votes
+12
+0
+BEN MATRANGA
+Exhausted Ballots
+3544
+0
+Total
+3556
+5111
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+NORMAN YEE
+15796
+46.37%
+BEN MATRANGA
+8667
+25.44%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+Eliminated in pass 2.
+0
+0.00%
+JOEL ENGARDIO
+9600
+28.18%
+JOHN FARRELL
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+34063
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+4084
+Exhausted Ballots
+1198
+Exhausted by Over Votes
+141
+Total Ballots
+39486
+Run Id: 139 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Board of Supervisors, District 7
+The City and County of San Francisco
+SFC_20161108_E
+Election Date:
+Run Date:
+11/8/2016
+12/6/2016
+
+NORMAN YEE
+** WINNER **
+17692
+57.99%
+BEN MATRANGA
+Eliminated in pass 4.
+0
+0.00%
+WRITE-IN
+Eliminated in pass 1.
+0
+0.00%
+MIKE YOUNG
+Eliminated in pass 2.
+0
+0.00%
+JOEL ENGARDIO
+12815
+42.01%
+JOHN FARRELL
+Eliminated in pass 3.
+0
+0.00%
+Continuing Ballots
+30507
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+4084
+Exhausted Ballots
+4742
+Exhausted by Over Votes
+153
+Total Ballots
+39486
+

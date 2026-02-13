@@ -1,0 +1,507 @@
+=== nov-6-2012-pass-report-oakland-council-member-at-large.pdf | City: Oakland ===
+
+Complete
+Load Type:
+Pass Number: 0
+THERESA ANDERSON
+8824
+6.13%
+IGNACIO DE LA FUENTE
+42730
+29.69%
+Write-In
+0
+0.00%
+MICK STORM
+4586
+3.19%
+CAROL LEE TOLBERT
+22656
+15.74%
+REBECCA KAPLAN
+65128
+45.25%
+Continuing Ballots
+143924
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11983
+Exhausted Ballots
+0
+Exhausted by Over Votes
+925
+Total Ballots
+156832
+Run Id: 229 - Pass 0
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, At Large - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+Complete
+Load Type:
+Pass Number: 1
+Write-In
+0
+Candidate
+Votes
+Eliminated Candidates - Pass
+1
+THERESA ANDERSON
+8824
+6.13%
+IGNACIO DE LA FUENTE
+42730
+29.69%
+Write-In
+0
+0.00%
+MICK STORM
+4586
+3.19%
+CAROL LEE TOLBERT
+22656
+15.74%
+REBECCA KAPLAN
+65128
+45.25%
+Continuing Ballots
+143924
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+11983
+Exhausted Ballots
+0
+Exhausted by Over Votes
+925
+Total Ballots
+156832
+Run Id: 229 - Pass 1
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, At Large - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+THERESA ANDERSON
+8824
+6.13%
+IGNACIO DE LA FUENTE
+42730
+29.69%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+4586
+3.19%
+CAROL LEE TOLBERT
+22656
+15.74%
+REBECCA KAPLAN
+65128
+45.25%
+Continuing Ballots
+143924
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11983
+Exhausted Ballots
+0
+Exhausted by Over Votes
+925
+Total Ballots
+156832
+
+Complete
+Load Type:
+Pass Number: 2
+MICK STORM
+4586
+Candidate
+Votes
+Eliminated Candidates - Pass
+2
+MICK STORM
+IGNACIO DE LA FUENTE
+0
+627
+MICK STORM
+REBECCA KAPLAN
+0
+933
+MICK STORM
+THERESA ANDERSON
+0
+1055
+MICK STORM
+CAROL LEE TOLBERT
+0
+1154
+MICK STORM
+Exhausted Ballots
+804
+0
+MICK STORM
+Over Votes
+13
+0
+Total
+817
+3769
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+2
+THERESA ANDERSON
+8824
+6.13%
+IGNACIO DE LA FUENTE
+42730
+29.69%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+4586
+3.19%
+CAROL LEE TOLBERT
+22656
+15.74%
+REBECCA KAPLAN
+65128
+45.25%
+Continuing Ballots
+143924
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+11983
+Exhausted Ballots
+0
+Exhausted by Over Votes
+925
+Total Ballots
+156832
+Run Id: 229 - Pass 2
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, At Large - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+THERESA ANDERSON
+9879
+6.90%
+IGNACIO DE LA FUENTE
+43357
+30.30%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+Eliminated in pass 2.
+0
+0.00%
+CAROL LEE TOLBERT
+23810
+16.64%
+REBECCA KAPLAN
+66061
+46.16%
+Continuing Ballots
+143107
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11983
+Exhausted Ballots
+804
+Exhausted by Over Votes
+938
+Total Ballots
+156832
+
+Complete
+Load Type:
+Pass Number: 3
+THERESA ANDERSON
+9879
+Candidate
+Votes
+Eliminated Candidates - Pass
+3
+THERESA ANDERSON
+CAROL LEE TOLBERT
+0
+3551
+THERESA ANDERSON
+IGNACIO DE LA FUENTE
+0
+1078
+THERESA ANDERSON
+REBECCA KAPLAN
+0
+3086
+THERESA ANDERSON
+Exhausted Ballots
+2130
+0
+THERESA ANDERSON
+Over Votes
+34
+0
+Total
+2164
+7715
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+3
+THERESA ANDERSON
+9879
+6.90%
+IGNACIO DE LA FUENTE
+43357
+30.30%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+Eliminated in pass 2.
+0
+0.00%
+CAROL LEE TOLBERT
+23810
+16.64%
+REBECCA KAPLAN
+66061
+46.16%
+Continuing Ballots
+143107
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+11983
+Exhausted Ballots
+804
+Exhausted by Over Votes
+938
+Total Ballots
+156832
+Run Id: 229 - Pass 3
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, At Large - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+THERESA ANDERSON
+Eliminated in pass 3.
+0
+0.00%
+IGNACIO DE LA FUENTE
+44435
+31.53%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+Eliminated in pass 2.
+0
+0.00%
+CAROL LEE TOLBERT
+27361
+19.41%
+REBECCA KAPLAN
+69147
+49.06%
+Continuing Ballots
+140943
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11983
+Exhausted Ballots
+2934
+Exhausted by Over Votes
+972
+Total Ballots
+156832
+
+Complete
+Load Type:
+Pass Number: 4
+CAROL LEE TOLBERT
+27361
+Candidate
+Votes
+Eliminated Candidates - Pass
+4
+CAROL LEE TOLBERT
+IGNACIO DE LA FUENTE
+0
+6681
+CAROL LEE TOLBERT
+REBECCA KAPLAN
+0
+9794
+CAROL LEE TOLBERT
+Over Votes
+99
+0
+CAROL LEE TOLBERT
+Exhausted Ballots
+10787
+0
+Total
+10886
+16475
+From
+To
+Exhausted
+Transferred
+Vote Changes - Pass
+4
+THERESA ANDERSON
+Eliminated in pass 3.
+0
+0.00%
+IGNACIO DE LA FUENTE
+44435
+31.53%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+Eliminated in pass 2.
+0
+0.00%
+CAROL LEE TOLBERT
+27361
+19.41%
+REBECCA KAPLAN
+69147
+49.06%
+Continuing Ballots
+140943
+Candidate
+Votes
+% Vote
+Initial State
+Under Votes
+11983
+Exhausted Ballots
+2934
+Exhausted by Over Votes
+972
+Total Ballots
+156832
+Run Id: 229 - Pass 4
+RCV Results Report
+Contest:
+Customer Name:
+Election Name:
+Member, City Council, At Large - 
+Oakland (RCV)
+Alameda County
+ALA_20121106_E
+Election Date:
+Run Date:
+11/6/2012
+11/15/2012
+
+THERESA ANDERSON
+Eliminated in pass 3.
+0
+0.00%
+IGNACIO DE LA FUENTE
+51116
+39.30%
+Write-In
+Eliminated in pass 1.
+0
+0.00%
+MICK STORM
+Eliminated in pass 2.
+0
+0.00%
+CAROL LEE TOLBERT
+Eliminated in pass 4.
+0
+0.00%
+REBECCA KAPLAN
+** WINNER **
+78941
+60.70%
+Continuing Ballots
+130057
+Candidate
+Votes
+% Vote
+Final State
+Under Votes
+11983
+Exhausted Ballots
+13721
+Exhausted by Over Votes
+1071
+Total Ballots
+156832
+
