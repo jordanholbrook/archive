@@ -1,0 +1,172 @@
+================================================================================
+                              DATA CODEBOOK
+================================================================================
+
+This codebook describes variables recorded at three levels: Election-Level, 
+Round-Level, and Candidate-Level.
+
+Note: The 'Source' column indicates whether each variable is parsed directly 
+from the raw election reports, constructed from multiple parsed fields, 
+computed during data processing, or taken from metadata about the input files.
+
+================================================================================
+                          ELECTION-LEVEL VARIABLES
+================================================================================
+
+election_id
+  Source: Constructed
+  Description: Unique standardized election identifier.
+
+year
+  Source: Parsed
+  Description: Calendar year of the election.
+
+state
+  Source: Parsed
+  Description: Two-letter state abbreviation.
+
+office
+  Source: Parsed
+  Description: Title of the office.
+
+dist
+  Source: Parsed
+  Description: District or ward number, or At-Large.
+
+juris
+  Source: Parsed
+  Description: Jurisdiction name.
+
+election_type
+  Source: Parsed
+  Description: Election type: general, primary, or special.
+
+prm_party
+  Source: Parsed
+  Description: Primary party label (if applicable), null otherwise.
+
+n_cands
+  Source: Computed
+  Description: Number of candidates in the election.
+
+n_rounds
+  Source: Computed
+  Description: Number of tally rounds.
+
+date
+  Source: Parsed
+  Description: Election date.
+
+level
+  Source: Parsed
+  Description: Level of government (e.g., municipal, state).
+
+missing_data_check
+  Source: Computed
+  Description: Indicator for whether required fields are present 
+               (Pass / Flagged).
+
+sequential_rounds_check
+  Source: Computed
+  Description: Indicator for whether round numbers are sequential 
+               (Pass / Flagged).
+
+round_totals_match_check
+  Source: Computed
+  Description: Indicator for whether round totals match candidate sums 
+               (Pass / Flagged).
+
+single_winner_check
+  Source: Computed
+  Description: Indicator for whether exactly one winner is recorded 
+               (Pass / Flagged).
+
+monotone_votes_check
+  Source: Computed
+  Description: Indicator for whether continuing candidates have monotone vote 
+               counts (Pass / Flagged).
+
+non_positive_transfer_check
+  Source: Computed
+  Description: Indicator for whether vote transfers are non-positive where 
+               required (Pass / Flagged).
+
+source_file
+  Source: Input file
+  Description: Name of the raw input file used to construct the record.
+
+
+================================================================================
+                           ROUND-LEVEL VARIABLES
+================================================================================
+
+election_id
+  Source: Constructed
+  Description: Foreign key linking to the election.
+
+round
+  Source: Parsed
+  Description: Round number.
+
+total_votes
+  Source: Parsed
+  Description: Total active (non-exhausted) votes in the round.
+
+exhausted
+  Source: Parsed
+  Description: Ballots that became inactive (exhausted) in the round.
+
+overvotes
+  Source: Parsed
+  Description: Ballots marked for too many candidates in the round.
+
+source_file
+  Source: Input file
+  Description: Name of the raw input file used to construct the record.
+
+
+================================================================================
+                         CANDIDATE-LEVEL VARIABLES
+================================================================================
+
+election_id
+  Source: Constructed
+  Description: Foreign key linking to the election.
+
+candidate_id
+  Source: Constructed
+  Description: Unique standardized candidate identifier.
+
+round
+  Source: Parsed
+  Description: Round number.
+
+votes
+  Source: Parsed
+  Description: Votes received by the candidate in that round.
+
+name
+  Source: Parsed
+  Description: Candidate's ballot name.
+
+percentage
+  Source: Computed
+  Description: Candidate's vote share in that round.
+
+transfer_calc
+  Source: Computed
+  Description: Net votes gained or lost between successive rounds.
+
+status
+  Source: Computed
+  Description: Candidate status in the round (elected, eliminated, or 
+               continuing).
+
+source_file
+  Source: Input file
+  Description: Name of the raw input file used to construct the record.
+
+
+================================================================================
+                              END OF CODEBOOK
+================================================================================
