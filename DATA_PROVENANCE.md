@@ -1,6 +1,6 @@
 # Data Sources and Provenance: ARCHIVE Database
 
-The ARCHIVE database aggregates ranked-choice voting (RCV) election results from 514 American elections (2004–2024). Due to the high volume of individual contests and the varied reporting styles of local jurisdictions, data were collected through a combination of parent-domain scraping and manual retrieval.
+The ARCHIVE database aggregates ranked-choice voting (RCV) election results from 514 American elections (2004–2024). 
 
 **A comprehensive metadata file, `Source_Metadata.csv`, accompanies this database. It contains the primary source URLs utilized during the 2024–2025 data collection period.**
 
@@ -9,7 +9,7 @@ The ARCHIVE database aggregates ranked-choice voting (RCV) election results from
 The URLs provided in `Source_Metadata.csv` were active and verified at the time of data collection. However, users should note:
 1. **URL Volatility:** Jurisdictions frequently restructure their web portals or archive past results to new subdirectories. Consequently, some original links may become inactive over time. 
 2. **Aggregated Reporting:** Several jurisdictions report multiple race results on a single landing page; in these cases, the landing page is the recorded source for all associated elections in the database.
-3. **Archival Stability:** To ensure long-term reproducibility despite "link rot," the ARCHIVE database stores a version of the raw tabulated data, which remains the main source data reference. 
+3. **Archival Stability:** To ensure long-term reproducibility, the ARCHIVE database stores a version of the raw tabulated data, which remains the main source data reference. 
 
 ## Primary Jurisdictional Sources
 
