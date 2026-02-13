@@ -1,144 +1,81 @@
-# RCV Election Data Processing Pipeline
+# ARCHIVE: Data Extraction and Processing Pipeline
 
-A production-ready pipeline for extracting, processing, and validating ranked choice voting (RCV) election data from PDF documents and text files.
+This repository contains the data extraction, processing, and validation code used to produce the **ARCHIVE** database of standardized tabulated results from American ranked-choice voting (RCV) elections. The resulting dataset is published on [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FRBWU92).
 
-## Overview
+## Associated Paper
 
-This repository contains a comprehensive data processing pipeline designed to extract structured election data from RCV election reports. The pipeline automatically:
+> Atsusaka, Yuki; Holbrook, Jordan (2026). "ARCHIVE: A Database of Tabulated Results from American Ranked-Choice Voting Elections." Available at: [https://osf.io/preprints/socarxiv/27hgx_v1](https://osf.io/preprints/socarxiv/27hgx_v1)
 
-- Extracts text from PDF election reports
-- Uses Large Language Models (LLMs) to extract structured data from election text
-- Cleans and standardizes election data
-- Computes vote transfer values mathematically from vote counts
-- Validates data quality and generates comprehensive validation reports
+This code implements the methodological procedure described in the paper: a semi-automatic pipeline based on large-language models that collects, standardizes, and stores candidate vote counts from RCV elections while instantly validating the resulting information. The final database covers over 7,600 round-level candidate vote counts from 514 American RCV elections (2004--2024).
 
-## Key Features
+## Method Overview
 
-- **Automatic PDF Processing**: Converts PDF election reports to text
-- **LLM-Powered Data Extraction**: Extracts structured data (elections, candidates, rounds) using OpenAI's API
-- **Mathematical Transfer Computation**: Automatically computes vote transfers from vote counts for consistency
-- **Comprehensive Validation**: Validates data quality, transfer balance, vote consistency, and election logic
-- **Mixed Input Support**: Handles both PDF files and pre-existing text files
-- **Batch Processing**: Efficiently processes large numbers of election files
-- **Sample Management**: Organize and process multiple election datasets independently
+The pipeline transforms unstructured election results -- reported in widely different formats across jurisdictions and years (HTML pages, PDFs, text files) -- into a standardized, analysis-ready dataset. The process follows three steps:
 
-## What You Need to Know
+![Pipeline Overview](figures/ARCHIVE_Overview.png)
 
-### Prerequisites
+**Step 1: Manually collect raw tabulated results in varying formats.** Source election reports are gathered from jurisdictional websites (e.g., NYC Board of Elections HTML pages, Alaska Division of Elections text files, Minneapolis PDF reports). These raw files are stored in `rcv_pipeline/data/source_data/`.
 
-1. **Python 3.9+**: Required to run the pipeline scripts
-2. **OpenAI API Key**: Required for LLM-based data extraction (Step 2)
-3. **Basic Terminal/Command Line**: Familiarity with running Python scripts
-4. **Understanding of RCV**: Basic knowledge of ranked choice voting terminology
+**Step 2: Extract layers of information via large-language models and store them in JSON.** The pipeline uses OpenAI's API to parse unstructured election text and extract three layers of structured data: (1) election metadata, (2) round attributes, and (3) candidate-level vote counts.
 
-### Key Concepts
-
-- **Election Data**: Structured information about elections, candidates, and voting rounds
-- **Transfer Values**: Vote transfers between rounds when candidates are eliminated
-- **Data Validation**: Automated checks to ensure data quality and mathematical consistency
-- **Samples**: Organized collections of election data from different jurisdictions or time periods
-
-### Knowledge Required
-
-- **Python**: Basic understanding of running Python scripts
-- **Command Line**: Ability to navigate directories and run commands
-- **RCV Terminology**: Understanding of elections, candidates, rounds, transfers
-- **Data Formats**: Familiarity with CSV files and basic data concepts
-
-## Quick Start
-
-### 1. Installation
-
-```bash
-# Navigate to the pipeline directory
-cd rcv_pipeline
-
-# Create a virtual environment (recommended)
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### 2. Configuration
-
-```bash
-# Copy the environment template
-cp env_template.txt .env
-
-# Edit .env and add your OpenAI API key
-# OPENAI_API_KEY=your-api-key-here
-```
-
-### 3. Add Input Files
-
-Place your election data files in one of these locations:
-
-- **PDF files**: `rcv_pipeline/data/inputs/pdfs/` (or in subdirectories like `sample/`)
-- **Text files**: `rcv_pipeline/data/inputs/text/` (or in subdirectories like `sample/`)
-
-**Sample Data**: The repository includes sample data in `rcv_pipeline/data/inputs/pdfs/sample/` and `rcv_pipeline/data/inputs/text/sample/` for testing. The pipeline searches recursively, so these files will be processed automatically.
-
-### 4. Run the Pipeline
-
-```bash
-# Run all steps automatically
-python scripts/run_all.py
-```
-
-The pipeline will:
-1. Detect your input types (PDFs, text files, or both)
-2. Extract text from PDFs (if present)
-3. Extract structured data using LLM
-4. Clean and standardize the data
-5. Validate data quality
-6. Generate validation reports
+**Step 3: Process, compile, and validate data in analysis-ready formats.** Extracted data is cleaned, standardized, and validated. Vote transfer values are computed mathematically from round-to-round vote counts, and comprehensive quality checks ensure consistency (transfer balance, vote monotonicity, single-winner validation, etc.).
 
 ## Repository Structure
 
 ```
 archive/
-├── README.md                    # This file - main repository overview
-├── LICENSE                      # License information
-└── rcv_pipeline/               # Main pipeline directory
-    ├── README.md               # Detailed pipeline documentation
-    ├── requirements.txt        # Python dependencies
-    ├── env_template.txt        # Environment variables template
-    ├── scripts/                # Pipeline scripts
+├── README.md                   # This file
+├── figures/                    # Images and figures
+│   ├── ARCHIVE_Overview.png    # Pipeline overview figure (see above)
+│   └── Prompt_Picture.png      # LLM prompt illustration
+├── DATA_PROVENANCE.md          # Source jurisdictions and URLs
+├── LICENSE                     # MIT License
+└── rcv_pipeline/               # Main pipeline code
+    ├── scripts/                # Pipeline scripts (Steps 1-4)
+    │   ├── 1_extract_pdfs.py       # PDF to text extraction
+    │   ├── 2_extract_election_data.py  # LLM-based data extraction
+    │   ├── 3_post_process.py       # Cleaning and standardization
+    │   ├── 4_validate_data.py      # Data quality validation
+    │   ├── run_all.py              # Run full pipeline
+    │   ├── run_sample.py           # Run pipeline on a single sample
+    │   ├── setup_sample.py         # Set up a new sample directory
+    │   ├── combine_cleaned_datasets.py  # Merge multiple samples
+    │   └── summary_stats.py        # Generate summary statistics
     ├── utils/                  # Utility functions
-    └── data/                   # Data directories (inputs/outputs)
+    └── data/
+        ├── source_data/        # Raw election reports by jurisdiction
+        ├── inputs/             # Pipeline input files (PDFs and text)
+        ├── processing/         # Intermediate extracted data
+        └── outputs/            # Final cleaned CSVs and validation reports
 ```
 
-## Output Files
+## Pipeline Output
 
-The pipeline produces three main CSV files:
+The pipeline produces three main CSV files that constitute the ARCHIVE database:
 
-1. **Elections_DF_cleaned.csv**: Election metadata (election_id, year, state, office, etc.)
-2. **Candidates_DF_cleaned.csv**: Candidate performance data with computed transfers
-3. **Rounds_DF_cleaned.csv**: Round-level summary statistics
+| File | Description |
+|:-----|:------------|
+| `Elections_DF_cleaned.csv` | Election metadata (election ID, year, state, jurisdiction, office, etc.) |
+| `Candidates_DF_cleaned.csv` | Candidate-level data per round (votes, transfers, status) |
+| `Rounds_DF_cleaned.csv` | Round-level summary statistics |
 
-Plus validation reports in `data/outputs/validation_reports/`.
+Validation reports are also generated to flag any data quality issues.
 
-## Documentation
+## Getting Started
 
-For detailed documentation, including:
-- Complete command syntax for all scripts
-- Detailed workflow explanations
-- Advanced usage examples
-- Troubleshooting guide
+See [rcv_pipeline/README.md](rcv_pipeline/README.md) for detailed setup instructions, including:
 
-See **[rcv_pipeline/README.md](rcv_pipeline/README.md)**.
+- Python environment setup and dependencies
+- OpenAI API key configuration
+- Running the pipeline on sample or new data
+- Full command reference for all scripts
 
-## Getting Help
+## Data and Citation
 
-If you encounter issues:
+The ARCHIVE dataset is available on Harvard Dataverse:
 
-1. Check the detailed README in `rcv_pipeline/README.md`
-2. Verify your input files are in the correct directories
-3. Ensure your OpenAI API key is correctly configured
-4. Check that all dependencies are installed
+> Atsusaka, Yuki; Holbrook, Jordan, 2026, "Archive: A database of tabulated results from American ranked-choice voting elections", [https://doi.org/10.7910/DVN/RBWU92](https://doi.org/10.7910/DVN/RBWU92), Harvard Dataverse, V2.
 
 ## License
 
-See LICENSE file for details.
+MIT License. See [LICENSE](LICENSE) for details.
