@@ -6,7 +6,7 @@ This repository contains the data extraction, processing, and validation code us
 
 > Atsusaka, Yuki; Holbrook, Jordan (2026). "ARCHIVE: A Database of Tabulated Results from American Ranked-Choice Voting Elections." Available at: [https://osf.io/preprints/socarxiv/27hgx_v1](https://osf.io/preprints/socarxiv/27hgx_v1)
 
-This code implements the methodological procedure described in the paper: a semi-automatic pipeline based on large-language models that collects, standardizes, and stores candidate vote counts from RCV elections while instantly validating the resulting information. The final database covers over 7,600 round-level candidate vote counts from 514 American RCV elections (2004--2024).
+This code implements the methodological procedure described in the paper: a semi-automatic pipeline based on large-language models that collects, standardizes, and stores candidate vote counts from RCV elections while instantly validating the resulting information. The final database covers over 7,600 round-level candidate vote counts from 514 American RCV elections (2004-2024).
 
 ## Method Overview
 
