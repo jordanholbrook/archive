@@ -14,7 +14,7 @@ The model is given no latitude to invent data; it is expected to transcribe what
 
 ## How the Prompt Is Constructed
 
-The prompt is assembled by `generate_prompt()` in [utils/llm_utils.py](utils/llm_utils.py). It is a plain f-string that embeds the raw file content at the bottom:
+The prompt is assembled by `generate_prompt()` python function in [utils/llm_utils.py](utils/llm_utils.py). It is a plain f-string that embeds the raw file content at the bottom:
 
 ```python
 def generate_prompt(file_content):
