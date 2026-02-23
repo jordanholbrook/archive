@@ -63,7 +63,7 @@ process_text_files_for_elections()   # iterates over .txt files
 
 ## The Full Prompt Template
 
-The text below is the exact prompt sent to the model, with `{Insert Raw Election Data for Extraction}` as a placeholder for the raw election text.
+The text below is the exact prompt sent to the model, with `{election file content}` as a placeholder for the raw election text.
 
 ```
 Parse the following election results data into a structured JSON format.
@@ -118,7 +118,7 @@ Target JSON Schema:
 
 Input data:
 -----------
-{file content}
+{election file content}
 ```
 
 ---
